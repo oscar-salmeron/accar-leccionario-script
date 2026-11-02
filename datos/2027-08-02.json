@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-08-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1La sabiduría se elogia por sí misma\ny se gloría en medio de su pueblo. 2Abre su boca en la asamblea del Altísimo\ny, en presencia de su majestad, se gloría. 3En medio de su pueblo será ensalzada,\nen la totalidad de los santos será admirada, 4en la multitud de los elegidos recibirá alabanza,\ny entre los bienaventurados será bendita, y dirá: 5«Yo salí de la boca del Altísimo,\nprimogénita antes que toda criatura. 6Yo hice brotar en los cielos una luz indefectible,\ny como niebla cubrí la tierra entera. 7Puse mi morada en las alturas,\ny mi trono sobre columna de nubes. 22Yo, como terebinto, extendí mis ramas,\ny mis ramas son célebres y graciosas. 30Quien me obedece no se avergonzará,\ny los que obran conmigo no pecarán. 31Los que me esclarecen tendrán la vida eterna». 32Todo esto es el libro de la alianza del Dios Altísimo, 33la Ley que nos ordenó Moisés,\nla herencia para la comunidad de Jacob."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "5(Dálet) Busqué al Señor y me ha escuchado,\nme ha librado de todos mis temores. 7(Záin) Cuando el pobre invoca, el Señor le escucha,\ny lo salva de todas sus angustias. 9(Tet) Gustad y ved qué bueno es el Señor,\ndichoso el hombre que se refugia en Él. 10(Yod) Temed al Señor sus santos,\nque nada falta a los que le temen. 18(Sade) Claman y el Señor los escucha,\ny los libra de todas sus angustias. 19(Qof) El Señor está cerca de los contritos de corazón,\ny salva a los de espíritu abatido."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "3También nosotros cuando éramos menores de edad estábamos sujetos como esclavos a los elementos del mundo. 4Pero al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer, nacido bajo la Ley, 5para redimir a los que estaban bajo la Ley, a fin de que recibiésemos la adopción de hijos. 6Y, puesto que sois hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: «¡Abbá, Padre!» 7De manera que ya no eres siervo, sino hijo; y como eres hijo, también heredero por gracia de Dios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret, 27a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María. 28Y entró donde ella estaba y le dijo:\n—Dios te salve, llena de gracia, el Señor es contigo. 29Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo. 30Y el ángel le dijo:\n—No temas, María, porque has hallado gracia delante de Dios: 31concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús. 32Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre, 33reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin."
+    }
+  }
+}

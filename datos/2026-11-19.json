@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1También vi en la mano derecha del que estaba sentado en el trono un libro escrito por dentro y por fuera, sellado con siete sellos. 2Y vi a un ángel poderoso proclamar con gran voz:\n—¿Quién es digno de abrir el libro y romper sus sellos? 3Y nadie, ni en el cielo ni en la tierra, ni debajo de la tierra, podía abrir el libro ni mirarlo. 4Yo lloraba mucho, porque no se encontró a nadie digno de abrir el libro ni de mirarlo. 5Pero uno de los ancianos me dice:\n—No llores, porque el león de la tribu de Judá, la raíz de David, ha vencido y puede abrir el libro y sus siete sellos. 6Entonces vi en medio del trono y de los cuatro seres vivos y en medio de los ancianos un Cordero erguido, como sacrificado, con siete cuernos y siete ojos, que son los siete espíritus de Dios enviados a toda la tierra. 7Se acercó y tomó el libro de la mano derecha del que estaba sentado en el trono. 8Cuando recibió el libro, los cuatro seres vivos y los veinticuatro ancianos se postraron ante el Cordero, con una cítara cada uno y con copas de oro llenas de perfumes, que son las oraciones de los santos. 9Cantan un cántico nuevo:\n«Eres digno de recibir el libro\ny de abrir sus sellos,\nporque fuiste inmolado y con tu sangre\ncompraste para Dios\ngente de toda tribu, lengua, pueblo y nación. 10Y los hiciste un reino de sacerdotes\npara nuestro Dios,\ny reinarán sobre la tierra»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nCantad al Señor un cántico nuevo,\nesté su alabanza en la asamblea de los fieles. 2Alégrese Israel en su Hacedor;\nexulten en su Rey los hijos de Sión. 3Alaben su Nombre con danzas,\nque le entonen salmos con panderos y cítaras. 4Porque el Señor se deleita en su pueblo,\ny engalana a los humildes con la salvación. 5Regocíjense los fieles en la gloria,\ngriten de alegría desde sus lechos, 6con gritos de exaltación a Dios en sus gargantas,\ny espadas de dos filos en sus manos. 9para ejecutar en ellos la sentencia dictada:\nserá un honor para todos sus fieles.\n¡Aleluya!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "41Y cuando se acercó, al ver la ciudad, lloró por ella, 42diciendo:\n—¡Si conocieras también tú en este día lo que te lleva a la paz! Sin embargo, ahora está oculto a tus ojos. 43Porque vendrán días sobre ti en que no sólo te rodearán tus enemigos con vallas, y te cercarán y te estrecharán por todas partes, 44sino que te aplastarán contra el suelo a ti y a tus hijos que están dentro de ti, y no dejarán en ti piedra sobre piedra, porque no has conocido el tiempo de la visita que se te ha hecho."
+    }
+  }
+}

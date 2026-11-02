@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-11-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Pero las almas de los justos están en manos de Dios y no les tocará tormento. 2A los ojos de los necios parecía que morían,\nsu partida era considerada una desdicha 3y la separación de nosotros, exterminio;\npero ellos están en la paz. 4Porque, si a la vista de los hombres sufrían castigo,\nellos esperaban plenamente la inmortalidad: 5a cambio de una leve pena recibirán grandes bienes,\nporque Dios los puso a prueba\ny los encontró dignos de Él. 6Los probó como oro en el crisol,\nlos aceptó como sacrificio de holocausto. 7A la hora de su prueba resplandecerán\ny se propagarán como chispas en cañaveral. 8Juzgarán a naciones y dominarán a pueblos,\ny el Señor reinará sobre ellos para siempre. 9Los que confían en Él comprenderán la verdad,\nlos que son fieles en el amor permanecerán junto a Él,\nporque la gracia y la misericordia son para sus santos\ny Él mira por sus elegidos."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David.\nEl Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo? 4Una cosa pido al Señor,\nésta sólo busco:\nhabitar en la Casa del Señor\ntodos los días de mi vida,\npara gozar de las delicias del Señor\ny contemplar su Templo. 7Escucha mi voz, Señor: yo te invoco;\nten piedad de mí, respóndeme. 8De ti piensa mi corazón:\n«Busca su rostro».\nTu rostro, Señor, buscaré. 9No me escondas tu rostro.\nNo rechaces con ira a tu siervo.\nTú eres mi auxilio:\nno me rechaces, no me abandones,\nDios de mi salvación. 13Seguro estoy de ver la bondad del Señor\nen la tierra de los vivos. 14Espera en el Señor, sé recio,\nque se reanime tu corazón.\n¡Espera en el Señor!"
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "5Una esperanza que no defrauda, porque el amor de Dios ha sido derramado en nuestros corazones por medio del Espíritu Santo que se nos ha dado. 6Porque Cristo, cuando todavía nosotros éramos débiles, murió por los impíos en el tiempo establecido. 7En realidad, es difícil encontrar alguien que muera por un hombre justo. Quizá alguien se atreva a morir por una persona buena. 8Pero Dios demuestra su amor hacia nosotros porque, siendo todavía pecadores, Cristo murió por nosotros. 9¡Cuánto más, si hemos sido justificados ahora en su sangre, seremos salvados por él de la ira! 10Porque, si cuando éramos enemigos, fuimos reconciliados con Dios por medio de la muerte de su Hijo, mucho más, una vez reconciliados, seremos salvados por su vida. 11Pero no sólo esto: también nos gloriamos en Dios por medio de nuestro Señor Jesucristo, por quien ahora hemos recibido la reconciliación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "17Al llegar Jesús, encontró que ya llevaba sepultado cuatro días. 18Betania distaba de Jerusalén como quince estadios. 19Muchos judíos habían ido a visitar a Marta y María para consolarlas por lo de su hermano. 20En cuanto Marta oyó que Jesús venía, salió a recibirle; María, en cambio, se quedó sentada en casa. 21Le dijo Marta a Jesús:\n—Señor, si hubieras estado aquí, no habría muerto mi hermano, 22pero incluso ahora sé que todo cuanto pidas a Dios, Dios te lo concederá. 23—Tu hermano resucitará —le dijo Jesús. 24Marta le respondió:\n—Ya sé que resucitará en la resurrección, en el último día. 25—Yo soy la Resurrección y la Vida —le dijo Jesús—; el que cree en mí, aunque hubiera muerto, vivirá, 26y todo el que vive y cree en mí no morirá para siempre. ¿Crees esto? 27—Sí, Señor —le contestó—. Yo creo que tú eres el Cristo, el Hijo de Dios, que has venido a este mundo."
+    }
+  }
+}

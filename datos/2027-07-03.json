@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "19Por lo tanto, ya no sois extraños y advenedizos sino conciudadanos de los santos y miembros de la familia de Dios, 20edificados sobre el cimiento de los apóstoles y los profetas, siendo piedra angular el mismo Cristo Jesús, 21sobre quien toda la edificación se alza bien compacta para ser templo santo en el Señor, 22en quien también vosotros entráis a formar parte del edificio para ser morada de Dios por el Espíritu."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nAlabad al Señor todas las naciones,\naclamadlo todos los pueblos. 2Porque firme es con nosotros su misericordia,\nla fidelidad del Señor permanece para siempre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "24Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando vino Jesús. 25Los otros discípulos le dijeron:\n—¡Hemos visto al Señor!\nPero él les respondió:\n—Si no le veo en las manos la marca de los clavos, y no meto mi dedo en esa marca de los clavos y meto mi mano en el costado, no creeré. 26A los ocho días, estaban otra vez dentro sus discípulos y Tomás con ellos. Aunque estaban las puertas cerradas, vino Jesús, se presentó en medio y dijo:\n—La paz esté con vosotros. 27Después le dijo a Tomás:\n—Trae aquí tu dedo y mira mis manos, y trae tu mano y métela en mi costado, y no seas incrédulo sino creyente. 28Respondió Tomás y le dijo:\n—¡Señor mío y Dios mío! 29Jesús contestó:\n—Porque me has visto has creído; bienaventurados los que sin haber visto hayan creído."
+    }
+  }
+}

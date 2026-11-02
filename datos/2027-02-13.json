@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "9Entonces clamarás, y el Señor te responderá,\npedirás socorro, y Él te dirá: «Aquí estoy».\nSi apartas de en medio de ti el yugo,\nel señalar con el dedo,\ny la maledicencia, 10y ofreces tu propio sustento al hambriento,\ny sacias el alma afligida,\nentonces tu luz despuntará en las tinieblas\ny tu oscuridad será como el mediodía. 11El Señor te guiará de continuo,\nsaciará tu alma en las regiones áridas,\ndará fuerza a tus huesos,\ny serás como huerto regado,\ncomo manantial\ncuyas aguas no se agotan. 12Reconstruirán los tuyos las ruinas antiguas,\nalzarás los cimientos por generaciones y generaciones,\ny se te llamará: «Reparador de brechas»,\n«Restaurador de calles donde habitar». 13Si el sábado retraes tu pie\nde realizar tus negocios en mi día santo,\ny haces del sábado tus delicias,\npara honrar el día santo del Señor,\ny lo respetas absteniéndote de tus caminos,\nde servir a tus intereses y tratar de tus negocios, 14entonces te deleitarás en el Señor,\nte haré cabalgar sobre las alturas de la tierra,\ny te alimentaré de la heredad de Jacob, tu padre.\n—Ha hablado la boca del Señor—."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Plegaria. De David.\nInclina tu oído, Señor, escúchame,\nque soy pobre y desvalido. 2Guarda mi alma, que soy un fiel tuyo.\nDios mío, salva a tu siervo que confía en Ti. 3Ten piedad de mí, Señor mío,\nque te invoco todo el día. 4Alegra la vida de tu siervo,\nque a Ti, Señor, levanto mi alma. 5Pues Tú, Señor, eres bueno e indulgente,\nrico en misericordia con los que te invocan. 6Escucha, Señor, mi plegaria,\natiende a la voz de mi súplica."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "27Después de esto, salió y vio a un publicano, llamado Leví, sentado al telonio, y le dijo:\n—Sígueme. 28Y, dejadas todas las cosas, se levantó y le siguió. 29Y Leví preparó en su casa un gran banquete para él. Había un gran número de publicanos y de otros que le acompañaban a la mesa. 30Y los fariseos y sus escribas empezaron a murmurar y a decir a los discípulos de Jesús:\n—¿Por qué coméis y bebéis con publicanos y pecadores? 31Y respondiendo Jesús les dijo:\n—No tienen necesidad de médico los sanos, sino los enfermos. 32No he venido a llamar a los justos, sino a los pecadores a la penitencia."
+    }
+  }
+}

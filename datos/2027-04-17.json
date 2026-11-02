@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "31La Iglesia gozaba de paz por toda Judea, Galilea y Samaría. Se consolidaba y caminaba en el temor del Señor y crecía con el consuelo del Espíritu Santo. 32Mientras recorría Pedro todos los lugares, llegó hasta los santos que vivían en Lida. 33Encontró allí a un hombre llamado Eneas, que era paralítico y llevaba ocho años postrado en cama. 34Pedro le dijo:\n—¡Eneas!, Cristo Jesús te cura. Levántate y deja listo tu lecho.\nInmediatamente se levantó. 35Lo vieron todos los que vivían en Lida y Sarón y se convirtieron al Señor. 36Había en Jope una discípula llamada Tabita —que traducido significa «Gacela»—, que hacía muchísimas buenas obras y limosnas. 37Aconteció por aquellos días que cayó enferma y murió. Después de lavarla, la colocaron en la estancia superior. 38Como Lida está cerca de Jope, al oír los discípulos que Pedro se encontraba allí, enviaron a dos hombres para rogarle:\n—No tardes en venir junto a nosotros. 39Pedro se levantó y fue con ellos. En cuanto llegó, le condujeron a la estancia superior y le rodearon todas las viudas, que lloraban y mostraban las túnicas y los mantos que Gacela les había confeccionado cuando vivía con ellas. 40Pedro hizo salir a todos, se puso de rodillas y oró. Después, vuelto hacia el cuerpo, dijo:\n—Tabita, levántate.\nElla abrió los ojos y al ver a Pedro se incorporó. 41Dándole la mano la levantó, llamó a los santos y a las viudas, y se la presentó con vida. 42El hecho se supo en toda Jope y muchos creyeron en el Señor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "12¿Cómo pagaré al Señor\ntodo el bien que me ha dado? 13Alzaré la copa de la salvación\ne invocaré el Nombre del Señor. 14Cumpliré al Señor mis votos\nen presencia de todo su pueblo. 15Preciosa es a los ojos del Señor\nla muerte de sus fieles. 16¡Ah, Señor, yo soy tu siervo,\ntu siervo soy, el hijo de tu esclava!\nTú has soltado mis cadenas. 17Te ofreceré un sacrificio de acción de gracias,\ne invocaré el Nombre del Señor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "60Al oír esto, muchos de sus discípulos dijeron:\n—Es dura esta enseñanza, ¿quién puede escucharla? 61Jesús, conociendo en su interior que sus discípulos estaban murmurando de esto, les dijo:\n—¿Esto os escandaliza? 62Pues, ¿si vierais al Hijo del Hombre subir adonde estaba antes? 63El espíritu es el que da vida, la carne no sirve de nada: las palabras que os he hablado son espíritu y son vida. 64Sin embargo, hay algunos de vosotros que no creen.\nEn efecto, Jesús sabía desde el principio quiénes eran los que no creían y quién era el que le iba a entregar. 65Y añadía:\n—Por eso os he dicho que ninguno puede venir a mí si no se lo ha concedido el Padre. 66Desde ese momento muchos discípulos se echaron atrás y ya no andaban con él. 67Entonces Jesús les dijo a los doce:\n—¿También vosotros queréis marcharos? 68Le respondió Simón Pedro:\n—Señor, ¿a quién iremos? Tú tienes palabras de vida eterna; 69nosotros hemos creído y conocido que tú eres el Santo de Dios."
+    }
+  }
+}

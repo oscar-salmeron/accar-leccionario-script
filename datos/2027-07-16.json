@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Moisés y Aarón habían realizado todos estos prodigios ante el Faraón; pero el Señor endureció el corazón del Faraón y no dejó marchar a los hijos de Israel de su país. 1El Señor habló a Moisés y a Aarón en el país de Egipto, diciendo: 2—Este mes será para vosotros el comienzo de los meses; será el primero de los meses del año. 3Hablad a toda la comunidad de Israel diciendo: «El día diez de este mes tomará cada uno un cordero por familia, uno por casa. 4Si la familia es demasiado pequeña para consumirlo, se unirá con su vecino más próximo hasta completar el número de personas suficiente para comer la res entera. 5Ha de ser un animal sin defecto, macho, de un año, escogido de entre los corderos o cabritos. 6Lo guardaréis hasta el día catorce de este mes y toda la asamblea de la comunidad de Israel lo inmolará entre dos luces. 7Luego tomarán la sangre y untarán las dos jambas y el dintel de las casas donde se va a comer. 8Comerán la carne esa misma noche; la comerán asada al fuego, con panes ácimos y hierbas amargas. 9No comeréis nada de ella crudo o cocido en agua, sino asado al fuego con su cabeza, patas y vísceras. 10No dejaréis nada para la mañana siguiente; si algo quedara, lo quemaréis. 11»Lo habéis de comer así: ceñidas vuestras cinturas, las sandalias en los pies, y el bastón en vuestras manos; lo comeréis deprisa: pues es la Pascua del Señor. 12Esta noche pasaré por el país de Egipto y heriré a todo primogénito del país de Egipto, tanto de hombres como de animales; y haré justicia sobre los dioses de Egipto. Yo, el Señor. 13La sangre será vuestra señal sobre las casas donde estéis; cuando yo vea la sangre pasaré de largo sobre vosotros, y no habrá entre vosotros plaga exterminadora cuando yo hiera el país de Egipto. 14Este día será para vosotros memorable y lo celebraréis como fiesta del Señor; lo celebraréis como institución perpetua de generación en generación."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "12¿Cómo pagaré al Señor\ntodo el bien que me ha dado? 13Alzaré la copa de la salvación\ne invocaré el Nombre del Señor. 15Preciosa es a los ojos del Señor\nla muerte de sus fieles. 16¡Ah, Señor, yo soy tu siervo,\ntu siervo soy, el hijo de tu esclava!\nTú has soltado mis cadenas. 17Te ofreceré un sacrificio de acción de gracias,\ne invocaré el Nombre del Señor. 18Cumpliré al Señor mis votos\nen presencia de todo su pueblo,"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1En aquel tiempo pasaba Jesús un sábado por entre unos sembrados; sus discípulos tuvieron hambre y comenzaron a arrancar unas espigas y a comer. 2Los fariseos, al verlo, le dijeron:\n—Mira, tus discípulos hacen lo que no es lícito hacer el sábado. 3Pero él les respondió:\n—¿No habéis leído lo que hizo David y los que le acompañaban cuando tuvieron hambre? 4¿Cómo entró en la Casa de Dios y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que le acompañaban, sino sólo a los sacerdotes? 5¿Y no habéis leído en la Ley que, los sábados, los sacerdotes en el Templo quebrantan el descanso y no pecan? 6Os digo que aquí está el que es mayor que el Templo. 7Si hubierais entendido qué sentido tiene: Misericordia quiero y no sacrificio, no habríais condenado a los inocentes. 8Porque el Hijo del Hombre es señor del sábado."
+    }
+  }
+}

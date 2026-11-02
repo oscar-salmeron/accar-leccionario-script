@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "32Acordaos de los días primeros, cuando, recién iluminados, tuvisteis que sostener una lucha grande y dolorosa: 33unas veces sometidos públicamente a calumnias y vejaciones, otras estrechamente unidos a los que así eran tratados, 34porque compartisteis los sufrimientos de los encarcelados y recibisteis con alegría el robo de vuestros bienes, sabiendo que poseéis un patrimonio mejor y más duradero. 35No perdáis, por tanto, vuestra confianza, que tiene una gran recompensa: 36porque necesitáis paciencia para conseguir los bienes prometidos cumpliendo la voluntad de Dios. 37En efecto, todavía un poco de tiempo, muy poco,\ny el que va a venir llegará y no tardará; 38pero mi justo vivirá de fe;\ny si se volviera atrás,\nmi alma no se complacerá en él. 39Pero nosotros no somos de los que se vuelven atrás para su perdición, sino de los que tienen fe para la salvación del alma."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3(Bet) Confía en el Señor y haz el bien;\nhabita tu tierra y guarda la fidelidad. 4Pon tu delicia en el Señor,\ny te concederá los deseos de tu corazón. 5(Guímel) Encomienda al Señor tu camino,\nconfía en Él, que Él actuará 6y hará despuntar tu justicia como la aurora,\ny tu derecho como luz del mediodía. 23(Mem) El Señor afianza los pasos del hombre\ny se complace en su conducta. 24Aunque tropiece no cae,\nporque el Señor sostiene su mano. 39(Tav) El Señor salva a los justos,\nÉl es su refugio en tiempo de angustia. 40El Señor los socorre y los libra,\nlos libra de los impíos y los salva,\nporque en Él buscan refugio."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26Y decía:\n—El Reino de Dios es como un hombre que echa la semilla sobre la tierra, 27y, duerma o vele, noche y día, la semilla brota y crece, sin que él sepa cómo. 28Porque la tierra produce fruto ella sola: primero hierba, después espiga y por fin trigo maduro en la espiga. 29Y en cuanto está a punto el fruto, enseguida mete la hoz, porque ha llegado la siega. 30Y decía:\n—¿A qué se parecerá el Reino de Dios?, o ¿con qué parábola lo compararemos? 31Es como un grano de mostaza que, cuando se siembra en la tierra, es la más pequeña de todas las semillas que hay en la tierra; 32pero, una vez sembrado, crece y llega a hacerse mayor que todas las hortalizas, y echa ramas grandes, hasta el punto de que los pájaros del cielo pueden anidar bajo su sombra. 33Y con muchas parábolas semejantes les anunciaba la palabra, conforme a lo que podían entender; 34y no les solía hablar nada sin parábolas. Pero a solas, les explicaba todo a sus discípulos."
+    }
+  }
+}

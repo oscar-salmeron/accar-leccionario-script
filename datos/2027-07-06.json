@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "23Se levantó por la noche, tomó a sus dos mujeres, a sus dos esclavas y a sus once hijos y cruzó el vado de Yaboc. 24Los llevó y les hizo pasar el río; después pasó todo lo que tenía, 25y se quedó Jacob solo. Un hombre estuvo luchando con él hasta rayar el alba; 26y al ver aquel hombre que no le podía, le alcanzó en la articulación del muslo; y se le dislocó a Jacob la articulación del muslo en su lucha con él. 27Y le dijo el hombre:\n—Suéltame, pues va a rayar el alba.\nLe contestó:\n—No te soltaré hasta que no me bendigas. 28Entonces le preguntó:\n—¿Cómo te llamas?\nRespondió:\n—Jacob. 29Le dijo:\n—Ya no te llamarás más Jacob, sino Israel, porque has luchado con Dios y con hombres, y has podido. 30Jacob le preguntó:\n—Por favor, dime tu nombre.\nLe contestó:\n—¿Por qué preguntas mi nombre?\nY le bendijo allí mismo. 31Jacob puso a aquel lugar el nombre de Penuel, porque se dijo: «He visto a Dios cara a cara y conservo la vida». 32Salía el sol cuando atravesó Penuel, e iba cojeando del muslo. 33Por eso los hijos de Israel no comen hasta hoy el tendón que está en la articulación del muslo, porque en el tendón fue alcanzada la articulación del muslo de Jacob."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Oración. De David.\nEscucha, Señor, mi demanda,\natiende a mi clamor,\npresta oído a mi súplica,\nque en mis labios no hay engaño. 2Que de Ti salga mi sentencia,\nque vean tus ojos lo que es recto. 3Examina mi corazón,\nobsérvalo de noche;\npruébame al fuego.\nNo encontrarás malicia en mí; 6Yo te invoco porque Tú me escuchas, Dios mío.\nInclina tu oído hacia mí,\nescucha mis palabras. 7Muestra tu misericordia,\nTú que salvas de los adversarios\na los que se refugian en tu diestra. 8Guárdame como la niña de tus ojos;\na la sombra de tus alas escóndeme 15Pero yo, en justicia, contemplaré tu rostro,\ny, al despertar, me saciaré de tu presencia."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "32Nada más irse, le trajeron un endemoniado mudo. 33Después de expulsar al demonio habló el mudo. Y la multitud se quedó admirada diciendo:\n—Jamás se ha visto cosa igual en Israel. 34Pero los fariseos decían:\n—Expulsa los demonios por el príncipe de los demonios. 35Jesús recorría todas las ciudades y aldeas enseñando en sus sinagogas, predicando el Evangelio del Reino y curando todas las enfermedades y dolencias. 36Al ver a las multitudes se llenó de compasión por ellas, porque estaban maltratadas y abatidas como ovejas que no tienen pastor. 37Entonces les dijo a sus discípulos:\n—La mies es mucha, pero los obreros pocos. 38Rogad, por tanto, al señor de la mies que envíe obreros a su mies."
+    }
+  }
+}

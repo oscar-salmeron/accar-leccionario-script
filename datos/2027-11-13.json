@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "14Cuando un sereno silencio lo envolvía todo\ny la noche estaba a la mitad de su curso, 15tu omnipotente Palabra desde el Cielo, desde los tronos reales,\ncomo guerrero implacable, se lanzó sobre aquella tierra desolada,\nllevando la espada afilada de tu orden terminante. 16Deteniéndose, llenó todo de muerte.\nDe una parte, tocaba el cielo; de otra, se apoyaba en la tierra. 6Pues la creación entera, en su propia naturaleza,\ntomaba de nuevo una forma distinta, sirviendo a tus órdenes,\npara que tus hijos fueran guardados incólumes. 7La nube cubría con su sombra el campamento;\ndonde antes estaba el agua se vio emerger la tierra seca,\ndel Mar Rojo, un camino expedito,\ny de las olas violentas, una llanura verdeante. 8Por ella pasó todo el pueblo, los protegidos por tu mano,\ncontemplando pasmosos prodigios. 9Pastaron como caballos\nretozaron como corderos,\ncantando tus alabanzas, Señor, su libertador."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Cantadle, entonadle salmos,\nproclamad todas sus maravillas. 3Gloriaos en su Nombre santo;\nque se alegre el corazón de los que buscan al Señor. 36E hirió a todos los primogénitos en su tierra,\nlas primicias de su vigor. 37Pero a ellos los sacó con plata y oro,\nsin que hubiera en sus tribus quien se tambaleara. 42Pues se acordó de su palabra santa,\nque había dado a Abrahán, su siervo. 43Y sacó a su pueblo con gozo,\na sus elegidos con gritos de júbilo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Les proponía una parábola sobre la necesidad de orar siempre y no desfallecer, 2diciendo:\n—Había en una ciudad un juez que no temía a Dios ni respetaba a los hombres. 3También había en aquella ciudad una viuda, que acudía a él diciendo: «Hazme justicia ante mi adversario». 4Y durante mucho tiempo no quiso. Sin embargo, al final se dijo a sí mismo: «Aunque no temo a Dios ni respeto a los hombres, 5como esta viuda está molestándome, le haré justicia, para que no siga viniendo a importunarme». 6Concluyó el Señor:\n—Prestad atención a lo que dice el juez injusto. 7¿Acaso Dios no hará justicia a sus elegidos que claman a Él día y noche, y les hará esperar? 8Os aseguro que les hará justicia sin tardanza. Pero cuando venga el Hijo del Hombre, ¿encontrará fe sobre la tierra?"
+    }
+  }
+}

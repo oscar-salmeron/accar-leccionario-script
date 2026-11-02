@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Me alegré mucho en el Señor de que por fin hayáis podido manifestar de nuevo el afecto que sentíais por mí, porque, aunque lo sentíais, no se os había presentado la ocasión de expresarlo. 11No os lo digo porque esté necesitado, pues he aprendido a contentarme con lo que tengo: 12he aprendido a vivir en la pobreza, he aprendido a vivir en la abundancia, estoy acostumbrado a todo en todo lugar, a la hartura y a la escasez, a la riqueza y a la pobreza. 13Todo lo puedo en Aquel que me conforta. 14No obstante, habéis hecho bien al compartir mi tribulación. 15Sabéis bien vosotros, filipenses, que al principio de la evangelización, cuando salí de Macedonia, ninguna iglesia me abrió una cuenta de «debe» y «haber», excepto vosotros, 16pues una y otra vez enviasteis a Tesalónica con qué atender a mis necesidades. 17No es que yo busque dádivas, sino que deseo que aumenten los intereses en vuestra cuenta. 18He recibido todo y tengo de sobra, estoy colmado con los bienes recibidos de parte vuestra por medio de Epafrodito, una ofrenda aceptable, de suave olor, agradable ante Dios. 19Mi Dios colmará todas vuestras necesidades, generosamente según su riqueza, con la gloria por Cristo Jesús."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Aleluya.\n(Alef) Dichoso el hombre que teme al Señor,\n(Bet) y se complace de lleno en sus mandamientos. 2(Guímel) Poderoso en la tierra será su linaje.\n(Dálet) Bendita será la descendencia de los rectos. 5(Tet) Feliz el hombre compasivo y que presta,\n(Yod) y que administra sus asuntos con justicia; 6(Kaf) no vacilará jamás.\n(Lámed) El justo será siempre recordado; 8(Sámek) su corazón está seguro, sin temer,\n(Áin) hasta que mire por encima a sus enemigos. 9(Pe) Reparte generosamente a los pobres;\n(Sade) su justicia permanece para siempre;\n(Qof) lleva alta su frente con honor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9»Y yo os digo: haceos amigos con las riquezas injustas, para que, cuando falten, os reciban en las moradas eternas. 10»Quien es fiel en lo poco también es fiel en lo mucho; y quien es injusto en lo poco también es injusto en lo mucho. 11Por tanto, si no fuisteis fieles en la riqueza injusta, ¿quién os confiará la verdadera? 12Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo vuestro? 13»Ningún criado puede servir a dos señores, porque o tendrá odio a uno y amor al otro, o prestará su adhesión al primero y menospreciará al segundo: no podéis servir a Dios y a las riquezas. 14Oían todas estas cosas los fariseos, que eran amantes del dinero, y se burlaban de él. 15Y les dijo:\n—Vosotros os hacéis pasar por justos delante de los hombres, pero Dios conoce vuestros corazones; porque lo que parece ser excelso ante los hombres es abominable delante de Dios."
+    }
+  }
+}

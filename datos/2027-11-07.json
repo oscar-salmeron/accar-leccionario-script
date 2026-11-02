@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-11-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Él se levantó y se marchó a Sarepta. Entraba por la puerta de la ciudad cuando una mujer viuda recogía leña. La llamó y le dijo:\n—Por favor, tráeme en un vaso un poco de agua para beber. 11Cuando ella iba a buscar el agua, él la llamó y le dijo:\n—Por favor, tráeme en tus manos un trozo de pan. 12Ella contestó:\n—Vive el Señor, tu Dios, que no tengo ni una hogaza: sólo un puñado de harina en el cuenco y un poco de aceite en la alcuza. Ahora estoy recogiendo un par de leños para ir a prepararlo para mi hijo y para mí. Lo comeremos y luego moriremos. 13Le dijo Elías:\n—No tengas miedo. Anda, haz lo que dices; pero primero hazme a mí con eso una torta pequeña y tráemela; después vete y hazla para ti y para tu hijo. 14Porque esto ha dicho el Señor, Dios de Israel: «El cuenco de harina no quedará sin nada y la alcuza de aceite no se vaciará hasta el día en que el Señor conceda la lluvia a la superficie del suelo». 15Ella fue y actuó según la palabra de Elías, y comieron él y ella y su casa durante días. 16La harina del cuenco no se acabó ni el aceite de la alcuza se vació, según la palabra que el Señor había pronunciado por medio de –Elías."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "7que hace justicia a los oprimidos,\nda pan a los hambrientos.\nEl Señor libera a los cautivos; 8el Señor abre los ojos a los ciegos;\nel Señor endereza a los que se encorvan;\nel Señor ama a los justos. 9El Señor guarda a los extranjeros,\nsustenta al huérfano y a la viuda,\npero tuerce el camino de los impíos. 10El Señor reina eternamente,\ntu Dios, Sión, de generación en generación."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "24Porque Cristo no entró en un santuario hecho por mano de hombre —representación del verdadero—, sino en el mismo cielo, para interceder ahora ante Dios en favor nuestro. 25No para ofrecerse muchas veces a sí mismo, como el sumo sacerdote que entra en el santuario todos los años con sangre ajena: 26porque entonces hubiera debido padecer muchas veces desde la creación del mundo, y, en cambio, se ha manifestado ahora de una vez para siempre, en la plenitud de los tiempos, para destruir el pecado mediante el sacrificio de sí mismo. 27Y así como está establecido que los hombres mueran una sola vez, y que después haya un juicio, 28así también Cristo, que se ofreció una sola vez para quitar los pecados de todos, por segunda vez, sin relación ya con el pecado, se manifestará a los que le esperan para llevarlos a la salvación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "38Y en su enseñanza, decía:\n—Cuidado con los escribas, a los que les gusta pasear vestidos con largas túnicas y que los saluden en las plazas; 39los primeros asientos en las sinagogas y los primeros puestos en los banquetes. 40Devoran las casas de las viudas y fingen largas oraciones. Éstos recibirán una condena más severa. 41Sentado Jesús frente al gazofilacio, miraba cómo la gente echaba en él monedas de cobre, y bastantes ricos echaban mucho. 42Y al llegar una viuda pobre, echó dos monedas pequeñas, que hacen la cuarta parte del as. 43Llamando a sus discípulos, les dijo:\n—En verdad os digo que esta viuda pobre ha echado más que todos los que han echado en el gazofilacio, 44pues todos han echado algo de lo que les sobra; ella, en cambio, en su necesidad, ha echado todo lo que tenía, todo su sustento."
+    }
+  }
+}

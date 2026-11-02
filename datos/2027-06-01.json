@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-06-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "9Aquella noche, después de enterrarlo, me lavé, salí a mi patio y me quedé dormido junto a la pared del patio, con la cara descubierta por el calor. 10No sabía que encima de mí, en la pared, había unos pájaros; éstos dejaron caer sus excrementos todavía calientes sobre mis ojos, y me salieron unas manchas blancas. Acudí a los médicos para que me curaran y cuantas más medicinas me aplicaron, tanto más quedaban ciegos mis ojos por las manchas, hasta que me quedé ciego por completo. Estuve privado de la vista durante cuatro años, y todos mis hermanos sufrían por mi causa. Ajicar cuidó de mí durante dos años, antes de que se marchara a Elimaida. 11Durante aquel tiempo, mi esposa Ana tuvo que ponerse a trabajar a sueldo en labores femeninas, tejiendo lana. 12La entregaba a sus dueños y recibía el pago a cambio. El día séptimo del mes de Distros confeccionó un tejido y se lo entregó a los dueños, quienes le dieron toda la paga y además un cabrito para comer. 13Cuando el cabrito se acercó a mí, comenzó a balar. Llamé a mi esposa y le pregunté:\n—¿De dónde procede este cabrito? ¿No será robado? Devuélvelo a sus dueños, porque no nos está permitido comer algo robado. 14Pero ella me contestó:\n—Me lo han regalado además del jornal.\nYo no la creía, sino que insistía en que lo devolviera a sus dueños, y me enfadé con ella por este motivo. Entonces contestó diciéndome:\n—¿Dónde quedan tus limosnas? ¿Dónde están tus obras de misericordia? ¡Claro, tú lo sabes todo!"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Aleluya.\n(Alef) Dichoso el hombre que teme al Señor,\n(Bet) y se complace de lleno en sus mandamientos. 2(Guímel) Poderoso en la tierra será su linaje.\n(Dálet) Bendita será la descendencia de los rectos. 7(Mem) no temerá las malas noticias;\n(Nun) su corazón está firme, confiado en el Señor; 8(Sámek) su corazón está seguro, sin temer,\n(Áin) hasta que mire por encima a sus enemigos. 9(Pe) Reparte generosamente a los pobres;\n(Sade) su justicia permanece para siempre;\n(Qof) lleva alta su frente con honor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Le enviaron a algunos de los fariseos y de los herodianos para atraparle en alguna palabra. 14Acercándose, le dijeron:\n—Maestro, sabemos que eres veraz y que no te dejas llevar por nadie, pues no haces acepción de personas, sino que enseñas el camino de Dios según la verdad. ¿Es lícito dar tributo al César, o no? ¿Pagamos o no pagamos? 15Pero él, advirtiendo su hipocresía, les dijo:\n—¿Por qué me tentáis? Traedme un denario para que lo vea. 16Ellos se lo trajeron.\nY les dijo:\n—¿De quién es esta imagen y esta inscripción?\n—Del César —le contestaron ellos. 17Jesús les dijo:\n—Dad al César lo que es del César y a Dios lo que es de Dios.\nY se admiraban de él."
+    }
+  }
+}

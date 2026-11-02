@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "22Porque hay en ella un espíritu inteligente, santo,\núnico, multiforme, sutil,\nmóvil, perspicaz, incontaminado,\nlúcido, inofensivo, amante del bien, agudo, 23incoercible, benigno, amigo de los hombres,\nfirme, cierto, seguro,\nomnipotente, que lo observa todo,\nque penetra todos los espíritus\ninteligentes, puros, sutilísimos. 24La sabiduría es el más móvil de todos los movimientos,\npues por su pureza atraviesa y penetra todas las cosas. 25Es un hálito del poder de Dios\ny un destello puro de la gloria del Todopoderoso:\npor eso nada inmundo penetra en ella. 26Es reflejo de la luz eterna,\nespejo nítido de la acción de Dios\ne imagen de su bondad. 27Aun siendo una, todo lo puede;\ny, sin cambiar en nada, todo lo renueva;\nse comunica a las almas santas de cada generación\ny las convierte en amigos de Dios y en profetas, 28porque Dios ama sólo a los que conviven con la sabiduría. 29Ella es más bella que el sol\ny que todas las constelaciones.\nComparada con la luz, ella resulta superior, 30pues a aquélla la releva la noche,\npero a la sabiduría no la vence la maldad. 1Alcanza con vigor de un confín a otro confín y gobierna todo con benignidad."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "89(Lámed) Eterna es tu palabra, Señor,\nestable en los cielos. 90De generación en generación dura tu fidelidad:\nasentaste la tierra, y permanece; 91conforme a tus decretos, permanecen hasta hoy,\nporque todos están a tu servicio. 130La revelación de tus palabras ilumina,\nda inteligencia a los sencillos. 135Haz brillar tu rostro sobre tu siervo\ny enséñame tus decretos. 175Viva mi alma para alabarte,\nque me socorran tus juicios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "20Interrogado por los fariseos sobre cuándo llegaría el Reino de Dios, él les respondió:\n—El Reino de Dios no viene con espectáculo; 21ni se podrá decir: «Mirad, está aquí», o «está allí»; porque daos cuenta de que el Reino de Dios está ya en medio de vosotros. 22Y les dijo a los discípulos:\n—Vendrá un tiempo en que desearéis ver uno solo de los días del Hijo del Hombre, y no lo veréis. 23Entonces os dirán: «Mirad, está aquí», o «mirad, está allí». No vayáis ni corráis detrás. 24Porque, como el relámpago fulgurante brilla de un extremo a otro del cielo, así será en su día el Hijo del Hombre. 25Pero es necesario que antes padezca mucho y sea reprobado por esta generación."
+    }
+  }
+}

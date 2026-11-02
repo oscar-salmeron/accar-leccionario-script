@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Cuando Israel era niño, Yo lo amé,\ny de Egipto llamé a mi hijo. 3Yo enseñé a andar a Efraím,\nlo tomaba en mis brazos;\npero ellos no entendían que Yo los cuidaba. 4Con vínculos de afecto los atraje,\ncon lazos de amor.\nEra para ellos\ncomo quien alza a un niño\nhasta sus mejillas,\ny me inclinaba a él y le daba de comer. 8¿Podré abandonarte, Efraím,\npodré entregarte, Israel?\n¿Podré abandonarte como a Admá,\ntratarte como a Seboim?\nMe da un vuelco el corazón,\nse conmueven a la vez mis entrañas. 9No dejaré que prenda el ardor de mi cólera,\nno volveré a destruir a Efraím,\nporque Yo soy Dios,\ny no un hombre;\nsoy el Santo en medio de ti\ny no voy a llegar con mi ira."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Éste es el Dios de mi salvación:\nconfío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado». 3Sacaréis aguas con gozo de las fuentes de la salvación; 4y aquel día diréis:\n«Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso. 5Cantad al Señor, porque ha hecho proezas\n¡que sean conocidas en toda la tierra! 6¡Exulta y grita de júbilo, tú que habitas en Sión,\nque es grande en medio de ti el Santo de Israel!»."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "8A mí, el menor de todos los santos, me ha sido otorgada esta gracia: anunciar a los gentiles la insondable riqueza de Cristo 9e iluminar a todos acerca del cumplimiento del misterio que durante siglos estuvo escondido en Dios, el Creador de todas las cosas, 10para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por medio de la Iglesia, 11conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro, 12en quien tenemos la segura confianza de llegar a Dios, mediante la fe en él. 14Por este motivo, me pongo de rodillas ante el Padre, 15de quien toma nombre toda familia en los cielos y en la tierra, 16para que, conforme a las riquezas de su gloria, os conceda fortaleceros firmemente en el hombre interior mediante su Espíritu. 17Que Cristo habite en vuestros corazones por la fe, para que, arraigados y fundamentados en la caridad, 18podáis comprender con todos los santos cuál es la anchura y la longitud, la altura y la profundidad; 19y conocer también el amor de Cristo, que supera todo conocimiento, para que os llenéis por completo de toda la plenitud de Dios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "31Como era la Parasceve, para que no se quedaran los cuerpos en la cruz el sábado, porque aquel sábado era un día grande, los judíos rogaron a Pilato que les rompieran las piernas y los retirasen. 32Vinieron los soldados y rompieron las piernas al primero y al otro que había sido crucificado con él. 33Pero cuando llegaron a Jesús, al verle ya muerto, no le quebraron las piernas, 34sino que uno de los soldados le abrió el costado con la lanza. Y al instante brotó sangre y agua. 35El que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice la verdad para que también vosotros creáis. 36Esto ocurrió para que se cumpliera la Escritura: No le quebrantarán ni un hueso. 37Y también otro pasaje de la Escritura dice: Mirarán al que traspasaron."
+    }
+  }
+}

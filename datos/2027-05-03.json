@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Os recuerdo, hermanos, el Evangelio que os prediqué, que recibisteis, en el que os mantenéis firmes, 2y por el cual sois salvados, si lo guardáis tal como os lo anuncié. ¡Y si no, habéis creído en vano! 3Porque os transmití en primer lugar lo mismo que yo recibí: que Cristo murió por nuestros pecados, según las Escrituras; 4que fue sepultado y que resucitó al tercer día, según las Escrituras; 5y que se apareció a Cefas, y después a los doce. 6Después se apareció a más de quinientos hermanos a la vez, la mayoría de los cuales vive todavía y algunos ya han muerto. 7Luego se apareció a Santiago, y después a todos los apóstoles. 8Y en último lugar, como a un abortivo, se me apareció también a mí."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Los cielos pregonan la gloria de Dios\ny el firmamento anuncia la obra de sus manos. 3Un día le anuncia el mensaje al otro día\ny una noche le da la noticia a la otra noche. 4Sin discurso, sin palabras\nsin que se oiga su voz, 5se esparce su rumor por toda la tierra,\ny su pregón hasta los confines del orbe.\nEn éstos ha puesto una tienda para el sol."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "6—Yo soy el Camino, la Verdad y la Vida —le respondió Jesús—; nadie va al Padre si no es a través de mí. 7Si me habéis conocido a mí, conoceréis también a mi Padre; desde ahora le conocéis y le habéis visto. 8Felipe le dijo:\n—Señor, muéstranos al Padre y nos basta. 9—Felipe —le contestó Jesús—, ¿tanto tiempo como llevo con vosotros y no me has conocido? El que me ha visto a mí ha visto al Padre; ¿cómo dices tú: «Muéstranos al Padre»? 10¿No crees que yo estoy en el Padre y el Padre en mí? Las palabras que yo os digo no las hablo por mí mismo. El Padre, que está en mí, realiza sus obras. 11Creedme: yo estoy en el Padre y el Padre en mí; y si no, creed por las obras mismas. 12En verdad, en verdad os digo: el que cree en mí, también él hará las obras que yo hago, y las hará mayores que éstas porque yo voy al Padre. 13Y lo que pidáis en mi nombre eso haré, para que el Padre sea glorificado en el Hijo. 14Si me pedís algo en mi nombre, yo lo haré."
+    }
+  }
+}

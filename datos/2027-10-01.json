@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "15»Diréis así:\n«Al Señor, Dios nuestro, la justicia; a nosotros, en cambio, la vergüenza en los rostros, como acontece hoy a los hombres de Judá y a los habitantes de Jerusalén, 16a nuestros reyes y gobernantes, a nuestros sacerdotes, a nuestros profetas y a nuestros padres; 17porque hemos pecado contra el Señor, 18no hemos creído en Él, ni hemos escuchado la voz del Señor, Dios nuestro, para caminar según los mandamientos del Señor que promulgó en presencia nuestra. 19»Desde el día en que el Señor sacó a nuestros padres de la tierra de Egipto hasta hoy hemos sido incrédulos con el Señor, Dios nuestro, y obstinados en no escuchar su voz. 20Por eso ahora nos han sobrevenido las calamidades y la maldición que Dios predijo a su siervo Moisés, el día que sacó a nuestros padres de la tierra de Egipto, para darnos una tierra que mana leche y miel. 21No hemos escuchado la voz del Señor, Dios nuestro, desoyendo las palabras de los profetas que nos envió. 22Y hemos andado, cada uno según las inclinaciones de su corazón perverso, para servir a dioses ajenos y hacer lo que es malo a los ojos del Señor, Dios nuestro."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo. De Asaf.\nDios mío, las naciones han entrado en tu heredad,\nhan profanado tu Templo santo,\nhan reducido a ruinas Jerusalén. 2Han echado los cadáveres de tus siervos\npor comida a las aves del cielo;\nla carne de tus fieles, a las fieras del campo; 3han derramado su sangre como agua,\nen derredor de Jerusalén,\nsin que nadie les dé sepultura. 4Hemos venido a ser escarnio de nuestros vecinos,\nburla e irrisión de quienes nos rodean. 5¿Hasta cuándo, Señor?\n¿Vas a estar airado para siempre?\n¿Hasta cuándo arderán tus celos como fuego? 8No nos recuerdes nuestras culpas antiguas,\nque pronto nos preceda tu compasión,\npues estamos en miseria extrema. 9Socórrenos, oh Dios, Salvador nuestro,\npor la gloria de tu Nombre;\nsálvanos, borra nuestros pecados,\npor amor de tu Nombre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13»¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón hubieran sido realizados los milagros que se han obrado en vosotras, hace tiempo que habrían hecho penitencia sentados en saco y ceniza. 14Sin embargo, en el Juicio Tiro y Sidón serán tratadas con menos rigor que vosotras. 15»Y tú, Cafarnaún, ¿acaso serás exaltada hasta el cielo? ¡Hasta los infiernos vas a descender! 16»Quien a vosotros os oye, a mí me oye; quien a vosotros os desprecia, a mí me desprecia; y quien a mí me desprecia, desprecia al que me ha enviado."
+    }
+  }
+}

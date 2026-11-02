@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "7Por eso, como dice el Espíritu Santo:\nSi hoy escucháis su voz, 8no endurezcáis vuestros corazones\ncomo sucedió en la rebelión,\nel día de la tentación en el desierto, 9cuando vuestros padres me tentaron\ny me sometieron a prueba,\naunque habían visto mis obras 10durante cuarenta años.\nPor eso me indigné contra esta generación\ny dije: «Están siempre extraviados en su corazón\ny no han conocido mis caminos». 11Por eso juré en mi ira:\n«¡No entrarán en mi descanso!». 12Vigilad, hermanos, para que ninguno de vosotros tenga un corazón malvado y sin fe que le haga apostatar del Dios vivo; 13al contrario, exhortaos mutuamente todos los días, mientras perdura aquel hoy, para que nadie se endurezca por la seducción del pecado. 14Pues hemos sido hechos partícipes de Cristo a condición de que mantengamos firme hasta el fin la segura confianza del principio."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "6Venid, adoremos y postrémonos,\npongámonos de hinojos\nante el Señor, nuestro Hacedor. 7Pues Él es nuestro Dios,\ny nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz! 8No endurezcáis vuestro corazón como en Meribá,\ncomo el día de Masá, en el desierto, 9donde me tentaron vuestros padres,\nme pusieron a prueba,\naunque habían visto mis obras. 10Cuarenta años me hastió aquella generación,\ny me dije: «Son un pueblo de corazón descarriado,\néstos no reconocen mis caminos». 11Por ello juré en mi enojo:\n«No entrarán en mi descanso»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "40Y vino hacia él un leproso que, rogándole de rodillas, le decía:\n—Si quieres, puedes limpiarme. 41Y, compadecido, extendió la mano, le tocó y le dijo:\n—Quiero, queda limpio. 42Y al instante desapareció de él la lepra y quedó limpio. 43Enseguida le conminó y le despidió. 44Le dijo:\n—Mira, no digas nada a nadie; pero anda, preséntate al sacerdote y lleva la ofrenda que ordenó Moisés por tu curación, para que les sirva de testimonio. 45Sin embargo, en cuanto se fue, comenzó a proclamar y a divulgar la noticia, hasta el punto de que ya no podía entrar abiertamente en ninguna ciudad, sino que se quedaba fuera, en lugares solitarios. Pero acudían a él de todas partes."
+    }
+  }
+}

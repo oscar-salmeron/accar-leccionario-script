@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-02-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Entonces Dios pronunció todas estas palabras, diciendo: 2—Yo soy el Señor, tu Dios, que te ha sacado del país de Egipto, de la casa de la esclavitud. 3»No tendrás otro dios fuera de mí. 4»No te harás escultura ni imagen, ni de lo que hay arriba en el cielo, ni de lo que hay abajo en la tierra, ni de lo que hay en las aguas por debajo de la tierra. 5No te postrarás ante ellos ni les darás culto, porque yo, el Señor, tu Dios, soy un Dios celoso que castigo la culpa de los padres en los hijos hasta la tercera y la cuarta generación de aquellos que me odian; 6pero tengo misericordia por mil generaciones con los que me aman y guardan mis mandamientos. 7»No tomarás el nombre del Señor, tu Dios, en vano, pues el Señor no dejará impune al que tome su nombre en vano. 8»Recuerda el día del sábado, para santificarlo. 9Durante seis días trabajarás y harás tus tareas. 10Pero el día séptimo es sábado, en honor del Señor, tu Dios. No harás en él trabajo alguno, ni tú ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni el extranjero que habita junto a ti. 11Pues el Señor en seis días hizo el cielo y la tierra, el mar y todo lo que contiene, pero el día séptimo descansó. Por eso el Señor bendijo el día del sábado y lo santificó. 12»Honra a tu padre y a tu madre para que se prolonguen tus días sobre la tierra que el Señor, tu Dios, te da. 13»No matarás. 14»No cometerás adulterio. 15»No robarás. 16»No darás falso testimonio contra tu prójimo. 17»No codiciarás los bienes de tu prójimo; ni codiciarás la mujer de tu prójimo, ni su esclavo ni su esclava, ni su buey, ni su asno ni nada de lo que pertenezca a tu prójimo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8La Ley del Señor es perfecta; reconforta el alma.\nEl mandato del Señor es firme,\ninstruye al sencillo. 9Los preceptos del Señor son rectos,\nalegran el corazón.\nLos mandamientos del Señor son puros,\ndan luz a los ojos. 10El temor del Señor es limpio,\ndura por siempre.\nLos juicios del Señor son veraces,\nson enteramente justos, 11más preciosos que el oro, que el oro más fino,\nmás dulces que la miel que destila el panal."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "22Porque los judíos piden signos, los griegos buscan sabiduría; 23nosotros en cambio predicamos a Cristo crucificado, escándalo para los judíos, necedad para los gentiles; 24pero para los llamados, judíos y griegos, predicamos a Cristo, fuerza de Dios y sabiduría de Dios. 25Porque lo necio de Dios es más sabio que los hombres, y lo débil de Dios es más fuerte que los hombres."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Pronto iba a ser la Pascua de los judíos y Jesús subió a Jerusalén. 14Encontró en el Templo a los vendedores de bueyes, ovejas y palomas, y a los cambistas en sus puestos. 15Con unas cuerdas hizo un látigo y arrojó a todos del Templo, con las ovejas y los bueyes; tiró las monedas de los cambistas y volcó las mesas. 16Y les dijo a los que vendían palomas:\n—Quitad esto de aquí: no hagáis de la casa de mi Padre un mercado. 17Recordaron sus discípulos que está escrito: El celo de tu casa me consume. 18Entonces los judíos replicaron:\n—¿Qué signo nos das para hacer esto? 19Jesús respondió:\n—Destruid este Templo y en tres días lo levantaré. 20Los judíos contestaron:\n—¿En cuarenta y seis años ha sido construido este Templo, y tú lo vas a levantar en tres días? 21Pero él se refería al Templo de su cuerpo. 22Cuando resucitó de entre los muertos, recordaron sus discípulos que él había dicho esto, y creyeron en la Escritura y en las palabras que había pronunciado Jesús. 23Mientras estaba en Jerusalén durante la fiesta de la Pascua, muchos creyeron en su nombre al ver los signos que hacía. 24Pero Jesús no se fiaba de ellos, porque los conocía a todos, 25y no necesitaba que nadie le diera testimonio acerca de hombre alguno, porque conocía el interior de cada hombre."
+    }
+  }
+}

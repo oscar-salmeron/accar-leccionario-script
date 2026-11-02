@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1En aquel tiempo prendió el rey Herodes a algunos de la Iglesia para maltratarlos. 2Dio muerte por la espada a Santiago, hermano de Juan. 3Y al ver que esto agradaba a los judíos, decidió prender también a Pedro. Eran los días de los Ácimos. 4Cuando lo apresó, lo metió en la cárcel y lo entregó a cuatro escuadras de cuatro soldados para que lo custodiaran, con el propósito de hacerlo comparecer ante el pueblo después de la Pascua. 5Así pues, Pedro estaba encerrado en la cárcel, mientras la Iglesia rogaba incesantemente por él a Dios. 6Cuando Herodes iba ya a hacerlo comparecer, aquella misma noche dormía Pedro entre dos soldados, sujeto con dos cadenas, mientras unos centinelas vigilaban la cárcel delante de la puerta. 7De pronto se presentó un ángel del Señor y un resplandor iluminó la celda. Tocó a Pedro en el costado, le despertó y dijo:\n—¡Levántate deprisa! —y se cayeron las cadenas de sus manos. 8El ángel le dijo:\n—¡Vístete y ponte las sandalias! —y así lo hizo.\nY añadió:\n—¡Ponte el manto y sígueme! 9Salió y le siguió, pero ignoraba que fuera realidad lo que hacía el ángel; pensaba que se trataba de una visión. 10Atravesaron la primera guardia y la segunda y llegaron a la puerta de hierro que conduce a la ciudad, la cual se les abrió por sí sola. Salieron y avanzaron por una calle y de repente el ángel le dejó. 11Entonces Pedro, vuelto en sí, dijo:\n—Ahora comprendo realmente que el Señor ha enviado su ángel, y me ha librado de las manos de Herodes y de toda la expectación del pueblo judío."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2(Alef) Bendigo al Señor en todo tiempo;\nsu alabanza está en mi boca de continuo. 3(Bet) Mi alma se gloría en el Señor;\nque lo escuchen los humildes y se alegren. 4(Guímel) Engrandeced conmigo al Señor;\nensalcemos juntos su Nombre. 5(Dálet) Busqué al Señor y me ha escuchado,\nme ha librado de todos mis temores. 6(He) Miradle y brillaréis de gozo,\nvuestros rostros no se avergonzarán. 7(Záin) Cuando el pobre invoca, el Señor le escucha,\ny lo salva de todas sus angustias. 8(Het) El ángel del Señor se sitúa\nalrededor de los que le temen para librarlos. 9(Tet) Gustad y ved qué bueno es el Señor,\ndichoso el hombre que se refugia en Él."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "6Pues yo estoy a punto de derramar mi sangre en sacrificio, y el momento de mi partida es inminente. 7He peleado el noble combate, he alcanzado la meta, he guardado la fe. 8Por lo demás, me está reservada la merecida corona que el Señor, el Justo Juez, me entregará aquel día; y no sólo a mí, sino también a todos los que han deseado con amor su venida. 17Pero el Señor me asistió y me fortaleció para que, por medio de mí, se proclamara plenamente el mensaje y lo oyeran todos los gentiles. Y fui librado de la boca del león. 18El Señor me librará de toda obra mala y me salvará para su reino celestial. A Él la gloria por los siglos de los siglos. Amén."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos:\n—¿Quién dicen los hombres que es el Hijo del Hombre? 14Ellos respondieron:\n—Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas. 15Él les dijo:\n—Y vosotros, ¿quién decís que soy yo? 16Respondió Simón Pedro:\n—Tú eres el Cristo, el Hijo de Dios vivo. 17Jesús le respondió:\n—Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos. 18Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella. 19Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+    }
+  }
+}

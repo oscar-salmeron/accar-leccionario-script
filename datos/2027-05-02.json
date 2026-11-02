@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-05-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "25En el momento en que entraba Pedro, salió Cornelio a su encuentro y, postrándose, le adoró. 26Pero Pedro le incorporó diciendo:\n—Levántate, que también yo soy un simple hombre. 34Pedro comenzó a hablar:\n—En verdad comprendo que Dios no hace acepción de personas, 35sino que en cualquier pueblo le es agradable todo el que le teme y obra la justicia. 44Todavía estaba diciendo Pedro estas cosas cuando descendió el Espíritu Santo sobre todos los que escuchaban la palabra; 45y los fieles que procedían de la circuncisión y que habían acompañado a Pedro quedaron atónitos, porque también sobre los gentiles se derramaba el don del Espíritu Santo; 46pues les oían hablar lenguas y glorificar a Dios. Entonces habló Pedro: 47—¿Podrá alguien negar el agua del bautismo a estos que han recibido el Espíritu Santo igual que nosotros? 48Y mandó bautizarlos en el nombre de Jesucristo. Entonces le rogaron que se quedase algunos días."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo.\nCantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo. 2El Señor ha dado a conocer su salvación;\nha revelado su justicia a los ojos de las naciones. 3Se acordó de su misericordia y fidelidad\ncon la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios. 4Aclamad al Señor, la tierra entera;\ngritad, cantad, entonad salmos."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "7Queridísimos: amémonos unos a otros, porque el amor procede de Dios, y todo el que ama ha nacido de Dios, y conoce a Dios. 8El que no ama no ha llegado a conocer a Dios, porque Dios es amor. 9En esto se manifestó entre nosotros el amor de Dios: en que Dios envió a su Hijo Unigénito al mundo para que recibiéramos por él la vida. 10En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó y envió a su Hijo como víctima propiciatoria por nuestros pecados."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9»Como el Padre me amó, así os he amado yo. Permaneced en mi amor. 10Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor. 11Os he dicho esto para que mi alegría esté en vosotros y vuestra alegría sea completa. 12Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado. 13Nadie tiene amor más grande que el de dar uno la vida por sus amigos. 14Vosotros sois mis amigos si hacéis lo que os mando. 15Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer. 16No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda. 17Esto os mando: que os améis los unos a los otros."
+    }
+  }
+}

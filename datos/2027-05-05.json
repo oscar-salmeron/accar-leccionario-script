@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "15Los que conducían a Pablo le llevaron hasta Atenas, y se volvieron con la indicación, para Silas y Timoteo, de que se uniesen con él cuanto antes. 22Entonces Pablo, de pie en medio del Areópago, habló:\n—Atenienses, en todo veo que sois más religiosos que nadie, 23porque al pasar y contemplar vuestros monumentos sagrados he encontrado también un altar en el que estaba escrito: «Al Dios desconocido». Pues bien, yo vengo a anunciaros lo que veneráis sin conocer. 24El Dios que hizo el mundo y todo lo que hay en él, que es Señor del cielo y de la tierra, no habita en templos fabricados por hombres, 25ni es servido por manos humanas como si necesitara de algo el que da a todos la vida, el aliento y todas las cosas. 26Él hizo, de un solo hombre, todo el linaje humano, para que habitase sobre toda la faz de la tierra. Y fijó las edades de su historia y los límites de los lugares en que los hombres habían de vivir, 27para que buscasen a Dios, a ver si al menos a tientas lo encontraban, aunque no está lejos de cada uno de nosotros, 28ya que en él vivimos, nos movemos y existimos, como han dicho algunos de vuestros poetas: «Porque somos también de su linaje». 29Si somos linaje de Dios no debemos pensar, por tanto, que la divinidad es semejante al oro, a la plata o a la piedra, escultura del arte y del ingenio humanos. 30Dios ha permitido los tiempos de la ignorancia y anuncia ahora a los hombres que todos en todas partes deben convertirse, 31puesto que ha fijado el día en que va a juzgar la tierra con justicia, por mediación del hombre que ha designado, presentando a todos un argumento digno de fe al resucitarlo de entre los muertos. 32Cuando oyeron lo de «resurrección de los muertos», unos se echaron a reír y otros dijeron:\n—Te escucharemos sobre eso en otra ocasión. 33Así que Pablo salió de en medio de ellos. 34Pero algunos hombres se unieron a él y creyeron, entre ellos Dionisio el Areopagita, y también una mujer que se llamaba Dámaris, y varios más. 1Después de esto se fue de Atenas y llegó a Corinto."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nAlabad al Señor desde los cielos,\nalabadle en las alturas. 2Alabadle, todos sus ángeles,\nalabadle, todos sus ejércitos. 11reyes de la tierra y todos los pueblos,\npríncipes y los que gobiernan la tierra; 12jóvenes y doncellas,\nancianos y niños: 13alaben el Nombre del Señor,\nporque sólo su Nombre es sublime;\nsu majestad se extiende sobre tierra y cielos. 14Él ensalzó el poder de su pueblo.\nEs el himno de alabanza para todos sus fieles,\npara los hijos de Israel,\npara el pueblo de su intimidad.\n¡Aleluya!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12»Todavía tengo que deciros muchas cosas, pero no podéis sobrellevarlas ahora. 13Cuando venga Aquél, el Espíritu de la verdad, os guiará hacia toda la verdad, pues no hablará por sí mismo, sino que dirá todo lo que oiga y os anunciará lo que va a venir. 14Él me glorificará porque recibirá de lo mío y os lo anunciará. 15Todo lo que tiene el Padre es mío. Por eso dije: «Recibe de lo mío y os lo anunciará»."
+    }
+  }
+}

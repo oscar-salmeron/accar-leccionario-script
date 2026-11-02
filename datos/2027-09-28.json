@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "20»Esto dice el Señor de los ejércitos: «Aún han de llegar pueblos y habitantes de grandes ciudades. 21Los que habitan en una irán a otra diciendo: “¡Venga, vayamos a aplacar el rostro del Señor, a buscar al Señor de los ejércitos! ¡Yo también voy!”. 22Y vendrán pueblos numerosos y naciones poderosas a buscar al Señor de los ejércitos en Jerusalén para aplacar el rostro del Señor». 23»Esto dice el Señor de los ejércitos: «En esos días, cada diez hombres de todas las lenguas de las naciones agarrarán a un judío por una punta del manto diciéndole: “Queremos ir con vosotros, porque hemos oído que Dios está con vosotros”»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De los hijos de Coré. Salmo. Cántico.\nEn los montes santos están sus cimientos. 2El Señor ama las puertas de Sión\nmás que todas las moradas de Jacob. 3¡Grandezas se dicen de ti,\nciudad de Dios! 4Contaré a Rahab y Babilonia\nentre los que me reconocen.\nFilistea, Tiro y Etiopía\nhan nacido allí. 5Y de Sión se dirá:\n«Éste hombre y aquél han nacido en ella».\nEl propio Altísimo la erigió. 6El Señor escribirá en el registro de los pueblos:\n«Éste ha nacido allí». 7Cantores y músicos entonarán:\n«En ti están todas mis fuentes»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "51Y cuando iba a cumplirse el tiempo de su ascensión, decidió firmemente marchar hacia Jerusalén. 52Y envió por delante a unos mensajeros, que entraron en una aldea de samaritanos para prepararle hospedaje, 53pero no le acogieron porque llevaba la intención de ir a Jerusalén. 54Al ver esto, sus discípulos Santiago y Juan le dijeron:\n—Señor, ¿quieres que digamos que baje fuego del cielo y los consuma? 55Pero él se volvió hacia ellos y les reprendió. 56Y se fueron a otra aldea."
+    }
+  }
+}

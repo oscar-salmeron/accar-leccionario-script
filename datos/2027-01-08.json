@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios? 6Éste es el que vino por el agua y por la sangre: Jesucristo. No solamente con el agua, sino con el agua y con la sangre. Y es el Espíritu quien da testimonio, porque el Espíritu es la verdad. 7Pues son tres los que dan testimonio: 8el Espíritu, el agua y la sangre, y los tres coinciden en lo mismo. 9Si aceptamos el testimonio de los hombres, mayor es el testimonio de Dios. En esto consiste el testimonio de Dios: en que ha dado testimonio de su Hijo. 10El que cree en el Hijo de Dios lleva en sí mismo el testimonio. El que no cree a Dios le hace mentiroso, porque no cree en el testimonio que Dios ha dado de su Hijo. 11Y éste es el testimonio: que Dios nos ha dado la vida eterna, y esta vida está en su Hijo. 12Quien tiene al Hijo de Dios tiene la vida; quien no tiene al Hijo tampoco tiene la vida. 13Os escribo estas cosas, a los que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "12Glorifica al Señor, Jerusalén,\nalaba a tu Dios, Sión. 13Porque ha reforzado los cerrojos de tus puertas,\nha bendecido a tus hijos dentro de ti. 14Él ha puesto paz en tus fronteras,\nte sacia con la flor del trigo. 15Él envía su orden a la tierra,\nsu palabra corre veloz. 19Él anuncia su palabra a Jacob,\nsus decretos y sus preceptos a Israel. 20No ha obrado así con ninguna otra nación,\nni les ha dado a conocer sus preceptos.\n¡Aleluya!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12Cuando estaba en una de las ciudades, un hombre cubierto de lepra, al ver a Jesús, se postró en tierra y le suplicó diciendo:\n—Señor, si quieres, puedes limpiarme. 13Y extendiendo Jesús la mano le tocó diciendo:\n—Quiero, queda limpio.\nY al instante desapareció de él la lepra. 14Y él le mandó que no lo dijese a nadie; pero añadió:\n—Anda, preséntate al sacerdote, y lleva la ofrenda por tu curación, como ordenó Moisés, para que les sirva de testimonio. 15Se extendía su fama cada vez más, y concurrían numerosas muchedumbres para oírle y para ser curados de sus enfermedades. 16Pero él se retiraba a lugares apartados y hacía oración."
+    }
+  }
+}

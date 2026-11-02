@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-12-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "25«¿A quién me asemejaréis\ny me igualaréis?»\n—dice el Santo—. 26Alzad los ojos a lo alto y mirad:\n¿quién creó esas cosas?\nEl que hace salir por orden sus ejércitos,\ny a cada uno llama por su nombre;\ntan grande es su poder y tanta su fuerza,\nque ninguno falta. 27¿Por qué dices tú, Jacob,\ny hablas tú, Israel:\n«Mi camino está oculto al Señor,\na mi Dios no le importa mi derecho»? 28¿Es que no lo sabes? ¿O no lo has oído?\nEl Señor es el Dios eterno,\nel creador de los confines de la tierra,\nque no se cansa ni se fatiga;\nsu discernimiento es insondable. 29Él da fuerzas al cansado,\ny robustece al que no tiene vigor. 30Se cansan los muchachos y se fatigan,\nlos jóvenes desfallecen y caen, 31pero los que esperan en el Señor\nrenuevan su fuerza,\nechan alas como las águilas,\ncorren y no se fatigan,\ncaminan y no se cansan."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David.\nBendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo. 2Bendice, alma mía, al Señor,\nno olvides ninguno de sus beneficios. 3Él es quien perdona tus culpas,\nquien sana tus enfermedades. 4Quien rescata tu vida de la fosa,\nquien te corona de misericordia y compasión. 8El Señor es compasivo y misericordioso,\nlento a la ira y rico en misericordia. 10No nos trata según nuestros pecados,\nni nos paga según nuestras culpas."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "28»Venid a mí todos los fatigados y agobiados, y yo os aliviaré. 29Llevad mi yugo sobre vosotros y aprended de mí que soy manso y humilde de corazón, y encontraréis descanso para vuestras almas: 30porque mi yugo es suave y mi carga es ligera."
+    }
+  }
+}

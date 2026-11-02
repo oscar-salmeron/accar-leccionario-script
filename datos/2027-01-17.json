@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-01-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "3la lámpara de Dios todavía no se había apagado y Samuel estaba acostado en el Santuario del Señor donde estaba el arca de Dios. 4Entonces el Señor le llamó:\n—¡Samuel, Samuel!\nÉl respondió:\n—Aquí estoy. 5Y corrió hasta Elí y le dijo:\n—Aquí estoy porque me has llamado.\nPero Elí le respondió:\n—No te he llamado. Vuelve a acostarte.\nY fue a acostarse. 6El Señor lo llamó de nuevo:\n—¡Samuel!\nSe levantó, fue hasta Elí y le dijo:\n—Aquí estoy porque me has llamado.\nPero Elí contestó:\n—No te he llamado, hijo mío. Vuelve a acostarte 7—Samuel todavía no reconocía al Señor, pues aún no se le había revelado la palabra del Señor. 8Volvió a llamar el Señor por tercera vez a Samuel. Él se levantó, fue hasta Elí y le dijo:\n—Aquí estoy porque me has llamado.\nComprendió entonces Elí que era el Señor quien llamaba al joven, 9y le dijo:\n—Vuelve a acostarte y si te llaman dirás: «Habla, Señor, que tu siervo escucha».\nSamuel se fue y se acostó en su aposento. 10Vino el Señor, se presentó y le llamó como otras veces:\n—¡Samuel, Samuel!\nRespondió Samuel:\n—Habla, que tu siervo escucha. 19Samuel crecía y el Señor estaba con él; ninguna de sus palabras cayó en vacío."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Esperaba confiadamente en el Señor;\nÉl se inclinó a mí y escuchó mi clamor. 4Ha puesto en mi boca un cántico nuevo,\nuna alabanza a nuestro Dios.\nMuchos, al verlo, temerán\ny esperarán en el Señor. 7No quisiste sacrificio ni ofrenda,\npero me abriste el oído.\nNo pediste holocausto ni sacrificio de expiación; 8entonces dije: «Aquí estoy\n—como está escrito acerca de mí en el Libro— 9para hacer tu voluntad, Dios mío».\nÉse es mi querer,\npues llevo tu Ley dentro de mí. 10He anunciado la justicia en la gran asamblea;\nno he cerrado mis labios,\nSeñor, Tú lo sabes bien."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "13«La comida para el vientre, y el vientre para la comida». Pero Dios destruirá lo uno y lo otro. Por otra parte, el cuerpo no es para la fornicación sino para el Señor, y el Señor para el cuerpo. 14Y Dios, que resucitó al Señor, también nos resucitará a nosotros por su poder. 15¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Voy, entonces, a tomar los miembros de Cristo para hacerlos miembros de una meretriz? ¡De ninguna manera! 17En cambio, el que se une al Señor se hace un solo espíritu con él. 18Huid de la fornicación. Todo pecado que un hombre comete queda fuera de su cuerpo; pero el que fornica peca contra su propio cuerpo. 19¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo, que está en vosotros y habéis recibido de Dios, y que no os pertenecéis? 20Habéis sido comprados mediante un precio. Glorificad, por tanto, a Dios en vuestro cuerpo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "35Al día siguiente estaban allí de nuevo Juan y dos de sus discípulos 36y, fijándose en Jesús que pasaba, dijo:\n—Éste es el Cordero de Dios. 37Los dos discípulos, al oírle hablar así, siguieron a Jesús. 38Se volvió Jesús y, viendo que le seguían, les preguntó:\n—¿Qué buscáis?\nEllos le dijeron:\n—Rabbí —que significa: «Maestro»—, ¿dónde vives? 39Les respondió:\n—Venid y veréis.\nFueron y vieron dónde vivía, y se quedaron con él aquel día. Era más o menos la hora décima. 40Andrés, el hermano de Simón Pedro, era uno de los dos que habían oído a Juan y habían seguido a Jesús. 41Encontró primero a su hermano Simón y le dijo:\n—Hemos encontrado al Mesías —que significa: «Cristo». 42Y lo llevó a Jesús. Jesús le miró y le dijo:\n—Tú eres Simón, el hijo de Juan; tú te llamarás Cefas —que significa: «Piedra»."
+    }
+  }
+}

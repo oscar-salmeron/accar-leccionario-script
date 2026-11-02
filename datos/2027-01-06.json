@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "11Queridísimos: si Dios nos ha amado así, también nosotros debemos amarnos unos a otros. 12A Dios nadie le ha visto jamás. Si nos amamos unos a otros, Dios permanece en nosotros, y su amor alcanza en nosotros su perfección. 13En esto conocemos que permanecemos en Él, y Él en nosotros: en que nos ha hecho participar de su Espíritu. 14Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo como salvador del mundo. 15Si alguien confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios. 16Y nosotros hemos conocido y creído en el amor que Dios nos tiene. Dios es amor, y el que permanece en el amor permanece en Dios y Dios en él. 17En esto alcanza el amor su perfección en nosotros: en que tengamos confianza en el día del Juicio, porque tal como es él, así somos nosotros en este mundo. 18En el amor no hay temor, sino que el amor perfecto echa fuera el temor, porque el temor supone castigo, y el que teme no es perfecto en el amor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De Salomón.\nDios mío, concede tu juicio al rey\ny tu justicia al hijo del rey. 2Que gobierne a tu pueblo con justicia\ny a tus pobres con equidad. 10Que le traigan presentes los reyes de Tarsis y de las Islas,\nle ofrezcan dones los reyes de Sebá y de Sabá. 12Porque él librará al desvalido que clama\ny al pobre que no tiene amparo. 13Tendrá piedad del débil y del desvalido\ny salvará la vida de los indigentes."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "45Y enseguida mandó a sus discípulos que subieran a la barca y que se adelantaran a la otra orilla junto a Betsaida, mientras él despedía a la multitud. 46Y después de despedirlos, se retiró al monte a orar. 47Cuando se hizo de noche, la barca estaba en medio del mar, y él solo en tierra. 48Y viéndoles remar con gran fatiga, porque el viento les era contrario, hacia la cuarta vigilia de la noche vino a ellos andando sobre el mar, e hizo ademán de pasar de largo. 49Ellos, cuando lo vieron andando sobre el mar, pensaron que era un fantasma y empezaron a gritar. 50Pues todos le habían visto y se habían asustado. Pero al instante él habló con ellos, y les dijo:\n—Tened confianza, soy yo, no tengáis miedo. 51Y subió con ellos a la barca y se calmó el viento. Entonces se quedaron mucho más asombrados; 52porque no habían entendido lo de los panes, ya que su corazón estaba endurecido."
+    }
+  }
+}

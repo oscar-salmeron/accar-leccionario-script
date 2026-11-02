@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "3Saludad a Prisca y Aquila, mis colaboradores en Cristo Jesús, 4que expusieron sus cabezas para salvar mi vida, a quienes damos gracias no sólo yo sino también todas las iglesias de los gentiles, 5y saludad a la iglesia que se reúne en su casa.\nSaludad a Epéneto, amadísimo mío, primicia de Asia para Cristo. 6Saludad a María, que se ha esforzado mucho por vosotros. 7Saludad a Andrónico y Junia, mis parientes y compañeros de cautividad, que gozan de gran consideración entre los apóstoles y que llegaron a ser cristianos antes que yo. 8Saludad a Ampliato, amadísimo mío en el Señor. 9Saludad a Urbano, nuestro colaborador en Cristo, y a mi amadísimo Estaquis. 16Saludaos unos a otros con el beso santo. Os saludan todas las iglesias de Cristo. 22Os saludo yo, Tercio, que he escrito esta carta en el Señor. 23Os saluda Gayo, que nos hospeda a mí y a toda la iglesia. Os saluda Erasto, el tesorero de la ciudad, y Cuarto, nuestro hermano. 25Al que tiene el poder de confirmaros según mi evangelio y la predicación de Jesucristo, según la revelación del misterio oculto por los siglos eternos, 26pero ahora manifestado a través de las Escrituras proféticas conforme al designio del Dios eterno, dado a conocer a todas las gentes para la obediencia de la fe, 27a Dios, el único sabio, a Él la gloria por medio de Jesucristo por los siglos de los siglos. Amén."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2(Bet) Cada día te bendeciré\ny alabaré tu Nombre por siempre sin fin. 3(Guímel) Grande es el Señor y digno de toda alabanza,\nsu grandeza es insondable. 4(Dálet) Una generación a otra encomia tus obras\ny pregona tus proezas. 5(He) Comentan el esplendor de tu gloriosa majestad\ny narran tus obras maravillosas. 10(Yod) Que todas tus obras te den gracias, Señor,\ny tus fieles te bendigan. 11(Kaf) Que proclamen la gloria de tu reino\ny anuncien tu poder."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9»Y yo os digo: haceos amigos con las riquezas injustas, para que, cuando falten, os reciban en las moradas eternas. 10»Quien es fiel en lo poco también es fiel en lo mucho; y quien es injusto en lo poco también es injusto en lo mucho. 11Por tanto, si no fuisteis fieles en la riqueza injusta, ¿quién os confiará la verdadera? 12Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo vuestro? 13»Ningún criado puede servir a dos señores, porque o tendrá odio a uno y amor al otro, o prestará su adhesión al primero y menospreciará al segundo: no podéis servir a Dios y a las riquezas. 14Oían todas estas cosas los fariseos, que eran amantes del dinero, y se burlaban de él. 15Y les dijo:\n—Vosotros os hacéis pasar por justos delante de los hombres, pero Dios conoce vuestros corazones; porque lo que parece ser excelso ante los hombres es abominable delante de Dios."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5Porque Dios no sometió a los ángeles el mundo futuro del que hablamos. 6Por eso, se afirmó en cierto lugar de este modo:\n¿Qué es el hombre para que te acuerdes de él,\no el hijo del hombre para que te ocupes de él? 7Le has hecho sólo un poco inferior a los ángeles\ny le has coronado de gloria y honor. 8Todo lo has sometido bajo sus pies.\nAl someter todo al hombre no dejó nada sin someterle. Sin embargo, ahora no vemos que todo le esté ya sometido. 9En cambio, a aquel que fue hecho por un momento inferior a los ángeles, a Jesús, le vemos coronado de gloria y honor a causa de la muerte padecida. De modo que, por gracia de Dios, experimentó la muerte en beneficio de todos. 10Porque convenía que Aquel para quien y por quien son todas las cosas, habiéndose propuesto llevar muchos hijos a la gloria, perfeccionase mediante los sufrimientos al que iba a llevarlos a la salvación. 11Porque quien santifica y quienes son santificados vienen todos de uno solo; por eso no se avergüenza de llamarlos hermanos, 12y dice:\nAnunciaré tu nombre a mis hermanos\ny en medio de la iglesia te alabaré."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2¡Dios y Señor nuestro,\nqué admirable es tu Nombre en toda la tierra!\nHas exaltado tu majestad sobre los cielos. 5¿qué es el hombre, para que de él te acuerdes,\ny el hijo de Adán, para que te cuides de él? 6Lo has hecho poco menor que los ángeles,\nle has coronado de gloria y honor. 7Le das el mando sobre las obras de tus manos.\nTodo lo has puesto bajo sus pies: 8ovejas y bueyes,\nbestias del campo, 9aves del cielo, peces del mar,\ncuanto cruza las rutas del piélago."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "21Entraron en Cafarnaún y, en cuanto llegó el sábado, fue a la sinagoga y se puso a enseñar. 22Y se quedaron admirados de su enseñanza, porque les enseñaba como quien tiene potestad y no como los escribas. 23Se encontraba entonces en la sinagoga un hombre poseído por un espíritu impuro, 24que comenzó a gritar:\n—¿Qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios! 25Y Jesús le conminó:\n—¡Cállate, y sal de él! 26Entonces, el espíritu impuro, zarandeándolo y dando una gran voz, salió de él. 27Y se quedaron todos estupefactos, de modo que se preguntaban entre ellos:\n—¿Qué es esto? Una enseñanza nueva con potestad. Manda incluso a los espíritus impuros y le obedecen. 28Y su fama corrió pronto por todas partes, en toda la región de Galilea."
+    }
+  }
+}

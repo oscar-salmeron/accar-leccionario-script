@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "25Por eso puede también salvar perfectamente a los que se acercan a Dios a través de él, ya que vive siempre para interceder por nosotros. 26Nos convenía, en efecto, que el Sumo Sacerdote fuera santo, inocente, inmaculado, separado de los pecadores y encumbrado por encima de los cielos; 27que no tiene necesidad de ofrecer todos los días, como aquellos sumos sacerdotes, primero unas víctimas por sus propios pecados y luego por los del pueblo, porque esto lo hizo de una vez para siempre cuando se ofreció él mismo. 28Pues la Ley constituye sumos sacerdotes a unos hombres con debilidades, mientras que la palabra del juramento, que sucede a la Ley, hace al Hijo perfecto para siempre. 1Lo más importante de todo lo dicho es esto: tenemos un Sumo Sacerdote tan grande, que se sentó a la diestra del trono de la Majestad en los cielos, 2ministro del Santuario y del Tabernáculo verdadero que erigió el Señor, y no un hombre. 3Porque todo sumo sacerdote está constituido para ofrecer dones y sacrificios, y, por tanto, es necesario que también él tenga algo que ofrecer. 4Si estuviera en la tierra, no sería siquiera sacerdote, porque ya hay quienes ofrecen dones según la Ley. 5Éstos dan un culto que es sólo figura y sombra del celestial, conforme a lo que le fue revelado a Moisés cuando se disponía a construir el Tabernáculo. Pues dice: Mira, lo harás todo según el modelo que te ha sido mostrado en el monte. 6Pero ahora él ha obtenido un oficio mucho más excelente, ya que es mediador de una alianza mucho más valiosa, por haber sido fundada sobre promesas mejores."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "7No quisiste sacrificio ni ofrenda,\npero me abriste el oído.\nNo pediste holocausto ni sacrificio de expiación; 8entonces dije: «Aquí estoy\n—como está escrito acerca de mí en el Libro— 9para hacer tu voluntad, Dios mío».\nÉse es mi querer,\npues llevo tu Ley dentro de mí. 10He anunciado la justicia en la gran asamblea;\nno he cerrado mis labios,\nSeñor, Tú lo sabes bien. 17Que se gocen y se alegren en Ti\ntodos los que te buscan.\nDigan sin cesar: «¡Grande es el Señor!»,\nlos que aman tu salvación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "7Jesús se alejó con sus discípulos hacia el mar. Y le siguió una gran muchedumbre de Galilea y de Judea. 8También de Jerusalén, de Idumea, de más allá del Jordán y de los alrededores de Tiro y de Sidón, vino hacia él una gran multitud al oír las cosas que hacía. 9Y les dijo a sus discípulos que le tuviesen dispuesta una pequeña barca, por causa de la muchedumbre, para que no le aplastasen; 10porque sanaba a tantos, que todos los que tenían enfermedades se le echaban encima para tocarle. 11Y los espíritus impuros, cuando lo veían, se arrojaban a sus pies y gritaban diciendo:\n—¡Tú eres el Hijo de Dios! 12Y les ordenaba con mucha fuerza que no le descubriesen."
+    }
+  }
+}

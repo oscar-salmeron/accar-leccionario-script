@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-12-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Consolad, consolad a mi pueblo, —dice vuestro Dios—. 2Hablad al corazón de Jerusalén\ny gritadle\nque se ha cumplido su servidumbre,\ny ha sido expiada su culpa;\nque ha recibido de la mano del Señor\nel doble por todos sus pecados. 3Una voz grita: «En el desierto preparad el camino del Señor,\nen la estepa haced una calzada recta para nuestro Dios. 4Todo valle será rellenado,\ny todo monte y colina allanados;\nlo torcido será recto,\ny lo escarpado, llano. 5Entonces se revelará la gloria del Señor,\ny toda carne a una la verá,\npues ha hablado la boca del Señor». 9Súbete a un monte bien alto,\ntú, la que traes buenas noticias a Sión;\nalza con fuerza tu voz,\nla que traes buenas noticias a Jerusalén;\ngrita sin temor.\nDi a las ciudades de Judá:\n«Aquí está vuestro Dios». 10Mirad, el Señor Dios viene con poder,\ny su brazo le somete todo.\nMirad que trae su recompensa,\ny su premio va por delante. 11Apacienta su rebaño como un pastor,\nlo congrega con su brazo,\nlleva los corderillos en su regazo,\ny conduce con cuidado a las que están criando."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "9Escucharé lo que dice Dios:\nel Señor anuncia la paz a su pueblo y a sus fieles,\ncon tal de que no retornen a la necedad. 10En verdad, ya está cerca la salvación\npara los que le temen,\npara que en nuestra tierra habite la Gloria. 11Misericordia y fidelidad se encontrarán,\njusticia y paz se besarán. 12De la tierra germinará la fidelidad,\ndesde los cielos despuntará la justicia. 13Porque el Señor otorgará bienes,\ny nuestra tierra producirá sus frutos. 14Ante Él marchará la justicia,\ny sus pasos abrirán camino."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "8Pero hay algo, queridísimos, que no debéis olvidar: que para el Señor un día es como mil años, y mil años como un día. 9No tarda el Señor en cumplir su promesa, como algunos piensan; más bien tiene paciencia con vosotros, porque no quiere que nadie se pierda, sino que todos se conviertan. 10Pero como un ladrón llegará el día del Señor. Entonces los cielos se desharán con estrépito, los elementos se disolverán abrasados, y lo mismo la tierra con lo que hay en ella. 11Si todas estas cosas se van a destruir de ese modo, ¡cuánto más debéis llevar vosotros una conducta santa y piadosa, 12mientras aguardáis y apresuráis la venida del día de Dios, cuando los cielos se disuelvan ardiendo y los elementos se derritan abrasados! 13Nosotros, según su promesa, esperamos unos cielos nuevos y una tierra nueva, en los que habita la justicia. 14Por lo tanto, queridísimos, a la espera de estos acontecimientos, esmeraos para que él os encuentre en paz, inmaculados e intachables,"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Comienzo del Evangelio de Jesucristo, Hijo de Dios. 2Como está escrito en el profeta Isaías:\nMira que envío a mi mensajero delante de ti,\npara que vaya preparando tu camino. 3Voz del que clama en el desierto:\n«Preparad el camino del Señor,\nhaced rectas sus sendas». 4Apareció Juan Bautista en el desierto predicando un bautismo de penitencia para remisión de los pecados. 5Y toda la región de Judea y todos los habitantes de Jerusalén acudían a él y eran bautizados por él en el río Jordán, confesando sus pecados. 6Juan llevaba un vestido de pelo de camello con un ceñidor de cuero a la cintura y comía langostas y miel silvestre. 7Y predicaba:\n—Después de mí viene el que es más poderoso que yo, ante quien yo no soy digno de inclinarme para desatarle la correa de las sandalias. 8Yo os he bautizado en agua, pero él os bautizará en el Espíritu Santo."
+    }
+  }
+}

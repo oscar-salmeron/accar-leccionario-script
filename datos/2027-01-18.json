@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Porque todo sumo sacerdote, escogido entre los hombres, está constituido en favor de los hombres en lo que se refiere a Dios, para ofrecer dones y sacrificios por los pecados; 2y puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad, 3y a causa de ella debe ofrecer expiación por los pecados, tanto por los del pueblo como por los suyos. 4Y nadie se atribuye este honor, sino el que es llamado por Dios, como Aarón. 5De igual modo, Cristo no se apropió la gloria de ser Sumo Sacerdote, sino que se la otorgó el que le dijo:\nTú eres mi hijo,\nyo te he engendrado hoy. 6Asimismo, en otro lugar, dice también:\nTú eres sacerdote para siempre,\nsegún el orden de Melquisedec. 7Él, en los días de su vida en la tierra, ofreció con gran clamor y lágrimas oraciones y súplicas al que podía salvarle de la muerte, y fue escuchado por su piedad filial, 8y, aun siendo Hijo, aprendió por los padecimientos la obediencia. 9Y, llegado a la perfección, se ha hecho causa de salvación eterna para todos los que le obedecen, 10ya que fue proclamado por Dios Sumo Sacerdote según el orden de Melquisedec."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David. Salmo.\nOráculo del Señor a mi señor:\n«Siéntate a mi derecha\nhasta que ponga a tus enemigos\ncomo estrado de tus pies». 2El Señor extenderá desde Sión\nel poder de tu cetro:\n«Domina en medio de tus enemigos». 3Para ti es el principado\nel día de tu poder,\nentre esplendores sagrados.\nDesde el seno, antes de la aurora,\ncomo el rocío, te he engendrado. 4El Señor lo ha jurado\ny no se arrepiente:\n«Tú eres sacerdote para siempre\nsegún el orden de Melquisedec»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "18Los discípulos de Juan y los fariseos estaban de ayuno; y vinieron a decirle:\n—¿Por qué los discípulos de Juan y los de los fariseos ayunan y, en cambio, tus discípulos no ayunan? 19Jesús les respondió:\n—¿Acaso pueden ayunar los amigos del esposo, mientras el esposo está con ellos? Durante el tiempo en que tienen al esposo con ellos no pueden ayunar. 20Ya vendrán días en que les será arrebatado el esposo; entonces, en aquel día, ya ayunarán. 21»Nadie cose un remiendo de paño nuevo a un vestido viejo; porque entonces lo añadido tira de él, lo nuevo de lo viejo, y se produce un desgarrón peor. 22Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino hace reventar los odres, y se pierden el vino y los odres. Para vino nuevo, odres nuevos."
+    }
+  }
+}

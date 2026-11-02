@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-12-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "24Entonces subió con él llevando consigo un novillo de tres años, un efah de flor de harina y un odre de vino; y entró con él en la casa del Señor en Siló. El niño era todavía muy pequeño. 25Cuando inmolaron el novillo y presentaron al muchacho ante Elí, 26Ana le dijo:\n—Perdona, señor; por tu vida, señor: yo soy aquella mujer que estuvo aquí en tu presencia implorando al Señor. 27Por este niño rogué y el Señor me ha concedido lo que le pedí. 28Ahora yo se lo devuelvo al Señor para que durante toda su vida esté entregado al Señor.\nY adoraron allí al Señor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Entonces Ana recitó esta oración:\n—Mi corazón exulta en el Señor,\nmi frente se enaltece en el Señor,\nmi boca se ríe de mis enemigos\npues me gozo con tu salvación. 4Se ha quebrado el arco de los héroes\ny los débiles se han ceñido de vigor. 5Los hartos se alquilan por pan,\ny los hambrientos han cesado en sus fatigas.\nLa estéril da a luz siete hijos,\ny la que tiene muchos se marchita. 6El Señor da muerte y vida,\nhace bajar al sheol y de allí los hace retornar. 7El Señor da la pobreza y la riqueza,\nÉl humilla y enaltece. 8Levanta del polvo al indigente,\ndel estiércol levanta al pobre\npara sentarlo con los príncipes\ny hacer que herede un trono de gloria.\nDel Señor son los pilares de la tierra\ny sobre ellos se ha afirmado el orbe."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "46María exclamó:\n—Engrandece mi alma al Señor, 47y se alegra mi espíritu en Dios mi Salvador: 48porque ha puesto los ojos\nen la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones. 49Porque ha hecho en mí cosas grandes\nel Todopoderoso,\ncuyo nombre es Santo; 50su misericordia se derrama de generación\nen generación\nsobre los que le temen. 51Manifestó el poder de su brazo,\ndispersó a los soberbios de corazón. 52Derribó de su trono a los poderosos\ny ensalzó a los humildes. 53Colmó de bienes a los hambrientos\ny a los ricos los despidió vacíos. 54Auxilió a Israel su siervo,\nrecordando su misericordia, 55como había prometido a nuestros padres,\nAbrahán y su descendencia para siempre. 56María permaneció con ella unos tres meses, y se volvió a su casa."
+    }
+  }
+}

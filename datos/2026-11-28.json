@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Me mostró el río de agua de la vida, claro como un cristal, procedente del trono de Dios y del Cordero. 2En medio de su plaza, y en una y otra orilla del río, está el árbol de la vida, que produce frutos doce veces: cada mes da fruto; y las hojas del árbol sirven para sanar a las naciones. 3Ya no habrá nada maldito. En ella estará el trono de Dios y del Cordero, y sus siervos le darán culto, 4verán su rostro y llevarán su nombre grabado en la frente. 5Ya no habrá noche: no tienen necesidad de luz de lámparas ni de la luz del sol, porque el Señor Dios alumbrará sobre ellos y reinarán por los siglos de los siglos. 6Y me dijo:\n—Estas palabras son fidedignas y veraces. El Señor, Dios de los espíritus de los profetas, ha enviado su ángel para manifestar a sus siervos las cosas que van a suceder pronto. 7Mira, vendré enseguida. Bienaventurado el que guarde las palabras de la profecía de este libro."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Venid!, cantemos jubilosos al Señor,\naclamemos a la Roca de nuestra salvación. 2Vayamos a su presencia con acción de gracias,\naclamémosle con salmos. 3Porque el Señor es Dios Grande,\nel Gran Rey sobre todos los dioses. 4En su mano están las simas de la tierra,\nsuyas son las cumbres de los montes. 5Suyo es el mar, pues Él lo hizo,\ny la tierra firme que modelaron sus manos. 6Venid, adoremos y postrémonos,\npongámonos de hinojos\nante el Señor, nuestro Hacedor. 7Pues Él es nuestro Dios,\ny nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "34»Vigilaos a vosotros mismos, para que vuestros corazones no estén ofuscados por la crápula, la embriaguez y los afanes de esta vida, y aquel día no sobrevenga de improviso sobre vosotros, 35porque caerá como un lazo sobre todos aquellos que habitan en la faz de toda la tierra. 36Vigilad orando en todo tiempo, a fin de que podáis evitar todos estos males que van a suceder, y estar en pie delante del Hijo del Hombre."
+    }
+  }
+}

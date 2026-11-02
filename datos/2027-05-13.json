@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "30Al día siguiente, deseando saber con exactitud de qué le acusaban los judíos, le quitó las cadenas, mandó reunir a los príncipes de los sacerdotes y a todo el Sanedrín, llevó a Pablo y lo hizo comparecer ante ellos. 6Sabiendo Pablo que unos eran saduceos y otros fariseos, gritó en medio del Sanedrín:\n—¡Hermanos, yo soy fariseo, hijo de fariseos, y se me juzga por la esperanza en la resurrección de los muertos! 7Al decir esto se produjo un enfrentamiento entre fariseos y saduceos y se dividió la multitud. 8Porque los saduceos dicen que no hay resurrección, ni ángeles ni espíritus; los fariseos, en cambio, confiesan una y otra cosa. 9Se produjo un enorme griterío y puestos en pie algunos escribas del grupo de los fariseos discutían:\n—No encontramos nada malo en este hombre. ¿Y si le ha hablado algún espíritu o algún ángel? 10Como el alboroto crecía cada vez más, temeroso el tribuno de que despedazaran a Pablo, ordenó a los soldados bajar, sacarlo de en medio de ellos y conducirlo al cuartel. 11Esa noche se le apareció el Señor y le dijo:\n—Mantén el ánimo, pues igual que has dado testimonio de mí en Jerusalén, así debes darlo también en Roma."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Mictam. De David.\nGuárdame, Dios mío, que me refugio en Ti. 2Yo digo al Señor:\n«Tú eres mi Señor.\nNo tengo otro bien que Tú». 5Señor, Tú eres el lote de mi heredad y de mi copa:\nTú sostienes mi parte. 7Yo bendigo al Señor, que me aconseja;\nhasta de noche mi corazón me instruye. 8Pongo ante mí al Señor sin cesar;\ncon Él a mi derecha, no vacilo. 9Por eso se alegra mi corazón,\nse goza mi alma,\nhasta mi carne descansa en la esperanza. 10Porque no abandonarás mi alma en el sheol,\nni dejarás a tu fiel ver la corrupción. 11Me enseñas la senda de la vida,\nsaciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "20»No ruego sólo por éstos, sino por los que van a creer en mí por su palabra: 21que todos sean uno; como Tú, Padre, en mí y yo en Ti, que así ellos estén en nosotros, para que el mundo crea que Tú me has enviado. 22Yo les he dado la gloria que Tú me diste, para que sean uno como nosotros somos uno. 23Yo en ellos y Tú en mí, para que sean consumados en la unidad, y conozca el mundo que Tú me has enviado y los has amado como me amaste a mí. 24Padre, quiero que donde yo estoy también estén conmigo los que Tú me has confiado, para que vean mi gloria, la que me has dado porque me amaste antes de la creación del mundo. 25Padre justo, el mundo no te conoció; pero yo te conocí, y éstos han conocido que Tú me enviaste. 26Les he dado a conocer tu nombre y lo daré a conocer, para que el amor con que Tú me amaste esté en ellos y yo en ellos."
+    }
+  }
+}

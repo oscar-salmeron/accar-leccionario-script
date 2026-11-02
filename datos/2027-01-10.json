@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-01-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Mira a mi siervo, a quien sostengo, mi elegido, en quien se complace mi alma.\nHe puesto mi Espíritu sobre él:\nllevará el derecho a las naciones. 2No gritará, ni chillará,\nno hará oír su voz en la calle. 3No quebrará la caña cascada,\nni apagará el pabilo vacilante.\nDictará sentencia según la verdad. 4No desfallecerá ni se doblará\nhasta que establezca el derecho en la tierra.\nLas islas esperarán su ley. 6«Yo, el Señor, te he llamado en justicia,\nte he tomado de la mano,\nte he guardado y te he destinado\npara alianza del pueblo,\npara luz de las naciones, 7para abrir los ojos de los ciegos,\npara sacar de la prisión a los cautivos\ny del calabozo a los que yacen en tinieblas."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo. De David.\nHijos de Dios, dad al Señor,\ndad al Señor la gloria y el poder. 2Dad al Señor la gloria de su Nombre,\npostraos ante el Señor en su atrio santo. 3La voz del Señor sobre las aguas:\nha tronado el Dios de la gloria,\nel Señor sobre las aguas caudalosas. 4La voz del Señor con potencia,\nla voz del Señor con majestad. 9La voz del Señor retuerce los robles,\ndesnuda las selvas,\nmientras en su Templo todos claman: «¡Gloria!». 10El Señor está sentado sobre el diluvio,\nel Señor está sentado como rey eterno."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "34Pedro comenzó a hablar:\n—En verdad comprendo que Dios no hace acepción de personas, 35sino que en cualquier pueblo le es agradable todo el que le teme y obra la justicia. 36Ha enviado su palabra a los hijos de Israel, anunciando el Evangelio de la paz por medio de Jesucristo, que es Señor de todos. 37»Vosotros sabéis lo ocurrido por toda Judea, comenzando por Galilea, después del bautismo que predicó Juan: 38cómo a Jesús de Nazaret le ungió Dios con el Espíritu Santo y poder, y cómo pasó haciendo el bien y sanando a todos los oprimidos por el diablo, porque Dios estaba con él."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "7Y predicaba:\n—Después de mí viene el que es más poderoso que yo, ante quien yo no soy digno de inclinarme para desatarle la correa de las sandalias. 8Yo os he bautizado en agua, pero él os bautizará en el Espíritu Santo. 9Y sucedió que en aquellos días vino Jesús desde Nazaret de Galilea, y fue bautizado por Juan en el Jordán. 10Y nada más salir del agua vio los cielos abiertos y al Espíritu que, en forma de paloma, descendía sobre él; 11y se oyó una voz desde los cielos:\n—Tú eres mi Hijo, el amado, en ti me he complacido."
+    }
+  }
+}

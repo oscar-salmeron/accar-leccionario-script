@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "8Esteban, lleno de gracia y de poder, hacía grandes prodigios y señales entre el pueblo. 9Se levantaron a discutir con Esteban algunos de la sinagoga llamada de los libertos, de los cirenenses y alejandrinos, con otros de Cilicia y Asia. 10Pero no podían resistir la sabiduría y el Espíritu con que hablaba. 11Sobornaron entonces a unos hombres que dijeron:\n—Nosotros le hemos oído proferir palabras blasfemas contra Moisés y contra Dios. 12Amotinaron al pueblo, a los ancianos y a los escribas, y llegaron de improviso para prenderle y llevarlo ante el Sanedrín. 13Presentaron testigos falsos que decían:\n—Este hombre no deja de proferir palabras contra este lugar santo y contra la Ley. 14Porque le hemos oído decir que ese Jesús, el Nazareno, destruirá este lugar y cambiará las costumbres que nos ha transmitido Moisés. 15Y al fijarse en él todos los que estaban sentados en el Sanedrín vieron que su rostro era como el de un ángel."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "23Aunque los príncipes se sienten para calumniarme,\ntu siervo medita en tus estatutos. 24Pues tus preceptos son mi gozo,\ny tus decretos, mis consejeros. 26Conté mis andanzas, y me has escuchado.\nEnséñame tus decretos. 27Hazme entender el camino de tus mandatos,\ny meditaré en tus maravillas. 29Aparta de mí el camino falso,\ny dame la gracia de tu Ley. 30He elegido el camino de la verdad,\nme he ajustado a tus normas;"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "22Al día siguiente, la multitud que estaba al otro lado del mar vio que no había allí más que una sola barca, y que Jesús no había subido a ella con sus discípulos, sino que éstos se habían marchado solos. 23De Tiberíades otras barcas llegaron cerca del lugar donde habían comido el pan después de que el Señor diera gracias. 24Cuando la multitud vio que ni Jesús ni sus discípulos estaban allí, subieron a las barcas y fueron a Cafarnaún buscando a Jesús. 25Y al encontrarle en la otra orilla del mar, le preguntaron:\n—Maestro, ¿cuándo has llegado aquí? 26Jesús les respondió:\n—En verdad, en verdad os digo que vosotros me buscáis no por haber visto los signos, sino porque habéis comido los panes y os habéis saciado. 27Obrad no por el alimento que se consume sino por el que perdura hasta la vida eterna, el que os dará el Hijo del Hombre, pues a éste lo confirmó Dios Padre con su sello. 28Ellos le preguntaron:\n—¿Qué debemos hacer para realizar las obras de Dios? 29Jesús les respondió:\n—Ésta es la obra de Dios: que creáis en quien Él ha enviado."
+    }
+  }
+}

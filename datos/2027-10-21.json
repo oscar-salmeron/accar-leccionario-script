@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "19Hablo a lo humano en atención a la flaqueza de vuestra carne. Igual que ofrecisteis vuestros miembros al servicio de la impureza y de la iniquidad para cometer iniquidades, ofreced ahora vuestros miembros al servicio de la justicia para la santidad. 20Cuando erais esclavos del pecado, estabais libres respecto de la justicia. 21¿Qué fruto obteníais entonces de esas cosas que ahora os avergüenzan? Pues su final es la muerte. 22Ahora, en cambio, liberados del pecado y hechos siervos de Dios, dais vuestro fruto para la santidad; y tenéis como fin la vida eterna. 23Pues el salario del pecado es la muerte; en cambio el don de Dios es la vida eterna en Cristo Jesús, Señor nuestro."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dichoso el hombre\nque no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes, 2sino que se complace en la Ley del Señor,\ny noche y día medita en su Ley. 3Será como un árbol\nplantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera. 4No así los impíos, no así.\nSon como polvo que dispersa el viento. 6Porque el Señor vela sobre el camino de los justos,\nmientras el de los impíos acaba en perdición."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "49»Fuego he venido a traer a la tierra, y ¿qué quiero sino que ya arda? 50Tengo que ser bautizado con un bautismo, y ¡qué ansias tengo hasta que se lleve a cabo! 51¿Pensáis que he venido a traer paz a la tierra? No, os digo, sino división. 52Pues desde ahora, habrá cinco en una casa divididos: tres contra dos y dos contra tres; 53se dividirán el padre contra el hijo y el hijo contra el padre, la madre contra la hija y la hija contra la madre, la suegra contra la nuera y la nuera contra la suegra."
+    }
+  }
+}

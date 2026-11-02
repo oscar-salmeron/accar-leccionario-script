@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "13que Dios no hizo la muerte,\nni se goza con la pérdida de los vivientes. 14Sino que creó todas las cosas para que existieran:\nlas criaturas del mundo son saludables,\nno hay en ellas veneno mortífero,\nni el mundo del hades reina sobre la tierra, 15porque la justicia es inmortal. 23Porque Dios creó al hombre para la incorruptibilidad\ny lo hizo a imagen de su propia eternidad. 24Mas por la envidia del diablo entró la muerte en el mundo,\ny la experimentan los que son de su bando."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Te ensalzaré, Señor, porque me has librado,\nno has dejado a mis enemigos alegrarse a mi costa. 4Señor, sacaste mi alma del sheol,\nme hiciste revivir cuando bajaba a la tumba. 5Entonad, fieles, salmos al Señor,\nalabad su santo Nombre, 6porque su ira dura un instante,\nsu bondad, toda la vida;\nal atardecer se hospeda el llanto,\nal amanecer, el júbilo. 11Escucha, Señor, ten piedad de mí.\nSeñor, sé mi socorro. 12Has cambiado mi llanto en danza,\nhas desatado mi saco y me has vestido de alegría. 13Por eso mi corazón te entona salmos sin cesar.\nSeñor, Dios mío, te alabaré por siempre."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "7Y así como tenéis abundancia de todo —de fe, de palabra, de ciencia, de todo desvelo y de la caridad que os hemos comunicado—, sed también abundantes en esta gracia. 9Porque conocéis la gracia de nuestro Señor Jesucristo, que, siendo rico, se hizo pobre por vosotros, para que vosotros seáis ricos por su pobreza. 13Pues no se trata de que para otros haya desahogo y para vosotros apuros, sino de que, según las normas de la igualdad, 14vuestra abundancia remedie ahora su necesidad, para que la abundancia de ellos pueda remediar vuestra necesidad, a fin de que haya equidad, según está escrito: 15El que mucho recogió no tuvo de más; y el que recogió poco no tuvo de menos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "21Y tras cruzar de nuevo Jesús en la barca hasta la orilla opuesta, se congregó una gran muchedumbre a su alrededor mientras él estaba junto al mar. 22Viene uno de los jefes de la sinagoga, que se llamaba Jairo. Al verlo, se postra a sus pies 23y le suplica con insistencia diciendo:\n—Mi hija está en las últimas. Ven, pon las manos sobre ella para que se salve y viva. 24Se fue con él, y le seguía la muchedumbre, que le apretujaba. 25Y una mujer que tenía un flujo de sangre desde hacía doce años, 26y que había sufrido mucho a manos de muchos médicos y se había gastado todos sus bienes sin aprovecharle de nada, sino que iba de mal en peor, 27cuando oyó hablar de Jesús, vino por detrás entre la muchedumbre y le tocó el manto 28—porque decía: «Con que toque sus ropas, me curaré»—. 29Y de repente se secó la fuente de sangre y sintió en su cuerpo que estaba curada de la enfermedad. 30Y al momento Jesús conoció en sí mismo la fuerza salida de él y, vuelto hacia la muchedumbre, decía:\n—¿Quién me ha tocado la ropa? 31Y le decían sus discípulos:\n—Ves que la muchedumbre te apretuja y dices: «¿Quién me ha tocado?». 32Y miraba a su alrededor para ver a la que había hecho esto. 33La mujer, asustada y temblando, sabiendo lo que le había ocurrido, se acercó, se postró ante él y le dijo toda la verdad. 34Él entonces le dijo:\n—Hija, tu fe te ha salvado. Vete en paz y queda curada de tu dolencia. 35Todavía estaba él hablando, cuando llegan desde la casa del jefe de la sinagoga, diciendo:\n—Tu hija ha muerto, ¿para qué molestas ya al Maestro? 36Jesús, al oír lo que hablaban, le dice al jefe de la sinagoga:\n—No temas, tan sólo ten fe. 37Y no permitió que nadie le siguiera, excepto Pedro, Santiago y Juan, el hermano de Santiago. 38Llegan a la casa del jefe de la sinagoga, y ve el alboroto y a los que lloraban y a las plañideras. 39Y al entrar, les dice:\n—¿Por qué alborotáis y estáis llorando? La niña no ha muerto, sino que duerme. 40Y se burlaban de él. Pero él, haciendo salir a todos, toma consigo al padre y a la madre de la niña y a los que le acompañaban, y entra donde estaba la niña. 41Y tomando la mano de la niña, le dice:\n—Talitha qum —que significa: «Niña, a ti te digo, levántate». 42Y enseguida la niña se levantó y se puso a andar, pues tenía doce años. Y quedaron llenos de asombro. 43Les insistió mucho en que nadie lo supiera, y dijo que le dieran a ella de comer."
+    }
+  }
+}

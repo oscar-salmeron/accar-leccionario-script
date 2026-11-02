@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "13Pablo y sus compañeros navegaron desde Pafos hasta llegar a Perge de Panfilia; pero Juan se separó de ellos y volvió a Jerusalén. 14Ellos siguieron desde Perge y llegaron a Antioquía de Pisidia. El sábado entraron en la sinagoga y tomaron asiento. 15Después de la lectura de la Ley y los Profetas, los jefes de la sinagoga se dirigieron a ellos:\n—Hermanos, si tenéis alguna palabra de exhortación para el pueblo, decidla. 16Pablo se levantó, pidió con la mano silencio y dijo:\n—Varones israelitas y los temerosos de Dios, escuchad: 17el Dios de este pueblo de Israel eligió a nuestros padres, enalteció al pueblo durante su permanencia en el país de Egipto, y con brazo fuerte los sacó de allí. 18Durante unos cuarenta años los cuidó en el desierto; 19destruyó siete naciones en el país de Canaán y distribuyó su tierra entre ellos 20a lo largo de unos cuatrocientos cincuenta años. Después de esto, les dio jueces hasta el profeta Samuel. 21Pidieron entonces un rey y Dios les dio durante cuarenta años a Saúl, hijo de Cis, varón de la tribu de Benjamín. 22Cuando lo depuso, les suscitó como rey a David, a quien acreditó diciendo: Encontré a David, hijo de Jesé, hombre según mi corazón, que hará en todo mi voluntad. 23»De su descendencia, Dios, según la promesa, hizo surgir para Israel un Salvador, Jesús. 24Juan había predicado, ante la proximidad de su venida, un bautismo de penitencia a todo el pueblo de Israel. 25Cuando estaba Juan para terminar su carrera decía: «¿Quién pensáis que soy? No soy yo, sino mirad que detrás de mí viene uno a quien no soy digno de desatar el calzado de los pies»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Las misericordias del Señor cantaré eternamente;\nde generación en generación\nanunciaré con mi boca tu fidelidad. 3Pues he dicho:\n«La misericordia está edificada para siempre;\ntu fidelidad está firme en los cielos». 21He hallado a David, mi siervo,\nlo he ungido con mi óleo santo. 22Mi mano estará firme con él,\nmi brazo le hará fuerte. 25Con él estarán mi fidelidad y misericordia,\ny en mi Nombre será exaltado su poder. 27Él me invocará: “Tú eres mi Padre,\nmi Dios, la Roca de mi salvación”."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "16En verdad, en verdad os digo: no es el siervo más que su señor, ni el enviado más que quien le envió. 17Si comprendéis esto y lo hacéis, seréis bienaventurados. 18No lo digo por todos vosotros: yo sé a quiénes elegí; sino para que se cumpla la Escritura: El que come mi pan levantó contra mí su talón. 19Os lo digo desde ahora, antes de que suceda, para que cuando ocurra creáis que yo soy. 20En verdad, en verdad os digo: quien recibe al que yo envíe, a mí me recibe; y quien a mí me recibe, recibe al que me ha enviado."
+    }
+  }
+}

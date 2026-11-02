@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-01-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1¡Levántate, resplandece, que llega tu luz, y la gloria del Señor amanece sobre ti! 2Mira que las tinieblas cubren la tierra,\ny la oscuridad, los pueblos,\npero sobre ti amanece el Señor,\nsobre ti aparece su gloria. 3Las naciones caminarán a tu luz,\nlos reyes, al resplandor de tu aurora. 4Alza tus ojos y mira alrededor:\ntodos ellos se congregan, vienen a ti.\nTus hijos vienen de lejos,\ntus hijas abrazadas a su costado. 5Entonces, mirarás y te pondrás radiante,\npalpitará y se ensanchará tu corazón,\npues la abundancia del mar se volcará sobre ti,\nllegará a ti la riqueza de las naciones. 6Te cubrirá una multitud de camellos,\ndromedarios de Madián y Efá,\ntodos vendrán de Sabá\ncargados de oro e incienso,\ny pregonando alabanzas al Señor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De Salomón.\nDios mío, concede tu juicio al rey\ny tu justicia al hijo del rey. 2Que gobierne a tu pueblo con justicia\ny a tus pobres con equidad. 7Florezca en sus días la justicia,\ny haya paz abundante mientras perdure la luna. 8Domine de mar a mar,\ndesde el Río hasta los confines de la tierra. 10Que le traigan presentes los reyes de Tarsis y de las Islas,\nle ofrezcan dones los reyes de Sebá y de Sabá. 11Que se prosternen ante él todos los reyes\ny le sirvan todas las naciones. 12Porque él librará al desvalido que clama\ny al pobre que no tiene amparo. 13Tendrá piedad del débil y del desvalido\ny salvará la vida de los indigentes."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "2Ya habréis oído que Dios me concedió el encargo de administrar su gracia en favor vuestro, 3pues mediante una revelación se me dio a conocer el misterio, como brevemente lo he descrito antes. 5que no se dio a conocer a los hijos de los hombres en otras generaciones, como ahora ha sido revelado a sus santos apóstoles y profetas por el Espíritu: 6a saber, que los gentiles son coherederos, miembros de un mismo cuerpo y copartícipes de las promesas en Cristo Jesús mediante el Evangelio,"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Después de nacer Jesús en Belén de Judá en tiempos del rey Herodes, unos Magos llegaron de Oriente a Jerusalén 2preguntando:\n—¿Dónde está el Rey de los Judíos que ha nacido? Porque vimos su estrella en el Oriente y hemos venido a adorarle. 3Al oír esto, el rey Herodes se inquietó, y con él toda Jerusalén. 4Y, reuniendo a todos los príncipes de los sacerdotes y a los escribas del pueblo, les interrogaba dónde había de nacer el Mesías. 5—En Belén de Judá —le dijeron—, pues así está escrito por medio del Profeta: 6Y tú, Belén, tierra de Judá,\nciertamente no eres la menor\nentre las principales ciudades de Judá;\npues de ti saldrá un jefe\nque apacentará a mi pueblo, Israel. 7Entonces, Herodes, llamando en secreto a los Magos, se informó cuidadosamente por ellos del tiempo en que había aparecido la estrella; 8y les envió a Belén, diciéndoles:\n—Id e informaos bien acerca del niño; y cuando lo encontréis, avisadme para que también yo vaya a adorarle. 9Ellos, después de oír al rey, se pusieron en marcha. Y entonces, la estrella que habían visto en el Oriente se colocó delante de ellos, hasta pararse sobre el sitio donde estaba el niño. 10Al ver la estrella se llenaron de inmensa alegría. 11Y entrando en la casa, vieron al niño con María, su madre, y postrándose le adoraron; luego, abrieron sus cofres y le ofrecieron presentes: oro, incienso y mirra. 12Y, después de recibir en sueños aviso de no volver a Herodes, regresaron a su país por otro camino."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-12-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "2Balaam levantó sus ojos y vio a Israel acampado por tribus; vino sobre él el espíritu de Dios, 3y proclamó su mensaje diciendo:\n—Oráculo de Balaam, hijo de Beor,\noráculo del caballero clarividente, 4oráculo de quien escucha las locuciones de Dios,\nvislumbra la previsión del Omnipotente,\nse postra, y contempla clarísimo. 5¡Qué hermosas son tus tiendas, oh Jacob,\ny tus moradas, Israel! 6Como valles dilatados,\ny jardines a la orilla de torrentes,\ncomo áloes del Señor plantados,\ncomo cedros a la vera de las fuentes. 7Rebosan las aguas de sus baldes,\nlas acequias inundan sus simientes.\nSu rey será ensalzado más que Agag,\nsu reino será exaltado. 15Y proclamó su mensaje diciendo:\n—Oráculo de Balaam, hijo de Beor,\noráculo del caballero clarividente, 16oráculo de quien escucha las locuciones de Dios,\nconoce el criterio del Altísimo,\nvislumbra la previsión del Omnipotente,\nse postra, y contempla clarísimo. 17Lo vislumbro, pero no es ahora;\nlo diviso, pero no de cerca:\nde Jacob viene en camino una estrella,\nen Israel se ha levantado un cetro.\nTritura las sienes de Moab\ny el cráneo de todos los hijos de Set."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "4(Dálet) Muéstrame, Señor, tus caminos,\nenséñame tus sendas. 5(He) Hazme caminar en tu fidelidad, instrúyeme,\npues Tú eres mi Dios salvador,\n(Vav) y en Ti espero todo el día. 6(Záin) Acuérdate, Señor, de tu misericordia\ny de tu amor, que son eternos. 7(Het) No recuerdes los pecados y delitos de mi juventud.\nAcuérdate de mí según tu misericordia,\npor tu bondad, ¡Señor! 8(Tet) El Señor es bueno y recto;\npor eso muestra el camino a los pecadores, 9(Yod) guía a los mansos en la justicia,\nenseña su camino a los humildes."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "23Llegó al Templo, y mientras estaba enseñando se le acercaron los príncipes de los sacerdotes y los ancianos del pueblo, y le preguntaron:\n—¿Con qué potestad haces estas cosas? ¿Y quién te ha dado tal potestad? 24Jesús les respondió:\n—También yo os voy a hacer una pregunta; si me la contestáis, entonces yo os diré con qué potestad hago estas cosas. 25El bautismo de Juan ¿de dónde era?, ¿del cielo o de los hombres?\nEllos deliberaban entre sí: «Si decimos que del cielo, nos replicará: “¿Por qué, pues, no le creísteis?” 26Si decimos que de los hombres, tememos a la gente; pues todos tienen a Juan por profeta». 27Y respondieron a Jesús:\n—No lo sabemos.\nEntonces él les dijo:\n—Pues tampoco yo os digo con qué potestad hago estas cosas."
+    }
+  }
+}

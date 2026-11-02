@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Así pues, os ruego yo, el prisionero por el Señor, que viváis una vida digna de la vocación a la que habéis sido llamados, 2con toda humildad y mansedumbre, con longanimidad, sobrellevándoos unos a otros con caridad, 3continuamente dispuestos a conservar la unidad del Espíritu con el vínculo de la paz. 4Un solo Cuerpo y un solo Espíritu, como habéis sido llamados a una sola esperanza: la de vuestra vocación. 5Un solo Señor, una sola fe, un solo bautismo, 6un solo Dios y Padre de todos: el que está sobre todos, por todos y en todos. 7A cada uno de nosotros, sin embargo, ha sido dada la gracia en la medida en que Cristo quiere otorgar sus dones. 11Él constituyó a algunos como apóstoles, a otros profetas, a otros evangelizadores, a otros pastores y doctores, 12a fin de que trabajen en perfeccionar a los santos cumpliendo con su ministerio, para la edificación del cuerpo de Cristo, 13hasta que lleguemos todos a la unidad de la fe y del conocimiento del Hijo de Dios, al hombre perfecto, a la medida de la plenitud de Cristo,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Los cielos pregonan la gloria de Dios\ny el firmamento anuncia la obra de sus manos. 3Un día le anuncia el mensaje al otro día\ny una noche le da la noticia a la otra noche. 4Sin discurso, sin palabras\nsin que se oiga su voz, 5se esparce su rumor por toda la tierra,\ny su pregón hasta los confines del orbe.\nEn éstos ha puesto una tienda para el sol."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9Al marchar Jesús de allí, vio a un hombre sentado al telonio, que se llamaba Mateo, y le dijo:\n—Sígueme.\nÉl se levantó y le siguió. 10Ya en la casa, estando a la mesa, vinieron muchos publicanos y pecadores y se sentaron también con Jesús y sus discípulos. 11Los fariseos, al ver esto, empezaron a decir a sus discípulos:\n—¿Por qué vuestro maestro come con publicanos y pecadores? 12Pero él lo oyó y dijo:\n—No tienen necesidad de médico los sanos, sino los enfermos. 13Id y aprended qué sentido tiene: Misericordia quiero y no sacrificio; porque no he venido a llamar a los justos sino a los pecadores."
+    }
+  }
+}

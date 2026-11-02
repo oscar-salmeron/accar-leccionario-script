@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-09-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "4Partieron desde el monte Hor camino del Mar Rojo rodeando la tierra de Edom, y en el camino desfalleció el ánimo del pueblo. 5El pueblo habló contra Dios y contra Moisés:\n—¿Por qué nos habéis hecho subir de Egipto para morir en este desierto, donde no hay pan ni agua y nuestra alma no puede más con este alimento tan ligero? 6El Señor les envió serpientes venenosas que mordieron al pueblo, y murió mucha gente de Israel. 7Entonces el pueblo vino a Moisés y dijo:\n—Hemos pecado porque hemos hablado contra el Señor y contra ti. Ruega al Señor que aparte de nosotros las serpientes.\nY Moisés oró por el pueblo. 8El Señor dijo a Moisés:\n—Haz una serpiente venenosa y ponla sobre un mástil, y todo el que haya sido mordido y la mire, vivirá. 9Moisés hizo una serpiente de bronce y la puso sobre un mástil, y si alguien había sido mordido por una serpiente, miraba fijamente la serpiente de bronce y vivía."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Masquil. De Asaf.\nAtiende a mi Ley, pueblo mío,\ninclina el oído a los dichos de mi boca. 2Abriré mi boca con parábolas,\nproferiré los misterios de antaño. 34Cuando los hacía perecer, lo buscaban,\nse convertían e iban a Dios de madrugada. 35Se acordaban de que Dios es su Roca,\nel Dios Altísimo, su Redentor. 36Le halagaban con la boca,\npero le mentían con la lengua. 37Su corazón no era sincero con Él,\nni se mantenían fieles a su alianza. 38En cambio, Él, que es compasivo,\nperdonaba su culpa y no los destruía.\nUna y otra vez retiraba su ira,\nsin encender todo su furor,"
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "6el cual, siendo de condición divina,\nno consideró como presa codiciable\nel ser igual a Dios, 7sino que se anonadó a sí mismo\ntomando la forma de siervo,\nhecho semejante a los hombres;\ny, mostrándose igual que los demás hombres, 8se humilló a sí mismo haciéndose obediente\nhasta la muerte,\ny muerte de cruz. 9Y por eso Dios lo exaltó\ny le otorgó el nombre\nque está sobre todo nombre; 10para que al nombre de Jesús toda rodilla se doble\nen los cielos, en la tierra y en los abismos, 11y toda lengua confiese:\n«¡Jesucristo es el Señor!»,\npara gloria de Dios Padre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Pues nadie ha subido al cielo, sino el que bajó del cielo, el Hijo del Hombre. 14Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre, 15para que todo el que crea tenga vida eterna en él. 16Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna. 17Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él."
+    }
+  }
+}

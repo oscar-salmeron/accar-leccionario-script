@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "7Él, en los días de su vida en la tierra, ofreció con gran clamor y lágrimas oraciones y súplicas al que podía salvarle de la muerte, y fue escuchado por su piedad filial, 8y, aun siendo Hijo, aprendió por los padecimientos la obediencia. 9Y, llegado a la perfección, se ha hecho causa de salvación eterna para todos los que le obedecen,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2En Ti, Señor, espero;\nno quede yo nunca avergonzado:\npor tu justicia, líbrame. 3Inclina tu oído hacia mí,\ndate prisa en socorrerme.\nSé para mí la roca de refugio,\nel alcázar firme de mi salvación; 4porque Tú eres mi peña, mi fortaleza:\npor honor de tu Nombre, dirígeme y guíame; 5sácame de la red que me han tendido,\nque Tú eres mi refugio. 6En tus manos encomiendo mi espíritu:\nTú, Señor, Dios fiel, me has rescatado. 15Pero yo confío en Ti, Señor.\nDigo: «Tú eres mi Dios». 16Mi suerte está en tu mano;\nlíbrame de la garra de mis enemigos\ny de mis perseguidores. 20Qué grande es tu bondad,\nla que has reservado para los que te temen,\npreparado para los que se refugian en Ti,\na la vista de los hijos de los hombres."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "25Estaban junto a la cruz de Jesús su madre y la hermana de su madre, María de Cleofás, y María Magdalena. 26Jesús, viendo a su madre y al discípulo a quien amaba, que estaba allí, le dijo a su madre:\n—Mujer, aquí tienes a tu hijo. 27Después le dice al discípulo:\n—Aquí tienes a tu madre.\nY desde aquel momento el discípulo la recibió en su casa."
+    }
+  }
+}

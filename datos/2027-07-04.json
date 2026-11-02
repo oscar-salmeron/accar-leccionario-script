@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-07-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "2Mientras hablaba, entró en mí un espíritu que me puso en pie. Y oí al que me hablaba. 3Me dijo:\n—Hijo de hombre, te envío a los hijos de Israel, a un pueblo de rebeldes que se han rebelado contra Mí. Ellos y sus padres han estado ofendiéndome hasta hoy. 4Te envío a hijos de semblante impenetrable y de corazón duro. Les dirás: «Esto dice el Señor Dios». 5Ellos, te escuchen o no te escuchen, porque son una casa rebelde, sabrán que hay un profeta en medio de ellos."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nA Ti levanto mis ojos,\na Ti que estás sentado en los cielos. 2Como los ojos de los esclavos\nmiran a las manos de sus señores,\ncomo los ojos de la esclava,\na la mano de su señora,\nasí miran nuestros ojos al Señor, nuestro Dios,\nhasta que se apiade de nosotros. 3Ten piedad de nosotros, Señor,\nten piedad de nosotros,\nporque estamos saturados de desprecios, 4saturada está nuestra alma\nde la burla de los indolentes,\ndel desprecio de los soberbios."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "7o a causa de la grandeza de las revelaciones. Por eso, para que no me engría, me fue clavado un aguijón en la carne, un ángel de Satanás, para que me abofetee, y no me envanezca. 8Por esto, rogué tres veces al Señor que lo apartase de mí; 9pero Él me dijo: «Te basta mi gracia, porque la fuerza se perfecciona en la flaqueza». Por eso, con sumo gusto me gloriaré más todavía en mis flaquezas, para que habite en mí la fuerza de Cristo. 10Por lo cual me complazco en las flaquezas, en los oprobios, en las necesidades, en las persecuciones y angustias, por Cristo; pues cuando soy débil, entonces soy fuerte."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Salió de allí y se fue a su ciudad, y le seguían sus discípulos. 2Y cuando llegó el sábado comenzó a enseñar en la sinagoga, y muchos de los que le oían decían admirados:\n—¿De dónde sabe éste estas cosas? ¿Y qué sabiduría es la que se le ha dado y estos milagros que se hacen por sus manos? 3¿No es éste el artesano, el hijo de María, y hermano de Santiago y de José y de Judas y de Simón? ¿Y sus hermanas no viven aquí entre nosotros?\nY se escandalizaban de él. 4Y les decía Jesús:\n—No hay profeta que sea menospreciado, si no es en su tierra, entre sus parientes y en su casa. 5Y no podía hacer allí ningún milagro; solamente sanó a unos pocos enfermos imponiéndoles las manos. 6Y se asombraba por su incredulidad.\nY recorría las aldeas de los contornos enseñando."
+    }
+  }
+}

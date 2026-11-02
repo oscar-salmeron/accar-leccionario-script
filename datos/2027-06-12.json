@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-06-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "14Porque el amor de Cristo nos urge, persuadidos de que si uno murió por todos, en consecuencia todos murieron. 15Y murió por todos a fin de que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos. 16De manera que desde ahora no conocemos a nadie según la carne; y si conocimos a Cristo según la carne, ahora ya no le conocemos así. 17Por tanto, si alguno está en Cristo, es una nueva criatura: lo viejo pasó, ya ha llegado lo nuevo. 18Y todo proviene de Dios, que nos reconcilió con él por medio de Cristo y nos confirió el ministerio de la reconciliación. 19Porque en Cristo, Dios estaba reconciliando al mundo consigo, sin imputarle sus delitos, y puso en nosotros la palabra de reconciliación. 20Somos, pues, embajadores en nombre de Cristo, como si Dios os exhortase por medio de nosotros. En nombre de Cristo os rogamos: reconciliaos con Dios. 21A él, que no conoció pecado, lo hizo pecado por nosotros, para que llegásemos a ser en él justicia de Dios."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David.\nBendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo. 2Bendice, alma mía, al Señor,\nno olvides ninguno de sus beneficios. 3Él es quien perdona tus culpas,\nquien sana tus enfermedades. 4Quien rescata tu vida de la fosa,\nquien te corona de misericordia y compasión. 9No dura siempre su querella,\nni guarda rencor perpetuamente. 10No nos trata según nuestros pecados,\nni nos paga según nuestras culpas. 11Pues cuanto se elevan los cielos sobre la tierra,\nasí prevalece su misericordia con los que le temen. 12Cuanto dista el oriente del occidente,\nasí aleja de nosotros nuestras iniquidades."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "33»También habéis oído que se dijo a los antiguos: No jurarás en vano, sino que cumplirás los juramentos que le hayas hecho al Señor. 34Pero yo os digo: no juréis de ningún modo; ni por el cielo, porque es el trono de Dios; 35ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del Gran Rey. 36Tampoco jures por tu cabeza, porque no puedes volver blanco o negro ni un solo cabello. 37Que vuestro modo de hablar sea: «Sí, sí»; «no, no». Lo que exceda de esto, viene del Maligno."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "21Y a vosotros, que en otro tiempo erais extraños y enemigos por vuestros pensamientos y malas obras, 22ahora sin embargo os reconcilió mediante la muerte sufrida en su cuerpo de carne, para presentaros santos, sin mancha e irreprochables delante de él, 23con tal de que permanezcáis cimentados en la fe, firmes e inconmovibles en la esperanza del Evangelio que escuchasteis, que fue predicado a toda criatura que hay bajo el cielo, y del cual yo, Pablo, he sido constituido servidor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Dios mío, sálvame por tu Nombre,\nhazme justicia con tu poder. 4Dios mío, escucha mi oración,\npresta oídos a las palabras de mi boca. 6Pero Dios es el que me ayuda,\nel Señor es el que sostiene mi vida. 8Te ofreceré un sacrificio voluntario,\ndaré gracias a tu Nombre, Señor;\nporque es bueno."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Un sábado pasaba él por entre unos sembrados, y sus discípulos arrancaban espigas, las desgranaban con las manos y se las comían. 2Algunos fariseos les dijeron:\n—¿Por qué hacéis en sábado lo que no es lícito? 3Y Jesús respondiéndoles dijo:\n—¿No habéis leído lo que hizo David, cuando tuvieron hambre él y los que le acompañaban? 4¿Cómo entró en la Casa de Dios, tomó los panes de la proposición y comió y dio a los que le acompañaban, a pesar de que sólo a los sacerdotes les es lícito comerlos? 5Y les decía:\n—El Hijo del Hombre es señor del sábado."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-04-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "13El Dios de Abrahán, el Dios de Isaac y el Dios de Jacob, el Dios de nuestros padres, ha glorificado a su Hijo Jesús, a quien vosotros entregasteis y negasteis en presencia de Pilato, cuando éste había decidido soltarle. 14Vosotros negasteis al Santo y al Justo, y pedisteis que os indultaran a un homicida; 15matasteis al autor de la vida, a quien Dios resucitó de entre los muertos, de lo cual nosotros somos testigos. 17»Ahora bien, hermanos, sé que obrasteis por ignorancia, lo mismo que vuestros jefes. 18Pero Dios cumplió así lo que había anunciado de antemano por boca de todos los profetas: que su Cristo padecería. 19Arrepentíos, por tanto, y convertíos, para que sean borrados vuestros pecados,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Escúchame cuando te invoco, Dios de mi justicia.\nTú que en la angustia me das alivio,\nten piedad de mí y oye mi oración. 4Sabed que el Señor elige al que le es fiel.\nEl Señor me escucha cuando le invoco. 7Muchos dicen: «¿Quién nos hará ver la dicha?».\nAlza sobre nosotros, Señor, la luz de tu rostro. 8Tú das a mi corazón un gozo mayor que a ellos\ncuando abundan en trigo y vino. 9En paz me acuesto y enseguida me duermo,\nporque Tú sólo, Señor, me haces vivir seguro."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "1Hijos míos, os escribo estas cosas para que no pequéis. Pero si alguno peca, tenemos un abogado ante el Padre: Jesucristo, el Justo. 2Él es la víctima propiciatoria por nuestros pecados; y no sólo por los nuestros, sino por los de todo el mundo. 3En esto sabemos que le hemos conocido: en que guardamos sus mandamientos. 4Quien dice: «Yo le conozco», pero no guarda sus mandamientos, es un mentiroso, y en ése no está la verdad. 5En cambio, quien guarda su palabra, en ése el amor de Dios ha alcanzado verdaderamente su perfección. En esto sabemos que estamos en Él."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "35Y ellos se pusieron a contar lo que había pasado en el camino, y cómo le habían reconocido en la fracción del pan. 36Mientras ellos estaban hablando de estas cosas, Jesús se puso en medio y les dijo:\n—La paz esté con vosotros. 37Se llenaron de espanto y de miedo, pensando que veían un espíritu. 38Y les dijo:\n—¿Por qué os asustáis, y por qué admitís esos pensamientos en vuestros corazones? 39Mirad mis manos y mis pies: soy yo mismo. Palpadme y comprended que un espíritu no tiene carne ni huesos como veis que yo tengo. 40Y dicho esto, les mostró las manos y los pies. 41Como no acababan de creer por la alegría y estaban llenos de admiración, les dijo:\n—¿Tenéis aquí algo que comer? 42Entonces ellos le ofrecieron un trozo de pez asado. 43Y lo tomó y se lo comió delante de ellos. 44Y les dijo:\n—Esto es lo que os decía cuando aún estaba con vosotros: es necesario que se cumpla todo lo que está escrito en la Ley de Moisés, en los Profetas y en los Salmos acerca de mí. 45Entonces les abrió el entendimiento para que comprendiesen las Escrituras. 46Y les dijo:\n—Así está escrito: que el Cristo tiene que padecer y resucitar de entre los muertos al tercer día, 47y que se predique en su nombre la conversión para perdón de los pecados a todas las gentes, comenzando desde Jerusalén. 48Vosotros sois testigos de estas cosas."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Jacob partió de Berseba y se dirigió a Jarán. 11Al llegar a un cierto lugar, se dispuso a pasar allí la noche porque se había puesto el sol; tomó una piedra de aquel lugar y, colocándosela como cabecera, se acostó allí mismo. 12Entonces tuvo un sueño: una escala apoyada sobre la tierra tenía la cima tocando el cielo, y los ángeles de Dios subían y bajaban por ella. 13El Señor estaba sobre ella y le dijo:\n—Yo soy el Señor, el Dios de tu padre Abrahán, el Dios de Isaac; voy a darte a ti y a tu descendencia la tierra sobre la que estás acostado. 14Tu descendencia será como el polvo de la tierra, te extenderás al este y al oeste, al norte y al sur, y en ti y en tu descendencia serán bendecidos todos los pueblos de la tierra. 15Yo estaré contigo y te guardaré donde quiera que vayas, haciéndote volver a esta tierra, pues no te abandonaré hasta que haya cumplido lo que te he dicho. 16Cuando Jacob despertó del sueño, exclamó:\n—El Señor está realmente en este lugar y yo no lo sabía. 17Y lleno de temor añadió:\n—¡Qué terrible es este lugar! Esto no es sino la casa de Dios y la puerta del cielo. 18Se levantó Jacob muy de mañana y, tomando la piedra que había colocado de cabecera, la erigió como estela y derramó aceite sobre ella. 19Y llamó a aquel lugar Betel (aunque al principio el nombre de la ciudad era Luz). 20Entonces Jacob hizo un voto diciendo:\n—Si Dios está conmigo y me guarda en este viaje que hago, si me proporciona pan para comer y ropa para vestirme, 21y vuelvo con bien a casa de mi padre, el Señor será mi Dios. 22Esta piedra que he erigido como estela será una casa de Dios, y de todo lo que me concedas te ofreceré el diezmo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1El que habita al amparo del Altísimo\nmorará a la sombra del Omnipotente. 2Dice al Señor: «Refugio mío,\nfortaleza mía, Dios mío en quien confío». 3Él te librará de la red del cazador,\nde la peste destructora. 4Te cubrirá con sus plumas,\nbajo sus alas encontrarás refugio:\nsu fidelidad es escudo y coraza. 14Porque se ha unido a Mí, lo libraré,\nporque reconoce mi Nombre, lo engrandeceré. 15Me invocará y Yo le escucharé;\ncon él estaré en la tribulación,\nlo libraré y lo glorificaré."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "18Mientras les decía estas cosas, un hombre importante se acercó, se postró ante él y le dijo:\n—Mi hija se acaba de morir, pero ven, pon la mano sobre ella y vivirá. 19Jesús se levantó y le siguió con sus discípulos. 20En esto, una mujer que padecía flujo de sangre hacía doce años, acercándose por detrás, tocó el borde de su manto, 21porque se decía a sí misma: «Con sólo tocar su manto me curaré». 22Jesús se volvió y mirándola le dijo:\n—Ten confianza, hija, tu fe te ha salvado.\nY desde ese mismo momento quedó curada la mujer. 23Cuando llegó Jesús a la casa de aquel hombre y vio a los músicos fúnebres y a la gente alterada, comenzó a decir: 24—Retiraos; la niña no ha muerto, sino que duerme.\nPero se reían de él. 25Y, cuando echaron de allí a la gente, entró, la tomó de la mano y la niña se levantó. 26Y esta noticia corrió por toda aquella comarca."
+    }
+  }
+}

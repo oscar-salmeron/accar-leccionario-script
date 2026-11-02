@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-11-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10(Alef) Una mujer fuerte, ¿quién la encontrara?\nVale mucho más que las perlas. 11(Bet) En ella confía el corazón de su marido\ny no le faltará ganancia. 12(Guímel) Le procura bien y no mal\ntodos los días de la vida. 13(Dálet) Busca lana y lino\ny trabaja con diligencia. 19(Yod) Aplica sus manos a la rueca,\nsus palmas empuñan el huso. 20(Kaf) Abre su palma al indigente\ny extiende su mano al pobre. 30(Shin) Falaz es la gracia y vana la hermosura,\nla mujer que teme al Señor será alabada. 31(Tav) Dadle el fruto de sus manos\ny que sus obras la alaben en las puertas."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nDichoso el que teme al Señor\ny anda por sus caminos. 2Del trabajo de tus manos comerás;\nserás dichoso, y te irá bien. 3Tu mujer será como viña fecunda\nparedes adentro de tu casa.\nTus hijos, como brotes de olivos,\nen torno a tu mesa. 4Pues así es bendecido\nel hombre que teme al Señor. 5Que el Señor te bendiga desde Sión.\nQue veas el bienestar de Jerusalén\ntodos los días de tu vida."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "1Sobre el tiempo y el momento, hermanos, no necesitáis que os escriba, 2porque vosotros mismos sabéis muy bien que el día del Señor vendrá como un ladrón en la noche. 3Así pues, cuando clamen: «Paz y seguridad», entonces, de repente, se precipitará sobre ellos la ruina —como los dolores de parto de la que está encinta—, sin que puedan escapar. 4Pero vosotros, hermanos, no estáis en tinieblas, de modo que ese día os sorprenda como un ladrón; 5pues todos vosotros sois hijos de la luz e hijos del día. Nosotros no somos de la noche ni de las tinieblas. 6Por tanto, no durmamos como los demás, sino estemos en vela y mantengámonos sobrios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14»Porque es como un hombre que al marcharse de su tierra llamó a sus servidores y les entregó sus bienes. 15A uno le dio cinco talentos, a otro dos y a otro uno sólo: a cada uno según su capacidad; y se marchó. 16El que había recibido cinco talentos fue, trabajó con ellos y ganó otros cinco. 17Del mismo modo, el que había recibido dos ganó otros dos. 18Pero el que había recibido uno fue, hizo un hoyo en la tierra y escondió el dinero de su señor. 19Después de mucho tiempo, regresó el amo de dichos servidores e hizo cuentas con ellos. 20Cuando se presentó el que había recibido los cinco talentos, entregó otros cinco diciendo: «Señor, cinco talentos me entregaste; mira, he ganado otros cinco talentos». 21Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor». 22Se presentó también el que había recibido los dos talentos y dijo: «Señor, dos talentos me entregaste; mira, he ganado otros dos talentos». 23Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor». 24Cuando llegó por fin el que había recibido un talento, dijo: «Señor, sé que eres hombre duro, que cosechas donde no sembraste y recoges donde no esparciste; 25por eso tuve miedo, fui y escondí tu talento en tierra: aquí tienes lo tuyo». 26Su amo le respondió: «Siervo malo y perezoso, sabías que cosecho donde no he sembrado y que recojo donde no he esparcido; 27por eso mismo debías haber dado tu dinero a los banqueros, y así, al venir yo, hubiera recibido lo mío con los intereses. 28Por lo tanto, quitadle el talento y dádselo al que tiene los diez. 29»Porque a todo el que tiene se le dará y tendrá en abundancia; pero al que no tiene incluso lo que tiene se le quitará. 30En cuanto al siervo inútil, arrojadlo a las tinieblas de afuera: allí habrá llanto y rechinar de dientes»."
+    }
+  }
+}

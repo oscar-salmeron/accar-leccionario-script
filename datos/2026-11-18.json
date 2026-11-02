@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "11Pasados tres meses nos hicimos a la mar en una nave alejandrina que había invernado en la isla y llevaba los Dioscuros como enseña. 12Llegamos a Siracusa y permanecimos tres días. 13Desde allí, costeando, arribamos a Regio. Al día siguiente se levantó viento del sur y a los dos días llegamos a Putéoli. 14Encontramos allí algunos hermanos, que nos rogaron que permaneciéramos con ellos siete días. Y así nos dirigimos a Roma. 15Los hermanos, al enterarse de nuestra llegada, vinieron desde allí a nuestro encuentro hasta el Foro Apio y Tres Tabernas. Al verles, Pablo dio gracias a Dios y cobró ánimos. 16Cuando llegamos a Roma, le fue permitido a Pablo vivir por cuenta propia con un soldado que le custodiara. 30Pablo permaneció dos años completos en el lugar que había alquilado, y recibía a todos los que acudían a él. 31Predicaba el Reino de Dios y enseñaba lo referente al Señor Jesucristo con toda libertad y sin ningún estorbo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo.\nCantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo. 2El Señor ha dado a conocer su salvación;\nha revelado su justicia a los ojos de las naciones. 3Se acordó de su misericordia y fidelidad\ncon la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios. 4Aclamad al Señor, la tierra entera;\ngritad, cantad, entonad salmos. 5Entonad salmos al Señor con la cítara,\ncon la cítara al son de la música; 6con trompetas y el sonido del cuerno,\naclamad ante el Rey y Señor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "22Y enseguida Jesús mandó a los discípulos que subieran a la barca y que se adelantaran a la otra orilla, mientras él despedía a la gente. 23Y, después de despedirla, subió al monte a orar a solas. Cuando se hizo de noche seguía él solo allí. 24Mientras tanto, la barca ya se había alejado de tierra muchos estadios, sacudida por las olas, porque el viento le era contrario. 25En la cuarta vigilia de la noche vino hacia ellos caminando sobre el mar. 26Cuando le vieron los discípulos andando sobre el mar, se asustaron y dijeron:\n—¡Es un fantasma! —y llenos de miedo empezaron a gritar. 27Pero al instante Jesús les habló:\n—Tened confianza, soy yo, no temáis. 28Entonces Pedro le respondió:\n—Señor, si eres tú, manda que yo vaya a ti sobre las aguas. 29—Ven —le dijo él.\nY Pedro se bajó de la barca y comenzó a andar sobre las aguas en dirección a Jesús. 30Pero al ver que el viento era muy fuerte se atemorizó y, al empezar a hundirse, se puso a gritar:\n—¡Señor, sálvame! 31Al instante Jesús alargó la mano, lo sujetó y le dijo:\n—Hombre de poca fe, ¿por qué has dudado? 32Y cuando subieron a la barca se calmó el viento. 33Los que estaban en la barca le adoraron diciendo:\n—Verdaderamente eres Hijo de Dios."
+    }
+  }
+}

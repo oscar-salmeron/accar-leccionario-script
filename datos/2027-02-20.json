@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "16»Hoy, el Señor, tu Dios, te ordena poner por obra estas leyes y normas: guárdalas y llévalas a la práctica con todo tu corazón y con toda tu alma. 17»Hoy has hecho comprometerse al Señor que Él será tu Dios, y que tú marcharás por sus caminos y guardarás sus leyes, mandamientos y normas, escuchando su voz. 18El Señor te ha hecho testimoniar hoy que serás el pueblo de su propiedad —como te había dicho— y guardarás todos sus mandatos. 19Él, por su parte, te constituirá como el más excelso en honor, renombre y gloria entre todos los pueblos que Él hizo, para que seas el pueblo consagrado al Señor, tu Dios, según te prometió."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1(Alef) Dichosos los de conducta íntegra,\nlos que caminan en la Ley del Señor. 2Dichosos los que guardan sus preceptos\ny le buscan de todo corazón; 4Tú ordenaste tus mandatos\npara que se observen con cuidado. 5Ojalá estén firmes mis caminos\npara observar tus preceptos. 7Te alabaré con rectitud de corazón\ncuando aprenda tus juicios justos. 8Quiero observar tus decretos,\nnunca me abandones."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "43»Habéis oído que se dijo: Amarás a tu prójimo y odiarás a tu enemigo. 44Pero yo os digo: amad a vuestros enemigos y rezad por los que os persigan, 45para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre buenos y malos, y hace llover sobre justos y pecadores. 46Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen eso también los publicanos? 47Y si saludáis solamente a vuestros hermanos, ¿qué hacéis de más? ¿No hacen eso también los paganos? 48Por eso, sed vosotros perfectos como vuestro Padre celestial es perfecto."
+    }
+  }
+}

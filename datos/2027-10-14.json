@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "21Ahora, en cambio, la justicia de Dios, atestiguada por la Ley y los Profetas, se ha manifestado con independencia de la Ley: 22justicia de Dios por medio de la fe en Jesucristo, para todos los que creen. Porque no hay distinción, 23ya que todos han pecado y están privados de la gloria de Dios 24y son justificados gratuitamente por su gracia, mediante la redención que está en Cristo Jesús. 25A él lo ha puesto Dios como propiciatorio en su sangre —mediante la fe— para mostrar su justicia tolerando los pecados precedentes, 26en el tiempo de la paciencia de Dios, con el fin de mostrar su justicia en el tiempo presente, y así ser Él justo y justificar al que vive de la fe en Jesús. 27Entonces, ¿en qué se fundamenta la jactancia? Ha quedado excluida. ¿Y por qué ley?, ¿la de las obras? No: por la ley de la fe. 28Afirmamos, por tanto, que el hombre es justificado por la fe con independencia de las obras de la Ley. 29¿Acaso Dios lo es sólo de los judíos? ¿No lo es también de los gentiles? Sí, también de los gentiles. 30Porque un solo Dios es el mismo que justificará la circuncisión a partir de la fe y la falta de circuncisión mediante la fe."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nDesde lo más profundo, Te invoco, Señor. 2Señor, escucha mi clamor;\nestén atentos tus oídos a la voz de mi súplica. 3Si llevas cuenta de las culpas, Señor,\nSeñor mío, ¿quién podrá quedar en pie? 4Pero en Ti está el perdón,\ny así mantenemos tu temor. 5Espero en Ti, Señor.\nMi alma espera en su palabra; 6mi alma espera en el Señor\nmás que los centinelas la aurora."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "47»¡Ay de vosotros, que edificáis los sepulcros de los profetas, después que vuestros padres los mataron! 48Así pues, sois testigos de las obras de vuestros padres y consentís en ellas, porque ellos los mataron, y vosotros edificáis sus sepulcros. 49Por eso dijo la sabiduría de Dios: «Les enviaré profetas y apóstoles, y a algunos los matarán y perseguirán, 50para que se pida cuentas a esta generación de la sangre de todos los profetas derramada desde la creación del mundo, 51desde la sangre de Abel hasta la sangre de Zacarías, asesinado entre el altar y el Templo». Sí, os lo aseguro: se le pedirán cuentas a esta generación. 52»¡Ay de vosotros, doctores de la Ley, porque os habéis apoderado de la llave de la sabiduría! Vosotros no habéis entrado y a los que querían entrar se lo habéis impedido. 53Cuando salió de allí, los escribas y fariseos comenzaron a atacarle con furia y a acosarle a preguntas sobre muchas cosas, 54acechándole para cazarle en alguna palabra."
+    }
+  }
+}

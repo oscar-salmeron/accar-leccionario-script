@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "15A mí, Daniel, se me turbó mi espíritu a causa de esto, y las visiones de mi cabeza me asustaron. 16Me acerqué a uno de los que estaban en pie y le pedí la verdad sobre todo aquello. Él me habló y me hizo conocer la interpretación de aquellas cosas: 17—Esas bestias gigantescas, que son cuatro, son cuatro reyes que surgirán de la tierra. 18Pero recibirán el reino los santos del Altísimo y poseerán el reino por siempre, por los siglos de los siglos. 19Entonces quise saber la verdad sobre la cuarta bestia —que era distinta de todas las demás, extraordinariamente terrible, con dientes de hierro y garras de bronce, que devoraba y trituraba, y pisoteaba las sobras con sus pies—, 20y sobre los diez cuernos que había en su cabeza y el otro que surgía y ante el que caían tres —el cuerno aquel con ojos y una boca que profería insolencias y cuyo aspecto era mayor que el de sus compañeros—. 21Yo seguía mirando, y aquel cuerno hizo la guerra a los santos y los venció. 22Hasta que llegó el anciano en días e hizo justicia a los santos del Altísimo, se cumplió el tiempo y los santos tomaron posesión del reino. 23Respondió así:\n—La cuarta bestia es un cuarto reino que habrá en la tierra, y que será distinto de todos los reinos: devorará toda la tierra, la aplastará y la triturará. 24Los diez cuernos son diez reyes que surgirán de su reino, y otro surgirá después de ellos. Ése será distinto de los anteriores y destronará a tres reyes: 25pronunciará palabras contra el Altísimo, someterá a prueba a los santos del Altísimo y pretenderá cambiar los tiempos y la Ley. Serán entregados en su mano durante un tiempo, dos tiempos y medio tiempo. 26Pero se sentará el tribunal y le quitará su dominio, destruyéndolo y aniquilándolo definitivamente. 27El reinado, el dominio y la grandeza de los reinos que hay bajo todo el cielo serán entregados al pueblo de los santos del Altísimo. Su reino será un reino eterno, al que todos los soberanos temerán y se someterán."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "82Bendecid, hijos de los hombres, al Señor,\nalabadlo y ensalzadlo por los siglos. 83Bendiga Israel al Señor,\nalabadlo y ensalzadlo por los siglos. 84Bendecid, sacerdotes del Señor, al Señor,\nalabadlo y ensalzadlo por los siglos. 85Bendecid, siervos del Señor, al Señor,\nalabadlo y ensalzadlo por los siglos. 86Bendecid, almas y espíritus justos, al Señor,\nalabadlo y ensalzadlo por los siglos. 87Bendecid, santos y humildes de corazón, al Señor,\nalabadlo y ensalzadlo por los siglos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "34»Vigilaos a vosotros mismos, para que vuestros corazones no estén ofuscados por la crápula, la embriaguez y los afanes de esta vida, y aquel día no sobrevenga de improviso sobre vosotros, 35porque caerá como un lazo sobre todos aquellos que habitan en la faz de toda la tierra. 36Vigilad orando en todo tiempo, a fin de que podáis evitar todos estos males que van a suceder, y estar en pie delante del Hijo del Hombre."
+    }
+  }
+}

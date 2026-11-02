@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-03-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "23Sino que esto fue lo que les ordené: “Escuchad mi voz y Yo seré vuestro Dios y vosotros seréis mi pueblo y andaréis por todo camino donde os mande, para que os vaya bien”. 24Ellos, sin embargo, no me escucharon ni prestaron oídos, sino que caminaron según sus designios, siguiendo a su perverso y obstinado corazón, y me dieron la espalda en vez de la cara. 25Desde el día en que vuestros padres salieron de la tierra de Egipto hasta hoy, os fui enviando, sin cesar, a tantísimos siervos míos, los profetas. 26Pero no me escucharon, ni prestaron oídos, sino que endurecieron su cerviz y fueron peores que sus padres. 27»Les repetirás todas estas palabras, pero no te escucharán. Les gritarás, pero no te responderán. 28Entonces les dirás: “Ésta es la nación que no ha escuchado la voz del Señor, su Dios, ni aceptó la instrucción. Se perdió la fidelidad, fue arrancada de su boca”."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Venid!, cantemos jubilosos al Señor,\naclamemos a la Roca de nuestra salvación. 2Vayamos a su presencia con acción de gracias,\naclamémosle con salmos. 6Venid, adoremos y postrémonos,\npongámonos de hinojos\nante el Señor, nuestro Hacedor. 7Pues Él es nuestro Dios,\ny nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz! 8No endurezcáis vuestro corazón como en Meribá,\ncomo el día de Masá, en el desierto, 9donde me tentaron vuestros padres,\nme pusieron a prueba,\naunque habían visto mis obras."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Estaba expulsando un demonio que era mudo. Y cuando salió el demonio, habló el mudo y la multitud se quedó admirada; 15pero algunos de ellos dijeron:\n—Expulsa los demonios por Beelzebul, el príncipe de los demonios. 16Y otros, para tentarle, le pedían una señal del cielo. 17Pero él, que conocía sus pensamientos, les replicó:\n—Todo reino dividido contra sí mismo queda desolado y cae casa contra casa. 18Si también Satanás está dividido contra sí mismo, ¿cómo se sostendrá su reino? Puesto que decís que expulso los demonios por Beelzebul. 19Si yo expulso los demonios por Beelzebul, vuestros hijos ¿por quién los expulsan? Por eso, ellos mismos serán vuestros jueces. 20Pero si yo expulso los demonios por el dedo de Dios, es que el Reino de Dios ha llegado a vosotros. 21»Cuando uno que es fuerte y está bien armado custodia su palacio, sus bienes están seguros; 22pero si llega otro más fuerte y le vence, le quita las armas en las que confiaba y reparte su botín. 23»El que no está conmigo está contra mí, y el que no recoge conmigo, desparrama."
+    }
+  }
+}

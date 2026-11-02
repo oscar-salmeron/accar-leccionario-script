@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Algunos que bajaron de Judea enseñaban a los hermanos:\n—Si no os circuncidáis según la costumbre mosaica no podéis salvaros. 2Se produjo entonces una conmoción y controversia no pequeña de Pablo y Bernabé contra ellos. Decidieron que Pablo y Bernabé, con algunos otros, acudieran a los apóstoles y presbíteros de Jerusalén, para tratar esta cuestión. 3Así pues, ellos, enviados por la Iglesia, atravesaron Fenicia y Samaría, narrando detalladamente la conversión de los gentiles y causando gran alegría a todos los hermanos. 4Cuando llegaron a Jerusalén fueron recibidos por la Iglesia, por los apóstoles y los presbíteros, y contaron lo que Dios había realizado por mediación de ellos. 5Pero se levantaron algunos de la secta de los fariseos que habían creído y dijeron:\n—Es necesario circuncidarles y ordenar que cumplan la Ley de Moisés. 6Los apóstoles y los presbíteros se reunieron para examinar esta cuestión."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas. De David.\nQué alegría cuando me dijeron:\n«¡Vamos a la Casa del Señor! 2Ya se han parado nuestros pies\na tus puertas, Jerusalén». 3Jerusalén, bien cimentada,\nciudad sólida y unida. 4Allí suben las tribus,\nlas tribus del Señor.\nEs un precepto de Israel,\npara alabar el Nombre del Señor. 5Pues allí está la sede de justicia,\nla sede de la casa de David."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1»Yo soy la vid verdadera y mi Padre es el labrador. 2Todo sarmiento que en mí no da fruto lo corta, y todo el que da fruto lo poda para que dé más fruto. 3Vosotros ya estáis limpios por la palabra que os he hablado. 4Permaneced en mí y yo en vosotros. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco vosotros si no permanecéis en mí. 5Yo soy la vid, vosotros los sarmientos. El que permanece en mí y yo en él, ése da mucho fruto, porque sin mí no podéis hacer nada. 6Si alguno no permanece en mí es arrojado fuera, como los sarmientos, y se seca; luego los recogen, los arrojan al fuego y arden. 7Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que queráis y se os concederá. 8En esto es glorificado mi Padre, en que deis mucho fruto y seáis discípulos míos."
+    }
+  }
+}

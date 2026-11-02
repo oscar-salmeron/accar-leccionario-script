@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1En diversos momentos y de muchos modos habló Dios en el pasado a nuestros padres por medio de los profetas. 2En estos últimos días nos ha hablado por medio de su Hijo, a quien instituyó heredero de todas las cosas y por quien hizo también el universo. 3Él, que es resplandor de su gloria e impronta de su sustancia y que sustenta todas las cosas con su palabra poderosa, después de llevar a cabo la purificación de los pecados, se sentó en los cielos a la diestra de la Majestad, 4y ha sido hecho tanto más excelente que los ángeles cuanto más les aventaja por el nombre que ha heredado. 5Pues ¿a qué ángel le dijo alguna vez:\nTú eres mi hijo;\nyo te he engendrado hoy?\n¿O también:\nYo seré para él Padre\ny para mí él será Hijo? 6Y de nuevo al introducir a su Primogénito en el mundo dice:\nQue le adoren todos los ángeles de Dios."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1El Señor reina: exulte la tierra,\nalégrense las islas incontables. 2Nubes y tinieblas lo rodean,\njusticia y derecho son el fundamento de su trono. 6Los cielos anuncian su justicia,\ny todos los pueblos contemplan su gloria. 7Queden avergonzados los que adoran efigies,\nlos que se glorían en sus vanos ídolos:\nante Él se postran todos los dioses. 9Porque Tú eres el Señor,\nel Altísimo sobre toda la tierra,\nensalzado sobre todos los dioses."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Después de haber sido apresado Juan, vino Jesús a Galilea predicando el Evangelio de Dios, 15y diciendo:\n—El tiempo se ha cumplido y el Reino de Dios está al llegar; convertíos y creed en el Evangelio. 16Y, mientras pasaba junto al mar de Galilea, vio a Simón y a Andrés, el hermano de Simón, que echaban las redes en el mar, pues eran pescadores. 17Y les dijo Jesús:\n—Seguidme y haré que seáis pescadores de hombres. 18Y, al momento, dejaron las redes y le siguieron. 19Y pasando un poco más adelante, vio a Santiago el de Zebedeo y a Juan, su hermano, que estaban en la barca remendando las redes; 20y enseguida los llamó. Y dejaron a su padre Zebedeo en la barca con los jornaleros y se fueron tras él."
+    }
+  }
+}

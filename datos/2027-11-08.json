@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Amad la justicia, los que gobernáis la tierra, pensad con bondad en las cosas del Señor,\ny buscadle con sencillez de corazón. 2Porque se deja hallar por los que no le tientan,\nse manifiesta a los que no le niegan su fe. 3Pero los razonamientos retorcidos apartan de Dios,\ny su poder, puesto a prueba, recrimina a los insensatos. 4La sabiduría no penetra en un alma maliciosa,\nni habita en un cuerpo dominado por el pecado. 5El espíritu santo, maestro, rehúye del engaño,\nse aleja de los razonamientos necios\ny será recriminado al sobrevenir la iniquidad. 6La sabiduría es un espíritu que ama a los hombres,\npero no dejará sin castigo al que blasfema con sus labios;\nporque Dios es testigo de sus interioridades,\nvigilante veraz de su corazón,\ny escucha su lengua. 7El espíritu del Señor llena la tierra,\ny, al contener todas las cosas, conoce bien cualquier voz."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Al maestro de coro. De David. Salmo.\nSeñor, Tú me examinas y me conoces. 2Tú sabes cuándo me siento y me levanto.\nPenetras desde lejos mis pensamientos. 3Camine o descanse, Tú lo adviertes;\ntodas mis sendas te son familiares. 4Pues aún no está una palabra en mi lengua,\ny ya, Señor, la conoces toda. 5Me aprietas por detrás y por delante,\nen mí tienes puesta tu mano. 6Misterioso es para mí este saber;\ndemasiado elevado, no puedo alcanzarlo. 7¿Adónde alejarme de tu espíritu?\n¿Adónde huir de tu presencia? 8Si subo al cielo, allí estás Tú;\nsi bajo hasta el sheol, allí te encuentras. 9Si monto en las alas de la aurora\ny habito en los confines del mar, 10también allí me guiará tu mano,\nme sujetará tu diestra."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Les dijo a sus discípulos:\n—Es imposible que no vengan los escándalos; pero, ¡ay de aquel por quien vienen! 2Más le valdría que le ajustaran al cuello una piedra de molino y que le arrojaran al mar, que escandalizar a uno de esos pequeños: 3andaos con cuidado.\n»Si tu hermano peca, repréndele; y, si se arrepiente, perdónale. 4Y si peca siete veces al día contra ti, y siete veces vuelve a ti, diciendo: «Me arrepiento», le perdonarás. 5Los apóstoles le dijeron al Señor:\n—Auméntanos la fe. 6Respondió el Señor:\n—Si tuvierais fe como un grano de mostaza, diríais a esta morera: arráncate y plántate en el mar, y os obedecería."
+    }
+  }
+}

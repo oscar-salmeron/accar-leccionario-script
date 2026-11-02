@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Vi en el cielo otro signo grande y admirable: siete ángeles que tenían siete plagas, las últimas, porque en ellas culmina la ira de Dios. 2Vi también como un mar de cristal mezclado con fuego, y a los que vencieron a la bestia y a su imagen y al número de su nombre, que estaban de pie sobre el mar de cristal llevando las cítaras de Dios. 3Y cantaban el cántico de Moisés, siervo de Dios, y el cántico del Cordero:\n«¡Grandes y admirables son tus obras,\nSeñor, Dios omnipotente!\n¡Justos y verdaderos tus caminos,\nRey de las naciones! 4¿Quién no temerá, Señor,\ny glorificará tu nombre?\nPorque sólo Tú eres Santo,\nporque todas las naciones vendrán\ny se postrarán en tu presencia,\nporque tus juicios se han manifestado»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo.\nCantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo. 2El Señor ha dado a conocer su salvación;\nha revelado su justicia a los ojos de las naciones. 3Se acordó de su misericordia y fidelidad\ncon la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios. 7Brame el mar y cuanto lo llena,\nel orbe y sus habitantes. 8Aplaudan los ríos,\nfestejen a una las montañas 9ante el Señor, que ya viene a juzgar la tierra:\njuzgará al orbe con justicia,\ny a los pueblos con rectitud."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12Pero antes de todas estas cosas os echarán mano y os perseguirán, entregándoos a las sinagogas y a las cárceles, llevándoos ante reyes y gobernadores por causa de mi nombre: 13esto os sucederá para dar testimonio. 14Así pues, convenceos de que no debéis tener preparado de antemano cómo os vais a defender; 15porque yo os daré palabras y sabiduría que no podrán resistir ni contradecir todos vuestros adversarios. 16Seréis entregados incluso por padres y hermanos, parientes y amigos, y matarán a algunos de vosotros, 17y seréis odiados por todos a causa de mi nombre. 18Pero ni un cabello de vuestra cabeza perecerá. 19Con vuestra perseverancia salvaréis vuestras almas."
+    }
+  }
+}

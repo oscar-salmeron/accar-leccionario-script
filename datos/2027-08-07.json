@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-08-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "4»Escucha, Israel: el Señor es nuestro Dios, el Señor es Uno. 5»Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma y con todas tus fuerzas. 6»Que estas palabras que yo te dicto hoy estén en tu corazón. 7Las repetirás a tus hijos, y hablarás de ellas cuando estés sentado en casa y al ir de camino, al acostarte y al levantarte. 8Las atarás a tu mano como un signo, servirán de recordatorio ante tus ojos. 9Las escribirás en las jambas de tu casa y en tus portones. 10»Una vez que el Señor, tu Dios, te haya introducido en la tierra que juró a tus padres Abrahán, Isaac y Jacob que te daría, con ciudades grandes y hermosas que tú no has edificado, 11con casas llenas de toda clase de bienes que tú no has allegado, con aljibes ya cavados que tú no has fabricado, viñedos y olivares que tú no has plantado y de los que, sin embargo, comerás y te saciarás, 12entonces, esmérate en no olvidarte del Señor que te sacó de la tierra de Egipto, de la casa de la esclavitud. 13»Temerás al Señor, tu Dios, le darás culto, y en su nombre harás tus juramentos."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Y dijo:\nYo te amo, Señor, fortaleza mía, 3Señor, mi roca, mi fortaleza, mi libertador,\nmi Dios, mi peña donde me refugio,\nmi escudo, la fuerza de mi salvación, mi alcázar. 4Invoco al Señor, digno de alabanza,\ny quedo a salvo de mis enemigos. 47¡Viva el Señor! ¡Bendita sea mi Roca!\n¡Exaltado sea el Dios de mi salvación! 51Él hace grandes las victorias de su rey\ny tiene misericordia de su Ungido,\nde David y su descendencia por siempre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Al llegar donde la multitud, se acercó a él un hombre, se puso de rodillas 15y le suplicó:\n—Señor, ten compasión de mi hijo, porque está lunático y sufre mucho; muchas veces se cae al fuego y otras al agua. 16Lo he traído a tus discípulos y no lo han podido curar. 17Jesús contestó:\n—¡Oh generación incrédula y perversa! ¿Hasta cuándo tendré que estar con vosotros? ¿Hasta cuándo tendré que soportaros? Traédmelo aquí. 18Le increpó Jesús y salió de él el demonio, y quedó curado el muchacho desde aquel momento. 19Luego los discípulos se acercaron a solas a Jesús y le dijeron:\n—¿Por qué nosotros no hemos podido expulsarlo? 20—Por vuestra poca fe —les dijo—. Porque os aseguro que si tuvierais fe como un grano de mostaza, podríais decir a este monte: «Trasládate de aquí allá», y se trasladaría, y nada os sería imposible."
+    }
+  }
+}

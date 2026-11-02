@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "26»Hermanos, hijos de Abrahán y los que entre vosotros sois temerosos de Dios: a nosotros se nos ha enviado esta palabra de Salvación. 27Los habitantes de Jerusalén y sus jefes le ignoraron y, al condenarle, cumplieron las palabras de los Profetas que se leen todos los sábados. 28Y sin haber encontrado causa alguna de muerte, pidieron a Pilato que le hiciera morir. 29Cuando cumplieron todo lo que sobre él estaba escrito, le bajaron del madero y lo pusieron en el sepulcro. 30Pero Dios le resucitó de entre los muertos: 31se apareció muchos días a los que habían subido con él de Galilea a Jerusalén, los mismos que ahora son sus testigos ante el pueblo. 32»También nosotros os anunciamos la buena nueva de que la promesa hecha a nuestros padres 33la ha cumplido Dios en nosotros, sus hijos, al resucitar a Jesús, como estaba escrito en el Salmo segundo:\nTú eres mi Hijo,\nyo te he engendrado hoy."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "6«Yo mismo he ungido a mi Rey\nen Sión, mi monte santo». 7Proclamaré el decreto del Señor.\nÉl me ha dicho:\n«Tú eres mi hijo. Yo te he engendrado hoy. 8Pídeme y te daré en herencia las naciones,\nlos confines de la tierra en propiedad. 9Los quebrantarás con barra de hierro;\nlos romperás como vaso de alfarero». 10Ahora, reyes, sed juiciosos.\nEscarmentad los que gobernáis la tierra. 11Servid al Señor con temor\ny aclamadle con temblor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1»No se turbe vuestro corazón. Creéis en Dios, creed también en mí. 2En la casa de mi Padre hay muchas moradas. De lo contrario, ¿os hubiera dicho que voy a prepararos un lugar? 3Cuando me haya marchado y os haya preparado un lugar, de nuevo vendré y os llevaré junto a mí, para que, donde yo estoy, estéis también vosotros. 4Y adonde yo voy, ya sabéis el camino. 5Tomás le dijo:\n—Señor, no sabemos adónde vas, ¿cómo podremos saber el camino? 6—Yo soy el Camino, la Verdad y la Vida —le respondió Jesús—; nadie va al Padre si no es a través de mí."
+    }
+  }
+}

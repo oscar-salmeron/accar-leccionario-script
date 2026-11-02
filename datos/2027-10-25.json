@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Así pues, hermanos, no somos deudores de la carne de modo que vivamos según la carne. 13Porque si vivís según la carne, moriréis; pero, si con el Espíritu hacéis morir las obras del cuerpo, viviréis. 14Porque los que son guiados por el Espíritu de Dios, éstos son hijos de Dios. 15Porque no recibisteis un espíritu de esclavitud para estar de nuevo bajo el temor, sino que recibisteis un Espíritu de hijos de adopción, en el que clamamos: «¡Abbá, Padre!» 16Pues el Espíritu mismo da testimonio junto con nuestro espíritu de que somos hijos de Dios. 17Y si somos hijos, también herederos: herederos de Dios, coherederos de Cristo; con tal de que padezcamos con él, para ser con él también glorificados."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Dios se alza, sus enemigos se dispersan,\nlos que lo odian huyen de su presencia. 4Pero los justos se alegran,\nse deleitan en la presencia de Dios\ny se gozan con alegría. 6Padre de los huérfanos y defensor de las viudas\nes Dios en su morada santa. 7Dios dispone un hogar para los abandonados,\nsuelta a los cautivos y los hace prósperos;\nsólo los rebeldes habitan en árida tierra. 20¡Bendito sea el Señor, día tras día!\nÉl lleva nuestras cargas,\nes el Dios de nuestra salvación. 21Dios es para nosotros el Dios que salva,\ny al Señor, nuestro Dios,\ndebemos el escapar de la muerte."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "10Un sábado estaba enseñando en una de las sinagogas. 11Y había allí una mujer poseída por un espíritu, enferma desde hacía dieciocho años, y estaba encorvada sin poder enderezarse de ningún modo. 12Al verla Jesús, la llamó y le dijo:\n—Mujer, quedas libre de tu enfermedad. 13Y le impuso las manos, y al instante se enderezó y glorificaba a Dios. 14Tomando la palabra el jefe de la sinagoga, indignado porque Jesús curaba en sábado, decía a la muchedumbre:\n—Hay seis días para trabajar; venid, pues, en ellos a ser curados, y no un día de sábado. 15El Señor le respondió:\n—¡Hipócritas!, cualquiera de vosotros ¿no suelta del pesebre en sábado su buey o su asno y lo lleva a beber? 16Y a ésta, que es hija de Abrahán, a la que Satanás ató hace ya dieciocho años, ¿no había que soltarla de esta atadura aun un día de sábado? 17Y cuando decía esto, quedaban avergonzados todos sus adversarios, y toda la gente se alegraba por todas las maravillas que hacía."
+    }
+  }
+}

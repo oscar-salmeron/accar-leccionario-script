@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-02-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Ahora, pues,\n—oráculo del Señor—\nconvertíos a Mí de todo corazón,\ncon ayuno, con llanto y con lamento. 13Rasgad vuestros corazones\ny no vuestros vestidos.\nConvertíos al Señor, vuestro Dios,\nporque es clemente y compasivo,\nlento a la ira y rico en misericordia,\ny se duele de hacer el mal. 14¿Quién sabe si se volverá y se arrepentirá,\ny dejará tras sí la bendición?\nPresentad ofrenda y libación\nal Señor, vuestro Dios. 15¡Tocad la trompeta en Sión!\nPromulgad el santo ayuno,\nconvocad a asamblea, 16congregad al pueblo,\ncelebrad asamblea santa,\nreunid a los ancianos,\ncongredad a los párvulos\ny a los niños de pecho.\nQue el esposo salga de su alcoba\ny la esposa de su tálamo. 17Que entre el vestíbulo y el altar\nlloren los sacerdotes,\nministros del Señor, y clamen:\n«¡Perdona, Señor, a tu pueblo;\nno entregues tu heredad al oprobio,\nni dominen en ella las naciones!».\n¿Por qué se ha de decir entre los pueblos:\n«Dónde está su Dios?». 18El Señor tuvo celos por su tierra\ny se apiadó de su pueblo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Ten misericordia de mí, Dios mío, según tu bondad;\nsegún tu inmensa compasión\nborra mi delito. 4Lávame por completo de mi culpa,\ny purifícame de mi pecado. 5Pues yo reconozco mi delito,\ny mi pecado está de continuo ante mí. 6Contra Ti, contra Ti sólo he pecado,\ny he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio. 12Crea en mí, Dios mío, un corazón puro,\ny renueva en mi interior un espíritu firme. 13No me arrojes de tu presencia,\nni me retires tu santo Espíritu. 14Devuélveme el gozo de tu salvación\ny afírmame con un espíritu noble. 17Señor, abre mis labios\ny mi boca proclamará tu alabanza."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "20Somos, pues, embajadores en nombre de Cristo, como si Dios os exhortase por medio de nosotros. En nombre de Cristo os rogamos: reconciliaos con Dios. 21A él, que no conoció pecado, lo hizo pecado por nosotros, para que llegásemos a ser en él justicia de Dios. 1Como colaboradores suyos os exhortamos también a que no recibáis en vano la gracia de Dios. 2Porque dice:\nEn el tiempo favorable te escuché.\nY en el día de la salvación te ayudé.\nMirad, ahora es el tiempo favorable, ahora es el día de la salvación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1»Guardaos de hacer vuestra justicia delante de los hombres con el fin de que os vean; de otro modo no tendréis recompensa de vuestro Padre que está en los cielos. 2»Por lo tanto, cuando des limosna no lo vayas pregonando, como hacen los hipócritas en las sinagogas y en las calles, con el fin de que los alaben los hombres. En verdad os digo que ya recibieron su recompensa. 3Tú, por el contrario, cuando des limosna, que tu mano izquierda no sepa lo que hace tu mano derecha, 4para que tu limosna quede en lo oculto; de este modo, tu Padre, que ve en lo oculto, te recompensará. 5»Cuando oréis, no seáis como los hipócritas, que son amigos de orar puestos de pie en las sinagogas y en las esquinas de las plazas, para exhibirse delante de los hombres; en verdad os digo que ya recibieron su recompensa. 6Tú, por el contrario, cuando te pongas a orar, entra en tu aposento y, con la puerta cerrada, ora a tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará. 16»Cuando ayunéis no os finjáis tristes como los hipócritas, que desfiguran su rostro para que los hombres noten que ayunan. En verdad os digo que ya recibieron su recompensa. 17Tú, en cambio, cuando ayunes, perfuma tu cabeza y lávate la cara, 18para que no adviertan los hombres que ayunas, sino tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-12-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5Éste es el mensaje que le hemos oído y que os anunciamos: Dios es luz y no hay en Él tinieblas de ninguna clase. 6Si decimos que estamos en comunión con Él y sin embargo caminamos en tinieblas, mentimos y no practicamos la verdad. 7En cambio, si caminamos en la luz, del mismo modo que Él está en la luz, entonces estamos en comunión unos con otros, y la sangre de su Hijo Jesús nos purifica de todo pecado. 8Si decimos que no tenemos pecado, nos engañamos a nosotros mismos, y la verdad no está en nosotros. 9Si confesamos nuestros pecados, fiel y justo es Él para perdonarnos los pecados y purificarnos de toda iniquidad. 10Si decimos que no hemos pecado, le hacemos mentiroso, y su palabra no está en nosotros. 1Hijos míos, os escribo estas cosas para que no pequéis. Pero si alguno peca, tenemos un abogado ante el Padre: Jesucristo, el Justo. 2Él es la víctima propiciatoria por nuestros pecados; y no sólo por los nuestros, sino por los de todo el mundo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2si el Señor no hubiera estado a favor nuestro\ncuando los hombres se alzaron contra nosotros, 3nos habrían tragado vivos\nen el ardor de su ira; 4nos habrían arrastrado las aguas,\nel torrente nos habría sumergido; 5nos habrían sumergido las aguas impetuosas. 7Nuestra alma, como un pájaro,\nse escapó del lazo de los cazadores:\nel lazo se rompió\ny nosotros escapamos. 8Nuestro auxilio es el Nombre del Señor,\nel que hizo cielo y tierra."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Cuando se marcharon, un ángel del Señor se le apareció en sueños a José y le dijo:\n—Levántate, toma al niño y a su madre, huye a Egipto y quédate allí hasta que yo te diga, porque Herodes va a buscar al niño para matarlo. 14Él se levantó, tomó de noche al niño y a su madre y huyó a Egipto. 15Allí permaneció hasta la muerte de Herodes, para que se cumpliera lo que dijo el Señor por medio del Profeta:\nDe Egipto llamé a mi hijo. 16Entonces, Herodes, al ver que los Magos le habían engañado, se irritó mucho y mandó matar a todos los niños que había en Belén y toda su comarca, de dos años para abajo, con arreglo al tiempo que cuidadosamente había averiguado de los Magos. 17Se cumplió entonces lo dicho por medio del profeta Jeremías: 18Una voz se oyó en Ramá,\nllanto y lamento grande:\nes Raquel que llora por sus hijos,\ny no admite consuelo, porque ya no existen."
+    }
+  }
+}

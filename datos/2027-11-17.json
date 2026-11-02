@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Dichoso el marido de una mujer virtuosa;\nel número de sus días se duplicará. 2Una mujer fuerte es la alegría de su marido,\nque cumplirá sus años en paz. 3Una mujer virtuosa es una buena fortuna,\nque, como suerte de los que temen al Señor, será dada\nal marido por las buenas obras. 15Como viajero sediento que abre la boca a la fuente\ny bebe de cualquier agua cercana,\nasí ella se sienta ante cualquier poste\ny abre su aljaba a cualquier flecha, mientras pueda. 16El encanto de la mujer hacendosa deleita al marido,\ny su buen saber le reconforta los huesos. 17Don del Señor es una mujer sensata y callada; 18una mujer educada no tiene precio. 24Cimientos eternos sobre roca sólida\nson los mandatos de Dios en corazón de mujer santa."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "4porque Tú eres mi peña, mi fortaleza:\npor honor de tu Nombre, dirígeme y guíame; 5sácame de la red que me han tendido,\nque Tú eres mi refugio. 8Me alegraré y me gozaré en tu misericordia,\npues te has fijado en mi miseria,\nhas comprendido la angustia de mi alma, 9no me has entregado en manos del enemigo;\nhas mantenido mis pies en lugar espacioso. 20Qué grande es tu bondad,\nla que has reservado para los que te temen,\npreparado para los que se refugian en Ti,\na la vista de los hijos de los hombres. 24Amad al Señor todos sus fieles,\nque el Señor protege a los leales,\npero castiga con dureza al que obra con orgullo. 25Sed fuertes y tome aliento vuestro corazón\ncuantos esperáis en el Señor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "31»Cuando venga el Hijo del Hombre en su gloria y acompañado de todos los ángeles, se sentará entonces en el trono de su gloria, 32y serán reunidas ante él todas las gentes; y separará a los unos de los otros, como el pastor separa las ovejas de los cabritos, 33y pondrá las ovejas a su derecha, los cabritos en cambio a su izquierda. 34Entonces dirá el Rey a los que estén a su derecha: «Venid, benditos de mi Padre, tomad posesión del Reino preparado para vosotros desde la creación del mundo: 35porque tuve hambre y me disteis de comer; tuve sed y me disteis de beber; era peregrino y me acogisteis; 36estaba desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme». 37Entonces le responderán los justos: «Señor, ¿cuándo te vimos hambriento y te dimos de comer, o sediento y te dimos de beber?; 38¿cuándo te vimos peregrino y te acogimos, o desnudo y te vestimos?, 39o ¿cuándo te vimos enfermo o en la cárcel y vinimos a verte?» 40Y el Rey, en respuesta, les dirá: «En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis»."
+    }
+  }
+}

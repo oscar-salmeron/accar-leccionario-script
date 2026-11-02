@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-12-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Saldrá un vástago de la cepa de Jesé, y de sus raíces florecerá un retoño. 2Sobre él reposará el Espíritu del Señor,\nespíritu de sabiduría y de entendimiento,\nespíritu de consejo y de fortaleza,\nespíritu de ciencia y de temor del Señor. 3Y lo inspirará con el temor del Señor.\nNo juzgará según las apariencias,\nni decidirá según los rumores; 4sino que juzgará con justicia a los desvalidos,\ny decidirá con rectitud a favor de los pobres de la tierra.\nGolpeará al país con la vara de su boca,\ny matará al impío con el soplo de sus labios. 5La justicia será el ceñidor de su cintura,\ny la fe, el cinturón de sus caderas. 6Entonces el lobo convivirá con el cordero,\nel leopardo se tumbará con el cabrito,\nternero y león joven engordarán juntos,\ny un niño pequeño los guiará. 7La vaca pacerá con la osa,\nsus crías se recostarán juntas,\ny el león, como el buey, comerá paja. 8El niño de pecho jugará junto al agujero del áspid\ny el destetado meterá su mano en la madriguera de la víbora. 9Nadie hará mal ni causará daño\nen todo mi monte santo,\nporque la tierra estará llena del conocimiento del Señor,\ncomo las aguas que cubren el mar. 10Aquel día, la raíz de Jesé\nse alzará como bandera para los pueblos,\nla buscarán las naciones,\ny su morada será gloriosa."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De Salomón.\nDios mío, concede tu juicio al rey\ny tu justicia al hijo del rey. 2Que gobierne a tu pueblo con justicia\ny a tus pobres con equidad. 7Florezca en sus días la justicia,\ny haya paz abundante mientras perdure la luna. 8Domine de mar a mar,\ndesde el Río hasta los confines de la tierra. 12Porque él librará al desvalido que clama\ny al pobre que no tiene amparo. 13Tendrá piedad del débil y del desvalido\ny salvará la vida de los indigentes. 17Su nombre subsistirá por siempre,\nsu nombre se perpetuará mientras dure el sol.\nEn él serán benditas todas las tribus de la tierra;\ntodas las naciones lo proclamarán dichoso."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "21En aquel mismo momento se llenó de gozo en el Espíritu Santo y dijo:\n—Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños. Sí, Padre, porque así te ha parecido bien. 22Todo me ha sido entregado por mi Padre, y nadie conoce quién es el Hijo sino el Padre, ni quién es el Padre sino el Hijo, y aquel a quien el Hijo quiera revelarlo. 23Y volviéndose hacia los discípulos les dijo aparte:\n—Bienaventurados los ojos que ven lo que estáis viendo. 24Pues os aseguro que muchos profetas y reyes quisieron ver lo que vosotros estáis viendo y no lo vieron; y oír lo que estáis oyendo y no lo oyeron."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "22Entonces les pareció bien a los apóstoles y a los presbíteros, y a toda la Iglesia, enviar a Antioquía con Pablo y Bernabé a algunos varones elegidos de entre ellos: a Judas, llamado Barsabás, y a Silas, destacados entre los hermanos. 23Con ellos les enviaron este escrito:\n«Los apóstoles y los presbíteros hermanos, a los hermanos de la gentilidad que viven en Antioquía, Siria y Cilicia: saludos. 24Puesto que hemos oído que algunos salidos de entre nosotros —pero que nosotros no hemos enviado— os han desconcertado con sus palabras y os han llenado de inquietud, 25unánimemente nos ha parecido oportuno elegir a unos hombres y enviarlos donde vosotros en compañía de nuestros queridísimos Bernabé y Pablo, 26hombres que han entregado su vida por el nombre de nuestro Señor Jesucristo. 27Enviamos por lo tanto a Judas y Silas, que os comunicarán de palabra estas mismas cosas; 28porque hemos decidido el Espíritu Santo y nosotros no imponeros más cargas que las necesarias: 29abstenerse de lo sacrificado a los ídolos, de la sangre, de los animales estrangulados y de la fornicación. Obraréis bien al guardaros de estas cosas. Que tengáis salud». 30Ellos, después de despedirse, bajaron a Antioquía, reunieron a la muchedumbre y entregaron la carta; 31y al leerla se llenaron de alegría por estas palabras de consuelo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8Mi corazón está firme, Dios mío,\nmi corazón está firme:\ncantaré y entonaré salmos. 9¡Despierta, gloria mía!\n¡Despertad, arpa y cítara!\nDespertaré a la aurora. 10Te alabaré ante los pueblos, Señor,\nte entonaré salmos ante las naciones. 11Porque tu misericordia es más grande que los cielos,\ntu fidelidad, más alta que las nubes. 12¡Álzate sobre los cielos, oh Dios,\nsobre toda la tierra sea tu gloria!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado. 13Nadie tiene amor más grande que el de dar uno la vida por sus amigos. 14Vosotros sois mis amigos si hacéis lo que os mando. 15Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer. 16No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda. 17Esto os mando: que os améis los unos a los otros."
+    }
+  }
+}

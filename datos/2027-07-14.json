@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Moisés apacentaba el rebaño de su suegro Jetró, sacerdote de Madián; solía conducirlo al interior del desierto, llegando hasta el Horeb, el monte de Dios. 2El ángel del Señor se le manifestó en forma de llama de fuego en medio de una zarza. Moisés miró: la zarza ardía pero no se consumía. 3Y se dijo Moisés: «Voy a acercarme y comprobar esta visión prodigiosa: por qué no se consume la zarza». 4Vio el Señor que Moisés se acercaba a mirar y lo llamó de entre la zarza:\n—¡Moisés, Moisés!\nY respondió él:\n—Heme aquí. 5Y dijo Dios:\n—No te acerques aquí; quítate las sandalias de los pies, porque el lugar que pisas es tierra sagrada. 6Y añadió:\n—Yo soy el Dios de tu padre, el Dios de Abrahán, el Dios de Isaac y el Dios de Jacob.\nMoisés se cubrió el rostro por temor a contemplar a Dios. 9Así es, el clamor de los hijos de Israel ha llegado hasta mí y he visto además la opresión a que los egipcios los someten. 10Ahora, pues, ve: yo te envío al Faraón para que saques a mi pueblo, a los hijos de Israel, de Egipto. 11Moisés respondió a Dios:\n—¿Quién soy yo para ir al Faraón y para sacar a los hijos de Israel de Egipto? 12Y le dijo Dios:\n—Yo estaré contigo, y ésta será la señal de que yo te envío: cuando saques al pueblo de Egipto, daréis culto a Dios en este mismo monte."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David.\nBendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo. 2Bendice, alma mía, al Señor,\nno olvides ninguno de sus beneficios. 3Él es quien perdona tus culpas,\nquien sana tus enfermedades. 4Quien rescata tu vida de la fosa,\nquien te corona de misericordia y compasión. 6El Señor hace obras justas\ny justicia a todos los oprimidos. 7Él mostró sus caminos a Moisés,\nsus hazañas, a los hijos de Israel."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "25En aquella ocasión Jesús declaró:\n—Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños. 26Sí, Padre, porque así te ha parecido bien. 27Todo me ha sido entregado por mi Padre, y nadie conoce al Hijo sino el Padre, ni nadie conoce al Padre sino el Hijo y aquel a quien el Hijo quiera revelarlo."
+    }
+  }
+}

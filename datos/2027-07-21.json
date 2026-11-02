@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "9Por eso decidí tomarla por compañera de mi vida,\nconsciente de que me sería buena consejera\ny consuelo en las preocupaciones y tristezas. 10Gracias a ella conseguiré gloria ante la gente,\ny honor de los ancianos, aun siendo joven. 11En los juicios me encontrarán agudo,\ny delante de los poderosos seré admirado. 12Cuando yo calle, se quedarán esperando,\ny cuando hable, me prestarán atención,\ny si me alargo hablando, se llevarán la mano a la boca. 13Gracias a ella alcanzaré inmortalidad\ny dejaré un recuerdo eterno a los que me sucedan. 14Gobernaré pueblos, y se me someterán naciones. 15Soberanos terribles oirán hablar de mí y me temerán;\ncon la gente me mostraré bueno, y en el combate, valiente. 16Al volver a casa descansaré con ella,\npues no hay amargura en su convivencia,\nni tedio en su compañía;\nal contrario, da alegría y contento."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Tenga Dios piedad de nosotros y nos bendiga,\nhaga brillar su rostro sobre nosotros. 3Para que se conozca en la tierra tu camino,\ntu salvación en todas las naciones. 4¡Que te alaben los pueblos, oh Dios,\nque todos los pueblos te alaben! 5Que se alegren y te aclamen las naciones,\nporque juzgas los pueblos con rectitud\ny diriges las naciones de la tierra. 7La tierra ha dado su fruto:\nDios, nuestro Dios, nos bendice. 8Que Dios nos bendiga\ny que le teman todos los confines de la tierra."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Convocó a los doce y les dio poder y potestad sobre todos los demonios, y para curar enfermedades. 2Los envió a predicar el Reino de Dios y a sanar a los enfermos. 3Y les dijo:\n—No llevéis nada para el camino, ni bastón, ni alforja, ni pan, ni dinero, ni tengáis dos túnicas. 4En cualquier casa que entréis, quedaos allí hasta que de allí os vayáis. 5Y si nadie os acoge, al salir de aquella ciudad, sacudíos el polvo de los pies en testimonio contra ellos. 6Se marcharon y pasaban por las aldeas evangelizando y curando por todas partes."
+    }
+  }
+}

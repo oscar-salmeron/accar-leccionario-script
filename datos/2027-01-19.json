@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Pues Dios no es injusto como para olvidarse de vuestras obras ni del amor que habéis manifestado a su nombre, ya que habéis servido a los santos y continuáis haciéndolo. 11Deseamos vivamente que cada uno de vosotros manifieste hasta el fin el mismo empeño por alcanzar la perfección de la esperanza, 12de modo que no os volváis perezosos, sino que imitéis a los que heredan las promesas mediante la fe y la paciencia. 13Por eso Dios, cuando hizo su promesa a Abrahán, como no tenía a nadie superior a Él por quien jurar, juró por sí mismo 14diciendo: Ciertamente te llenaré de bendiciones y te multiplicaré sin medida. 15Y de este modo, esperando con paciencia, alcanzó la promesa. 16Pues los hombres juran por algo superior, y el juramento es para ellos la garantía que pone fin a todo litigio. 17Y por esto Dios, al querer demostrar con mayor claridad a los herederos de la promesa la inmutabilidad de su decisión, la reafirmó con un juramento; 18para que, gracias a dos cosas inmutables por las cuales es imposible que Dios mienta, los que buscamos refugio en la posesión de la esperanza que nos es ofrecida, tengamos un poderoso consuelo, 19que es para nosotros como ancla segura y firme de nuestra vida y que entra hasta el interior, más allá del velo, 20donde como precursor nuestro entró Jesús, constituido para siempre Sumo Sacerdote según el orden de Melquisedec."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Aleluya.\n(Alef) Doy gracias al Señor, de todo corazón,\n(Bet) en el consejo de los rectos y en la asamblea. 2(Guímel) Grandes son las obras del Señor;\n(Dálet) dignas de ser contempladas por todos los que las aman. 4(Záin) Ha hecho maravillas dignas de recordar.\n(Het) El Señor es clemente y compasivo. 5(Tet) Da alimento a quienes le temen,\n(Yod) recuerda siempre su alianza. 9(Pe) Envió la redención a su pueblo;\n(Sade) ordenó para siempre su alianza.\n(Qof) Su Nombre es santo y temible. 10(Resh) Principio de la sabiduría es el temor del Señor.\n(Shin) Sensatos son cuantos lo practican.\n(Tav) Su alabanza permanece para siempre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "23Un sábado pasaba él por entre unos sembrados, y sus discípulos mientras caminaban comenzaron a arrancar espigas. 24Los fariseos le decían:\n—Mira, ¿por qué hacen en sábado lo que no es lícito? 25Y les dijo:\n—¿Nunca habéis leído lo que hizo David cuando se vio necesitado, y tuvieron hambre él y los que le acompañaban? 26¿Cómo entró en la Casa de Dios en tiempos de Abiatar, sumo sacerdote, y comió los panes de la proposición —que sólo a los sacerdotes les es lícito comer— y los dio también a los que estaban con él? 27Y les decía:\n—El sábado fue hecho para el hombre, y no el hombre para el sábado. 28Por tanto, el Hijo del Hombre es señor hasta del sábado."
+    }
+  }
+}

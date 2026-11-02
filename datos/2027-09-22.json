@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5En la ofrenda de la tarde me alcé de mi postración y, rasgadas mis vestiduras y mi manto, doblé mis rodillas, extendí las palmas de mis manos hacia el Señor, mi Dios, 6y dije:\n—Dios mío, me avergüenzo y me sonrojo de levantar mi rostro hacia ti, Dios mío, porque nuestras iniquidades se han multiplicado encima de nuestras cabezas y nuestra culpa es tal que llega hasta el cielo 7desde la época de nuestros padres. Nosotros mismos, hasta el día de hoy, por tan gran culpa y por nuestras iniquidades, nosotros, nuestros reyes y nuestros sacerdotes, hemos sido entregados en manos de los reyes de estos países, a la espada, el cautiverio, el pillaje y la vergüenza, como sucede hoy mismo. 8Y ahora, en un instante, tenemos la gracia del Señor, nuestro Dios, que nos ha permitido librarnos y nos ha dado un apoyo en su lugar santo. Nuestro Dios ha iluminado nuestros ojos y nos ha permitido revivir un poco en nuestra servidumbre. 9Pues nosotros somos siervos, y en nuestra servidumbre no hemos abandonado a nuestro Dios, y nos ha dispensado su misericordia delante de los reyes persas, permitiéndonos revivir para levantar el Templo de nuestro Dios y poner en pie sus ruinas, y nos ha dado un lugar de refugio en Judá y en Jerusalén."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2—Bendito sea Dios, que vive eternamente, y su reino;\nporque Él castiga y se compadece,\nhace descender hasta el hades\nen lo más profundo de la tierra,\ny levanta desde la gran perdición,\nsin que nada escape de su mano. 3Proclamadle, hijos de Israel, ante las naciones,\nporque Él os dispersó entre ellas 4y os mostró allí su gran poder.\nEnsalzadle también ante todo viviente,\nporque es nuestro Señor y nuestro Dios,\ny también nuestro Padre,\nÉl es Dios por todos los siglos. 7Mi alma y yo ensalzamos al Dios del cielo,\nmi alma se alegrará todos los días de su vida.\nBendecid al Señor de la justicia\ny cantad himnos al rey de los siglos. 8Bendecid al Señor, todos los elegidos,\ny cantad, todos, su majestad.\nCelebrad días de alegría, y proclamadlo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Convocó a los doce y les dio poder y potestad sobre todos los demonios, y para curar enfermedades. 2Los envió a predicar el Reino de Dios y a sanar a los enfermos. 3Y les dijo:\n—No llevéis nada para el camino, ni bastón, ni alforja, ni pan, ni dinero, ni tengáis dos túnicas. 4En cualquier casa que entréis, quedaos allí hasta que de allí os vayáis. 5Y si nadie os acoge, al salir de aquella ciudad, sacudíos el polvo de los pies en testimonio contra ellos. 6Se marcharon y pasaban por las aldeas evangelizando y curando por todas partes."
+    }
+  }
+}

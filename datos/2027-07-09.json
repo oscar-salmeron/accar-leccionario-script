@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Israel emprendió el viaje con todo lo que tenía; llegó a Berseba y ofreció sacrificios al Dios de su padre Isaac. 2Dios llamó a Israel en una aparición aquella noche:\n—¡Jacob, Jacob!\nÉste contestó:\n—¡Aquí estoy! 3Y le dijo:\n—Yo soy Dios, el Dios de tu padre. No temas bajar a Egipto, porque te constituiré allí en un gran pueblo. 4Yo bajaré contigo a Egipto, y yo te haré también subir; y José te cerrará los ojos. 5Jacob se puso en camino desde Berseba, y los hijos de Israel subieron a su padre Jacob, a los niños y a las mujeres en los carros que había enviado el faraón para transportarle. 6Llevaron su ganado y las riquezas que habían hecho en el país de Canaán, y llegaron a Egipto, Jacob y toda su descendencia con él: 7sus hijos y nietos, y sus hijas y nietas; a toda su descendencia la llevó consigo a Egipto. 28Jacob envió a Judá por delante a donde estaba José, para que éste diese instrucciones antes de su llegada a Gosen. Luego entraron en la región de Gosen. 29José enganchó su carroza y subió a Gosen al encuentro de su padre Israel. Al verlo se le echó al cuello y lloró abrazado a él. 30Israel dijo a José:\n—Ahora puedo morir después de haber visto tu rostro y saber que todavía vives."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3(Bet) Confía en el Señor y haz el bien;\nhabita tu tierra y guarda la fidelidad. 4Pon tu delicia en el Señor,\ny te concederá los deseos de tu corazón. 18(Yod) El Señor conoce los días de los íntegros,\nsu heredad durará por siempre; 19no serán avergonzados en tiempo de desgracia,\ny en días de hambre serán saciados. 27(Sámek) Aléjate del mal y obra el bien,\ny tendrás una morada para siempre; 28porque el Señor ama la justicia\ny no abandona a sus fieles;\n(Áin) Los malvados serán exterminados para siempre,\nla descendencia de los impíos será aniquilada. 39(Tav) El Señor salva a los justos,\nÉl es su refugio en tiempo de angustia. 40El Señor los socorre y los libra,\nlos libra de los impíos y los salva,\nporque en Él buscan refugio."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "16»Mirad que yo os envío como ovejas en medio de lobos. Por eso, sed sagaces como las serpientes y sencillos como las palomas. 17Guardaos de los hombres, porque os entregarán a los tribunales, os azotarán en sus sinagogas, 18y seréis llevados ante los gobernadores y reyes por causa mía, para que deis testimonio ante ellos y los gentiles. 19Pero cuando os entreguen, no os preocupéis de cómo o qué debéis decir; porque en aquel momento se os comunicará lo que vais a decir. 20Pues no sois vosotros los que vais a hablar, sino que será el Espíritu de vuestro Padre quien hable en vosotros. 21Entonces el hermano entregará a la muerte al hermano, y el padre al hijo; y se levantarán los hijos contra los padres para hacerles morir. 22Y seréis odiados por causa de mi nombre; pero quien persevere hasta el fin, ése será salvado. 23Cuando os persigan en una ciudad, huid a otra; en verdad os digo que no acabaréis las ciudades de Israel antes que venga el Hijo del Hombre."
+    }
+  }
+}

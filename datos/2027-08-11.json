@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-08-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "16Por eso, Yo mismo la seduciré,\nla conduciré al desierto\ny le hablaré al corazón. 17Y desde allí le daré sus viñas\ny el valle de Acor será puerta de esperanza;\nallí me responderá como en los días de su juventud,\ncomo el día que subió de la tierra de Egipto. 21Te desposaré conmigo para siempre,\nte desposaré conmigo en justicia y derecho,\nen amor y misericordia. 22Te desposaré conmigo en fidelidad,\ny conocerás al Señor."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "11Escucha, hija, y mira, presta tu oído,\nolvida tu pueblo y la casa de tu padre: 12y el rey se prendará de tu belleza;\nél es tu señor, inclínate ante él. 14Radiante de gloria, la hija del rey enjoyada\n—de brocados de oro es su vestido, 15con bordados de colores—, es conducida ante el rey.\nVírgenes, sus damas, forman su séquito,\nson conducidas ante ti; 16son conducidas en medio de alegría y regocijo;\nentran en el palacio del rey."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "4Permaneced en mí y yo en vosotros. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco vosotros si no permanecéis en mí. 5Yo soy la vid, vosotros los sarmientos. El que permanece en mí y yo en él, ése da mucho fruto, porque sin mí no podéis hacer nada. 6Si alguno no permanece en mí es arrojado fuera, como los sarmientos, y se seca; luego los recogen, los arrojan al fuego y arden. 7Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que queráis y se os concederá. 8En esto es glorificado mi Padre, en que deis mucho fruto y seáis discípulos míos. 9»Como el Padre me amó, así os he amado yo. Permaneced en mi amor. 10Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor."
+    }
+  }
+}

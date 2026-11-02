@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "17Hermanos, sed imitadores míos y fijaos en los que caminan según el modelo que tenéis en nosotros. 18Porque muchos —esos de quienes con frecuencia os hablaba y os hablo ahora llorando— se comportan como enemigos de la cruz de Cristo: 19su fin es la perdición, su dios el vientre, y su gloria la propia vergüenza, porque ponen el corazón en las cosas terrenas. 20Pero nosotros somos ciudadanos del cielo, de donde también esperamos al Salvador, al Señor Jesucristo, 21el cual transformará nuestro cuerpo vil en un cuerpo glorioso como el suyo, en virtud del poder que tiene para someter a su dominio todas las cosas. 1Por tanto, hermanos míos muy queridos y añorados, mi gozo y mi corona, ¡permaneced así, queridísimos míos, firmes en el Señor!"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas. De David.\nQué alegría cuando me dijeron:\n«¡Vamos a la Casa del Señor! 2Ya se han parado nuestros pies\na tus puertas, Jerusalén». 3Jerusalén, bien cimentada,\nciudad sólida y unida. 4Allí suben las tribus,\nlas tribus del Señor.\nEs un precepto de Israel,\npara alabar el Nombre del Señor. 5Pues allí está la sede de justicia,\nla sede de la casa de David."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Decía también a los discípulos:\n—Había un hombre rico que tenía un administrador, al que acusaron ante el amo de malversar la hacienda. 2Le llamó y le dijo: «¿Qué es esto que oigo de ti? Dame cuentas de tu administración, porque ya no podrás seguir administrando». 3Y dijo para sí el administrador: «¿Qué voy a hacer, ya que mi señor me quita la administración? Cavar no puedo; mendigar me da vergüenza. 4Ya sé lo que haré para que me reciban en sus casas cuando me despidan de la administración». 5Y, convocando uno a uno a los deudores de su amo, le dijo al primero: «¿Cuánto debes a mi señor?» 6Él respondió: «Cien medidas de aceite». Y le dijo: «Toma tu recibo; aprisa, siéntate y escribe cincuenta». 7Después le dijo a otro: «¿Y tú cuánto debes?» Él respondió: «Cien cargas de trigo». Y le dijo: «Toma tu recibo y escribe ochenta». 8El amo alabó al administrador infiel por haber actuado sagazmente; porque los hijos de este mundo son más sagaces en lo suyo que los hijos de la luz."
+    }
+  }
+}

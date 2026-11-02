@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "21Moisés extendió su mano sobre el mar, y el Señor, mediante un viento solano que sopló toda la noche, empujó el mar hasta que se secó, y se dividieron las aguas. 22Los hijos de Israel entraron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda. 23Los egipcios los persiguieron con todos los caballos del Faraón, los carros y los guerreros, entrando tras ellos hasta el medio del mar. 24Al romper el alba el Señor observó desde la columna de nube y fuego los campamentos de los egipcios y los desbarató. 25Hizo que se trabaran las ruedas de sus carros, de modo que avanzaran con dificultad. Entonces los egipcios se dijeron:\n—Huyamos de delante de Israel porque el Señor combate a su favor en contra de los egipcios. 26El Señor dijo a Moisés:\n—Extiende tu mano sobre el mar y las aguas se volverán sobre los egipcios, sobre sus carros y sus guerreros. 27Extendió Moisés su mano sobre el mar y éste volvió a su estado habitual al rayar el día. Los egipcios al huir, se encontraron con las aguas y así el Señor precipitó a los egipcios al medio del mar. 28Las aguas volvieron, y cubrieron los carros y los guerreros de todo el ejército del Faraón, que había entrado tras ellos en el mar. No escapó ni uno solo. 29Los hijos de Israel pasaron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda. 30Así el Señor salvó aquel día a Israel de la mano de los egipcios, e Israel pudo ver a los egipcios muertos a la orilla del mar. 31Israel vio la mano poderosa con la que el Señor trató a Egipto, y el pueblo temió al Señor y creyó en el Señor y en Moisés, su siervo. 1Entonces Moisés y los hijos de Israel entonaron este cántico al Señor. Y decían:\n—Quiero cantar al Señor, vencedor excelso:\ncaballos y caballeros al mar ha precipitado."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8Al soplo de tu ira se amontonaron las aguas;\nlas olas como un dique se elevaron;\ny en el fondo del mar se cuajaron los abismos. 9Decíase el enemigo: «Los perseguiré,\nles daré alcance;\nrepartiré el botín, quedará saciada mi codicia;\nvoy a desenvainar la espada, los exterminará mi mano». 10Pero soplaste con tu aliento y el mar los cubrió;\ncomo plomo se hundieron en las profundas aguas. 12Extendiste tu diestra y la tierra los tragó. 17Los llevarás y los plantarás en el monte de tu heredad,\nel lugar que tú, Señor, te has preparado como trono,\nen el Santuario que han fundado tus manos, Señor."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "46Aún estaba él hablando a las multitudes, cuando su madre y sus hermanos se hallaban fuera intentando hablar con él. 47Alguien le dijo entonces:\n—Mira, tu madre y tus hermanos están ahí fuera intentando hablar contigo. 48Pero él respondió al que se lo decía:\n—¿Quién es mi madre y quiénes son mis hermanos? 49Y extendiendo su mano hacia sus discípulos, dijo:\n—Éstos son mi madre y mis hermanos. 50Porque todo el que hace la voluntad de mi Padre que está en los cielos, ése es mi hermano y mi hermana y mi madre."
+    }
+  }
+}

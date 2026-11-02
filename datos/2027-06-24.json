@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1¡Escuchadme, islas! ¡Poned atención, pueblos lejanos!\nEl Señor me llamó desde el seno materno,\ndesde las entrañas de mi madre pronunció mi nombre. 2Hizo de mi boca espada afilada,\na la sombra de su mano me encubrió;\nhizo de mí una flecha aguzada,\ny me guardó en su aljaba. 3Y me dijo: «Tú eres mi siervo, Israel,\nen quien me glorío». 4Yo me decía: «En balde me he fatigado,\ninútilmente y en vano he gastado mi fuerza.\nSin embargo, mi juicio pertenece al Señor,\ny mi recompensa está en mi Dios». 5Ahora dice el Señor,\nel que me formó desde el seno materno para ser su siervo,\npara hacer que Jacob volviese a Él\ny para reunirle a Israel,\npues soy estimado a los ojos del Señor\ny mi Dios ha venido a ser mi fortaleza: 6«Muy poco es que seas siervo mío\npara restaurar las tribus de Jacob\ny hacer volver a los supervivientes de Israel.\nTe he puesto para ser luz de las naciones,\npara que mi salvación alcance hasta los extremos de la tierra»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Al maestro de coro. De David. Salmo.\nSeñor, Tú me examinas y me conoces. 2Tú sabes cuándo me siento y me levanto.\nPenetras desde lejos mis pensamientos. 3Camine o descanse, Tú lo adviertes;\ntodas mis sendas te son familiares. 13Tú has formado mis entrañas,\nme has plasmado en el vientre de mi madre. 14Te doy gracias porque me has hecho como un prodigio:\ntus obras son maravillosas,\nbien lo sabe mi alma. 15No se te ocultaban mis huesos\ncuando en secreto iba yo siendo hecho,\ncuando era formado en lo profundo de la tierra."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "22Cuando lo depuso, les suscitó como rey a David, a quien acreditó diciendo: Encontré a David, hijo de Jesé, hombre según mi corazón, que hará en todo mi voluntad. 23»De su descendencia, Dios, según la promesa, hizo surgir para Israel un Salvador, Jesús. 24Juan había predicado, ante la proximidad de su venida, un bautismo de penitencia a todo el pueblo de Israel. 25Cuando estaba Juan para terminar su carrera decía: «¿Quién pensáis que soy? No soy yo, sino mirad que detrás de mí viene uno a quien no soy digno de desatar el calzado de los pies». 26»Hermanos, hijos de Abrahán y los que entre vosotros sois temerosos de Dios: a nosotros se nos ha enviado esta palabra de Salvación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "57Entretanto le llegó a Isabel el tiempo del parto, y dio a luz un hijo. 58Y sus vecinos y parientes oyeron que el Señor había agrandado su misericordia con ella y se congratulaban con ella. 59El día octavo fueron a circuncidar al niño, y querían ponerle el nombre de su padre, Zacarías. 60Pero su madre dijo:\n—De ninguna manera, sino que se llamará Juan. 61Y le dijeron:\n—No hay nadie en tu familia que tenga este nombre. 62Al mismo tiempo preguntaban por señas a su padre cómo quería que se le llamase. 63Y él, pidiendo una tablilla, escribió: «Juan es su nombre». Lo cual llenó a todos de admiración. 64En aquel momento recobró el habla, se soltó su lengua y hablaba bendiciendo a Dios. 65Y se apoderó de todos sus vecinos el temor y se comentaban estos acontecimientos por toda la montaña de Judea; 66y cuantos los oían los grababan en su corazón, diciendo:\n—¿Qué va a ser, entonces, este niño?\nPorque la mano del Señor estaba con él. 80Mientras tanto el niño iba creciendo y se fortalecía en el espíritu, y habitaba en el desierto hasta el tiempo en que debía darse a conocer a Israel."
+    }
+  }
+}

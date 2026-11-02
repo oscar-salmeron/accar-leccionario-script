@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "15Podéis estar seguros y aceptar plenamente esta verdad: que Cristo Jesús vino al mundo para salvar a los pecadores, y de ellos el primero soy yo. 16Pero por eso he alcanzado misericordia, para que yo fuera el primero en quien Cristo Jesús mostrase toda su longanimidad, y sirviera de ejemplo a quienes van a creer en él para llegar a la vida eterna. 17Al rey de los siglos, al inmortal, invisible y único Dios, honor y gloria por los siglos de los siglos. Amén."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nAlabad, siervos del Señor,\nalabad el Nombre del Señor. 2Bendito sea el Nombre del Señor,\nahora y por siempre, sin fin. 3Desde la salida del sol hasta el ocaso,\nalabado sea el Nombre del Señor. 4Excelso sobre todas las naciones es el Señor,\npor encima de los cielos está su gloria. 5¿Quién como el Señor, nuestro Dios,\nque se sienta en las alturas, 6y se abaja para mirar los cielos y la tierra? 7Él levanta del polvo al indigente,\ny del estiércol hace subir al mísero,"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "43»Porque no hay árbol bueno que dé fruto malo, ni tampoco árbol malo que dé buen fruto. 44Pues cada árbol se conoce por su fruto; no se recogen higos de los espinos, ni se vendimian uvas del zarzal. 45El hombre bueno del buen tesoro de su corazón saca lo bueno, y el malo de su mal saca lo malo: porque de la abundancia del corazón habla su boca. 46»¿Por qué me llamáis: «Señor, Señor», y no hacéis lo que digo? 47Todo el que viene a mí y oye mis palabras y las pone en práctica, os diré a quién se parece. 48Se parece a un hombre que, al edificar una casa, cavó muy hondo y puso los cimientos sobre la roca. Al venir una inundación, el río rompió contra aquella casa, y no pudo derribarla porque estaba bien edificada. 49»El que oye y no pone en práctica se parece a un hombre que edificó su casa sobre la tierra sin cimientos; rompió contra ella el río y enseguida se derrumbó, y fue tremenda la ruina de aquella casa."
+    }
+  }
+}

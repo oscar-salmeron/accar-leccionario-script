@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Tú, en cambio, habla de lo que está de acuerdo con la sana doctrina. 2Que los ancianos sean sobrios, dignos, prudentes, fuertes en la fe, en la caridad y en la paciencia. 3Que las ancianas, asimismo, se comporten como corresponde a los santos; que no sean ni calumniadoras ni estén dominadas por el vicio del vino, que sean maestras del bien, 4para que enseñen a las más jóvenes a amar a sus maridos y a sus hijos, 5a ser prudentes, castas, buenas amas de casa, sujetas a sus maridos, para que no sea ultrajada la palabra de Dios. 6Del mismo modo, a los más jóvenes exhórtales a ser prudentes, 7mostrándote tú mismo como modelo de buenas obras en todo: pureza de doctrina, dignidad, 8predicación sana e intachable, para que el adversario se avergüence al no tener nada malo que decir de nosotros. 11Pues se ha manifestado la gracia de Dios, portadora de salvación para todos los hombres, 12educándonos para que renunciemos a la impiedad y a las concupiscencias mundanas, y vivamos con prudencia, justicia y piedad en este mundo, 13aguardando la esperanza bienaventurada y la manifestación de la gloria del gran Dios y Salvador nuestro, Jesucristo, 14que se entregó a sí mismo por nosotros para redimirnos de toda iniquidad, y para purificar para sí un pueblo escogido, celoso por hacer el bien."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3(Bet) Confía en el Señor y haz el bien;\nhabita tu tierra y guarda la fidelidad. 4Pon tu delicia en el Señor,\ny te concederá los deseos de tu corazón. 18(Yod) El Señor conoce los días de los íntegros,\nsu heredad durará por siempre; 23(Mem) El Señor afianza los pasos del hombre\ny se complace en su conducta. 27(Sámek) Aléjate del mal y obra el bien,\ny tendrás una morada para siempre; 29Los justos heredarán la tierra\ny habitarán en ella eternamente."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "7»Si uno de vosotros tiene un siervo en la labranza o con el ganado y regresa del campo, ¿acaso le dice: «Entra enseguida y siéntate a la mesa?» 8Por el contrario, ¿no le dirá más bien: «Prepárame la cena y disponte a servirme mientras como y bebo, que después comerás y beberás tú?» 9¿Es que tiene que agradecerle al siervo el que haya hecho lo que se le había mandado? 10Pues igual vosotros, cuando hayáis hecho todo lo que se os ha mandado, decid: «Somos unos siervos inútiles; no hemos hecho más que lo que teníamos que hacer»."
+    }
+  }
+}

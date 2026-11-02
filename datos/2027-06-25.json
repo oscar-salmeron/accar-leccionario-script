@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-06-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Tenía Abrán noventa y nueve años cuando el Señor se le manifestó y le dijo:\n—Yo soy El–Saday, camina en mi presencia y sé perfecto. 9Dios dijo a Abrahán:\n—Guardarás mi alianza, tú y tu descendencia futura, de generación en generación. 10Ésta es mi alianza con vosotros y con tu descendencia futura que habéis de guardar: Circuncidaréis a todos vuestros varones; 15También dijo Dios a Abrahán:\n—Saray, tu mujer, no se llamará más Saray, sino que su nombre será Sara. 16La bendeciré y también de ella te daré un hijo; la bendeciré, haré de ella pueblos, y de ella saldrán reyes de naciones. 17Abrahán cayó rostro en tierra y se sonrió diciendo para sí: «¿Acaso un hombre centenario puede tener un hijo, y Sara, con noventa años, puede dar a luz?». 18Y Abrahán respondió a Dios:\n—Me bastaría con que Ismael viviera en tu presencia. 19Dios replicó:\n—Sin embargo, es Sara, tu mujer, la que va a darte un hijo; le pondrás por nombre Isaac y estableceré mi alianza perpetua con él, y con su descendencia futura. 20En cuanto a Ismael, te he escuchado. Mira, le bendeciré, le haré crecer y le multiplicaré en gran manera; engendrará doce príncipes y haré de él un gran pueblo. 21Pero mi alianza la estableceré con Isaac, el hijo que te dará Sara el año próximo por este tiempo. 22Cuando Dios terminó de hablar con Abrahán, se elevó de su lado."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nDichoso el que teme al Señor\ny anda por sus caminos. 2Del trabajo de tus manos comerás;\nserás dichoso, y te irá bien. 3Tu mujer será como viña fecunda\nparedes adentro de tu casa.\nTus hijos, como brotes de olivos,\nen torno a tu mesa. 4Pues así es bendecido\nel hombre que teme al Señor. 5Que el Señor te bendiga desde Sión.\nQue veas el bienestar de Jerusalén\ntodos los días de tu vida."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Al bajar del monte le seguía una gran multitud. 2En esto, se le acercó un leproso, se postró ante él y dijo:\n—Señor, si quieres, puedes limpiarme. 3Y extendiendo Jesús la mano, le tocó diciendo:\n—Quiero, queda limpio.\nY al instante quedó limpio de la lepra. 4Entonces le dijo Jesús:\n—Mira, no lo digas a nadie; pero anda, preséntate al sacerdote y lleva la ofrenda que ordenó Moisés, para que les sirva de testimonio."
+    }
+  }
+}

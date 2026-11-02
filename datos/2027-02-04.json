@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "18Vosotros no os habéis acercado a un fuego tangible y ardiente, a oscuridad, a tinieblas, a tempestad, 19a son de trompetas, y a ese clamor de palabras que cuantos lo oyeron suplicaron que no se les hablara más. 21El espectáculo era tan sobrecogedor, que Moisés llegó a exclamar: Estoy aterrorizado y temblando. 22En cambio, vosotros os habéis acercado al Monte Sión, a la ciudad del Dios vivo, la Jerusalén celestial, y a miríadas de ángeles, a la asamblea gozosa 23y a la Iglesia de los primogénitos inscritos en los cielos, al Dios Juez de todos, a los espíritus de los justos que han alcanzado la perfección, 24a Jesús mediador de la nueva alianza y a la sangre derramada, que habla mejor que la de Abel."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2El Señor es grande y digno de toda alabanza\nen la ciudad de nuestro Dios, su monte santo. 3La más bella cima, gozo de toda la tierra,\nmonte Sión, arcano del Norte,\nciudad del gran Rey. 4Dios, en sus palacios,\nse muestra como defensa segura. 9Como lo habíamos oído, así lo hemos visto\nen la ciudad del Señor de los ejércitos,\nen la ciudad de nuestro Dios.\n¡Dios la ha fundado para siempre! 10Meditamos, oh Dios, en tu misericordia\nen medio de tu Templo. 11Como tu Nombre, oh Dios, así suena tu alabanza\nhasta los confines de la tierra.\nTu diestra rebosa de justicia."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "7Y llamó a los doce y comenzó a enviarlos de dos en dos, dándoles potestad sobre los espíritus impuros. 8Y les mandó que no llevasen nada para el camino, ni pan, ni alforja, ni dinero en la bolsa, sino solamente un bastón; 9y que fueran calzados con sandalias y que no llevaran dos túnicas. 10Y les decía:\n—Si entráis en una casa, quedaos allí hasta que salgáis de aquel lugar. 11Y si en algún sitio no os acogen ni os escuchan, al salir de allí sacudíos el polvo de los pies en testimonio contra ellos. 12Se marcharon y predicaron que se convirtieran. 13Y expulsaban muchos demonios, y ungían con aceite a muchos enfermos y los curaban."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1A los presbíteros que hay entre vosotros, yo —presbítero como ellos y, además, testigo de los padecimientos de Cristo y partícipe de la gloria que va a manifestarse— os exhorto: 2apacentad la grey de Dios que se os ha confiado, gobernando no a la fuerza, sino de buena gana según Dios; no por mezquino afán de lucro, sino de corazón; 3no como tiranos sobre la heredad del Señor, sino haciéndoos modelo de la grey. 4Así, cuando se manifieste el Pastor Supremo, recibiréis la corona de gloria que no se marchita."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Salmo. De David.\nEl Señor es mi pastor, nada me falta. 2En verdes prados me hace reposar;\nhacia aguas tranquilas me guía; 3reconforta mi alma,\nme conduce por sendas rectas\npor honor de su Nombre. 4Aunque camine por valles oscuros,\nno temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan. 5Preparas una mesa para mí\nfrente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa. 6Tu bondad y misericordia me acompañan\ntodos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos:\n—¿Quién dicen los hombres que es el Hijo del Hombre? 14Ellos respondieron:\n—Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas. 15Él les dijo:\n—Y vosotros, ¿quién decís que soy yo? 16Respondió Simón Pedro:\n—Tú eres el Cristo, el Hijo de Dios vivo. 17Jesús le respondió:\n—Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos. 18Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella. 19Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+    }
+  }
+}

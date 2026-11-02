@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-12-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1El pueblo que caminaba en tinieblas vio una gran luz;\na los que habitaban en tierra de sombras de muerte,\nles ha brillado una luz. 2Multiplicaste el gozo,\naumentaste la alegría.\nSe alegran en tu presencia\ncon la alegría de la siega,\ncomo se gozan al repartirse el botín. 3Porque el yugo que los cargaba,\nla vara de su hombro,\nel cetro que los oprimía,\nlos quebraste como en el día de Madián. 4Pues toda bota militar que taconea con estrépito,\ny todo manto restregado en sangre,\nestán destinados a arder, a ser pasto del fuego. 5Porque un niño nos ha nacido,\nun hijo se nos ha dado.\nSobre sus hombros está el imperio,\ny lleva por nombre:\nConsejero maravilloso, Dios fuerte,\nPadre sempiterno, Príncipe de la paz. 6El imperio será engrandecido,\ny la paz no tendrá fin\nsobre el trono de David\ny sobre su reino,\npara sostenerlo y consolidarlo\ncon el derecho y la justicia,\ndesde ahora y para siempre.\nEl celo del Señor de los ejércitos lo hará."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Cantad al Señor un cántico nuevo,\ncantad al Señor, la tierra entera. 2Cantad al Señor, bendecid su Nombre,\nanunciad, día tras día, su salvación. 3Proclamad su gloria a las naciones,\nsus maravillas a todos los pueblos. 11Alégrense los cielos y exulte la tierra,\nbrame el mar y cuanto lo llena; 12que se gocen los campos y cuanto hay en ellos.\nEntonces exultarán todos los árboles del bosque 13ante el Señor, que ya viene,\nque viene a juzgar la tierra:\njuzgará al mundo con justicia\ny a los pueblos con rectitud."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "11Pues se ha manifestado la gracia de Dios, portadora de salvación para todos los hombres, 12educándonos para que renunciemos a la impiedad y a las concupiscencias mundanas, y vivamos con prudencia, justicia y piedad en este mundo, 13aguardando la esperanza bienaventurada y la manifestación de la gloria del gran Dios y Salvador nuestro, Jesucristo, 14que se entregó a sí mismo por nosotros para redimirnos de toda iniquidad, y para purificar para sí un pueblo escogido, celoso por hacer el bien."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1En aquellos días se promulgó un edicto de César Augusto, para que se empadronase todo el mundo. 2Este primer empadronamiento se hizo cuando Quirino era gobernador de Siria. 3Todos iban a inscribirse, cada uno a su ciudad. 4José, como era de la casa y familia de David, subió desde Nazaret, ciudad de Galilea, a la ciudad de David llamada Belén, en Judea, 5para empadronarse con María, su esposa, que estaba encinta. 6Y cuando ellos se encontraban allí, le llegó la hora del parto, 7y dio a luz a su hijo primogénito; lo envolvió en pañales y lo recostó en un pesebre, porque no había lugar para ellos en el aposento. 8Había unos pastores por aquellos contornos, que dormían al raso y vigilaban por turno su rebaño durante la noche. 9De improviso un ángel del Señor se les presentó, y la gloria del Señor los rodeó de luz. Y se llenaron de un gran temor. 10El ángel les dijo:\n—No temáis. Mirad, voy a anunciaros una gran alegría, que lo será para todo el pueblo: 11hoy os ha nacido, en la ciudad de David, el Salvador, que es el Cristo, el Señor; 12y esto os servirá de señal: encontraréis a un niño envuelto en pañales y reclinado en un pesebre. 13De pronto apareció junto al ángel una muchedumbre de la milicia celestial, que alababa a Dios diciendo: 14«Gloria a Dios en las alturas\ny paz en la tierra\na los hombres en los que Él se complace»."
+    }
+  }
+}

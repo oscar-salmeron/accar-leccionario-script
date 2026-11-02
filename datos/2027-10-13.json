@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Por eso, tú que juzgas, quienquiera que seas, eres inexcusable; porque en lo que juzgas a otro te condenas a ti mismo, ya que tú, el que juzgas, haces lo mismo. 2Pues sabemos que Dios condena según la verdad a los que hacen esas cosas. 3¿Y tú, hombre que juzgas a los que hacen las mismas cosas que tú, piensas que escaparás al juicio de Dios? 4¿O es que desprecias las riquezas de su bondad, paciencia y longanimidad, y no sabes que la bondad de Dios te lleva a la penitencia? 5Tú, sin embargo, con tu dureza y con tu corazón que no se quiere arrepentir, atesoras contra ti mismo ira para el día de la ira y de la revelación del justo juicio de Dios, 6el cual retribuirá a cada uno según sus obras: 7la vida eterna para quienes, mediante la perseverancia en el buen obrar, buscan gloria, honor e incorrupción; 8la ira y la indignación, en cambio, para quienes, con contumacia, no sólo se rebelan contra la verdad, sino que obedecen a la injusticia. 9Tribulación y angustia para todo hombre que obra el mal, primero para el judío y luego para el griego. 10Gloria, en cambio, honor y paz a todo el que obra el bien, primero para el judío, luego para el griego; 11porque delante de Dios no hay acepción de personas."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Sólo en Dios está el descanso, alma mía,\nde Él viene mi salvación. 3Sólo Él es mi roca y mi salvación,\nmi alcázar: ya no podré vacilar. 6Sólo en Dios está el descanso, alma mía,\nporque de Él viene mi esperanza. 7Sólo Él es mi roca y mi salvación\nmi alcázar: no podré vacilar. 9Confiad en Él, comunidad entera del pueblo,\ndesahogad vuestro corazón en su presencia:\nDios es nuestro refugio."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "42Pero, ¡ay de vosotros, fariseos, que pagáis el diezmo de la menta, de la ruda y de todas las legumbres, pero despreciáis la justicia y el amor de Dios! ¡Hay que hacer esto sin descuidar lo otro! 43»¡Ay de vosotros, fariseos, porque apetecéis los primeros asientos en las sinagogas y que os saluden en las plazas! 44»¡Ay de vosotros, que sois como sepulcros disimulados, sobre los que pasan los hombres sin saberlo! 45Entonces, cierto doctor de la Ley, tomando la palabra, le replica:\n—Maestro, diciendo tales cosas nos ofendes también a nosotros. 46Pero él dijo:\n—¡Ay también de vosotros, los doctores de la Ley, porque imponéis a los hombres cargas insoportables, pero vosotros ni con uno de vuestros dedos las tocáis!"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1No confíes en tus riquezas,\nni digas: «Me basto a mí mismo». 2No sigas tu instinto ni tu propia fuerza\npara andar según las pasiones de tu corazón. 3Y no digas: «¿Quién me dominará? »,\nporque es seguro que el Señor hará justicia. 4No digas: «He pecado, y ¿qué me ha sucedido?\n¡El Señor es paciente!». 5No estés tan seguro del perdón\nde modo que añadas pecado tras pecado. 6No digas: «Su misericordia es grande,\nperdonará la multitud de mis pecados», 7porque suyas son la misericordia y la ira,\ny su furor recae sobre los pecadores. 8No demores en convertirte al Señor,\nno lo dejes pasar de día en día, 9pues la ira del Señor sobreviene de improviso,\ny en el tiempo del castigo puedes perecer. 10No confíes en riquezas injustas,\nporque de nada te servirán en el día de la desgracia."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dichoso el hombre\nque no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes, 2sino que se complace en la Ley del Señor,\ny noche y día medita en su Ley. 3Será como un árbol\nplantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera. 4No así los impíos, no así.\nSon como polvo que dispersa el viento. 6Porque el Señor vela sobre el camino de los justos,\nmientras el de los impíos acaba en perdición."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "41Y cualquiera que os dé de beber un vaso de agua en mi nombre, porque sois de Cristo, en verdad os digo que no perderá su recompensa. 42»Y al que escandalice a uno de estos pequeños que creen en mí, más le valdría que le ajustaran al cuello una piedra de molino, de las que mueve un asno, y fuera arrojado al mar. 43Y si tu mano te escandaliza, córtatela. Más te vale entrar manco en la Vida que con las dos manos acabar en el infierno, en el fuego inextinguible. 45Y si tu pie te escandaliza, córtatelo. Más te vale entrar cojo en la Vida que con los dos pies ser arrojado al infierno. 47Y si tu ojo te escandaliza, sácatelo. Más te vale entrar tuerto en el Reino de Dios que con los dos ojos ser arrojado al infierno, 48donde su gusano no muere y el fuego no se apaga. 49Porque todos serán salados con fuego. 50La sal es buena; pero si la sal se vuelve insípida, ¿con qué la sazonaréis? Tened en vosotros sal y tened paz unos con otros."
+    }
+  }
+}

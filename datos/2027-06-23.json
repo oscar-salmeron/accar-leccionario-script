@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-06-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Después de estos sucesos, la palabra del Señor llegó a Abrán en una visión, diciéndole:\n—No temas, Abrán, yo soy un escudo para ti; tu recompensa será muy grande. 2Abrán contestó:\n—¡Mi Señor Dios! ¿Qué me vas a dar, si estoy sin hijos, y el heredero de mi casa va a ser Eliézer de Damasco? 3Y añadió Abrán:\n—He aquí que no me has dado descendencia y, por tanto, un criado de mi casa me va a heredar. 4Pero la palabra del Señor le respondió:\n—No te heredará ése; sino que te heredará uno que saldrá de tus entrañas. 5Entonces le llevó afuera y le dijo:\n—Mira al cielo y cuenta, si puedes, las estrellas.\nY añadió:\n—Así será tu descendencia. 6Abrán creyó en el Señor, quien se lo contó como justicia. 7Después le dijo:\n—Yo soy el Señor que te saqué de Ur de los Caldeos para darte esta tierra en posesión. 8Abrán contestó:\n—¡Mi Señor Dios! ¿Cómo conoceré que voy a poseerla? 9Le respondió:\n—Tráeme una ternera de tres años, una cabra de tres años, un carnero de tres años, una tórtola y un pichón. 10Abrán los trajo, los partió por medio y puso cada mitad enfrente de la otra; pero no partió las aves. 11Los buitres bajaban a los cadáveres y Abrán los ahuyentaba. 12Cuando estaba poniéndose el sol, un profundo sueño cayó sobre Abrán, y le invadió un terror enorme y tenebroso. 17Se puso el sol y sobrevino la oscuridad; y apareció una hoguera humeante, y una llama de fuego que pasó entre aquellas mitades. 18Aquel día el Señor estableció una alianza con Abrán, diciéndole:\n—A tu descendencia daré esta tierra, desde el río de Egipto, hasta el gran río, el río Éufrates:"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dad gracias al Señor, invocad su Nombre,\nanunciad entre los pueblos sus hazañas. 2Cantadle, entonadle salmos,\nproclamad todas sus maravillas. 3Gloriaos en su Nombre santo;\nque se alegre el corazón de los que buscan al Señor. 4Acudid al Señor y a su poder,\nbuscad su rostro de continuo. 6linaje de Abrahán, su siervo,\nhijos de Jacob, su elegido! 7Él es el Señor, nuestro Dios;\nsus juicios alcanzan toda la tierra. 8Él recuerda siempre su alianza,\nla palabra que ordenó por mil generaciones, 9que selló con Abrahán;\nel juramento hecho a Isaac,"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "15»Guardaos bien de los falsos profetas, que se os acercan disfrazados de oveja, pero por dentro son lobos voraces. 16Por sus frutos los conoceréis: ¿es que se recogen uvas de los espinos o higos de las zarzas? 17Así, todo árbol bueno da frutos buenos, y todo árbol malo da frutos malos. 18Un árbol bueno no puede producir frutos malos, ni un árbol malo producir frutos buenos. 19Todo árbol que no da buen fruto se corta y se arroja al fuego. 20Por tanto, por sus frutos los conoceréis."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "7Queridísimos: amémonos unos a otros, porque el amor procede de Dios, y todo el que ama ha nacido de Dios, y conoce a Dios. 8El que no ama no ha llegado a conocer a Dios, porque Dios es amor. 9En esto se manifestó entre nosotros el amor de Dios: en que Dios envió a su Hijo Unigénito al mundo para que recibiéramos por él la vida. 10En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó y envió a su Hijo como víctima propiciatoria por nuestros pecados."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De Salomón.\nDios mío, concede tu juicio al rey\ny tu justicia al hijo del rey. 2Que gobierne a tu pueblo con justicia\ny a tus pobres con equidad. 3Traigan los montes paz al pueblo\ny las colinas la justicia. 4Haga justicia a los pobres del pueblo,\nsalve a los hijos de los desvalidos\ny aplaste al opresor. 7Florezca en sus días la justicia,\ny haya paz abundante mientras perdure la luna. 8Domine de mar a mar,\ndesde el Río hasta los confines de la tierra."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "34Al desembarcar vio una gran multitud y se llenó de compasión por ella, porque estaban como ovejas que no tienen pastor, y se puso a enseñarles muchas cosas. 35Y cuando ya se hizo muy tarde, se acercaron sus discípulos y le dijeron:\n—Éste es un lugar apartado y ya es muy tarde; 36despídelos para que vayan a las aldeas y pueblos de alrededor, y compren algo de comer. 37Y les respondió:\n—Dadles vosotros de comer.\nY le dicen:\n—¿Es que vamos a ir a comprar doscientos denarios de pan para darles de comer? 38Él les dijo:\n—¿Cuántos panes tenéis? Id a verlo.\nY después de averiguarlo dijeron:\n—Cinco, y dos peces. 39Entonces les mandó que acomodaran a todos por grupos sobre la hierba verde. 40Y se sentaron en grupos de cien y de cincuenta. 41Tomando los cinco panes y los dos peces, levantó los ojos al cielo, pronunció la bendición, partió los panes y se puso a dárselos a sus discípulos para que los distribuyesen; también repartió los dos peces para todos. 42Comieron todos hasta que quedaron satisfechos. 43Y recogieron doce cestos llenos de los trozos de pan y de los peces. 44Los que comieron los panes eran cinco mil hombres."
+    }
+  }
+}

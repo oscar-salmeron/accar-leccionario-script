@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-08-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1»Ahora, Israel, escucha las leyes y normas que yo os enseño a poner en práctica para que viváis y para que entrando en la tierra que el Señor, Dios de vuestros padres, os da, toméis posesión de ella. 2No añadáis nada a los mandamientos que os ordeno, ni tampoco omitáis nada de ellos, sino guardad los preceptos del Señor, vuestro Dios, que yo os prescribo. 6Observadlas y llevadlas a la práctica, pues serán vuestra sabiduría y vuestro discernimiento a los ojos de los pueblos que, al conocer todos estos mandatos, dirán: «En verdad esa gran nación es un pueblo sabio y juicioso». 7Porque ¿qué nación hay tan grande que tenga dioses tan cercanos, como lo está el Señor, nuestro Dios, cuantas veces le invocamos? 8Y ¿qué nación hay tan grande que tenga unas leyes y normas tan justas, como toda esta ley que hoy os entrego?"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2El que camina con integridad,\nel que practica la justicia,\nel que habla con corazón sincero, 3no calumnia con su lengua,\nno hace mal a su hermano,\nni levanta infamia contra su prójimo; 4el que tiene por vil al réprobo\ny honra a los que temen al Señor;\nel que no se desdice aunque jure en propio daño, 5el que no presta a usura su dinero,\nni acepta soborno contra el inocente.\nEl que obra así no vacilará jamás."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "17Toda dádiva generosa y todo don perfecto vienen de lo alto y descienden del Padre de las luces, en quien no hay cambio ni sombra de mudanza. 18Por libre decisión nos engendró con la palabra de la verdad, para que fuésemos como primicias de sus criaturas. 21Por eso, apartad toda inmundicia y todo resto de maldad, y recibid con mansedumbre la palabra sembrada en vosotros, capaz de salvar vuestras almas. 22Pero tenéis que ponerla en práctica y no sólo escucharla engañándoos a vosotros mismos. 27La religiosidad pura e intachable ante Dios Padre es ésta: visitar a los huérfanos y a las viudas en su tribulación y guardarse incontaminado de este mundo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Se reunieron junto a él los fariseos y algunos escribas que habían llegado de Jerusalén, 2y vieron a algunos de sus discípulos que comían los panes con manos impuras, es decir, sin lavar. 3Pues los fariseos y todos los judíos nunca comen si no se lavan las manos muchas veces, observando la tradición de los mayores; 4y cuando llegan de la plaza no comen, si no se purifican; y hay otras muchas cosas que guardan por tradición: purificaciones de las copas y de las jarras, de las vasijas de cobre y de los lechos. 5Y le preguntaban los fariseos y los escribas:\n—¿Por qué tus discípulos no se comportan conforme a la tradición de los mayores, sino que comen el pan con manos impuras? 6Él les respondió:\n—Bien profetizó Isaías de vosotros, los hipócritas, como está escrito:\nEste pueblo me honra con los labios,\npero su corazón está muy lejos de mí. 7Inútilmente me dan culto,\nmientras enseñan doctrinas\nque son preceptos humanos. 8»Abandonando el mandamiento de Dios, retenéis la tradición de los hombres. 14Y después de llamar de nuevo a la muchedumbre, les decía:\n—Escuchadme todos y entendedlo bien: 15nada hay fuera del hombre que, al entrar en él, pueda hacerlo impuro; las cosas que salen del hombre, ésas son las que hacen impuro al hombre. 21Porque del interior del corazón de los hombres proceden los malos pensamientos, las fornicaciones, los robos, los homicidios, 22los adulterios, los deseos avariciosos, las maldades, el fraude, la deshonestidad, la envidia, la blasfemia, la soberbia y la insensatez. 23Todas estas cosas malas proceden del interior y hacen impuro al hombre."
+    }
+  }
+}

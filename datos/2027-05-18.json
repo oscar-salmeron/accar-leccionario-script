@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "44Todos los creyentes estaban unidos y tenían todas las cosas en común. 45Vendían las posesiones y los bienes y los repartían entre todos, según las necesidades de cada uno. 46Todos los días acudían al Templo con un mismo espíritu, partían el pan en las casas y comían juntos con alegría y sencillez de corazón, 47alabando a Dios y gozando del favor de todo el pueblo. Todos los días el Señor incorporaba a los que habían de salvarse."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas. De David.\nSeñor, mi corazón no se ha engreído,\nni mis ojos se han alzado altivos.\nNo he marchado en pos de grandezas,\nni de portentos que me exceden. 2He moderado y acallado mi alma\ncomo un niño en el regazo de su madre.\nComo niño satisfecho está mi alma. 3¡Espera, Israel, en el Señor,\ndesde ahora y para siempre!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "22Les dijo a sus discípulos:\n—Por eso os digo: no estéis preocupados por vuestra vida: qué vais a comer; o por vuestro cuerpo: con qué os vais a vestir. 23Porque la vida vale más que el alimento, y el cuerpo más que el vestido. 24Fijaos en los cuervos: no siembran ni siegan; no tienen despensa ni granero, pero Dios los alimenta. ¡Cuánto más valéis vosotros que los pájaros! 25¿Quién de vosotros por mucho que cavile puede añadir un codo a su estatura? 26Si no podéis ni lo más pequeño, ¿por qué os preocupáis por las demás cosas? 27Contemplad los lirios, cómo crecen; no se fatigan ni hilan, y yo os digo que ni Salomón en toda su gloria pudo vestirse como uno de ellos. 28Y si a la hierba del campo, que hoy es y mañana se echa al horno, Dios la viste así, ¡cuánto más a vosotros, hombres de poca fe! 29Así, vosotros no andéis buscando qué comer o qué beber, y no estéis inquietos. 30Por todas esas cosas se afanan las gentes del mundo. Bien sabe vuestro Padre que estáis necesitados de ellas. 31Buscad más bien su Reino, y esas cosas se os añadirán."
+    }
+  }
+}

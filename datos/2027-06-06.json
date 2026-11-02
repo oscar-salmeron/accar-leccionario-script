@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "9El Señor Dios llamó al hombre y le dijo:\n—¿Dónde estás? 10Éste contestó:\n—Oí tu voz en el jardín y tuve miedo porque estaba desnudo; por eso me oculté. 11Dios le preguntó:\n—¿Quién te ha indicado que estabas desnudo? ¿Acaso has comido del árbol del que te prohibí comer? 12El hombre contestó:\n—La mujer que me diste por compañera me dio del árbol y comí. 13Entonces el Señor Dios dijo a la mujer:\n—¿Qué es lo que has hecho?\nLa mujer respondió:\n—La serpiente me engañó y comí. 14El Señor Dios dijo a la serpiente:\n—Por haber hecho eso, maldita seas\nentre todos los animales\ny todas las bestias del campo.\nTe arrastrarás sobre el vientre,\ny polvo comerás todos los días de tu vida. 15Pondré enemistad entre ti y la mujer,\nentre tu linaje y el suyo;\nél te herirá en la cabeza,\nmientras tú le herirás en el talón."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nDesde lo más profundo, Te invoco, Señor. 2Señor, escucha mi clamor;\nestén atentos tus oídos a la voz de mi súplica. 3Si llevas cuenta de las culpas, Señor,\nSeñor mío, ¿quién podrá quedar en pie? 4Pero en Ti está el perdón,\ny así mantenemos tu temor. 5Espero en Ti, Señor.\nMi alma espera en su palabra; 6mi alma espera en el Señor\nmás que los centinelas la aurora. 7Los centinelas esperan la aurora,\npero tú, Israel, espera en el Señor;\npues en el Señor está la misericordia,\nen Él, la redención abundante. 8Él redimirá a Israel\nde todas sus culpas."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "13Pero teniendo el mismo espíritu de fe —según lo que está escrito: Creí, por eso hablé—, también nosotros creemos, y por eso hablamos, 14sabiendo que quien resucitó al Señor Jesús también nos resucitará con Jesús y nos pondrá a su lado con vosotros. 15Porque todo es para vuestro bien, a fin de que la gracia, multiplicada a través de muchos, haga abundar la acción de gracias para la gloria de Dios. 16Por eso no desfallecemos; al contrario, aunque nuestro hombre exterior se vaya desmoronando, nuestro hombre interior se va renovando día a día. 17Porque la leve tribulación de un instante se convierte para nosotros, incomparablemente, en una gloria eterna y consistente, 18ya que nosotros no ponemos nuestros ojos en las cosas visibles, sino en las invisibles; pues las visibles son pasajeras, y en cambio las invisibles, eternas. 1Porque sabemos que, si la tienda de nuestra mansión terrena se deshace, tenemos un edificio que es de Dios, una casa no hecha por mano de hombre, sino eterna, en los cielos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "20Entonces llegó a casa; y se volvió a juntar la muchedumbre, de manera que no podían ni siquiera comer. 21Se enteraron sus parientes y fueron a llevárselo porque decían que había perdido el juicio. 22Y los escribas que habían bajado de Jerusalén decían:\n—Tiene a Beelzebul, y expulsa los demonios por el príncipe de los demonios. 23Y convocándolos les decía con parábolas:\n—¿Cómo puede Satanás expulsar a Satanás? 24Si un reino está dividido en su interior, ese reino no puede sostenerse; 25y si una casa está dividida en su interior, esa casa no podrá sostenerse. 26Y si Satanás se levanta contra sí mismo, entonces se encuentra dividido y no puede sostenerse, sino que ha llegado su fin. 27Pues nadie puede entrar en la casa de uno que es fuerte y arrebatarle sus bienes, si antes no ata al que es fuerte. Sólo entonces podrá arrebatarle su casa. 28»En verdad os digo que todo se les perdonará a los hijos de los hombres: los pecados y cuantas blasfemias profieran; 29pero el que blasfeme contra el Espíritu Santo jamás tendrá perdón, sino que será reo de delito eterno. 30Porque ellos decían:\n—Tiene un espíritu impuro. 31Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo. 32Y estaba sentada a su alrededor una muchedumbre, y le dicen:\n—Mira, tu madre, tus hermanos y tus hermanas te buscan fuera. 33Y, en respuesta, les dice:\n—¿Quién es mi madre y quiénes mis hermanos? 34Y mirando a los que estaban sentados a su alrededor, dice:\n—Éstos son mi madre y mis hermanos: 35quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+    }
+  }
+}

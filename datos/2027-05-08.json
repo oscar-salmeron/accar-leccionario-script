@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "23Pasó allí algún tiempo y marchó recorriendo una tras otra las regiones de Galacia y Frigia, confortando a todos los discípulos. 24Un judío que se llamaba Apolo, de origen alejandrino, hombre elocuente y muy versado en las Escrituras, llegó a Éfeso. 25Había sido instruido en el Camino del Señor. Hablaba con fervor de espíritu y enseñaba con esmero lo referente a Jesús, aunque sólo conocía el bautismo de Juan. 26Comenzó a hablar con libertad en la sinagoga. Al oírle Priscila y Aquila le tomaron consigo y le expusieron con más exactitud el camino de Dios. 27Como deseaba pasar a Acaya, los hermanos le animaron y escribieron a los discípulos para que le recibieran. Cuando llegó fue de gran provecho, con la gracia divina, para los que habían creído, 28pues refutaba vigorosamente en público a los judíos, demostrando por las Escrituras que Jesús es el Cristo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Pueblos todos, batid palmas,\naclamad a Dios con voces de júbilo. 3Porque el Señor es el Altísimo, temible,\nel gran Rey en toda la tierra. 8Que Dios es el rey de toda la tierra,\ncantadle el himno más bello. 9Dios reina sobre las naciones;\nDios está sentado en su santo trono. 10Los príncipes de las naciones se unen\nal pueblo del Dios de Abrahán,\npues a Dios pertenecen los poderosos de la tierra.\n¡Él es el más sublime!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "23Ese día no me preguntaréis nada. En verdad, en verdad os digo: si le pedís al Padre algo en mi nombre, os lo concederá. 24Hasta ahora no habéis pedido nada en mi nombre; pedid y recibiréis, para que vuestra alegría sea completa. 25»Os he dicho todo esto con comparaciones. Llega la hora en que ya no hablaré con comparaciones, sino que claramente os anunciaré las cosas acerca del Padre. 26Ese día pediréis en mi nombre, y no os digo que yo rogaré al Padre por vosotros, 27ya que el Padre mismo os ama, porque vosotros me habéis amado y habéis creído que yo salí de Dios. 28Salí del Padre y vine al mundo; de nuevo dejo el mundo y voy al Padre."
+    }
+  }
+}

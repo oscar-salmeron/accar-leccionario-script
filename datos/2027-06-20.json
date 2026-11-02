@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-06-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Entonces el Señor respondió a Job desde el seno del torbellino diciendo: 8¿Quién encerró el mar con doble puerta,\ncuando salía a borbotones del seno materno, 9cuando le puse las nubes por vestido\ny por pañales la niebla, 10cuando le fijé un límite\ny le puse cerrojos y puertas, 11y le dije: «Hasta aquí llegarás y no más,\naquí se romperá la soberbia de tus olas»?"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "23Los que se hacen a la mar en las naves\ny ejercen el comercio por inmensas aguas, 24ven las obras del Señor,\nsus maravillas en alta mar. 25Pues Él habla y se levanta un viento borrascoso,\nque encrespa sus olas; 26suben hasta el cielo y bajan a los abismos,\ndesfalleciendo su alma por las desgracias. 28En su angustia clamaron al Señor,\ny los libró de sus tribulaciones. 29Convierte la tormenta en bonanza,\nenmudece el oleaje, 30y se regocijan por haberse calmado:\nÉl los conduce al ansiado puerto. 31Den gracias al Señor por su misericordia,\npor sus maravillas con los hijos de Adán."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "14Porque el amor de Cristo nos urge, persuadidos de que si uno murió por todos, en consecuencia todos murieron. 15Y murió por todos a fin de que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos. 16De manera que desde ahora no conocemos a nadie según la carne; y si conocimos a Cristo según la carne, ahora ya no le conocemos así. 17Por tanto, si alguno está en Cristo, es una nueva criatura: lo viejo pasó, ya ha llegado lo nuevo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "35Aquel día, llegada la tarde, les dice:\n—Crucemos a la otra orilla. 36Y, despidiendo a la muchedumbre, le llevaron en la barca tal como estaba. Y le acompañaban otras barcas. 37Y se levantó una gran tempestad de viento, y las olas se echaban encima de la barca, hasta el punto de que la barca ya se inundaba. 38Él estaba en la popa durmiendo sobre un cabezal. Entonces le despiertan, y le dicen:\n—Maestro, ¿no te importa que perezcamos? 39Y, puesto en pie, increpó al viento y dijo al mar:\n—¡Calla, enmudece!\nY se calmó el viento y sobrevino una gran calma. 40Entonces les dijo:\n—¿Por qué os asustáis? ¿Todavía no tenéis fe? 41Y se llenaron de gran temor y se decían unos a otros:\n—¿Quién es éste, que hasta el viento y el mar le obedecen?"
+    }
+  }
+}

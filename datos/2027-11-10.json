@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Escuchad, pues, reyes, y comprended; aprended, jueces de los confines de la tierra; 2prestad atención los que regís las muchedumbres\ny os jactáis de pueblos numerosos: 3vuestro poder os fue otorgado por el Señor,\nvuestro dominio, por el Altísimo,\nque examinará vuestros actos y escudriñará intenciones. 4Porque, siendo vosotros ministros de su reino,\nno gobernasteis con rectitud,\nni respetasteis la Ley,\nni anduvisteis según la voluntad de Dios. 5Con espanto y sin demora se presentará a vosotros,\nporque habrá un juicio severo para los que dominan. 6El inferior merece disculpa y misericordia,\npero los poderosos poderosamente serán examinados. 7Que el Señor de todos no se arredra ante nadie,\nni se amedrenta por la grandeza de ninguno,\nporque Él hizo al pequeño y al grande\ne, igualmente, se cuida de todos; 8pero a los poderosos les aguarda un severo examen. 9A vosotros, pues, gobernantes, se dirigen mis palabras,\npara que aprendáis la sabiduría y no caigáis. 10Quienes guarden santamente las cosas santas serán santificados,\ny los que las aprendan encontrarán quien les defienda. 11Anhelad, por tanto, mis palabras,\naspirad a ellas y recibiréis instrucción."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Defended al débil y al huérfano,\nhaced justicia al pobre y al necesitado. 4Poned a salvo al débil,\nlibrad al desvalido de la mano de los impíos». 6Yo os digo: «Vosotros sois dioses,\ntodos vosotros, hijos del Altísimo. 7Pero moriréis como todos los hombres,\ncaeréis como cualquier príncipe»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "11Al ir de camino a Jerusalén, atravesaba los confines de Samaría y Galilea; 12y, cuando iba a entrar en un pueblo, le salieron al paso diez leprosos, que se detuvieron a distancia 13y le dijeron gritando:\n—¡Jesús, Maestro, ten piedad de nosotros! 14Al verlos, les dijo:\n—Id y presentaos a los sacerdotes.\nY mientras iban quedaron limpios. 15Uno de ellos, al verse curado, se volvió glorificando a Dios a gritos, 16y fue a postrarse a sus pies dándole gracias. Y éste era samaritano. 17Ante lo cual dijo Jesús:\n—¿No son diez los que han quedado limpios? Los otros nueve, ¿dónde están? 18¿No ha habido quien volviera a dar gloria a Dios más que este extranjero? 19Y le dijo:\n—Levántate y vete; tu fe te ha salvado."
+    }
+  }
+}

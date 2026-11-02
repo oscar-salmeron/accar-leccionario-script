@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "4Me alegré mucho al haber encontrado entre tus hijos a quienes caminan en la verdad, conforme al mandamiento que recibimos del Padre. 5Y ahora te ruego, Señora, no como escribiéndote un mandamiento nuevo, sino el que tenemos desde el principio: que nos amemos unos a otros. 6Y en esto consiste el amor: en que caminemos conforme a sus mandamientos. Éste es el mandamiento, tal y como habéis oído desde el principio: que caminéis en el amor. 7Porque han aparecido en el mundo muchos seductores, que no confiesan a Jesucristo venido en carne. Ése es el seductor y el Anticristo. 8Mirad por vosotros, para que no perdáis el fruto de vuestro trabajo, sino que recibáis la recompensa plena. 9Todo el que se sale de la doctrina de Cristo, y no permanece en ella, no posee a Dios; quien permanece en la doctrina, ése posee al Padre y al Hijo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1(Alef) Dichosos los de conducta íntegra,\nlos que caminan en la Ley del Señor. 2Dichosos los que guardan sus preceptos\ny le buscan de todo corazón; 10Con todo el corazón te busco;\nno permitas que me desvíe de tus mandamientos. 11En mi corazón he guardado tus palabras\npara no pecar contra ti. 17(Guímel) Favorece a tu siervo\npara vivir y guardar tu palabra. 18Abre mis ojos para contemplar\nlas maravillas de tu Ley."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26Y como ocurrió en los días de Noé, así será también en los días del Hijo del Hombre. 27Comían y bebían, tomaban mujer o marido, hasta el día en que Noé entró en el arca, y vino el diluvio e hizo perecer a todos. 28Lo mismo sucedió en los días de Lot: comían y bebían, compraban y vendían, plantaban y edificaban; 29pero el día en que salió Lot de Sodoma, llovió del cielo fuego y azufre y los hizo perecer a todos. 30Del mismo modo sucederá el día en que se manifieste el Hijo del Hombre. 31Ese día, quien esté en el terrado y tenga sus cosas en la casa, que no baje por ellas; y lo mismo quien esté en el campo, que no vuelva atrás. 32Acordaos de la mujer de Lot. 33Quien pretenda guardar su vida la perderá; y quien la pierda la conservará viva. 34Yo os digo que esa noche estarán dos en el mismo lecho: uno será tomado y el otro dejado. 35Estarán dos moliendo juntas: una será tomada y la otra dejada. 37Y a esto le dijeron:\n—¿Dónde, Señor?\nÉl les respondió:\n—Dondequiera que esté el cuerpo, allí se reunirán los buitres."
+    }
+  }
+}

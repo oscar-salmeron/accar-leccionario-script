@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-08-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "19Y se abrió el templo de Dios en el cielo y en el Templo apareció el arca de su alianza; y se produjeron relámpagos, fragor de truenos, un terremoto y un fuerte granizo. 1Una gran señal apareció en el cielo: una mujer vestida de sol, la luna a sus pies, y sobre su cabeza una corona de doce estrellas. 2Está encinta y grita al sufrir los dolores del parto y los tormentos de dar a luz. 3Apareció entonces otra señal en el cielo: un gran dragón rojo, con siete cabezas y diez cuernos, y sobre sus cabezas siete diademas. 4La cola arrastró una tercera parte de las estrellas del cielo y las arrojó a la tierra. El dragón se puso delante de la mujer, que iba a dar a luz, para devorar a su hijo en cuanto naciera. 5Y dio a luz un hijo varón, el que va a regir a todas las naciones con cetro de hierro. Pero su hijo fue arrebatado hasta Dios y hasta su trono. 6Entonces la mujer huyó al desierto, donde tiene un lugar preparado por Dios, para que allí la alimenten durante mil doscientos sesenta días. 10Entonces oí en el cielo una fuerte voz que decía:\n«Ahora ha llegado la salvación,\nla fuerza, el Reino de nuestro Dios,\ny el poderío de su Cristo,\nporque ha sido arrojado el acusador\nde nuestros hermanos,\nel que los acusaba ante nuestro Dios\ndía y noche."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "10Hijas de reyes están entre tus damas.\nA tu diestra está la reina,\nadornada con oro de Ofir. 11Escucha, hija, y mira, presta tu oído,\nolvida tu pueblo y la casa de tu padre: 12y el rey se prendará de tu belleza;\nél es tu señor, inclínate ante él. 16son conducidas en medio de alegría y regocijo;\nentran en el palacio del rey."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "20Ahora bien, Cristo ha resucitado de entre los muertos, como primer fruto de los que mueren. 21Porque como por un hombre vino la muerte, también por un hombre la resurrección de los muertos. 22Y así como en Adán todos mueren, así también en Cristo todos serán vivificados. 23Pero cada uno en su orden debido: como primer fruto, Cristo; luego, con su venida, los que son de Cristo. 24Después llegará el fin, cuando entregue el Reino a Dios Padre, cuando haya aniquilado todo principado, toda potestad y poder. 25Pues es necesario que él reine, hasta que ponga a todos los enemigos bajo sus pies. 26Como último enemigo será destruida la muerte; 27porque ha sometido todas las cosas bajo sus pies, si bien cuando dice que todas las cosas están sometidas, es indudable que exceptúa al que sometió todo a él."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "39Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá; 40y entró en casa de Zacarías y saludó a Isabel. 41Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo; 42y exclamando en voz alta, dijo:\n—Bendita tú entre las mujeres y bendito es el fruto de tu vientre. 43¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme? 44Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno; 45y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor. 46María exclamó:\n—Engrandece mi alma al Señor, 47y se alegra mi espíritu en Dios mi Salvador: 48porque ha puesto los ojos\nen la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones. 49Porque ha hecho en mí cosas grandes\nel Todopoderoso,\ncuyo nombre es Santo; 50su misericordia se derrama de generación\nen generación\nsobre los que le temen. 51Manifestó el poder de su brazo,\ndispersó a los soberbios de corazón. 52Derribó de su trono a los poderosos\ny ensalzó a los humildes. 53Colmó de bienes a los hambrientos\ny a los ricos los despidió vacíos. 54Auxilió a Israel su siervo,\nrecordando su misericordia, 55como había prometido a nuestros padres,\nAbrahán y su descendencia para siempre. 56María permaneció con ella unos tres meses, y se volvió a su casa."
+    }
+  }
+}

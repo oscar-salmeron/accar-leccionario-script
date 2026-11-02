@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "37Los hijos de Israel salieron de Ramsés hacia Sucot, unos seiscientos mil hombres de a pie, sin contar los niños. 38Subió con ellos además una gran multitud; y ovejas y vacas, en grandes rebaños. 39Cocieron la masa que habían sacado de Egipto e hicieron panes ácimos porque aún no había fermentado, pues al ser expulsados de Egipto no pudieron entretenerse; ni siquiera prepararon provisiones para el camino. 40La estancia de los hijos de Israel en Egipto fue de cuatrocientos treinta años. 41Pasados estos cuatrocientos treinta años, el mismo día salieron todos los ejércitos del Señor del país de Egipto. 42Noche de vela fue ésta para el Señor, para sacarlos del país de Egipto; noche de vela en honor del Señor será para todos los hijos de Israel, de generación en generación."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dad gracias al Señor, porque es bueno,\nporque es eterna su misericordia. 10Él hirió a Egipto en sus primogénitos,\nporque es eterna su misericordia. 11Y sacó a Israel de en medio de ellos,\nporque es eterna su misericordia, 12con mano fuerte y brazo extendido,\nporque es eterna su misericordia. 13Él partió el Mar Rojo en dos,\nporque es eterna su misericordia; 14e hizo pasar por medio a Israel,\nporque es eterna su misericordia; 15y hundió en el Mar Rojo al Faraón y su ejército,\nporque es eterna su misericordia. 23Él, en nuestra humillación,\nse acordó de nosotros,\nporque es eterna su misericordia; 24y nos libró de nuestros adversarios,\nporque es eterna su misericordia."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Al salir, los fariseos se pusieron de acuerdo contra él, para ver cómo perderle. 15Jesús, sabiéndolo, se alejó de allí, y le siguieron muchos y los curó a todos, 16y les ordenó que no le descubriesen, 17para que se cumpliera lo dicho por medio del profeta Isaías: 18Aquí está mi Siervo, a quien elegí,\nmi amado, en quien se complace mi alma.\nPondré mi Espíritu sobre él\ny anunciará la justicia a las naciones. 19No disputará ni gritará,\nnadie oirá su voz en las plazas. 20No quebrará la caña cascada,\nni apagará la mecha humeante,\nhasta que haga triunfar la justicia. 21Y en su nombre pondrán su esperanza las naciones."
+    }
+  }
+}

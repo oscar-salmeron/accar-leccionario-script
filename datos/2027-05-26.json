@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Ten piedad de nosotros, Señor Dios del universo;\nmíranos, muéstranos la luz de tus misericordias. 5Que te reconozcan, como nosotros reconocimos\nque no existe otro Dios fuera de ti, Señor. 6Renueva tus signos y repite tus maravillas. 7Glorifica tu mano y tu brazo diestro. 13Reúne todas las tribus de Jacob\ny dales la heredad como al principio. 14Ten piedad, Señor, del pueblo llamado con tu Nombre,\nde Israel, a quien declaraste primogénito. 15Ten piedad de tu ciudad santa,\nde Jerusalén, lugar de tu descanso. 16Llena a Sión de tu majestad,\ny de tu gloria a tu Templo. 17Testifica cuáles desde el principio son tus criaturas,\ny cumple las profecías hechas en tu Nombre. 18Da su recompensa a quienes esperan en Ti,\ny que tus profetas sean dignos de crédito.\nEscucha, Señor, la oración de tus siervos, 19según el beneplácito sobre tu pueblo.\nDirígenos por el camino de la justicia;\nque sepan cuantos habitan la tierra\nque Tú eres el Señor, el Dios eterno."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8No nos recuerdes nuestras culpas antiguas,\nque pronto nos preceda tu compasión,\npues estamos en miseria extrema. 9Socórrenos, oh Dios, Salvador nuestro,\npor la gloria de tu Nombre;\nsálvanos, borra nuestros pecados,\npor amor de tu Nombre. 11Llegue a tu presencia el gemido del cautivo.\nConforme a la grandeza de tu brazo,\nlibra a los destinados a la muerte. 13Nosotros, tu pueblo, ovejas de tu rebaño,\nte daremos gracias por siempre,\ny proclamaremos tu alabanza\nde generación en generación."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "32Iban de camino subiendo a Jerusalén. Jesús los precedía y ellos estaban sorprendidos: los que le seguían tenían miedo. Tomó de nuevo consigo a los doce y comenzó a decirles lo que le iba a suceder: 33—Mirad, subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas; le condenarán a muerte y le entregarán a los gentiles; 34se burlarán de él, le escupirán, lo azotarán y lo matarán, pero después de tres días resucitará. 35Entonces se acercan a él Santiago y Juan, los hijos de Zebedeo, diciéndole:\n—Maestro, queremos que nos concedas lo que te vamos a pedir. 36Él les dijo:\n—¿Qué queréis que os haga? 37Y ellos le contestaron:\n—Concédenos sentarnos uno a tu derecha y otro a tu izquierda en tu gloria. 38Y Jesús les dijo:\n—No sabéis lo que pedís. ¿Podéis beber el cáliz que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado? 39—Podemos —le dijeron ellos.\nJesús les dijo:\n—Beberéis el cáliz que yo bebo y seréis bautizados con el bautismo con que yo soy bautizado; 40pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto. 41Al oír esto los diez comenzaron a indignarse contra Santiago y Juan. 42Entonces Jesús les llamó y les dijo:\n—Sabéis que los que figuran como jefes de las naciones las oprimen, y los poderosos las avasallan. 43No tiene que ser así entre vosotros; al contrario: quien quiera llegar a ser grande entre vosotros, que sea vuestro servidor; 44y quien entre vosotros quiera ser el primero, que sea esclavo de todos: 45porque el Hijo del Hombre no ha venido a ser servido, sino a servir y a dar su vida en redención de muchos."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1¡Clama a gritos, no ceses! Eleva tu voz como una trompeta,\ndenuncia a mi pueblo sus delitos,\na la casa de Jacob, sus pecados. 2Día tras día me andan buscando\ny quieren saber mis caminos,\ncomo si fueran una nación que practica la justicia\ny no abandona el derecho de su Dios.\nMe demandan juicios justos,\npretenden estar cerca de Dios. 3«¿Para qué ayunamos, si no miras,\nhumillamos nuestras almas, si no te enteras?».\nMirad: el día en que ayunáis pretendéis aprovecharos\ny oprimís a vuestros trabajadores. 4Ayunáis para litigar y querellar\ny golpeáis con el puño sin piedad.\nNo ayunéis como ahora,\npara que vuestra voz se oiga en las alturas. 5¿Es ése el ayuno que prefiero,\nel día de humillarse el hombre?\n¿Inclinar la cabeza como un junco,\ny preparar un lecho de saco y ceniza?\n¿A eso llamáis ayuno\ny día grato al Señor? 6¿El ayuno que prefiero no es más bien\nromper las cadenas de la iniquidad,\nsoltar las ataduras del yugo,\ndejar libres a los oprimidos\ny quebrar todo yugo? 7¿No es compartir tu pan con el hambriento,\ne invitar a tu casa a los pobres sin asilo?\nAl que veas desnudo, cúbrelo\ny no te escondas de quien es carne tuya. 8Entonces tu luz despuntará como la aurora,\ny tu curación aparecerá al instante,\ntu justicia te precederá\ny la gloria del Señor cerrará tu marcha. 9Entonces clamarás, y el Señor te responderá,\npedirás socorro, y Él te dirá: «Aquí estoy».\nSi apartas de en medio de ti el yugo,\nel señalar con el dedo,\ny la maledicencia,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Ten misericordia de mí, Dios mío, según tu bondad;\nsegún tu inmensa compasión\nborra mi delito. 4Lávame por completo de mi culpa,\ny purifícame de mi pecado. 5Pues yo reconozco mi delito,\ny mi pecado está de continuo ante mí. 6Contra Ti, contra Ti sólo he pecado,\ny he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio. 18No te complaces en los sacrificios,\ny si te ofreciera un holocausto, no te agradaría. 19El sacrificio grato a Dios es un espíritu contrito:\nun corazón contrito y humillado,\nDios mío, no lo desprecias."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Entonces se le acercaron los discípulos de Juan para decirle:\n—¿Por qué nosotros y los fariseos ayunamos con frecuencia y, en cambio, tus discípulos no ayunan? 15Jesús les respondió:\n—¿Acaso pueden estar de duelo los amigos del esposo mientras el esposo está con ellos? Ya vendrá el día en que les será arrebatado el esposo; entonces, ya ayunarán."
+    }
+  }
+}

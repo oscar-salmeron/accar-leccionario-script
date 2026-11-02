@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Puesto que la promesa de entrar en su descanso permanece en vigor, tengamos cuidado: no vaya a ser que alguno de vosotros piense que queda excluido. 2Porque a nosotros se nos ha anunciado el Evangelio igual que a ellos; pero a ellos de nada les aprovechó la palabra que oyeron, porque no estaban unidos mediante la fe a los que la habían escuchado. 3Porque los que hemos creído hemos entrado en el descanso, según está dicho:\nPor eso juré en mi ira:\n«¡No entrarán en mi descanso!»,\naunque las obras divinas estaban ya hechas desde la creación del mundo. 4Porque en un lugar se dice sobre el día séptimo:\nY descansó Dios el día séptimo de todas sus obras. 5Y en este lugar repite:\n¡No entrarán en mi descanso! 11Apresurémonos a entrar en ese descanso, a fin de que ninguno caiga en la misma clase de desobediencia."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Cuanto oímos y aprendimos,\nlo que nuestros padres nos contaron, 4no lo ocultaremos a sus hijos;\nsino que contaremos a la generación venidera\nlas alabanzas del Señor, su poder,\ny las maravillas que ha obrado. 6para que la supieran las generaciones futuras,\nlos hijos que habían de nacer,\ny la mantengan,\ny la anuncien a sus hijos. 7A fin de que pongan en Dios su esperanza,\ny no olviden las obras de Dios,\nsino que observen sus mandamientos. 8Y no sean, como sus padres,\nuna generación rebelde y contumaz,\nuna generación de corazón voluble,\nde espíritu infiel a Dios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Y, al cabo de unos días, entró de nuevo en Cafarnaún. Se supo que estaba en casa 2y se juntaron tantos, que ni siquiera ante la puerta había ya sitio. Y les predicaba la palabra. 3Entonces vinieron trayéndole un paralítico, llevado entre cuatro. 4Y como no podían acercarlo hasta él a causa del gentío, levantaron la techumbre por el sitio en donde se encontraba y, después de abrir un hueco, descolgaron la camilla en la que yacía el paralítico. 5Al ver Jesús la fe de ellos, le dijo al paralítico:\n—Hijo, tus pecados te son perdonados. 6Estaban allí sentados algunos de los escribas, y pensaban en sus corazones: 7«¿Por qué habla éste así? Blasfema. ¿Quién puede perdonar los pecados sino sólo Dios?» 8Y enseguida, conociendo Jesús en su espíritu que pensaban para sus adentros de este modo, les dijo:\n—¿Por qué pensáis estas cosas en vuestros corazones? 9¿Qué es más fácil, decirle al paralítico: «Tus pecados te son perdonados», o decirle: «Levántate, toma tu camilla y anda»? 10Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar los pecados —se dirigió al paralítico—, 11a ti te digo: levántate, toma tu camilla y vete a tu casa. 12Y se levantó, y al instante tomó la camilla y salió en presencia de todos, de manera que todos quedaron admirados y glorificaron a Dios diciendo:\n—Nunca hemos visto nada parecido."
+    }
+  }
+}

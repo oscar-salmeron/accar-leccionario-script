@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1El año primero de Ciro, rey de Persia, en cumplimiento de la palabra del Señor por boca de Jeremías, el Señor movió el espíritu de Ciro, rey de Persia, que proclamó por todo su imperio de viva voz y por escrito el siguiente edicto: 2«Así dice Ciro, rey de Persia: “El Señor, Dios de los cielos, me ha entregado todos los reinos de la tierra. Él mismo me ha encomendado construir en su honor un Templo en Jerusalén que está en Judá. 3El que de vosotros pertenezca a ese pueblo, que su Dios esté con él y suba a Jerusalén, en Judá, para construir el Templo del Señor, el Dios de Israel, que es el Dios que está en Jerusalén. 4Y el resto, vivan donde vivan, recibirán la ayuda de los del lugar, que les proporcionarán plata, oro, bienes y ganado, además de otras ofrendas voluntarias para el Templo de Dios que está en Jerusalén”». 5Los cabezas de familia de Judá y Benjamín, junto con los sacerdotes y levitas y todos aquellos a los que Dios había despertado el espíritu para que subieran a edificar la casa del Señor que está en Jerusalén, se pusieron en marcha. 6Todos los que les rodeaban les ayudaron poniendo en sus manos objetos de oro, plata, bienes, ganado y valiosos regalos, además de otras ofrendas voluntarias."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nCuando el Señor hizo volver a los cautivos de Sión,\nnos parecía soñar. 2Se nos llenaba de risas la boca,\nla lengua, de cantares de alegría.\nEntonces se decía entre las naciones:\n«El Señor ha hecho con ellos cosas grandes». 3El Señor ha hecho con nosotros cosas grandes:\nestamos llenos de alegría. 4Haz volver, Señor, a nuestros cautivos\ncomo los torrentes del Négueb. 5Los que siembran con lágrimas\ncosechan entre cantares de alegría. 6Al marchar iban llorando,\nllevando las semillas.\nAl volver vienen cantando,\ntrayendo sus gavillas."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "16»Nadie que ha encendido una lámpara la oculta con una vasija o la pone debajo de la cama, sino que la pone sobre un candelero para que los que entran vean la luz. 17Porque nada hay escondido que no acabe por saberse; ni secreto que no acabe por conocerse y hacerse público. 18Mirad, pues, cómo oís: porque al que tiene se le dará; y al que no tiene incluso lo que piensa tener se le quitará."
+    }
+  }
+}

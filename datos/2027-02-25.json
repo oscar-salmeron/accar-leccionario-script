@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-02-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5Esto dice el Señor:\n«Maldito el varón que confía en el hombre\ny pone en la carne su apoyo,\nmientras su corazón se aparta del Señor. 6Será como matojo de la estepa,\nque no verá venir la dicha,\npues habita en terrenos resecos del desierto,\nen tierra salobre e inhóspita. 7Bendito el varón que confía en el Señor,\ny el Señor es su confianza. 8Será como árbol plantado junto al agua,\nque extiende sus raíces a la corriente,\nno teme que llegue el calor,\ny sus hojas permanecerán lozanas,\nno se inquietará en año de sequía,\nni dejará de dar frutos. 9Lo más falaz de todo es el corazón,\ny lo más insanable. ¿Quién lo entiende? 10Yo, el Señor, escudriño el corazón,\nexamino las entrañas,\npara retribuir a cada uno según su conducta,\nsegún el fruto de sus obras."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dichoso el hombre\nque no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes, 2sino que se complace en la Ley del Señor,\ny noche y día medita en su Ley. 3Será como un árbol\nplantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera. 4No así los impíos, no así.\nSon como polvo que dispersa el viento. 6Porque el Señor vela sobre el camino de los justos,\nmientras el de los impíos acaba en perdición."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "19»Había un hombre rico que vestía de púrpura y lino finísimo, y todos los días celebraba espléndidos banquetes. 20En cambio, un pobre llamado Lázaro yacía sentado a su puerta, cubierto de llagas, 21deseando saciarse de lo que caía de la mesa del rico. Y hasta los perros venían a lamerle las llagas. 22Sucedió, pues, que murió el pobre y fue llevado por los ángeles al seno de Abrahán; murió también el rico y fue sepultado. 23Estando en los infiernos, en medio de los tormentos, levantando sus ojos vio a lo lejos a Abrahán y a Lázaro en su seno; 24y gritando, dijo: «Padre Abrahán, ten piedad de mí y envía a Lázaro para que moje la punta de su dedo en agua y me refresque la lengua, porque estoy atormentado en estas llamas». 25Contestó Abrahán: «Hijo, acuérdate de que tú recibiste bienes durante tu vida y Lázaro, en cambio, males; ahora aquí él es consolado y tú atormentado. 26Además de todo esto, entre vosotros y nosotros se interpone un gran abismo, de modo que los que quieren atravesar de aquí hasta vosotros, no pueden; ni tampoco pueden pasar de ahí hasta nosotros». 27Y él dijo: «Te ruego entonces, padre, que le envíes a casa de mi padre, 28porque tengo cinco hermanos, para que les advierta y no vengan también a este lugar de tormentos». 29Pero replicó Abrahán: «Tienen a Moisés y a los Profetas. ¡Que los oigan!» 30Él dijo: «No, padre Abrahán; pero si alguno de entre los muertos va a ellos, se convertirán». 31Y le dijo: «Si no escuchan a Moisés y a los Profetas, tampoco se convencerán aunque uno resucite de entre los muertos»."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Los apóstoles y los hermanos que estaban en Judea oyeron que también los gentiles habían recibido la palabra de Dios. 2Y cuando Pedro subió a Jerusalén, los de la circuncisión le reprochaban: 3—¡Has entrado en casa de incircuncisos y has comido con ellos! —le decían. 4Pedro comenzó a explicarles de forma ordenada lo sucedido: 5—Estaba yo orando en la ciudad de Jope cuando tuve en éxtasis una visión: cierto objeto como un gran mantel bajaba del cielo sujeto por sus cuatro puntas y llegó hasta mí. 6Lo miré con atención y vi en él cuadrúpedos de la tierra, fieras, reptiles y aves del cielo. 7Oí entonces una voz que me decía: «Levántate, Pedro, mata y come». 8Yo respondí: «De ningún modo, Señor, porque jamás ha entrado en mi boca nada profano o impuro». 9Pero la voz venida del cielo me dijo por segunda vez: «Lo que Dios ha purificado no lo llames tú profano». 10Esto ocurrió tres veces; y al fin todo fue arrebatado al cielo. 11Inmediatamente después se presentaron tres hombres en la casa donde estábamos, enviados a mí desde Cesarea. 12Y me dijo el Espíritu que fuese con ellos sin ningún reparo. Vinieron también conmigo estos seis hermanos y entramos en la casa de aquel hombre. 13Él nos contó cómo había visto en su casa un ángel que, de pie, le decía: «Manda aviso a Jope y haz venir a Simón, llamado Pedro, 14quien te dirá palabras por las que seréis salvados tú y toda tu casa». 15Y cuando comencé a hablar, descendió sobre ellos el Espíritu Santo, igual que al principio lo hizo sobre nosotros. 16Entonces recordé la palabra del Señor cuando decía: «Juan bautizó en agua, pero vosotros seréis bautizados en el Espíritu Santo». 17Si Dios les concedió el mismo don que a nosotros, que creímos en el Señor Jesucristo, ¿quién era yo para estorbar a Dios? 18Al oír esto se tranquilizaron y glorificaron a Dios diciendo:\n—Luego también a los gentiles les ha concedido Dios la conversión para la Vida."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Como ansía la cierva las corrientes de agua,\nasí te ansía mi alma, Dios mío. 3Mi alma está sedienta de Dios, del Dios vivo.\n¿Cuándo podré ir a ver el rostro de Dios? 3Envía tu luz y tu verdad;\nque ellas me guíen y me conduzcan\na tu monte santo, a tus moradas; 4Y me acercaré al altar de Dios,\nal Dios de mi alegría y de mi gozo,\ny te alabaré con la cítara,\n¡oh Dios, Dios mío!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1»En verdad, en verdad os digo: el que no entra por la puerta del redil de las ovejas, sino que salta por otra parte, ése es un ladrón y un salteador. 2Pero el que entra por la puerta es pastor de las ovejas. 3A éste le abre el portero y las ovejas atienden a su voz, llama a sus propias ovejas por su nombre y las conduce fuera. 4Cuando las ha sacado todas, va delante de ellas y las ovejas le siguen porque conocen su voz. 5Pero a un extraño no le seguirán, sino que huirán de él porque no conocen la voz de los extraños. 6Jesús les propuso esta comparación, pero ellos no entendieron qué era lo que les decía. 7Entonces volvió a decir Jesús:\n—En verdad, en verdad os digo: yo soy la puerta de las ovejas. 8Todos cuantos han venido antes que yo son ladrones y salteadores, pero las ovejas no les escucharon. 9Yo soy la puerta; si alguno entra a través de mí, se salvará; y entrará y saldrá y encontrará pastos. 10El ladrón no viene sino para robar, matar y destruir. Yo he venido para que tengan vida y la tengan en abundancia."
+    }
+  }
+}

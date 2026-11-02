@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-03-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1«Andad, volvamos al Señor,\nporque Él nos desgarró, y Él nos sanará,\nÉl nos hirió, Él nos curará. 2En dos días nos hará revivir,\ny al tercero nos levantará\npara que vivamos en su presencia. 3Conozcamos,\napresurémonos a conocer al Señor.\nCierta como la aurora es su salida,\ny vendrá a nosotros como lluvia de otoño,\ncomo lluvia de primavera que empapa la tierra». 4¿Qué haré contigo, Efraím?\n¿Qué haré contigo, Judá?\nVuestro amor es como bruma matinal,\ncomo rocío pasajero del amanecer. 5Por eso los tallo con los profetas,\nlos mato con las palabras de mi boca,\ny mis juicios despuntan como la luz. 6Porque misericordia quiero y no sacrificio,\ny conocimiento de Dios, más que holocaustos."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Ten misericordia de mí, Dios mío, según tu bondad;\nsegún tu inmensa compasión\nborra mi delito. 4Lávame por completo de mi culpa,\ny purifícame de mi pecado. 18No te complaces en los sacrificios,\ny si te ofreciera un holocausto, no te agradaría. 19El sacrificio grato a Dios es un espíritu contrito:\nun corazón contrito y humillado,\nDios mío, no lo desprecias. 20Por tu benevolencia, favorece a Sión,\nreconstruye los muros de Jerusalén. 21Entonces te complacerán los sacrificios legítimos,\nholocaustos y oblaciones;\nentonces, sobre tu altar,\nse ofrecerán novillos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9Dijo también esta parábola a algunos que confiaban en sí mismos teniéndose por justos y despreciaban a los demás: 10—Dos hombres subieron al Templo a orar: uno era fariseo y el otro publicano. 11El fariseo, quedándose de pie, oraba para sus adentros: «Oh Dios, te doy gracias porque no soy como los demás hombres, ladrones, injustos, adúlteros, ni como ese publicano. 12Ayuno dos veces por semana, pago el diezmo de todo lo que poseo». 13Pero el publicano, quedándose lejos, ni siquiera se atrevía a levantar los ojos al cielo, sino que se golpeaba el pecho diciendo: «Oh Dios, ten compasión de mí, que soy un pecador». 14Os digo que éste bajó justificado a su casa, y aquél no. Porque todo el que se ensalza será humillado, y todo el que se humilla será ensalzado."
+    }
+  }
+}

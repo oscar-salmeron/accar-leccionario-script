@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "28»Cuidad de vosotros y de toda la grey, en la que el Espíritu Santo os puso como obispos para apacentar la Iglesia de Dios, que Él adquirió con su sangre. 29Sé que después de mi marcha se meterán entre vosotros lobos feroces que no perdonarán al rebaño, 30y que de entre vosotros mismos surgirán hombres que enseñarán doctrinas perversas, con el fin de arrastrar a los discípulos tras ellos. 31Debéis, por lo tanto, vigilar y recordar que durante tres años no cesé noche y día de exhortaros con lágrimas a cada uno de vosotros. 32Ahora os encomiendo a Dios y a la palabra de su gracia, que es poderosa para edificar y conceder la herencia a todos los santificados. 33No he codiciado de nadie plata, oro o ropas. 34Sabéis bien que las cosas necesarias para mí y los que están conmigo las proveyeron estas manos. 35Os he enseñado en todo que trabajando así es como debemos socorrer a los necesitados, y que hay que recordar las palabras del Señor Jesús, que dijo: «Mayor felicidad hay en dar que en recibir». 36En cuanto acabó de hablar se puso de rodillas y oró con todos ellos. 37Entonces rompieron todos a llorar y abrazándose al cuello de Pablo le besaban, 38afligidos sobre todo por lo que había dicho de que no volverían a ver su rostro. Y le acompañaron hasta la nave."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "29Tú, Dios mío, ordena tu poder.\nConfirma, oh Dios, lo que obraste en favor nuestro. 30Por tu Templo de Jerusalén,\nlos reyes te traerán presentes. 33Reinos de la tierra, cantad a Dios,\nentonad salmos al Señor. 34El que cabalga por los cielos, los cielos antiguos,\ndará su voz, su voz potente. 35Reconoced la fuerza de Dios,\nsu majestad sobre Israel\ny su poder sobre las nubes. 36Temible eres, Dios mío, desde tu Santuario.\nEl Dios de Israel da al pueblo\npoderío y grandeza.\n¡Bendito sea Dios!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "11»Ya no estoy en el mundo, pero ellos están en el mundo y yo voy a Ti. Padre Santo, guarda en tu nombre a aquellos que me has dado, para que sean uno como nosotros. 12Cuando estaba con ellos yo los guardaba en tu nombre. He guardado a los que me diste y ninguno de ellos se ha perdido, excepto el hijo de la perdición, para que se cumpliera la Escritura. 13Pero ahora voy a Ti y digo estas cosas en el mundo, para que tengan mi alegría completa en sí mismos. 14»Yo les he dado tu palabra, y el mundo los ha odiado porque no son del mundo, lo mismo que yo no soy del mundo. 15No pido que los saques del mundo, sino que los guardes del Maligno. 16No son del mundo lo mismo que yo no soy del mundo. 17Santifícalos en la verdad: tu palabra es la verdad. 18Lo mismo que Tú me enviaste al mundo, así los he enviado yo al mundo. 19Por ellos yo me santifico, para que también ellos sean santificados en la verdad."
+    }
+  }
+}

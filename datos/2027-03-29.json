@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-03-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "14Entonces Pedro, de pie con los once, alzó la voz para hablarles así:\n—Judíos y habitantes todos de Jerusalén, entended bien esto y escuchad atentamente mis palabras. 22»Israelitas, escuchad estas palabras: a Jesús Nazareno, hombre acreditado por Dios ante vosotros con milagros, prodigios y señales, que Dios realizó entre vosotros por medio de él, como bien sabéis, 23a éste, que fue entregado según el designio establecido y la presciencia de Dios, le matasteis clavándole en la cruz por mano de los impíos. 24Pero Dios le resucitó rompiendo las ataduras de la muerte, porque no era posible que ésta lo retuviera bajo su dominio. 25En efecto, David dice de él:\nTenía siempre presente al Señor ante mis ojos,\nporque está a mi derecha, para que yo no vacile. 26Por eso se alegró mi corazón\ny exultó mi lengua,\ny hasta mi carne descansará en la esperanza; 27porque no abandonarás mi alma en los infiernos,\nni dejarás que tu Santo vea la corrupción. 28Me diste a conocer los caminos de la vida\ny me llenarás de alegría con tu presencia. 29»Hermanos, permitidme que os diga con claridad que el patriarca David murió y fue sepultado, y su sepulcro se conserva entre nosotros hasta el día de hoy. 30Pero como era profeta y sabía que Dios le había jurado solemnemente que sobre su trono se sentaría un fruto de sus entrañas, 31lo vio con anticipación y habló de la resurrección de Cristo, que ni fue abandonado en los infiernos ni su carne vio la corrupción. 32»A este Jesús le resucitó Dios, y de eso todos nosotros somos testigos. 33Exaltado, pues, a la diestra de Dios, y recibida del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Mictam. De David.\nGuárdame, Dios mío, que me refugio en Ti. 2Yo digo al Señor:\n«Tú eres mi Señor.\nNo tengo otro bien que Tú». 5Señor, Tú eres el lote de mi heredad y de mi copa:\nTú sostienes mi parte. 7Yo bendigo al Señor, que me aconseja;\nhasta de noche mi corazón me instruye. 8Pongo ante mí al Señor sin cesar;\ncon Él a mi derecha, no vacilo. 9Por eso se alegra mi corazón,\nse goza mi alma,\nhasta mi carne descansa en la esperanza. 10Porque no abandonarás mi alma en el sheol,\nni dejarás a tu fiel ver la corrupción. 11Me enseñas la senda de la vida,\nsaciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "8Ellas partieron al instante del sepulcro con temor y una gran alegría, y corrieron a dar la noticia a los discípulos. 9De pronto Jesús les salió al encuentro y las saludó. Ellas se acercaron, abrazaron sus pies y le adoraron. 10Entonces Jesús les dijo:\n—No tengáis miedo; id a anunciar a mis hermanos que vayan a Galilea: allí me verán. 11Mientras ellas se iban, algunos de la guardia fueron a la ciudad y comunicaron a los príncipes de los sacerdotes todo lo sucedido. 12Se reunieron con los ancianos, se pusieron de acuerdo y dieron una buena suma de dinero a los soldados 13diciéndoles:\n—«Decid que sus discípulos vinieron de noche y lo robaron mientras nosotros estábamos dormidos». 14Y en el caso de que esto llegue a oídos del procurador, nosotros le calmaremos y nos encargaremos de vuestra seguridad. 15Ellos aceptaron el dinero y actuaron según las instrucciones recibidas. Así se divulgó este rumor entre los judíos hasta el día de hoy."
+    }
+  }
+}

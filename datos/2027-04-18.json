@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-04-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "8Entonces Pedro, lleno del Espíritu Santo, les respondió:\n—Jefes del pueblo y ancianos, 9si nos interrogáis hoy sobre el bien realizado a un hombre enfermo, y por quién ha sido sanado, 10quede claro a todos vosotros y a todo el pueblo de Israel que ha sido por el nombre de Jesucristo Nazareno, a quien vosotros crucificasteis y a quien Dios resucitó de entre los muertos; por él se presenta éste sano ante vosotros. 11Él es la piedra que, rechazada por vosotros los constructores, ha llegado a ser la piedra angular. 12»Y en ningún otro está la salvación; pues no hay ningún otro nombre bajo el cielo dado a los hombres, por el que tengamos que ser salvados."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nDad gracias al Señor porque es bueno,\nporque es eterna su misericordia. 8Mejor es refugiarse en el Señor\nque confiar en el hombre. 9Mejor es refugiarse en el Señor\nque confiar en los príncipes. 21Te doy gracias, porque me has escuchado,\ny has sido mi salvación. 22La piedra que desecharon los constructores\nésta ha llegado a ser la piedra angular. 23Es el Señor quien ha hecho esto\ny es admirable a nuestros ojos. 26Bendito el que viene en Nombre del Señor.\nOs bendecimos desde la Casa del Señor. 28Tú eres mi Dios, te doy gracias,\nDios mío, yo te ensalzo. 29Dad gracias al Señor, porque es bueno,\nporque es eterna su misericordia."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "1Mirad qué amor tan grande nos ha mostrado el Padre: que nos llamemos hijos de Dios, ¡y lo somos! Por eso el mundo no nos conoce, porque no le conoció a Él. 2Queridísimos: ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos. Sabemos que, cuando él se manifieste, seremos semejantes a él, porque le veremos tal como es."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "11»Yo soy el buen pastor. El buen pastor da su vida por sus ovejas. 12El asalariado, el que no es pastor y al que no le pertenecen las ovejas, ve venir el lobo, abandona las ovejas y huye —y el lobo las arrebata y las dispersa—, 13porque es asalariado y no le importan las ovejas. 14Yo soy el buen pastor, conozco las mías y las mías me conocen. 15Como el Padre me conoce a mí, así yo conozco al Padre, y doy mi vida por las ovejas. 16Tengo otras ovejas que no son de este redil, a ésas también es necesario que las traiga, y oirán mi voz y formarán un solo rebaño, con un solo pastor. 17Por eso me ama el Padre, porque doy mi vida para tomarla de nuevo. 18Nadie me la quita, sino que yo la doy libremente. Tengo potestad para darla y tengo potestad para recuperarla. Éste es el mandato que he recibido de mi Padre."
+    }
+  }
+}

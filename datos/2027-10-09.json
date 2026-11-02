@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Que se levanten y suban las naciones\nal valle de Josafat,\nque allí me sentaré para juzgar\na todas las naciones de alrededor. 13Meted la hoz,\nque la mies ya está madura.\nVenid, pisad,\nque está lleno el lagar,\nrebosan las cavas,\npues abundó su maldad. 14¡Muchedumbres, muchedumbres\nen el valle del Jarús!,\nporque está próximo el día del Señor\nen el valle del Jarús. 15Sol y luna se oscurecen,\nlos astros retiran su brillo. 16El Señor ruge desde Sión,\nalza su voz desde Jerusalén:\ncielos y tierra se estremecen.\nEl Señor es refugio para su pueblo,\nfortaleza para los hijos de Israel. 17Y sabréis que Yo soy el Señor, vuestro Dios,\nque habito en Sión, mi monte santo,\ny Jerusalén será el lugar santo:\nya no pasarán por ella extranjeros. 18En aquel día\nlos montes destilarán mosto,\ny las colinas manarán leche.\nPor todos los torrentes de Judá\ncorrerán las aguas;\ny brotará una fuente del Templo del Señor\nque regará el valle de Sitim. 19Egipto se volverá una desolación,\ny Edom, un desierto solitario,\npor su violencia contra los hijos de Judá,\nporque derramaron sangre inocente en su tierra. 20Judá será habitada por siempre,\ny Jerusalén, de generación en generación. 21Vengaré su sangre,\nno la dejaré impune.\nY el Señor habitará en Sión."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1El Señor reina: exulte la tierra,\nalégrense las islas incontables. 2Nubes y tinieblas lo rodean,\njusticia y derecho son el fundamento de su trono. 5Los montes se derriten como cera ante el Señor,\nante el Dueño de toda la tierra. 6Los cielos anuncian su justicia,\ny todos los pueblos contemplan su gloria. 11La luz ha sido esparcida para el justo,\nla alegría, para los rectos de corazón. 12Alegraos, justos, en el Señor,\ncelebrad su memoria santa."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "27Mientras él estaba diciendo todo esto, una mujer de en medio de la multitud, alzando la voz, le dijo:\n—Bienaventurado el vientre que te llevó y los pechos que te criaron. 28Pero él replicó:\n—Bienaventurados más bien los que escuchan la palabra de Dios y la guardan."
+    }
+  }
+}

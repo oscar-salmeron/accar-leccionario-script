@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Pablo, apóstol de Cristo Jesús por voluntad de Dios para anunciar la vida prometida que hay en Cristo Jesús, 2a Timoteo, mi querido hijo: gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús, Señor nuestro. 3Doy gracias a Dios, a quien sirvo, como mis antepasados, con una conciencia pura, porque continuamente te tengo presente en mis oraciones noche y día. 4Al acordarme de tus lágrimas estoy deseando verte para llenarme de alegría. 5Me viene a la memoria tu fe sincera, que arraigó primero en tu abuela Loide y en tu madre Eunice, y estoy seguro de que también en ti. 6Por esta razón, te recuerdo que tienes que reavivar el don de Dios que recibiste por la imposición de mis manos, 7porque Dios no nos dio un espíritu de timidez, sino de fortaleza, caridad y templanza. 8Así pues, no te avergüences del testimonio de nuestro Señor, ni de mí, su prisionero; al contrario, comparte conmigo los sufrimientos por el Evangelio con fortaleza de Dios,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Cantad al Señor un cántico nuevo,\ncantad al Señor, la tierra entera. 2Cantad al Señor, bendecid su Nombre,\nanunciad, día tras día, su salvación. 3Proclamad su gloria a las naciones,\nsus maravillas a todos los pueblos. 7Rendid al Señor, familias de los pueblos,\nrendid al Señor gloria y poder. 8Rendid al Señor la gloria de su Nombre.\nLlevad ofrendas, entrad en sus atrios. 10Decid a las naciones: «El Señor reina.\nÉl afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "31Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo. 32Y estaba sentada a su alrededor una muchedumbre, y le dicen:\n—Mira, tu madre, tus hermanos y tus hermanas te buscan fuera. 33Y, en respuesta, les dice:\n—¿Quién es mi madre y quiénes mis hermanos? 34Y mirando a los que estaban sentados a su alrededor, dice:\n—Éstos son mi madre y mis hermanos: 35quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+    }
+  }
+}

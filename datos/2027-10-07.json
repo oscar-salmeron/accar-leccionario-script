@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Entonces regresaron a Jerusalén desde el monte llamado de los Olivos, que está cerca de Jerusalén a la distancia de un camino permitido el sábado. 13Y cuando llegaron subieron al Cenáculo donde vivían Pedro, Juan, Santiago y Andrés, Felipe y Tomás, Bartolomé y Mateo, Santiago de Alfeo y Simón el Zelotes, y Judas el de Santiago. 14Todos ellos perseveraban unánimes en la oración, junto con algunas mujeres y con María, la madre de Jesús, y sus hermanos."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "46María exclamó:\n—Engrandece mi alma al Señor, 47y se alegra mi espíritu en Dios mi Salvador: 48porque ha puesto los ojos\nen la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones. 49Porque ha hecho en mí cosas grandes\nel Todopoderoso,\ncuyo nombre es Santo; 50su misericordia se derrama de generación\nen generación\nsobre los que le temen. 51Manifestó el poder de su brazo,\ndispersó a los soberbios de corazón. 52Derribó de su trono a los poderosos\ny ensalzó a los humildes. 53Colmó de bienes a los hambrientos\ny a los ricos los despidió vacíos. 54Auxilió a Israel su siervo,\nrecordando su misericordia, 55como había prometido a nuestros padres,\nAbrahán y su descendencia para siempre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret, 27a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María. 28Y entró donde ella estaba y le dijo:\n—Dios te salve, llena de gracia, el Señor es contigo. 29Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo. 30Y el ángel le dijo:\n—No temas, María, porque has hallado gracia delante de Dios: 31concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús. 32Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre, 33reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin. 34María le dijo al ángel:\n—¿De qué modo se hará esto, pues no conozco varón? 35Respondió el ángel y le dijo:\n—El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios. 36Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes, 37porque para Dios no hay nada imposible. 38Dijo entonces María:\n—He aquí la esclava del Señor, hágase en mí según tu palabra.\nY el ángel se retiró de su presencia."
+    }
+  }
+}

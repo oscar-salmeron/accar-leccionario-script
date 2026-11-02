@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-09-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Preparemos trampas para el justo, pues nos es molesto:\nse opone a nuestros actos,\nnos echa en cara pecados contra la Ley,\nnos denuncia de faltas contra la educación que recibimos. 17Veamos si son veraces sus palabras,\npongamos a prueba cómo es su salida. 18Si el justo es de verdad hijo de Dios, Él le amparará\ny le librará de manos de los adversarios. 19Sometámosle a prueba con ultraje y tortura\npara cerciorarnos de su rectitud\ny comprobar su paciencia. 20Condenémosle a muerte ignominiosa,\npues, según sus palabras, Dios le asistirá»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Dios mío, sálvame por tu Nombre,\nhazme justicia con tu poder. 4Dios mío, escucha mi oración,\npresta oídos a las palabras de mi boca. 5Porque se alzan contra mí los soberbios,\nbuscan mi alma los crueles,\nsin tener a Dios en cuenta. 6Pero Dios es el que me ayuda,\nel Señor es el que sostiene mi vida. 7Haz que se vuelva el mal contra mis adversarios.\nPor tu fidelidad, destrúyelos. 8Te ofreceré un sacrificio voluntario,\ndaré gracias a tu Nombre, Señor;\nporque es bueno."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "16Porque donde hay celos y rencillas, allí hay desorden y toda clase de malas obras. 17En cambio, la sabiduría que viene de lo alto es, en primer lugar, pura, y además pacífica, indulgente, dócil, llena de misericordia y de buenos frutos, imparcial, sin hipocresía. 18Los que promueven la paz siembran con la paz el fruto de la justicia. 1¿De dónde proceden las guerras y las peleas entre vosotros? ¿Acaso no provienen de vuestras pasiones, que luchan en vuestros miembros? 2Codiciáis, y no tenéis; matáis y tenéis envidia, y no podéis conseguir nada; lucháis y os hacéis la guerra. No tenéis porque no pedís. 3Pedís y no obtenéis, porque pedís mal, para derrochar en vuestros placeres."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "30Salieron de allí y atravesaron Galilea. Y no quería que nadie lo supiese, 31porque iba instruyendo a sus discípulos. Y les decía:\n—El Hijo del Hombre va a ser entregado en manos de los hombres, y lo matarán, y después de muerto resucitará a los tres días. 32Pero ellos no entendían sus palabras y temían preguntarle. 33Y llegaron a Cafarnaún. Estando ya en casa, les preguntó:\n—¿De qué hablabais por el camino? 34Pero ellos callaban, porque en el camino habían discutido entre sí sobre quién sería el mayor. 35Entonces se sentó y, llamando a los doce, les dijo:\n—Si alguno quiere ser el primero, que se haga el último de todos y servidor de todos. 36Y acercó a un niño, lo puso en medio de ellos, lo abrazó y les dijo: 37—El que reciba en mi nombre a uno de estos niños, a mí me recibe; y quien me recibe, no me recibe a mí, sino al que me ha enviado."
+    }
+  }
+}

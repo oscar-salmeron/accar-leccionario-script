@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Revelación de Jesucristo, que Dios le ha comunicado para manifestar a sus siervos lo que va a suceder pronto, y que, enviando a su ángel, dio a conocer a su siervo Juan, 2quien ha dado testimonio de todo lo que vio: la palabra de Dios y el testimonio de Jesucristo. 3Bienaventurado quien lea y quienes escuchen las palabras de esta profecía, y guarden lo que está escrito en ella; porque el momento está cerca. 4Juan, a las siete iglesias que están en Asia: la gracia y la paz estén con vosotros, de parte de aquel que es, que era y que va a venir; de parte de los siete espíritus que están delante de su trono, 1Al ángel de la iglesia de Éfeso escríbele: «Esto dice el que tiene las siete estrellas en la mano derecha, el que anda por en medio de los siete candelabros de oro: 2“Conozco tus obras, tu fatiga y tu paciencia; que no puedes soportar a los malvados y que has puesto a prueba a los que se dicen apóstoles y no lo son, y los encontraste mentirosos; 3que tienes paciencia y has sufrido por mi nombre, sin desfallecer. 4Pero tengo contra ti que has perdido la caridad que tenías al principio. 5Recuerda, por tanto, de dónde has caído, arrepiéntete, y practica las obras de antes. De lo contrario, iré adonde estás tú y desplazaré tu candelabro de su sitio, a no ser que te conviertas."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Dichoso el hombre\nque no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes, 2sino que se complace en la Ley del Señor,\ny noche y día medita en su Ley. 3Será como un árbol\nplantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera. 4No así los impíos, no así.\nSon como polvo que dispersa el viento. 6Porque el Señor vela sobre el camino de los justos,\nmientras el de los impíos acaba en perdición."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "35Cuando se acercaban a Jericó, un ciego estaba sentado al lado del camino mendigando. 36Al oír que pasaba mucha gente, preguntó qué era aquello. 37Le contestaron:\n—Es Jesús Nazareno, que pasa. 38Y gritó diciendo:\n—¡Jesús, Hijo de David, ten piedad de mí! 39Y los que iban delante le reprendían para que se estuviera callado. Pero él gritaba mucho más:\n—¡Hijo de David, ten piedad de mí! 40Jesús, parándose, mandó que lo trajeran ante él. Y cuando se acercó, le preguntó: 41—¿Qué quieres que te haga?\n—Señor, que vea —respondió él. 42Y Jesús le dijo:\n—Recobra la vista, tu fe te ha salvado. 43Y al instante recobró la vista, y le seguía glorificando a Dios. Y todo el pueblo, al presenciarlo, alabó a Dios."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12La sabiduría exalta a sus hijos,\ny cuida de los que la buscan. 13Quien la ama, ama la vida,\ny cuantos madrugan por encontrarla se colmarán de gozo. 14El que la posee heredará la gloria,\ny, en cualquier empresa, el Señor le bendecirá. 15Los que la veneran darán culto al Santo,\ny el Señor ama a los que la aman. 16El que la escucha juzga con equidad al pueblo,\ny el que le presta atención vivirá seguro. 17El que confíe en ella la obtendrá en herencia,\ny sus descendientes mantendrán su posesión. 18Porque al principio lo conduce por sendas tortuosas: 19le traerá temor y miedo,\nle hará sufrir con su disciplina,\n—hasta que tenga él confianza en sí mismo—\ny le pondrá a prueba con sus prescripciones. 20Luego le conducirá a Él por el camino recto,\nle llenará de alegría, 21y le revelará sus misterios. 22Pero si se aleja del recto camino, le abandonará\ny le dejará a merced de su propia ruina."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "165Completa es la paz de los que aman tu Ley,\nno hay tropiezo para ellos. 168Observo tus mandatos y tus preceptos:\ntodos mis caminos te están presentes. 171Proclamen mis labios tu alabanza,\nporque me has enseñado tus decretos. 172Cante mi lengua tu palabra,\nporque justos son todos tus mandatos. 174Anhelo tu salvación, Señor;\ntu Ley es mi gozo. 175Viva mi alma para alabarte,\nque me socorran tus juicios."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "38Juan le dijo:\n—Maestro, hemos visto a uno que expulsaba demonios en tu nombre y se lo hemos prohibido, porque no viene con nosotros. 39Jesús contestó:\n—No se lo prohibáis, pues no hay nadie que haga un milagro en mi nombre y pueda a continuación hablar mal de mí: 40el que no está contra nosotros, con nosotros está."
+    }
+  }
+}

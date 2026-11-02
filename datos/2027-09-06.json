@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "24Ahora me alegro de mis padecimientos por vosotros, y completo en mi carne lo que falta a los sufrimientos de Cristo en beneficio de su cuerpo, que es la Iglesia. 25De ella he sido yo constituido servidor por disposición divina, dada en favor vuestro: para cumplir el encargo de anunciar la palabra de Dios, es decir, 26el misterio que estuvo escondido durante siglos y generaciones y que ahora ha sido manifestado a sus santos. 27En efecto, Dios quiso dar a conocer a los suyos las riquezas de gloria que contiene este misterio para los gentiles: es decir, que Cristo está en vosotros y es la esperanza de la gloria. 28Nosotros lo anunciamos exhortando a todo hombre y enseñando a cada uno con la verdadera sabiduría, para hacer a todos perfectos en Cristo. 29Con este fin trabajo afanosamente con su fuerza que actúa poderosamente en mí. 1Así pues, quiero que sepáis qué dura lucha sostengo por vosotros, y por los de Laodicea, y por cuantos no me han visto personalmente, 2para que sean consolados sus corazones, unidos en la caridad, y alcancen en toda su riqueza la perfecta inteligencia y conocimiento del misterio de Dios, de Cristo, 3en quien están escondidos todos los tesoros de la sabiduría y de la ciencia."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "6Sólo en Dios está el descanso, alma mía,\nporque de Él viene mi esperanza. 7Sólo Él es mi roca y mi salvación\nmi alcázar: no podré vacilar. 9Confiad en Él, comunidad entera del pueblo,\ndesahogad vuestro corazón en su presencia:\nDios es nuestro refugio."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "6Otro sábado entró en la sinagoga y se puso a enseñar. Y había allí un hombre que tenía seca la mano derecha. 7Los escribas y los fariseos le observaban a ver si curaba en sábado, para encontrar de qué acusarle. 8Pero él conocía sus pensamientos y le dijo al hombre que tenía la mano seca:\n—Levántate y ponte en medio.\nY se levantó y se puso en medio. 9Entonces Jesús les dijo:\n—Yo os pregunto: ¿es lícito en sábado hacer el bien o hacer el mal, salvar la vida de un hombre o perderla? 10Entonces, mirando a todos los que estaban a su alrededor, le dijo al que tenía la mano seca:\n—Extiende tu mano.\nÉl lo hizo, y su mano quedó curada. 11Ellos se llenaron de rabia y comenzaron a discutir entre sí qué harían contra Jesús."
+    }
+  }
+}

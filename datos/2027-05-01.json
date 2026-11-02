@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "26Dijo Dios:\n—Hagamos al hombre a nuestra imagen, según nuestra semejanza. Que dominen sobre los peces del mar, las aves del cielo, los ganados, sobre todos los animales salvajes y todos los reptiles que se mueven por la tierra. 27Y creó Dios al hombre a su imagen,\na imagen de Dios lo creó;\nvarón y mujer los creó. 28Y los bendijo Dios, y les dijo:\n—Creced, multiplicaos, llenad la tierra y sometedla; dominad sobre los peces del mar, las aves del cielo y todos los animales que reptan por la tierra. 29Y dijo Dios:\n—He aquí que os he dado todas las plantas portadoras de semilla que hay en toda la superficie de la tierra, y todos los árboles que dan fruto con semilla; esto os servirá de alimento. 30A todas las fieras, a todas las aves del cielo y a todos los reptiles de la tierra, a todo ser vivo, la hierba verde le servirá de alimento. Y así fue. 31Y vio Dios todo lo que había hecho; y he aquí que era muy bueno. Hubo tarde y hubo mañana: día sexto. 1Y quedaron concluidos el cielo, la tierra y todo su ornato. 2Terminó Dios en el día séptimo la obra que había hecho, y descansó en el día séptimo de toda la obra que había hecho. 3Y bendijo Dios el día séptimo y lo santificó, porque ese día descansó Dios de toda la obra que había realizado en la creación."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Antes de que fueran engendrados los montes\ny la tierra y el orbe fuesen formados,\ndesde siempre y para siempre,\nTú eres Dios. 3Al polvo haces volver al hombre,\ndiciendo: «Volved, hijos de Adán». 4Pues mil años a tus ojos\nson como un día de ayer, que pasó,\ncomo una vigilia de la noche. 12Enséñanos a llevar buena cuenta de nuestros días,\npara que logremos un corazón sabio. 13¡Vuélvete, Señor! ¿Hasta cuándo…?\nTen piedad con tus siervos. 14Sácianos de mañana con tu misericordia,\nexultaremos y nos alegraremos todos nuestros días. 16Que se muestre a tus siervos tu obra,\ny a tus hijos tu majestad."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "54Y al llegar a su ciudad se puso a enseñarles en su sinagoga, de manera que se quedaban admirados y decían:\n—¿De dónde le viene a éste esa sabiduría y esos poderes? 55¿No es éste el hijo del artesano? ¿No se llama su madre María y sus hermanos Santiago, José, Simón y Judas? 56Y sus hermanas ¿no viven todas entre nosotros? ¿Pues de dónde le viene todo esto? 57Y se escandalizaban de él. Pero Jesús les dijo:\n—No hay profeta que sea menospreciado, si no es en su tierra y en su casa. 58Y no hizo allí muchos milagros por su incredulidad."
+    }
+  }
+}

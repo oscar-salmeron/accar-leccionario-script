@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "3—Yo soy judío, nacido en Tarso de Cilicia, educado en esta ciudad e instruido a los pies de Gamaliel según la observancia de la Ley patria, y estoy lleno de celo de Dios como lo estáis vosotros en el día de hoy. 4Yo perseguí a muerte este Camino, encadenando y encarcelando a hombres y mujeres, 5como me lo puede atestiguar el sumo sacerdote y todo el Sanedrín. De ellos recibí cartas para los hermanos y me encaminé a Damasco para traer aherrojados a Jerusalén a quienes allí hubiera, con el fin de castigarlos. 6»Pero cuando iba de camino, cerca de Damasco, hacia el mediodía, me envolvió de repente una gran luz venida del cielo, 7caí al suelo y oí una voz que me decía: «Saulo, Saulo, ¿por qué me persigues?» 8Yo respondí: «¿Quién eres, Señor?» Y me contestó: «Yo soy Jesús Nazareno, a quien tú persigues». 9Los que estaban conmigo vieron la luz, pero no oyeron la voz del que me hablaba. 10Yo dije: «¿Qué tengo que hacer, Señor?» Y el Señor me respondió: «Levántate y entra en Damasco: allí se te dirá todo lo que debes hacer». 11Como yo no veía a causa del resplandor de aquella luz, tuve que entrar en Damasco conducido de la mano de mis acompañantes. 12»Ananías, un varón piadoso según la Ley y acreditado por todos los judíos que allí vivían, 13vino y de pie delante de mí me dijo: «Saulo, hermano, recobra tu vista». Y en el mismo instante le pude ver. 14Él me dijo: «El Dios de nuestros padres te ha elegido para que conocieras su voluntad, vieras al Justo y oyeras la voz de su boca, 15porque serás su testigo ante todos los hombres de lo que has visto y oído. 16Ahora, ¿qué esperas? Levántate y recibe el bautismo y lava tus pecados, invocando su nombre»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nAlabad al Señor todas las naciones,\naclamadlo todos los pueblos. 2Porque firme es con nosotros su misericordia,\nla fidelidad del Señor permanece para siempre."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "15Y les dijo:\n—Id al mundo entero y predicad el Evangelio a todo lo creado. 16El que crea y sea bautizado será salvado; pero el que no crea será condenado. 17A los que crean acompañarán estos signos: en mi nombre expulsarán demonios, hablarán lenguas nuevas, 18agarrarán serpientes con las manos y, si bebieran algún veneno, no les dañará; impondrán las manos sobre los enfermos y quedarán curados."
+    }
+  }
+}

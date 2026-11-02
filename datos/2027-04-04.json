@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-04-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "32La multitud de los creyentes tenía un solo corazón y una sola alma, y nadie consideraba como suyo lo que poseía, sino que compartían todas las cosas. 33Con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús; y en todos ellos había abundancia de gracia. 34No había entre ellos ningún necesitado, porque los que eran dueños de campos o casas los vendían, llevaban el precio de la venta 35y lo ponían a los pies de los apóstoles; luego se repartía a cada uno según sus necesidades."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Diga Israel: «El Señor es bueno.\nEterna es su misericordia». 3Diga la casa de Aarón:\n«Eterna es su misericordia». 4Digan los que temen al Señor:\n«Eterna es su misericordia». 13Me empujaban con violencia para hacerme caer,\npero el Señor me socorrió. 14El Señor es mi fuerza y mi vigor,\nÉl es mi salvación. 15Gritos de júbilo y de victoria\nhay en las tiendas de los justos:\n«La diestra del Señor hace proezas; 22La piedra que desecharon los constructores\nésta ha llegado a ser la piedra angular. 23Es el Señor quien ha hecho esto\ny es admirable a nuestros ojos. 24Éste es el día que hizo el Señor,\nexultemos y alegrémonos en él."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "1Todo el que cree que Jesús es el Cristo, ése ha nacido de Dios; y todo el que ama a quien le engendró, ama también a quien ha sido engendrado por Él. 2En esto conocemos que amamos a los hijos de Dios: en que amamos a Dios y cumplimos sus mandamientos. 3Porque el amor de Dios consiste precisamente en que guardemos sus mandamientos; y sus mandamientos no son costosos, 4porque todo el que ha nacido de Dios, vence al mundo. Y ésta es la victoria que ha vencido al mundo: nuestra fe. 5¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios? 6Éste es el que vino por el agua y por la sangre: Jesucristo. No solamente con el agua, sino con el agua y con la sangre. Y es el Espíritu quien da testimonio, porque el Espíritu es la verdad."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "19Al atardecer de aquel día, el siguiente al sábado, con las puertas del lugar donde se habían reunido los discípulos cerradas por miedo a los judíos, vino Jesús, se presentó en medio de ellos y les dijo:\n—La paz esté con vosotros. 20Y dicho esto les mostró las manos y el costado.\nAl ver al Señor, los discípulos se alegraron. 21Les repitió:\n—La paz esté con vosotros. Como el Padre me envió, así os envío yo. 22Dicho esto sopló sobre ellos y les dijo:\n—Recibid el Espíritu Santo; 23a quienes les perdonéis los pecados, les son perdonados; a quienes se los retengáis, les son retenidos. 24Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando vino Jesús. 25Los otros discípulos le dijeron:\n—¡Hemos visto al Señor!\nPero él les respondió:\n—Si no le veo en las manos la marca de los clavos, y no meto mi dedo en esa marca de los clavos y meto mi mano en el costado, no creeré. 26A los ocho días, estaban otra vez dentro sus discípulos y Tomás con ellos. Aunque estaban las puertas cerradas, vino Jesús, se presentó en medio y dijo:\n—La paz esté con vosotros. 27Después le dijo a Tomás:\n—Trae aquí tu dedo y mira mis manos, y trae tu mano y métela en mi costado, y no seas incrédulo sino creyente. 28Respondió Tomás y le dijo:\n—¡Señor mío y Dios mío! 29Jesús contestó:\n—Porque me has visto has creído; bienaventurados los que sin haber visto hayan creído. 30Muchos otros signos hizo también Jesús en presencia de sus discípulos, que no han sido escritos en este libro. 31Sin embargo, éstos han sido escritos para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo tengáis vida en su nombre."
+    }
+  }
+}

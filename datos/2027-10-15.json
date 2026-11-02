@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1¿Qué diremos entonces que consiguió Abrahán, nuestro padre según la carne? 2Porque si Abrahán fue justificado por las obras, tiene de qué gloriarse, pero no ante Dios. 3Porque, ¿qué dice la Escritura? Creyó Abrahán a Dios, y se le contó como justicia. 4Ahora bien, al que trabaja, el salario no se le cuenta como regalo sino como algo que se le debe; 5en cambio, a quien no trabaja, pero cree en Aquel que justifica al impío, se le cuenta su fe como justicia. 6En este sentido, David habla de la bienaventuranza del hombre a quien Dios atribuye la justicia con independencia de las obras: 7Bienaventurados aquellos a quienes\nse les han perdonado los delitos\ny a quienes se les han cubierto los pecados; 8bienaventurado el hombre a quien el Señor\nno le tenga en cuenta su pecado."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David. Masquil.\nDichoso el que es perdonado de la culpa,\ny le ha sido cubierto su pecado. 2Dichoso el hombre a quien el Señor no le imputa delito\ny en cuyo espíritu no hay dolo. 5Te declaré mi pecado, no te oculté mi delito.\nDije: «Confesaré mis culpas al Señor».\nY Tú perdonaste mi culpa y mi pecado. 11Alegraos, justos, y regocijaos en el Señor,\nexultad todos los rectos de corazón."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1En esto, habiéndose reunido una muchedumbre de miles de personas, hasta atropellarse unos a otros, comenzó a decir sobre todo a sus discípulos:\n—Guardaos de la levadura de los fariseos, que es la hipocresía. 2Nada hay oculto que no sea descubierto, ni secreto que no llegue a saberse. 3Porque cuanto hayáis dicho en la oscuridad será escuchado a la luz; cuanto hayáis hablado al oído bajo techo será pregonado sobre los terrados. 4»A vosotros, amigos míos, os digo: no tengáis miedo a los que matan el cuerpo y después de esto no pueden hacer nada más. 5Os enseñaré a quién tenéis que temer: temed al que después de dar muerte tiene potestad para arrojar en el infierno. Sí, os digo: temed a éste. 6¿No se venden cinco pajarillos por dos ases? Pues bien, ni uno solo de ellos queda olvidado ante Dios. 7Aún más, hasta los cabellos de vuestra cabeza están todos contados. No tengáis miedo: valéis más que muchos pajarillos."
+    }
+  }
+}

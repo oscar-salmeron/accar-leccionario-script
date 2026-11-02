@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "20»He aquí que yo enviaré un ángel delante de ti, para que te guarde en el camino y te conduzca al lugar que he preparado. 21Compórtate en su presencia y escucha su voz. No te rebeles contra él, porque no perdonará vuestro delito ya que mi nombre está en él. 22Pero si escuchas su voz y haces todo lo que yo diga, seré enemigo de tus enemigos y adversario de tus adversarios; 23pues mi ángel caminará delante de ti y te conducirá a la tierra de los amorreos, hititas, perezeos, cananeos, jeveos y jebuseos; yo los exterminaré."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1El que habita al amparo del Altísimo\nmorará a la sombra del Omnipotente. 2Dice al Señor: «Refugio mío,\nfortaleza mía, Dios mío en quien confío». 3Él te librará de la red del cazador,\nde la peste destructora. 4Te cubrirá con sus plumas,\nbajo sus alas encontrarás refugio:\nsu fidelidad es escudo y coraza. 5No tendrás miedo del terror en la noche,\nni de la flecha que vuela de día; 6ni de la peste que se propaga en tinieblas,\nni del azote que devasta a pleno día. 10A ti no te alcanzará ningún mal,\nni la plaga se acercará a tu tienda, 11porque ha dado órdenes a sus ángeles\nque te guarden en todos tus caminos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1En aquella ocasión se acercaron los discípulos a Jesús y le preguntaron:\n—¿Quién es pues el mayor en el Reino de los Cielos? 2Entonces llamó a un niño, lo puso en medio de ellos 3y dijo:\n—En verdad os digo: si no os convertís y os hacéis como los niños, no entraréis en el Reino de los Cielos. 4Pues todo el que se humille como este niño, ése es el mayor en el Reino de los Cielos; 5y el que reciba a un niño como éste en mi nombre, a mí me recibe. 10»Guardaos de despreciar a uno de estos pequeños, porque os digo que sus ángeles en los cielos están viendo siempre el rostro de mi Padre que está en los cielos."
+    }
+  }
+}

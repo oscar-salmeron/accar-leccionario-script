@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "2Desde mi juventud la amé y la busqué,\nquise tomarla como esposa mía\ny me enamoré de su belleza. 3Muestra su nobleza por estar en comunión con Dios,\ny el Señor de todas las cosas la amó con predilección. 4Ella es iniciada en la ciencia de Dios\ny sabe escoger entre sus obras. 5Si poseer riqueza es algo apetecible en la vida,\n¿qué hay más rico que la sabiduría que lo causa todo? 6Y si es la prudencia la que obra,\n¿quién mayor artífice que ella entre los seres? 7Si alguien ama la justicia,\nlas virtudes son el fruto de sus fatigas.\nElla es maestra de templanza y de prudencia,\nde justicia y fortaleza:\nnada hay más provechoso para los hombres en la vida. 16Al volver a casa descansaré con ella,\npues no hay amargura en su convivencia,\nni tedio en su compañía;\nal contrario, da alegría y contento. 17Reflexionaba en mi interior sobre estas cosas\ny las meditaba en mi corazón:\nque la inmortalidad está en emparentar con la sabiduría, 18y en su amistad, un noble gozo;\nen las fatigas de sus manos, una riqueza inagotable,\nen su trato asiduo, la prudencia,\ny en su conversación, la fama.\nAsí, daba vueltas buscando el modo de lograrla."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "5Señor, Tú eres el lote de mi heredad y de mi copa:\nTú sostienes mi parte. 6Me ha tocado en suerte un lote hermoso;\nme agrada mi heredad. 7Yo bendigo al Señor, que me aconseja;\nhasta de noche mi corazón me instruye. 8Pongo ante mí al Señor sin cesar;\ncon Él a mi derecha, no vacilo. 9Por eso se alegra mi corazón,\nse goza mi alma,\nhasta mi carne descansa en la esperanza. 11Me enseñas la senda de la vida,\nsaciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13»Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente. 14»Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte; 15ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa. 16Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos. 17»No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud. 18En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla. 19Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+    }
+  }
+}

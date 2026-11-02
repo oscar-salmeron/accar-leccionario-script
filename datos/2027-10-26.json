@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-10-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "18Porque estoy convencido de que los padecimientos del tiempo presente no son comparables con la gloria futura que se va a manifestar en nosotros. 19En efecto, la espera ansiosa de la creación anhela la manifestación de los hijos de Dios. 20Porque la creación se ve sujeta a la vanidad, no por su voluntad, sino por quien la sometió, con la esperanza 21de que también la misma creación será liberada de la esclavitud de la corrupción para participar de la libertad gloriosa de los hijos de Dios. 22Pues sabemos que la creación entera gime y sufre con dolores de parto hasta el momento presente. 23Y no sólo ella, sino que nosotros, que poseemos ya los primeros frutos del Espíritu, también gemimos en nuestro interior aguardando la adopción de hijos, la redención de nuestro cuerpo. 24Porque hemos sido salvados por la esperanza. Ahora bien, una esperanza que se ve no es esperanza; pues ¿acaso uno espera lo que ve? 25Por eso, si esperamos lo que no vemos, lo aguardamos mediante la paciencia."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Canto de las subidas.\nCuando el Señor hizo volver a los cautivos de Sión,\nnos parecía soñar. 2Se nos llenaba de risas la boca,\nla lengua, de cantares de alegría.\nEntonces se decía entre las naciones:\n«El Señor ha hecho con ellos cosas grandes». 3El Señor ha hecho con nosotros cosas grandes:\nestamos llenos de alegría. 4Haz volver, Señor, a nuestros cautivos\ncomo los torrentes del Négueb. 5Los que siembran con lágrimas\ncosechan entre cantares de alegría. 6Al marchar iban llorando,\nllevando las semillas.\nAl volver vienen cantando,\ntrayendo sus gavillas."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "18Y decía:\n—¿A qué se parece el Reino de Dios y con qué lo compararé? 19Es como un grano de mostaza, que tomó un hombre y lo echó en su huerto, y creció y llegó a hacerse un árbol, y las aves del cielo anidaron en sus ramas. 20Y dijo también:\n—¿Con qué compararé el Reino de Dios? 21Es como la levadura que tomó una mujer y la mezcló con tres medidas de harina hasta que fermentó todo."
+    }
+  }
+}

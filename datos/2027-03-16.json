@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-03-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "4Partieron desde el monte Hor camino del Mar Rojo rodeando la tierra de Edom, y en el camino desfalleció el ánimo del pueblo. 5El pueblo habló contra Dios y contra Moisés:\n—¿Por qué nos habéis hecho subir de Egipto para morir en este desierto, donde no hay pan ni agua y nuestra alma no puede más con este alimento tan ligero? 6El Señor les envió serpientes venenosas que mordieron al pueblo, y murió mucha gente de Israel. 7Entonces el pueblo vino a Moisés y dijo:\n—Hemos pecado porque hemos hablado contra el Señor y contra ti. Ruega al Señor que aparte de nosotros las serpientes.\nY Moisés oró por el pueblo. 8El Señor dijo a Moisés:\n—Haz una serpiente venenosa y ponla sobre un mástil, y todo el que haya sido mordido y la mire, vivirá. 9Moisés hizo una serpiente de bronce y la puso sobre un mástil, y si alguien había sido mordido por una serpiente, miraba fijamente la serpiente de bronce y vivía."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Señor, escucha mi oración,\nllegue hasta Ti mi clamor. 3No me escondas tu rostro;\nel día de mi angustia,\ninclina tu oído hacia mí;\nel día en que te invoco,\ndate prisa en escucharme. 16Las gentes temerán tu Nombre, Señor,\ny todos los reyes de la tierra, tu gloria, 17cuando el Señor reconstruya Sión,\ny aparezca en su gloria, 18y atienda la plegaria del necesitado\ny no desdeñe su oración. 19Que se escriban estas cosas para la generación futura,\ny el pueblo que será creado alabará al Señor. 20Pues el Señor observa desde lo alto de su santuario,\nmira desde el cielo hacia la tierra, 21para escuchar el lamento de los cautivos,\ny librar a los condenados a muerte;"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "21Jesús les dijo de nuevo:\n—Yo me voy y me buscaréis, y moriréis en vuestro pecado; adonde yo voy vosotros no podéis venir. 22Los judíos decían:\n—¿Es que se va a matar y por eso dice: «Adonde yo voy vosotros no podéis venir»? 23Y les decía:\n—Vosotros sois de abajo; yo soy de arriba. Vosotros sois de este mundo; yo no soy de este mundo. 24Os he dicho que moriréis en vuestros pecados, porque si no creéis que yo soy, moriréis en vuestros pecados. 25Entonces le decían:\n—¿Tú quién eres?\nJesús les respondió:\n—Ante todo, lo que os estoy diciendo. 26Tengo muchas cosas que hablar y juzgar de vosotros, pero el que me ha enviado es veraz, y yo, lo que le he oído, eso hablo al mundo. 27Ellos no entendieron que les hablaba del Padre. 28Les dijo por eso Jesús:\n—Cuando hayáis levantado al Hijo del Hombre, entonces conoceréis que yo soy, y que nada hago por mí mismo, sino que como el Padre me enseñó así hablo. 29Y el que me ha enviado está conmigo; no me ha dejado solo, porque yo hago siempre lo que le agrada. 30Al decir estas cosas, muchos creyeron en él."
+    }
+  }
+}

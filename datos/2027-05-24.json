@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron, y el mar ya no existe. 2Vi también la ciudad santa, la nueva Jerusalén, que bajaba del cielo de parte de Dios, ataviada como una novia que se engalana para su esposo. 3Y oí una fuerte voz procedente del trono que decía:\n—Ésta es la morada de Dios con los hombres: Habitará con ellos y ellos serán su pueblo, y Dios, habitando realmente en medio de ellos, será su Dios. 4Y enjugará toda lágrima de sus ojos; y no habrá ya muerte, ni llanto, ni lamento, ni dolor, porque todo lo anterior ya pasó. 5El que estaba sentado en el trono dijo:\n—Mira, hago nuevas todas las cosas.\nY añadió:\n—Escribe: «Estas palabras son fidedignas y veraces»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Venid!, cantemos jubilosos al Señor,\naclamemos a la Roca de nuestra salvación. 2Vayamos a su presencia con acción de gracias,\naclamémosle con salmos. 3Porque el Señor es Dios Grande,\nel Gran Rey sobre todos los dioses. 4En su mano están las simas de la tierra,\nsuyas son las cumbres de los montes. 5Suyo es el mar, pues Él lo hizo,\ny la tierra firme que modelaron sus manos. 6Venid, adoremos y postrémonos,\npongámonos de hinojos\nante el Señor, nuestro Hacedor. 7Pues Él es nuestro Dios,\ny nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "22Se celebraba por aquel tiempo en Jerusalén la fiesta de la Dedicación. Era invierno. 23Paseaba Jesús por el Templo, en el pórtico de Salomón. 24Entonces le rodearon los judíos y comenzaron a decirle:\n—¿Hasta cuándo nos vas a tener en vilo? Si tú eres el Cristo, dínoslo claramente. 25Les respondió Jesús:\n—Os lo he dicho y no lo creéis; las obras que hago en nombre de mi Padre son las que dan testimonio de mí. 26Pero vosotros no creéis porque no sois de mis ovejas. 27Mis ovejas escuchan mi voz, yo las conozco y me siguen. 28Yo les doy vida eterna; no perecerán jamás y nadie las arrebatará de mi mano. 29Mi Padre, que me las dio, es mayor que todos; y nadie puede arrebatarlas de la mano del Padre. 30Yo y el Padre somos uno."
+    }
+  }
+}

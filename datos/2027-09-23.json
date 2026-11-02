@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-09-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1El año segundo del rey Darío, el día primero del sexto mes, la palabra del Señor fue dirigida, por medio del profeta Ageo, a Zorobabel, hijo de Sealtiel, gobernador de Judá, y a Josué, hijo de Yosadac, sumo sacerdote, diciéndoles: 2—Así dice el Señor de los ejércitos: «Este pueblo va diciendo: “Aún no ha llegado el momento de reconstruir el Templo del Señor”». 3Entonces, la palabra del Señor fue dirigida, por medio del profeta Ageo, diciendo: 4—¿Acaso os ha llegado a vosotros el momento\nde habitar en vuestras casas artesonadas\nmientras este Templo sigue en ruinas? 5Ahora, así dice el Señor de los ejércitos:\n«Reflexionad bien sobre vuestra conducta: 6Sembrasteis mucho y habéis cosechado poco;\ncomisteis y no os habéis saciado,\nbebisteis y no os habéis embriagado,\nos vestisteis y no os habéis calentado;\ny el jornalero ha echado su paga en saco roto». 7Así dice el Señor de los ejércitos:\n«Reflexionad bien sobre vuestra conducta: 8Subid al monte,\ntraed madera,\nreconstruid el Templo,\nque Yo me complaceré en él\ny seré glorificado\n—dice el Señor—."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1¡Aleluya!\nCantad al Señor un cántico nuevo,\nesté su alabanza en la asamblea de los fieles. 2Alégrese Israel en su Hacedor;\nexulten en su Rey los hijos de Sión. 3Alaben su Nombre con danzas,\nque le entonen salmos con panderos y cítaras. 4Porque el Señor se deleita en su pueblo,\ny engalana a los humildes con la salvación. 5Regocíjense los fieles en la gloria,\ngriten de alegría desde sus lechos, 6con gritos de exaltación a Dios en sus gargantas,\ny espadas de dos filos en sus manos. 9para ejecutar en ellos la sentencia dictada:\nserá un honor para todos sus fieles.\n¡Aleluya!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "7El tetrarca Herodes oyó todo lo que ocurría y estaba perplejo, porque unos decían que Juan había resucitado de entre los muertos, 8otros que Elías había aparecido, otros que había resucitado alguno de los antiguos profetas. 9Y dijo Herodes:\n—A Juan lo he decapitado yo, ¿quién es, entonces, éste del que oigo tales cosas?\nY deseaba verlo."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "14Canta de gozo, hija de Sión,\nalborózate, Israel,\nalégrate y disfruta de todo corazón,\nhija de Jerusalén. 15El Señor revocó tu sentencia,\nechó afuera a tus enemigos;\nel Señor, Rey de Israel,\nestá en medio de ti;\nno temerás más la desgracia. 16Aquel día se dirá a Jerusalén:\n«¡No temas, Sión,\nno desfallezcan tus manos! 17El Señor, tu Dios,\nestá en medio de ti\ncomo poderoso Salvador.\nÉl disfrutará de ti con alegría,\nte renovará su amor,\nse regocijará en ti con canto alegre, 18como en los días de fiesta».\n«Reuniré de ti a los que están en agobio\npara quitarles la deshonra."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Éste es el Dios de mi salvación:\nconfío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado». 3Sacaréis aguas con gozo de las fuentes de la salvación; 4y aquel día diréis:\n«Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso. 5Cantad al Señor, porque ha hecho proezas\n¡que sean conocidas en toda la tierra! 6¡Exulta y grita de júbilo, tú que habitas en Sión,\nque es grande en medio de ti el Santo de Israel!»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "39Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá; 40y entró en casa de Zacarías y saludó a Isabel. 41Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo; 42y exclamando en voz alta, dijo:\n—Bendita tú entre las mujeres y bendito es el fruto de tu vientre. 43¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme? 44Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno; 45y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor. 46María exclamó:\n—Engrandece mi alma al Señor, 47y se alegra mi espíritu en Dios mi Salvador: 48porque ha puesto los ojos\nen la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones. 49Porque ha hecho en mí cosas grandes\nel Todopoderoso,\ncuyo nombre es Santo; 50su misericordia se derrama de generación\nen generación\nsobre los que le temen. 51Manifestó el poder de su brazo,\ndispersó a los soberbios de corazón. 52Derribó de su trono a los poderosos\ny ensalzó a los humildes. 53Colmó de bienes a los hambrientos\ny a los ricos los despidió vacíos. 54Auxilió a Israel su siervo,\nrecordando su misericordia, 55como había prometido a nuestros padres,\nAbrahán y su descendencia para siempre. 56María permaneció con ella unos tres meses, y se volvió a su casa."
+    }
+  }
+}

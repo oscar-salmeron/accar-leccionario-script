@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-03-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "14También todos los jefes de los sacerdotes y el pueblo multiplicaron sus infidelidades, imitando en todo las abominaciones de las naciones; profanaron el Templo que el Señor se había consagrado en Jerusalén. 15El Señor, Dios de sus padres, les envió advertencias con rapidez y sin cesar por medio de sus mensajeros, porque sentía compasión de su pueblo y de su Morada. 16Pero ellos hicieron burla de sus mensajeros, despreciaron sus palabras y se mofaron de sus profetas, hasta que la ira del Señor contra su pueblo alcanzó un punto tal, que ya no hubo remedio. 17Entonces el Señor hizo subir contra ellos al rey de los caldeos, que mató a espada a los mejores hombres jóvenes en el interior del Santuario sin tener piedad ni de muchachos ni de doncellas, ni de ancianos ni de viejos; a todos los puso en sus manos. 19Luego incendiaron el Templo, demolieron los muros de Jerusalén, prendieron fuego a todos sus palacios y destruyeron todas las cosas de valor. 20Finalmente deportaron a Babilonia a todos los que se habían librado de la espada, sirviendo de esclavos suyos y de sus hijos hasta la llegada del reino persa. 21Así se cumplió la palabra del Señor pronunciada por Jeremías: «Hasta que el país llegue a disfrutar los sábados perdidos, vivirá en un sábado prolongado durante los días de la desolación, en concreto, setenta años». 22El año primero de Ciro, rey de Persia, en cumplimiento de la palabra del Señor por boca de Jeremías, el Señor movió el espíritu de Ciro, rey de Persia, que proclamó por todo su imperio de viva voz y por escrito el siguiente edicto: 23«Así dice Ciro, rey de Persia: “El Señor, Dios de los cielos, me ha entregado todos los reinos de la tierra. Él mismo me ha encomendado construir en su honor un Templo en Jerusalén que está en Judá. El que de vosotros pertenezca a ese pueblo, que el Señor, su Dios, esté con él y que suba”»."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Junto a los ríos de Babilonia,\nallí nos sentábamos y llorábamos,\nacordándonos de Sión. 2En los sauces, en medio de ella,\ncolgábamos nuestras cítaras. 3Allí, los que nos deportaron nos pedían cantares,\nnuestros opresores, diversión:\n«Cantadnos canciones de Sión». 4¿Cómo cantar un cántico del Señor\nen tierra extraña? 5Si me olvido de ti, Jerusalén,\nque se paralice mi diestra; 6que se me pegue la lengua al paladar\nsi no me acuerdo de ti,\nsi no pongo a Jerusalén\nen el colmo de mi gozo."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "4Pero Dios, que es rico en misericordia, por el gran amor con que nos amó, 5aunque estábamos muertos por nuestros pecados, nos dio vida en Cristo —por gracia habéis sido salvados—, 6y con él nos resucitó y nos hizo sentar en los cielos por Cristo Jesús, 7a fin de manifestar a los siglos venideros las abundantes riquezas de su gracia, por su bondad con nosotros por medio de Cristo Jesús. 8Así pues, por gracia habéis sido salvados mediante la fe; y esto no procede de vosotros, puesto que es un don de Dios: 9es decir, no procede de las obras, para que nadie se gloríe, 10ya que somos hechura suya, creados en Cristo Jesús, para hacer las obras buenas, que Dios había preparado para que las practicáramos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre, 15para que todo el que crea tenga vida eterna en él. 16Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna. 17Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él. 18El que cree en él no es juzgado; pero quien no cree ya está juzgado, porque no cree en el nombre del Hijo Unigénito de Dios. 19Éste es el juicio: que vino la luz al mundo y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas. 20Pues todo el que obra mal odia la luz y no viene a la luz, para que sus obras no le acusen. 21Pero el que obra según la verdad viene a la luz, para que sus obras se pongan de manifiesto, porque han sido hechas según Dios."
+    }
+  }
+}

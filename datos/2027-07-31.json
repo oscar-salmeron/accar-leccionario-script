@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Habló el Señor a Moisés en el monte Sinaí y dijo: 8»Contarás siete semanas de años, es decir, siete veces siete años, de modo que resulte un periodo de cuarenta y nueve años. 9El día diez del mes séptimo, el Día de la Expiación, harás sonar la trompeta: resonará la trompeta por toda vuestra tierra. 10Declararéis santo el año quincuagésimo, promulgando en la tierra un decreto de liberación para todos sus habitantes. Será un año jubilar: cada uno volverá a su propiedad y regresará a su familia de origen. 11El año quincuagésimo será para vosotros jubilar: no sembraréis ni recogeréis lo que renazca en el barbecho, ni vendimiaréis la viña no podada, 12porque será año jubilar y será santo para vosotros. Os alimentaréis de lo que el campo produzca de por sí. 13»El año jubilar cada uno recobrará su propiedad. 14Cuando compréis o vendáis algo a un compatriota, que nadie perjudique a su hermano. 15Habrás de comprar teniendo presente el número de años transcurridos desde el año jubilar, y tu compatriota ha de venderte atendiendo al número de años de cosecha restantes. 16Cuantos más años queden mayor será el precio, cuantos menos queden, menor será el precio: lo que se vende es el número de cosechas. 17Que nadie perjudique a su compatriota. Teme a tu Dios, pues yo soy el Señor, vuestro Dios."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Tenga Dios piedad de nosotros y nos bendiga,\nhaga brillar su rostro sobre nosotros. 3Para que se conozca en la tierra tu camino,\ntu salvación en todas las naciones. 5Que se alegren y te aclamen las naciones,\nporque juzgas los pueblos con rectitud\ny diriges las naciones de la tierra. 7La tierra ha dado su fruto:\nDios, nuestro Dios, nos bendice. 8Que Dios nos bendiga\ny que le teman todos los confines de la tierra."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1En aquel entonces oyó el tetrarca Herodes la fama de Jesús, 2y les dijo a sus cortesanos:\n—Éste es Juan el Bautista, que ha resucitado de entre los muertos, y por eso actúan en él esos poderes. 3Herodes, en efecto, había apresado a Juan, lo había encadenado y lo había metido en la cárcel a causa de Herodías, la mujer de su hermano Filipo, 4porque Juan le decía: «No te es lícito tenerla». 5Y aunque quería matarlo, tenía miedo del pueblo porque lo consideraban un profeta. 6El día del cumpleaños de Herodes salió a bailar la hija de Herodías y le gustó tanto a Herodes, 7que juró darle cualquier cosa que pidiese. 8Ella, instigada por su madre, dijo:\n—Dame aquí, en una bandeja, la cabeza de Juan el Bautista. 9El rey se entristeció, pero por el juramento y por los comensales ordenó dársela. 10Y mandó decapitar a Juan en la cárcel. 11Trajeron su cabeza en una bandeja y se la dieron a la muchacha, que la entregó a su madre. 12Acudieron luego sus discípulos, tomaron el cuerpo muerto, lo enterraron y fueron a dar la noticia a Jesús."
+    }
+  }
+}

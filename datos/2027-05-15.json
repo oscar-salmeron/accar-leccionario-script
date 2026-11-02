@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "16Cuando llegamos a Roma, le fue permitido a Pablo vivir por cuenta propia con un soldado que le custodiara. 17Tres días después convocó a los principales judíos, y cuando se reunieron les dijo:\n—Hermanos, sin haber hecho nada contra el pueblo ni contra las tradiciones de los padres fui apresado en Jerusalén y entregado en manos de los romanos, 18que después de interrogarme querían ponerme en libertad por no haber en mí ninguna causa de muerte. 19Y ante la oposición de los judíos, me vi obligado a apelar al César, pero no para acusar de nada a los de mi nación. 20Por esta razón os he pedido veros y hablaros, pues llevo estas cadenas por la esperanza de Israel. 30Pablo permaneció dos años completos en el lugar que había alquilado, y recibía a todos los que acudían a él. 31Predicaba el Reino de Dios y enseñaba lo referente al Señor Jesucristo con toda libertad y sin ningún estorbo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "4Pero el Señor está en su Templo santo,\nel Señor tiene su trono en los cielos,\nsus ojos están observando,\nsus pupilas otean a los hijos de los hombres. 5El Señor examina al justo y al impío,\ny aborrece al que ama la violencia. 7El Señor es justo\ny ama la justicia;\nlos rectos verán su rostro."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "20Se volvió Pedro y vio que le seguía aquel discípulo que Jesús amaba, el que en la cena se había recostado en su pecho y le había preguntado: «Señor, ¿quién es el que te va a entregar?» 21Y Pedro, al verle, le dijo a Jesús:\n—Señor, ¿y éste qué? 22Jesús le respondió:\n—Si yo quiero que él permanezca hasta que yo vuelva, ¿a ti qué? Tú sígueme. 23Por eso surgió entre los hermanos el rumor de que aquel discípulo no moriría. Pero Jesús no le dijo que no moriría, sino: «Si yo quiero que él permanezca hasta que yo vuelva, ¿a ti qué?» 24Éste es el discípulo que da testimonio de estas cosas y las ha escrito, y sabemos que su testimonio es verdadero. 25Hay, además, otras muchas cosas que hizo Jesús y que, si se escribieran una por una, pienso que ni aun el mundo podría contener los libros que se tendrían que escribir."
+    }
+  }
+}

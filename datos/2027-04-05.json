@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-04-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "10Y el Señor siguió hablando a Ajaz: 11—Pídele al Señor, tu Dios, un signo, en el fondo del sheol o en lo alto del cielo. 12Pero Ajaz dijo:\n—No lo pediré y no tentaré al Señor. 13Entonces respondió:\n—Escuchad, casa de David: «¿Os parece poco cansar a los hombres para que canséis también a mi Dios? 14Pues bien, el propio Señor os da un signo. Mirad, la virgen está encinta y dará a luz un hijo, a quien pondrán por nombre Emmanuel. 10¡Llegad a un acuerdo, y fracasará!\n¡Quedad en algo, y no se mantendrá!,\nporque ¡Dios está con nosotros!"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "7No quisiste sacrificio ni ofrenda,\npero me abriste el oído.\nNo pediste holocausto ni sacrificio de expiación; 8entonces dije: «Aquí estoy\n—como está escrito acerca de mí en el Libro— 9para hacer tu voluntad, Dios mío».\nÉse es mi querer,\npues llevo tu Ley dentro de mí. 10He anunciado la justicia en la gran asamblea;\nno he cerrado mis labios,\nSeñor, Tú lo sabes bien. 11No he escondido tu justicia dentro de mi corazón;\nhe proclamado tu fidelidad y tu salvación,\nno he ocultado tu bondad y tu lealtad\na la gran asamblea."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "4porque es imposible que la sangre de toros y machos cabríos borre los pecados. 5Por eso, al entrar en el mundo, dice:\nSacrificio y ofrenda no quisiste,\npero me preparaste un cuerpo; 6los holocaustos y sacrificios por el pecado\nno te han agradado. 7Entonces dije:\n«Aquí vengo, como está escrito de mí\nal comienzo del libro,\npara hacer, oh Dios, tu voluntad». 8Después de haber dicho antes: No quisiste ni te agradaron sacrificios y ofrendas ni holocaustos y víctimas expiatorias por el pecado —cosas que se ofrecen según la Ley—, 9añade luego: Aquí vengo para hacer tu voluntad. Deroga lo primero para instaurar lo segundo. 10Y por esa voluntad somos santificados de una vez para siempre, mediante la ofrenda del cuerpo de Jesucristo."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret, 27a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María. 28Y entró donde ella estaba y le dijo:\n—Dios te salve, llena de gracia, el Señor es contigo. 29Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo. 30Y el ángel le dijo:\n—No temas, María, porque has hallado gracia delante de Dios: 31concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús. 32Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre, 33reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin. 34María le dijo al ángel:\n—¿De qué modo se hará esto, pues no conozco varón? 35Respondió el ángel y le dijo:\n—El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios. 36Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes, 37porque para Dios no hay nada imposible. 38Dijo entonces María:\n—He aquí la esclava del Señor, hágase en mí según tu palabra.\nY el ángel se retiró de su presencia."
+    }
+  }
+}

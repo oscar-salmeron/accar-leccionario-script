@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "19Nosotros amamos, porque Él nos amó primero. 20Si alguno dice: «Amo a Dios», y aborrece a su hermano, es un mentiroso; pues el que no ama a su hermano, a quien ve, no puede amar a Dios, a quien no ve. 21Y hemos recibido de él este mandamiento: quien ama a Dios, que ame también a su hermano. 1Todo el que cree que Jesús es el Cristo, ése ha nacido de Dios; y todo el que ama a quien le engendró, ama también a quien ha sido engendrado por Él. 2En esto conocemos que amamos a los hijos de Dios: en que amamos a Dios y cumplimos sus mandamientos. 3Porque el amor de Dios consiste precisamente en que guardemos sus mandamientos; y sus mandamientos no son costosos, 4porque todo el que ha nacido de Dios, vence al mundo. Y ésta es la victoria que ha vencido al mundo: nuestra fe."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De Salomón.\nDios mío, concede tu juicio al rey\ny tu justicia al hijo del rey. 2Que gobierne a tu pueblo con justicia\ny a tus pobres con equidad. 14Salvará sus almas de la opresión y la violencia,\npues su sangre será preciosa a sus ojos. 15Vivirá y se le dará el oro de Sebá;\nrogarán por él de continuo,\ntodo el día lo bendecirán. 17Su nombre subsistirá por siempre,\nsu nombre se perpetuará mientras dure el sol.\nEn él serán benditas todas las tribus de la tierra;\ntodas las naciones lo proclamarán dichoso."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "14Entonces, por impulso del Espíritu, volvió Jesús a Galilea y se extendió su fama por toda la región. 15Y enseñaba en sus sinagogas y era honrado por todos. 16Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el sábado y se levantó para leer. 17Entonces le entregaron el libro del profeta Isaías y, abriendo el libro, encontró el lugar donde estaba escrito: 18El Espíritu del Señor está sobre mí,\npor lo cual me ha ungido\npara evangelizar a los pobres,\nme ha enviado para anunciar la redención\na los cautivos\ny devolver la vista a los ciegos,\npara poner en libertad a los oprimidos 19y para promulgar el año de gracia del Señor. 20Y enrollando el libro se lo devolvió al ministro y se sentó. Todos en la sinagoga tenían los ojos fijos en él. 21Y comenzó a decirles:\n—Hoy se ha cumplido esta Escritura que acabáis de oír. 22Todos daban testimonio en favor de él y se maravillaban de las palabras de gracia que procedían de su boca, y decían:\n—¿No es éste el hijo de José?"
+    }
+  }
+}

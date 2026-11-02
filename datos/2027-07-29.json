@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-07-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "16Moisés realizó todo; lo hizo conforme el Señor se lo había ordenado. 17En el primer mes del año segundo, el día primero quedó erigido el Tabernáculo. 18Moisés erigió el Tabernáculo, asentó las basas, puso los tablones con sus travesaños y levantó las columnas; 19extendió la Tienda por encima del Tabernáculo y puso por encima de la Tienda la cubierta, como había ordenado el Señor a Moisés. 20Luego tomó el Testimonio y lo introdujo en el arca; colocó en ella los varales y puso el Propiciatorio en la parte superior del arca; 21introdujo el arca en el Tabernáculo, colgó el velo de separación y de este modo quedó oculta el arca del Testimonio, como había ordenado el Señor a Moisés. 34Entonces la nube cubrió la Tienda de la Reunión y la gloria del Señor llenó el Tabernáculo. 35Moisés no podía entrar en la Tienda de la Reunión, porque la nube moraba sobre ella y la gloria del Señor llenaba el Tabernáculo. 36En todas las etapas, cuando la nube se levantaba del Tabernáculo, los hijos de Israel se ponían en marcha. 37Si no se levantaba, no partían hasta que se levantara. 38Pues durante el día la nube del Señor se posaba sobre el Tabernáculo, y durante la noche el fuego se posaba a la vista de la casa de Israel. Así en todas las etapas."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "3Mi alma añora, desfallece por los atrios del Señor;\nmi corazón y mi carne se alegran por el Dios vivo. 4Hasta el pajarillo encuentra una casa,\ny la golondrina su nido,\ndonde poner sus polluelos:\n¡tus altares, Señor de los ejércitos,\nmi Rey y Dios mío! 5Dichosos los que habitan en tu Casa\nte alabarán por siempre. 6Dichoso el hombre que tiene su auxilio en Ti,\ny en su corazón decide peregrinar. 8Caminan con fuerzas renovadas,\nhasta ver al Dios de los dioses en Sión. 11Pues más vale un día en tus atrios\nque mil fuera.\nPrefiero estar en el umbral de la Casa de mi Dios\nque habitar en las tiendas de los impíos."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "19Muchos judíos habían ido a visitar a Marta y María para consolarlas por lo de su hermano. 20En cuanto Marta oyó que Jesús venía, salió a recibirle; María, en cambio, se quedó sentada en casa. 21Le dijo Marta a Jesús:\n—Señor, si hubieras estado aquí, no habría muerto mi hermano, 22pero incluso ahora sé que todo cuanto pidas a Dios, Dios te lo concederá. 23—Tu hermano resucitará —le dijo Jesús. 24Marta le respondió:\n—Ya sé que resucitará en la resurrección, en el último día. 25—Yo soy la Resurrección y la Vida —le dijo Jesús—; el que cree en mí, aunque hubiera muerto, vivirá, 26y todo el que vive y cree en mí no morirá para siempre. ¿Crees esto? 27—Sí, Señor —le contestó—. Yo creo que tú eres el Cristo, el Hijo de Dios, que has venido a este mundo."
+    }
+  }
+}

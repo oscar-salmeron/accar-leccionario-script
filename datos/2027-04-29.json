@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "7Después de una larga deliberación se levantó Pedro y les dijo:\n—Hermanos, vosotros sabéis que desde los primeros días Dios me eligió entre vosotros para que por mi boca oyesen los gentiles la palabra del Evangelio y creyeran. 8Y Dios, que conoce los corazones, dio testimonio a favor de ellos, dándoles el Espíritu Santo igual que a nosotros; 9y no hizo distinción alguna entre ellos y nosotros, purificando sus corazones con la fe. 10¿Por qué tentáis ahora a Dios imponiendo sobre los hombros de los discípulos un yugo que ni nuestros padres ni nosotros pudimos llevar? 11Nosotros, por el contrario, creemos que somos salvados por la gracia del Señor Jesús, de la misma manera que ellos. 12Toda la multitud calló y escucharon a Bernabé y a Pablo contar los milagros y prodigios que había obrado Dios por medio de ellos entre los gentiles. 13Cuando terminaron de hablar, Santiago contestó:\n—Hermanos, oídme: 14Simón ha contado cómo desde el principio Dios se dignó elegir entre los gentiles un pueblo para su Nombre. 15Con esto concuerdan las palabras de los Profetas, según está escrito: 16Después de esto volveré\ny reedificaré la tienda caída de David,\nreconstruiré sus ruinas y la levantaré de nuevo, 17para que busquen al Señor los demás hombres\ny todas las naciones sobre las que ha sido\ninvocado mi Nombre.\nAsí dice el Señor, que hace estas cosas 18conocidas desde la eternidad. 19»Por lo cual estimo que no se debe inquietar más a los gentiles que se convierten a Dios, 20sino que se les escriba para que se abstengan de lo contaminado por los ídolos, de la fornicación, de los animales estrangulados y de la sangre; 21porque desde generaciones antiguas Moisés tiene en cada ciudad quienes le predican en las sinagogas cuando le leen todos los sábados."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Cantad al Señor un cántico nuevo,\ncantad al Señor, la tierra entera. 2Cantad al Señor, bendecid su Nombre,\nanunciad, día tras día, su salvación. 3Proclamad su gloria a las naciones,\nsus maravillas a todos los pueblos. 10Decid a las naciones: «El Señor reina.\nÉl afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "9»Como el Padre me amó, así os he amado yo. Permaneced en mi amor. 10Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor. 11Os he dicho esto para que mi alegría esté en vosotros y vuestra alegría sea completa."
+    }
+  }
+}

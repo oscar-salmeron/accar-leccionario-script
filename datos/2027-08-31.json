@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-08-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Sobre el tiempo y el momento, hermanos, no necesitáis que os escriba, 2porque vosotros mismos sabéis muy bien que el día del Señor vendrá como un ladrón en la noche. 3Así pues, cuando clamen: «Paz y seguridad», entonces, de repente, se precipitará sobre ellos la ruina —como los dolores de parto de la que está encinta—, sin que puedan escapar. 4Pero vosotros, hermanos, no estáis en tinieblas, de modo que ese día os sorprenda como un ladrón; 5pues todos vosotros sois hijos de la luz e hijos del día. Nosotros no somos de la noche ni de las tinieblas. 6Por tanto, no durmamos como los demás, sino estemos en vela y mantengámonos sobrios. 9Porque Dios no nos ha destinado a la ira, sino a alcanzar la salvación por medio de nuestro Señor Jesucristo, 10que murió por nosotros, para que, tanto si velamos como si dormimos, vivamos juntos con él. 11Por eso, animaos mutuamente y edificaos unos a otros, como ya lo hacéis."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1De David.\nEl Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo? 4Una cosa pido al Señor,\nésta sólo busco:\nhabitar en la Casa del Señor\ntodos los días de mi vida,\npara gozar de las delicias del Señor\ny contemplar su Templo. 13Seguro estoy de ver la bondad del Señor\nen la tierra de los vivos. 14Espera en el Señor, sé recio,\nque se reanime tu corazón.\n¡Espera en el Señor!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "31Bajó a Cafarnaún, ciudad de Galilea, y el sábado se puso a enseñarles. 32Y se quedaron admirados de su enseñanza, porque su palabra iba acompañada de potestad. 33Se encontraba en la sinagoga un hombre que tenía el espíritu de un demonio impuro, que gritó con gran voz: 34—¡Déjanos!, ¿qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios! 35Y Jesús le conminó:\n—¡Cállate, y sal de él!\nEntonces el demonio, arrojándolo al suelo, allí en medio, salió de él, sin hacerle daño alguno. 36Y todos se llenaron de estupor y se decían unos a otros:\n—¿Qué palabra es ésta, que con potestad y fuerza manda a los espíritus impuros y salen? 37Y se divulgaba su fama por todos los lugares de la región."
+    }
+  }
+}

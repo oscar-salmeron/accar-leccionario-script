@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-04-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1En aquellos días, al crecer el número de los discípulos, se levantó una queja de los helenistas contra los hebreos, porque sus viudas estaban desatendidas en la asistencia diaria. 2Los doce convocaron a la multitud de los discípulos y les dijeron:\n—No es conveniente que nosotros abandonemos la palabra de Dios para servir las mesas. 3Escoged, hermanos, de entre vosotros a siete hombres de buena fama, llenos de Espíritu y de sabiduría, a los que designemos para esta tarea. 4Mientras, nosotros nos dedicaremos asiduamente a la oración y al ministerio de la palabra. 5La propuesta agradó a toda la asamblea y eligieron a Esteban, hombre lleno de fe y del Espíritu Santo, a Felipe, a Prócoro, a Nicanor, a Timón, a Parmenas y a Nicolás, prosélito de Antioquía. 6Los presentaron ante los apóstoles y orando les impusieron las manos. 7La palabra de Dios se propagaba, y aumentaba considerablemente el número de discípulos en Jerusalén, y gran cantidad de sacerdotes obedecían a la fe."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Aclamad, justos, al Señor.\nLa alabanza es propia de los rectos. 2Alabad al Señor con la cítara,\nentonadle salmos con el arpa de diez cuerdas. 4La palabra del Señor es recta,\ny hace con fidelidad todas sus obras. 5Él ama la justicia y el derecho:\nla tierra está llena de su misericordia. 18Los ojos del Señor velan por quienes le temen,\npor los que esperan en su misericordia, 19para librar sus almas de la muerte,\ny hacerlos subsistir en la penuria."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "16Cuando estaba atardeciendo, bajaron sus discípulos al mar, 17embarcaron y pusieron rumbo a la otra orilla, hacia Cafarnaún. Ya había oscurecido y Jesús aún no se había reunido con ellos. 18El mar estaba agitado a causa del fuerte viento que soplaba. 19Después de remar unos veinticinco o treinta estadios, vieron a Jesús que andaba sobre el mar y se acercaba hacia la barca, y les entró miedo. 20Pero él les dijo:\n—Soy yo, no temáis. 21Entonces ellos quisieron que subiera a la barca; y al instante la barca llegó a tierra, al lugar adonde iban."
+    }
+  }
+}

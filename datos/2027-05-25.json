@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-05-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Quien observa la Ley es generoso en las ofrendas. 2Sacrificio pacífico es cumplir los mandamientos. 4Quien es agradecido ofrece flor de harina,\nquien da limosna hace un sacrificio de alabanza. 5Lo más agradable al Señor es apartarse del mal,\ny el mejor sacrificio expiatorio, apartarse de la injusticia. 6No te presentes con las manos vacías ante el Señor, 7pues todo eso es lo prescrito por el mandamiento. 8La ofrenda del justo unge el altar,\ny su perfume sube hasta el Altísimo. 9El sacrificio del hombre justo es aceptado,\ny su recuerdo no caerá en el olvido. 10Glorifica al Señor con generosidad,\nno seas mezquino en las primicias que ofreces. 11En toda ofrenda pon buena cara,\ny consagra con alegría los diezmos. 12Da al Altísimo conforme de Él recibiste,\ny da con generosidad, según lo que puedas, 13pues el Señor es buen pagador\ny te restituirá siete veces más. 14No intentes sobornarlo con dones defectuosos,\nporque no los aceptará, 15ni confíes en sacrificios injustos,\nporque el Señor es juez,\ny en Él no cuenta la categoría de las personas,"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "5«Reunid ante mí a mis fieles,\nlos que han sellado mi alianza con el sacrificio». 6Que los cielos pregonen su justicia,\nporque Dios mismo es el juez. 7Escucha, pueblo mío, voy a hablar.\nContra ti, Israel, voy a dar testimonio:\nYo, Dios, soy tu Dios. 8No te reprendo por tus sacrificios,\npues tus holocaustos están siempre ante Mí. 14Ofrece a Dios un sacrificio de alabanza,\ncumple tus votos al Altísimo, 23Quien ofrece un sacrificio de alabanza\nme da gloria.\nAl que es íntegro en el camino\nle mostraré la salvación de Dios»."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "28Comenzó Pedro a decirle:\n—Ya ves que nosotros lo hemos dejado todo y te hemos seguido. 29Jesús respondió:\n—En verdad os digo que no hay nadie que haya dejado casa, hermanos o hermanas, madre o padre, o hijos o campos por mí y por el Evangelio, 30que no reciba en este mundo cien veces más en casas, hermanos, hermanas, madres, hijos y campos, con persecuciones; y, en el siglo venidero, la vida eterna. 31Porque muchos primeros serán últimos, y muchos últimos serán primeros."
+    }
+  }
+}

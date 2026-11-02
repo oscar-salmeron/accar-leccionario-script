@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-11-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Vanos son por naturaleza todos los hombres que han vivido en la ignorancia de Dios,\nque de los bienes visibles no fueron capaces de conocer al–que–es,\nni al considerar las obras reconocieron a su artífice. 2Sino que al fuego, al viento o al aire veloz,\na la órbita de los astros o a la violencia de las aguas,\no a los luceros del cielo, rectores del cosmos, los tuvieron por dioses. 3Y si, fascinados por su belleza, los tomaron por dioses,\nque sepan cuánto mejor es el Señor de ellos,\npues los creó el progenitor de la belleza. 4Y si se asombraron de su potencia y eficacia,\nque deduzcan de ellas cuánto más poderoso es el que los formó. 5Pues por la grandeza y hermosura de las criaturas\nse puede contemplar, por analogía, al que las engendró. 6Sin embargo, para éstos el reproche es pequeño,\npues tal vez andan errados\nal buscar a Dios y al querer encontrarlo. 7Se ocupan de sus obras, las investigan,\npero se dejan seducir por su apariencia, pues lo que se ve es hermoso. 8A pesar de todo, ni siquiera éstos son excusables; 9ya que, si fueron capaces de saber tanto,\nque pudieron escrutar los mundos,\n¿cómo no encontraron más pronto a su Señor?"
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2Los cielos pregonan la gloria de Dios\ny el firmamento anuncia la obra de sus manos. 3Un día le anuncia el mensaje al otro día\ny una noche le da la noticia a la otra noche. 4Sin discurso, sin palabras\nsin que se oiga su voz, 5se esparce su rumor por toda la tierra,\ny su pregón hasta los confines del orbe.\nEn éstos ha puesto una tienda para el sol."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "26Y como ocurrió en los días de Noé, así será también en los días del Hijo del Hombre. 27Comían y bebían, tomaban mujer o marido, hasta el día en que Noé entró en el arca, y vino el diluvio e hizo perecer a todos. 28Lo mismo sucedió en los días de Lot: comían y bebían, compraban y vendían, plantaban y edificaban; 29pero el día en que salió Lot de Sodoma, llovió del cielo fuego y azufre y los hizo perecer a todos. 30Del mismo modo sucederá el día en que se manifieste el Hijo del Hombre. 31Ese día, quien esté en el terrado y tenga sus cosas en la casa, que no baje por ellas; y lo mismo quien esté en el campo, que no vuelva atrás. 32Acordaos de la mujer de Lot. 33Quien pretenda guardar su vida la perderá; y quien la pierda la conservará viva. 34Yo os digo que esa noche estarán dos en el mismo lecho: uno será tomado y el otro dejado. 35Estarán dos moliendo juntas: una será tomada y la otra dejada. 37Y a esto le dijeron:\n—¿Dónde, Señor?\nÉl les respondió:\n—Dondequiera que esté el cuerpo, allí se reunirán los buitres."
+    }
+  }
+}

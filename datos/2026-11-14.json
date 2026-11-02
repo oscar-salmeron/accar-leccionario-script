@@ -1,0 +1,19 @@
+{
+  "fecha": "2026-11-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "5Queridísimo, en tu conducta con los hermanos, incluso con los forasteros, te portas como corresponde a un fiel. 6Ellos dieron testimonio de tu caridad en presencia de la Iglesia. Y harás bien en proveerles para su viaje de una manera digna de Dios; 7pues por el Nombre se pusieron en camino sin aceptar nada de los gentiles. 8Por eso, nosotros debemos acogerlos, para ser cooperadores de la verdad."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "1Aleluya.\n(Alef) Dichoso el hombre que teme al Señor,\n(Bet) y se complace de lleno en sus mandamientos. 2(Guímel) Poderoso en la tierra será su linaje.\n(Dálet) Bendita será la descendencia de los rectos. 3(He) En su casa habrá fortuna y riqueza;\n(Vav) su justicia permanecerá para siempre. 4(Záin) Para los rectos brilla como luz en las tinieblas,\n(Het) el clemente, compasivo y justo. 5(Tet) Feliz el hombre compasivo y que presta,\n(Yod) y que administra sus asuntos con justicia; 6(Kaf) no vacilará jamás.\n(Lámed) El justo será siempre recordado;"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Les proponía una parábola sobre la necesidad de orar siempre y no desfallecer, 2diciendo:\n—Había en una ciudad un juez que no temía a Dios ni respetaba a los hombres. 3También había en aquella ciudad una viuda, que acudía a él diciendo: «Hazme justicia ante mi adversario». 4Y durante mucho tiempo no quiso. Sin embargo, al final se dijo a sí mismo: «Aunque no temo a Dios ni respeto a los hombres, 5como esta viuda está molestándome, le haré justicia, para que no siga viniendo a importunarme». 6Concluyó el Señor:\n—Prestad atención a lo que dice el juez injusto. 7¿Acaso Dios no hará justicia a sus elegidos que claman a Él día y noche, y les hará esperar? 8Os aseguro que les hará justicia sin tardanza. Pero cuando venga el Hijo del Hombre, ¿encontrará fe sobre la tierra?"
+    }
+  }
+}

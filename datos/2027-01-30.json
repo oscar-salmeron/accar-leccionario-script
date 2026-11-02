@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1La fe es fundamento de las cosas que se esperan, prueba de las que no se ven. 2Por ella los antepasados han recibido un testimonio. 8Por la fe, Abrahán obedeció al ser llamado para ir al lugar que iba a recibir en herencia, y salió sin saber adónde marchaba. 9Por la fe, peregrinó por la tierra prometida como en tierra extraña, y habitó en tiendas, igual que harían Isaac y Jacob, coherederos de las mismas promesas; 10porque esperaba la ciudad fundada sobre cimientos, cuyo arquitecto y constructor es Dios. 11Por la fe, también Sara, que era estéril, recibió vigor para concebir, aun superada ya la edad oportuna, porque creyó que era digno de fe el que se lo había prometido. 12De modo que de uno solo, y ya decrépito, nacieron hijos tan numerosos como las estrellas del cielo e incontables como las arenas de las playas del mar. 13En la fe, murieron todos ellos, sin haber conseguido las promesas, sino viéndolas y saludándolas desde lejos, y reconociendo que eran peregrinos y forasteros en la tierra. 14Los que hablaban así manifestaban que iban en busca de una patria. 15Pues si hubieran añorado la tierra de la que habían salido, habrían tenido ocasión de volver a ella. 16Pero aspiraban a una patria mejor, es decir, a la celestial. Por eso, Dios no se avergüenza de ser llamado Dios suyo, porque les ha preparado una ciudad. 17Por la fe, Abrahán, puesto a prueba, ofreció a Isaac, y el que había recibido las promesas se dispuso a ofrecer a su único hijo 18de quien se le había dicho: En Isaac tendrás descendencia. 19Pensaba, en efecto, que Dios es poderoso incluso para resucitar de entre los muertos. Por eso lo recobró y fue como un símbolo."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "69y ha suscitado para nosotros el poder salvador\nen la casa de David su siervo, 70como lo había anunciado desde antiguo\npor boca de sus santos profetas; 71para salvarnos de nuestros enemigos\ny de la mano de cuantos nos odian: 72ejerciendo su misericordia con nuestros padres,\ny acordándose de su santa alianza, 73y del juramento que hizo a Abrahán,\nnuestro padre, 74para concedernos\nque, libres de la mano de los enemigos,\nle sirvamos sin temor, 75con santidad y justicia en su presencia\ntodos los días de nuestra vida."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "35Aquel día, llegada la tarde, les dice:\n—Crucemos a la otra orilla. 36Y, despidiendo a la muchedumbre, le llevaron en la barca tal como estaba. Y le acompañaban otras barcas. 37Y se levantó una gran tempestad de viento, y las olas se echaban encima de la barca, hasta el punto de que la barca ya se inundaba. 38Él estaba en la popa durmiendo sobre un cabezal. Entonces le despiertan, y le dicen:\n—Maestro, ¿no te importa que perezcamos? 39Y, puesto en pie, increpó al viento y dijo al mar:\n—¡Calla, enmudece!\nY se calmó el viento y sobrevino una gran calma. 40Entonces les dijo:\n—¿Por qué os asustáis? ¿Todavía no tenéis fe? 41Y se llenaron de gran temor y se decían unos a otros:\n—¿Quién es éste, que hasta el viento y el mar le obedecen?"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "6Pero ahora él ha obtenido un oficio mucho más excelente, ya que es mediador de una alianza mucho más valiosa, por haber sido fundada sobre promesas mejores. 7En efecto, si aquella primera hubiera sido sin tacha, no haría falta poner en su lugar una segunda, 8pues les dice en tono de reproche:\nMirad, vendrán días, dice el Señor,\ncuando establezca con la casa de Israel\ny con la casa de Judá una alianza nueva; 9no como la alianza que hice con sus padres\nel día en que los tomé de la mano\npara sacarlos de la tierra de Egipto.\nPero como no permanecieron fieles a mi alianza,\ntampoco yo me acordaré de ellos, dice el Señor. 10Ésta es la alianza que estableceré\ncon la casa de Israel\ndespués de aquellos días, dice el Señor.\nPondré mis leyes en su inteligencia,\ny las grabaré en sus corazones;\ny yo seré su Dios,\ny ellos serán mi pueblo. 11Y no tendrá que enseñar ya cada uno a su prójimo,\nni a su hermano, ni dirá: «¡Conoce al Señor!»,\nporque todos ellos me conocerán,\ndesde el más pequeño hasta el mayor; 12pues tendré misericordia de sus iniquidades\ny de sus pecados ya no me acordaré. 13Al decir nueva declaró anticuada la anterior; y lo que se hace anticuado y envejece está a punto de desaparecer."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8Señor, muéstranos tu misericordia\ny danos tu salvación. 10En verdad, ya está cerca la salvación\npara los que le temen,\npara que en nuestra tierra habite la Gloria. 11Misericordia y fidelidad se encontrarán,\njusticia y paz se besarán. 12De la tierra germinará la fidelidad,\ndesde los cielos despuntará la justicia. 13Porque el Señor otorgará bienes,\ny nuestra tierra producirá sus frutos. 14Ante Él marchará la justicia,\ny sus pasos abrirán camino."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Y subiendo al monte llamó a los que él quiso, y fueron donde él estaba. 14Y constituyó a doce, para que estuvieran con él y para enviarlos a predicar 15con potestad de expulsar demonios: 16a Simón, a quien le dio el nombre de Pedro; 17a Santiago el de Zebedeo y a Juan, el hermano de Santiago, a quienes les dio el nombre de Boanerges, es decir, «hijos del trueno»; 18a Andrés, a Felipe, a Bartolomé, a Mateo, a Tomás, a Santiago el de Alfeo, a Tadeo, a Simón el Cananeo 19y a Judas Iscariote, el que le entregó."
+    }
+  }
+}

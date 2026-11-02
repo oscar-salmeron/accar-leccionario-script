@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-01-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "12Ciertamente, la palabra de Dios es viva y eficaz, y más cortante que una espada de doble filo: entra hasta la división del alma y del espíritu, de las articulaciones y de la médula, y descubre los sentimientos y pensamientos del corazón. 13No hay ante ella criatura invisible, sino que todo está desnudo y patente a los ojos de Aquel a quien hemos de rendir cuenta. 14Ya que tenemos un Sumo Sacerdote que ha entrado en los cielos —Jesús, el Hijo de Dios—, mantengamos firme nuestra confesión de fe. 15Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino que, de manera semejante a nosotros, ha sido probado en todo, excepto en el pecado. 16Por lo tanto, acerquémonos confiadamente al trono de la gracia, para que alcancemos misericordia y encontremos la gracia que nos ayude en el momento oportuno."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "8La Ley del Señor es perfecta; reconforta el alma.\nEl mandato del Señor es firme,\ninstruye al sencillo. 9Los preceptos del Señor son rectos,\nalegran el corazón.\nLos mandamientos del Señor son puros,\ndan luz a los ojos. 10El temor del Señor es limpio,\ndura por siempre.\nLos juicios del Señor son veraces,\nson enteramente justos, 15Sean de tu agrado las palabras de mi boca\ny las meditaciones de mi corazón en tu presencia.\n¡Señor, Roca mía y Redentor mío!"
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "13Y se fue otra vez a la orilla del mar. Y toda la muchedumbre iba hacia él, y les enseñaba. 14Al pasar, vio a Leví, el de Alfeo, sentado al telonio, y le dijo:\n—Sígueme.\nÉl se levantó y le siguió. 15Ya en su casa, estando a la mesa, se sentaron con Jesús y sus discípulos muchos publicanos y pecadores, porque eran muchos los que le seguían. 16Los escribas de los fariseos, al ver que comía con pecadores y publicanos, empezaron a decir a sus discípulos:\n—¿Por qué come con publicanos y pecadores? 17Lo oyó Jesús y les dijo:\n—No tienen necesidad de médico los sanos, sino los enfermos; no he venido a llamar a los justos, sino a los pecadores."
+    }
+  }
+}

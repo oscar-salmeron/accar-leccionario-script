@@ -1,0 +1,19 @@
+{
+  "fecha": "2027-06-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "1Pablo, apóstol de Cristo Jesús por voluntad de Dios, y Timoteo, nuestro hermano, a la iglesia de Dios que está en Corinto y a todos los santos que están por toda Acaya: 2a vosotros la gracia y la paz de parte de Dios, nuestro Padre, y del Señor Jesucristo. 3Bendito sea el Dios y Padre de nuestro Señor Jesucristo, el Padre de las misericordias y Dios de toda consolación, 4que nos consuela en todas nuestras tribulaciones, para que también nosotros seamos capaces de consolar a los que se encuentran en cualquier tribulación, mediante el consuelo con que nosotros mismos somos consolados por Dios. 5Porque, así como abundan en nosotros los padecimientos de Cristo, así abunda también nuestra consolación por medio de Cristo. 6Pues, si somos atribulados, es para consuelo y salvación vuestra; si somos consolados, es para vuestro consuelo, que muestra su eficacia en la paciencia con que soportáis los mismos sufrimientos que nosotros. 7Y es firme nuestra esperanza acerca de vosotros, porque sabemos que así como sois solidarios en los padecimientos, también lo seréis en la consolación."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "2(Alef) Bendigo al Señor en todo tiempo;\nsu alabanza está en mi boca de continuo. 3(Bet) Mi alma se gloría en el Señor;\nque lo escuchen los humildes y se alegren. 4(Guímel) Engrandeced conmigo al Señor;\nensalcemos juntos su Nombre. 5(Dálet) Busqué al Señor y me ha escuchado,\nme ha librado de todos mis temores. 6(He) Miradle y brillaréis de gozo,\nvuestros rostros no se avergonzarán. 7(Záin) Cuando el pobre invoca, el Señor le escucha,\ny lo salva de todas sus angustias. 8(Het) El ángel del Señor se sitúa\nalrededor de los que le temen para librarlos. 9(Tet) Gustad y ved qué bueno es el Señor,\ndichoso el hombre que se refugia en Él."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "1Al ver Jesús a las multitudes, subió al monte; se sentó y se le acercaron sus discípulos; 2y abriendo su boca les enseñaba diciendo: 3—Bienaventurados los pobres de espíritu, porque suyo es el Reino de los Cielos. 4»Bienaventurados los que lloran, porque serán consolados. 5»Bienaventurados los mansos, porque heredarán la tierra. 6»Bienaventurados los que tienen hambre y sed de justicia, porque quedarán saciados. 7»Bienaventurados los misericordiosos, porque alcanzarán misericordia. 8»Bienaventurados los limpios de corazón, porque verán a Dios. 9»Bienaventurados los pacíficos, porque serán llamados hijos de Dios. 10»Bienaventurados los que padecen persecución por causa de la justicia, porque suyo es el Reino de los Cielos. 11»Bienaventurados cuando os injurien, os persigan y, mintiendo, digan contra vosotros todo tipo de maldad por mi causa. 12Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo: de la misma manera persiguieron a los profetas de antes de vosotros."
+    }
+  }
+}

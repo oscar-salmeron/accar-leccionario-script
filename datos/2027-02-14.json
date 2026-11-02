@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-02-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "8Dijo Dios a Noé y, con él, a sus hijos: 9—He aquí que yo establezco mi alianza con vosotros y con vuestra descendencia; 10con todo ser vivo que esté con vosotros —aves, ganados y todos los animales de la tierra que os acompañan—, con todo lo que ha salido del arca y con todos los vivientes de la tierra. 11Establezco, pues, mi alianza con vosotros: nunca más será exterminada toda carne por las aguas del diluvio, ni habrá más diluvio para destruir la tierra. 12Y añadió Dios:\n—Ésta es la señal de la alianza que establezco entre yo y vosotros, y todo ser vivo que esté con vosotros, para generaciones perpetuas: 13Pongo mi arco en las nubes, que servirá de señal de la alianza entre yo y la tierra. 14Cuando yo haga nublarse la tierra, aparecerá el arco en las nubes, 15y me acordaré de la alianza entre yo y vosotros, y todo ser vivo, toda carne; y las aguas no serán ya más un diluvio que destruya toda carne."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "4(Dálet) Muéstrame, Señor, tus caminos,\nenséñame tus sendas. 5(He) Hazme caminar en tu fidelidad, instrúyeme,\npues Tú eres mi Dios salvador,\n(Vav) y en Ti espero todo el día. 6(Záin) Acuérdate, Señor, de tu misericordia\ny de tu amor, que son eternos. 7(Het) No recuerdes los pecados y delitos de mi juventud.\nAcuérdate de mí según tu misericordia,\npor tu bondad, ¡Señor! 8(Tet) El Señor es bueno y recto;\npor eso muestra el camino a los pecadores, 9(Yod) guía a los mansos en la justicia,\nenseña su camino a los humildes."
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "18Porque también Cristo padeció una vez para siempre por los pecados, el justo por los injustos, para llevaros a Dios. Fue muerto en la carne, pero vivificado en el espíritu. 19En él se fue a predicar también a los espíritus cautivos, 20en otro tiempo incrédulos, cuando en tiempos de Noé les esperaba Dios pacientemente, mientras se construía el arca. En ella, unos pocos —ocho personas— fueron salvados a través del agua. 21Esto era figura del bautismo, que ahora os salva, no por quitar la suciedad del cuerpo, sino por pedir firmemente a Dios una conciencia buena, por la resurrección de Jesucristo, 22que, después de haber subido al cielo, está sentado a la diestra de Dios, con los ángeles, las potestades y las virtudes sometidos a él."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12Enseguida el Espíritu lo impulsó hacia el desierto. 13Y estuvo en el desierto cuarenta días mientras era tentado por Satanás. Estaba con los animales, y los ángeles le servían. 14Después de haber sido apresado Juan, vino Jesús a Galilea predicando el Evangelio de Dios, 15y diciendo:\n—El tiempo se ha cumplido y el Reino de Dios está al llegar; convertíos y creed en el Evangelio."
+    }
+  }
+}

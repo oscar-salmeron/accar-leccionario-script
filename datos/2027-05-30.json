@@ -1,0 +1,23 @@
+{
+  "fecha": "2027-05-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "texto": "3Vino, pues, Moisés y contó al pueblo todas las palabras del Señor y todas las normas. Y el pueblo entero respondió a una sola voz:\n—Haremos todo lo que ha dicho el Señor. 4Luego Moisés escribió todas las palabras del Señor y, levantándose temprano por la mañana, construyó al pie de la montaña un altar y doce estelas por las doce tribus de Israel. 5Mandó a algunos jóvenes de los hijos de Israel que ofrecieran holocaustos y que inmolaran novillos como sacrificio de comunión en honor del Señor. 6Entonces Moisés tomó la mitad de la sangre y la echó en unos recipientes; la otra mitad la vertió sobre el altar. 7Tomó después el libro de la alianza y lo leyó a oídos del pueblo, que respondió:\n—Haremos y obedeceremos todo lo que ha dicho el Señor. 8A continuación tomó Moisés la sangre y roció con ella al pueblo, diciendo:\n—Ésta es la sangre de la alianza que ha hecho el Señor con vosotros de acuerdo con todas estas palabras."
+    },
+    "salmo": {
+      "titulo": "Salmo Responsorial",
+      "texto": "12¿Cómo pagaré al Señor\ntodo el bien que me ha dado? 13Alzaré la copa de la salvación\ne invocaré el Nombre del Señor. 15Preciosa es a los ojos del Señor\nla muerte de sus fieles. 16¡Ah, Señor, yo soy tu siervo,\ntu siervo soy, el hijo de tu esclava!\nTú has soltado mis cadenas. 17Te ofreceré un sacrificio de acción de gracias,\ne invocaré el Nombre del Señor. 18Cumpliré al Señor mis votos\nen presencia de todo su pueblo,"
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "texto": "11Pero Cristo, al presentarse como Sumo Sacerdote de los bienes futuros a través de un Tabernáculo más excelente y perfecto —no hecho por mano de hombre, es decir, no de este mundo creado— 12y a través de su propia sangre —no de la sangre de machos cabríos y becerros—, entró de una vez para siempre en el Santuario y consiguió así una redención eterna. 13Porque si la sangre de machos cabríos y toros y la aspersión de la ceniza de una vaca pueden santificar a los impuros para la purificación de la carne, 14¡cuánto más la sangre de Cristo, que por el Espíritu eterno se ofreció a sí mismo como víctima inmaculada a Dios, limpiará de las obras muertas nuestra conciencia para dar culto al Dios vivo! 15Y por esto es mediador de una nueva alianza, de modo que, al haber muerto para redimir las transgresiones cometidas bajo la primera alianza, los que han sido llamados reciban la herencia eterna prometida."
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "texto": "12El primer día de los Ácimos, cuando sacrificaban el cordero pascual, le dicen sus discípulos:\n—¿Dónde quieres que vayamos a prepararte la cena de Pascua? 13Entonces envía dos de sus discípulos, y les dice:\n—Id a la ciudad y os saldrá al encuentro un hombre que lleva un cántaro de agua. Seguidle, 14y allí donde entre decidle al dueño de la casa: «El Maestro dice: “¿Dónde tengo la sala, donde pueda comer la Pascua con mis discípulos?”» 15Y él os mostrará una habitación en el piso de arriba, grande, ya lista y dispuesta. Preparádnosla allí. 16Y marcharon los discípulos, llegaron a la ciudad, lo encontraron todo como les había dicho, y prepararon la Pascua. 22Mientras cenaban, tomó pan y, después de pronunciar la bendición, lo partió, se lo dio a ellos y dijo:\n—Tomad, esto es mi cuerpo. 23Y tomando el cáliz, habiendo dado gracias, se lo dio y todos bebieron de él. 24Y les dijo:\n—Ésta es mi sangre de la nueva alianza, que es derramada por muchos. 25En verdad os digo que ya no beberé del fruto de la vid hasta aquel día, cuando beba el nuevo en el Reino de Dios. 26Después de recitar el himno, salieron hacia el Monte de los Olivos."
+    }
+  }
+}
