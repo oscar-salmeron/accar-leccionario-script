@@ -28,100 +28,80 @@ async function extraerLecturasDelDia(fechaStr) {
         
         const $ = cheerio.load(response.data);
         
-        let datosDia = { 
-            fecha: fechaStr, 
-            fiesta: "", 
-            color: "VERDE", 
-            lecturas: {} 
-        };
-
-        // 1. Detección de Fiestas y Color Litúrgico
-        // EWTN suele poner el color o fiesta en divs informativos al inicio.
-        $('div, span').each((i, el) => {
-            if (i > 50) return; // Solo buscar al inicio de la página
-            let txt = $(el).text().trim().toUpperCase();
+        let datosDia = { fecha: fechaStr, fiesta: "", color: "VERDE", lecturas: {} };
+        let currentType = null;
+        let lecturasEncontradas = {};
+        
+        // Leemos todo el documento secuencialmente de arriba hacia abajo
+        $('*').each((i, el) => {
+            const tagName = el.tagName.toLowerCase();
+            const rawText = $(el).text().trim().replace(/\s+/g, ' ');
+            if (!rawText) return;
             
-            if (txt.includes("COLOR: MORADO") || txt.includes("COLOR MORADO")) datosDia.color = "MORADO";
-            else if (txt.includes("COLOR: ROJO") || txt.includes("COLOR ROJO")) datosDia.color = "ROJO";
-            else if (txt.includes("COLOR: BLANCO") || txt.includes("COLOR BLANCO")) datosDia.color = "BLANCO";
-            else if (txt.includes("COLOR: ROSADO") || txt.includes("COLOR ROSADO")) datosDia.color = "ROSADO";
+            const upper = rawText.toUpperCase();
 
-            if (!datosDia.fiesta && txt.length > 5 && txt.length < 80 && (txt.includes("FIESTA") || txt.includes("MEMORIA") || txt.includes("DOMINGO") || txt.includes("SOLEMNIDAD"))) {
-                datosDia.fiesta = $(el).text().trim(); // Guardamos con mayúsculas/minúsculas originales
+            // 1. Atrapar Color y Fiesta (solo si aún no hemos llegado a las lecturas)
+            if (!currentType && i < 150) {
+                if (upper.includes("COLOR: MORADO") || upper.includes("COLOR MORADO")) datosDia.color = "MORADO";
+                else if (upper.includes("COLOR: ROJO") || upper.includes("COLOR ROJO")) datosDia.color = "ROJO";
+                else if (upper.includes("COLOR: BLANCO") || upper.includes("COLOR BLANCO")) datosDia.color = "BLANCO";
+                else if (upper.includes("COLOR: ROSADO") || upper.includes("COLOR ROSADO")) datosDia.color = "ROSADO";
+
+                if (!datosDia.fiesta && rawText.length > 5 && rawText.length < 90 && (upper.includes("FIESTA") || upper.includes("MEMORIA") || upper.includes("DOMINGO") || upper.includes("SOLEMNIDAD"))) {
+                    datosDia.fiesta = rawText; 
+                }
             }
-        });
 
-        // 2. Extracción estricta SOLO dentro de los bloques de lectura
-        // EWTN encapsula cada lectura en un <div class="reading"> o similar.
-        $('.reading, .lecture, .content').each((indexLectura, divLectura) => {
-            
-            let tipo = "";
-            let referencia = "";
-            let parrafos = [];
-            
-            // Buscar títulos (h2, h3)
-            $(divLectura).find('h2, h3, h4').each((i, el) => {
-                let txt = $(el).text().trim().toUpperCase();
-                if (txt.includes("PRIMERA") || txt === "LECTURA I") tipo = "primera";
-                else if (txt.includes("SEGUNDA") || txt === "LECTURA II") tipo = "segunda";
-                else if (txt.includes("SALMO")) tipo = "salmo";
-                else if (txt.includes("EVANGELIO")) tipo = "evangelio";
-            });
+            // 2. Detectar cambios de sección (Títulos de lectura)
+            if (['h2', 'h3', 'h4', 'h5', 'div'].includes(tagName)) {
+                if (upper === "PRIMERA LECTURA" || upper === "LECTURA I") { currentType = 'primera'; lecturasEncontradas[currentType] = { titulo: "Primera Lectura", referencia: "", texto: [] }; return; }
+                if (upper === "SALMO RESPONSORIAL" || (upper.includes("SALMO") && rawText.length < 25)) { currentType = 'salmo'; lecturasEncontradas[currentType] = { titulo: "Salmo", referencia: "", texto: [] }; return; }
+                if (upper === "SEGUNDA LECTURA" || upper === "LECTURA II") { currentType = 'segunda'; lecturasEncontradas[currentType] = { titulo: "Segunda Lectura", referencia: "", texto: [] }; return; }
+                if (upper === "EVANGELIO" || upper === "SANTO EVANGELIO") { currentType = 'evangelio'; lecturasEncontradas[currentType] = { titulo: "Evangelio", referencia: "", texto: [] }; return; }
+            }
 
-            if (!tipo) return; // Ignorar si no es una lectura válida
+            // 3. Extraer Referencia y Texto para la sección actual
+            if (currentType) {
+                // Filtramos basura de EWTN (copyright, links de email, footer)
+                const isGarbage = upper.includes("EWTN") || upper.includes("DERECHOS RESERVADOS") || upper.includes("MADRE ANGELICA") || rawText.includes("@") || upper === "CATOLICISMO" || upper === "MÁS INFORMACIÓN";
+                if (isGarbage) return;
 
-            // Buscar la referencia (suele estar en un div.reference o cite)
-            $(divLectura).find('.reference, cite, .ref').each((i, el) => {
-                referencia = $(el).text().trim();
-            });
-
-            // Buscar los párrafos
-            $(divLectura).find('p, .text').each((i, el) => {
-                let pTxt = $(el).text().trim();
-                
-                // Si la referencia no se encontró arriba, a veces está en el primer párrafo cortito
-                if (!referencia && i === 0 && pTxt.length < 100 && (pTxt.match(/\d+/) || pTxt.toLowerCase().includes("según"))) {
-                    referencia = pTxt;
-                    return; // Saltamos para que no lo meta al texto
+                // Si es un texto corto con números, probablemente es la referencia bíblica
+                if (!lecturasEncontradas[currentType].referencia && rawText.length < 100 && (rawText.match(/\d+/) || rawText.toLowerCase().includes("según"))) {
+                    lecturasEncontradas[currentType].referencia = rawText.replace(/:\s*$/, "");
+                    return;
                 }
 
-                // Limpieza de versículos del texto (ej. "1", "25", "12a")
-                let txtLimpio = pTxt
-                    .replace(/\b\d+[a-z]?([A-ZÁÉÍÓÚÑ¿¡])/g, '$1') 
-                    .replace(/(^|\s)\d+[a-z]?\s+/g, ' ') 
-                    .replace(/\[\d+\]/g, '') 
-                    .trim();
-                
-                if (txtLimpio.length > 5) {
-                    // Evitar duplicados (a veces EWTN repite el texto en la versión móvil)
-                    if (!parrafos.includes(txtLimpio)) {
-                        parrafos.push(txtLimpio);
+                // Si es texto de párrafo (nos aseguramos que sea un elemento final sin hijos estructurales)
+                if (['p', 'div', 'span'].includes(tagName) && $(el).children('p, div, h2, h3').length === 0) {
+                    if (rawText.length > 10 || (currentType === 'salmo' && rawText.length > 3)) {
+                        
+                        // LIMPIEZA QUIRÚRGICA DE VERSÍCULOS
+                        let txtLimpio = rawText
+                            .replace(/\b\d+[a-z]?([A-ZÁÉÍÓÚÑ¿¡])/g, '$1') 
+                            .replace(/(^|\s)\d+[a-z]?\s+/g, ' ') 
+                            .replace(/\[\d+\]/g, '') 
+                            .trim();
+                        
+                        // Evitar duplicados consecutivos
+                        const currentArray = lecturasEncontradas[currentType].texto;
+                        if (txtLimpio && (currentArray.length === 0 || currentArray[currentArray.length - 1] !== txtLimpio)) {
+                             currentArray.push(txtLimpio);
+                        }
                     }
                 }
-            });
-
-            // Guardar en el objeto
-            if (parrafos.length > 0) {
-                datosDia.lecturas[tipo] = {
-                    titulo: tipo === "primera" ? "Primera Lectura" : 
-                            tipo === "segunda" ? "Segunda Lectura" : 
-                            tipo === "salmo" ? "Salmo" : "Evangelio",
-                    referencia: referencia.replace(/:\s*$/, ""),
-                    texto: parrafos
-                };
             }
         });
 
-        // Si después del bucle no encontró lecturas estructuradas (fallback a la antigua pero limpio)
-        if (Object.keys(datosDia.lecturas).length === 0) {
-            console.log(`⚠️ Advertencia: Estructura no estándar en ${fechaStr}. Aplicando fallback.`);
-            // Aquí iría el código fallback si EWTN cambia su diseño por completo, 
-            // pero para este paso confiaremos en la extracción estricta de arriba.
-        }
+        datosDia.lecturas = lecturasEncontradas;
 
-        const rutaArchivo = path.join(CARPETA_DATOS, `${fechaStr}.json`);
-        fs.writeFileSync(rutaArchivo, JSON.stringify(datosDia, null, 2), 'utf8');
-        console.log(`✅ Guardado con éxito y ultra-limpio: ${fechaStr}.json`);
+        if (Object.keys(datosDia.lecturas).length === 0) {
+            console.log(`⚠️ Advertencia: No se encontraron lecturas para ${fechaStr}.`);
+        } else {
+            const rutaArchivo = path.join(CARPETA_DATOS, `${fechaStr}.json`);
+            fs.writeFileSync(rutaArchivo, JSON.stringify(datosDia, null, 2), 'utf8');
+            console.log(`✅ Guardado perfecto y limpio: ${fechaStr}.json`);
+        }
 
     } catch (error) {
         console.error(`❌ Error extrayendo ${fechaStr}: Status ${error.response ? error.response.status : error.message}`);
@@ -132,7 +112,7 @@ async function iniciarRobot() {
     let fechaActual = new Date('2026-11-02T12:00:00Z');
     const fechaFin = new Date('2027-11-27T12:00:00Z'); 
 
-    console.log("🚀 Iniciando extracción ESTRICTA del Leccionario...");
+    console.log("🚀 Iniciando extracción SECUENCIAL E INTELIGENTE del Leccionario...");
 
     while (fechaActual <= fechaFin) {
         const fechaStr = formatearFecha(fechaActual);
@@ -141,7 +121,7 @@ async function iniciarRobot() {
         fechaActual.setDate(fechaActual.getDate() + 1); 
     }
     
-    console.log("🎉 ¡PROCESO COMPLETADO! Base de datos perfecta.");
+    console.log("🎉 ¡PROCESO COMPLETADO! Base de datos de alta calidad lista.");
 }
 
 iniciarRobot();
