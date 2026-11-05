@@ -17,20 +17,18 @@ const formatearFecha = (fecha) => {
     return `${y}-${m}-${d}`;
 };
 
-// Función para limpiar texto de basura conocida y versículos
+// Limpieza agresiva de basura y números
 const limpiarTexto = (texto) => {
-    // Lista negra estricta
-    const basura = ["ACI Prensa", "ChurchPOP", "EnglishEspaña", "PolskaMagyar", "SvenskaУкраїнськаDeutsch", "[email protected]", "VerEscucharBibliaTienda", "© EWTN", "Madre Angelica", "Sitios de noticias", "Más información", "Catolicismo"];
+    const basura = ["ACI Prensa", "ChurchPOP", "EnglishEspaña", "PolskaMagyar", "Svenska", "@", "VerEscuchar", "BibliaTienda", "© EWTN", "Madre Angelica", "Sitios de noticias", "Más información", "Catolicismo"];
     
     for (const b of basura) {
-        if (texto.includes(b)) return null; 
+        if (texto.toLowerCase().includes(b.toLowerCase())) return null; 
     }
 
-    // Limpieza de versículos (ej. "1", "26", "22pero")
     let limpio = texto
-        .replace(/\b\d+[a-z]?([A-ZÁÉÍÓÚÑ¿¡])/g, '$1') 
-        .replace(/(^|\s)\d+[a-z]?\s+/g, ' ') 
-        .replace(/\[\d+\]/g, '')
+        .replace(/(?:^|\s)\d+[a-z]?\s+/g, ' ') // Borra números sueltos (ej. " 1 ")
+        .replace(/(?:^|\s)\d+[a-z]?([A-ZÁÉÍÓÚÑ¿¡—«"'-])/g, ' $1') // Borra números pegados a palabras (ej. "26—Si alguno")
+        .replace(/\[\d+\]/g, '') // Borra estilo [1]
         .trim();
 
     return limpio;
@@ -47,73 +45,75 @@ async function extraerLecturasDelDia(fechaStr) {
         
         const $ = cheerio.load(response.data);
         
+        // Destruir basura estructural desde el principio
+        $('footer, nav, header, script, style, form, button, .social').remove();
+        
         let datosDia = { fecha: fechaStr, fiesta: "", color: "VERDE", lecturas: {} };
         
-        // 1. Color y Fiesta
-        $('div, span').each((i, el) => {
-            if (i > 80) return;
-            const text = $(el).text().trim().toUpperCase();
+        // 1. Atrapar Color y Fiesta (excluyendo fechas como "domingo 8")
+        $('span, p, h1, h2, h3, h4, h5, div').each((i, el) => {
+            if (i > 100) return;
+            const text = $(el).text().trim();
+            const upper = text.toUpperCase();
             
-            if (text.includes("COLOR: MORADO") || text.includes("COLOR MORADO")) datosDia.color = "MORADO";
-            else if (text.includes("COLOR: ROJO") || text.includes("COLOR ROJO")) datosDia.color = "ROJO";
-            else if (text.includes("COLOR: BLANCO") || text.includes("COLOR BLANCO")) datosDia.color = "BLANCO";
-            else if (text.includes("COLOR: ROSADO") || text.includes("COLOR ROSADO")) datosDia.color = "ROSADO";
+            if (upper.includes("COLOR: MORADO") || upper.includes("COLOR MORADO")) datosDia.color = "MORADO";
+            else if (upper.includes("COLOR: ROJO") || upper.includes("COLOR ROJO")) datosDia.color = "ROJO";
+            else if (upper.includes("COLOR: BLANCO") || upper.includes("COLOR BLANCO")) datosDia.color = "BLANCO";
+            else if (upper.includes("COLOR: ROSADO") || upper.includes("COLOR ROSADO")) datosDia.color = "ROSADO";
 
-            if (!datosDia.fiesta && text.length > 5 && text.length < 90 && (text.includes("FIESTA") || text.includes("MEMORIA") || text.includes("DOMINGO") || text.includes("SOLEMNIDAD") || text.includes("FERIA"))) {
-                datosDia.fiesta = $(el).text().trim();
+            if (!datosDia.fiesta && text.length > 5 && text.length < 80) {
+                if ((upper.includes("FIESTA") || upper.includes("MEMORIA") || upper.includes("SOLEMNIDAD") || upper.includes("FERIA")) && !upper.match(/\d{4}/)) {
+                    datosDia.fiesta = text;
+                }
             }
         });
 
-        // 2. Extracción Agresiva (Extrayendo todo el texto visible y dividiéndolo)
-        let textoCompleto = "";
-        $('.reading, .lecture, .content').each((i, el) => {
-            textoCompleto += $(el).text() + "\n";
-        });
-
-        // Limpiar espacios múltiples y separar por líneas
-        const lineas = textoCompleto.split('\n').map(l => l.trim()).filter(l => l.length > 0);
-        
+        // 2. Extraer lecturas bloque por bloque
         let lecturas = {
             primera: { titulo: "Primera Lectura", referencia: "", texto: [] },
             salmo: { titulo: "Salmo", referencia: "", texto: [] },
             segunda: { titulo: "Segunda Lectura", referencia: "", texto: [] },
             evangelio: { titulo: "Evangelio", referencia: "", texto: [] }
         };
+        
         let seccionActual = null;
 
-        for (let i = 0; i < lineas.length; i++) {
-            let linea = lineas[i];
-            let upper = linea.toUpperCase();
+        $('h2, h3, h4, h5, p, cite, .reference').each((i, el) => {
+            const rawText = $(el).text().trim().replace(/\s+/g, ' ');
+            if (rawText.length < 2) return;
+            
+            const upper = rawText.toUpperCase();
 
-            // Detectar secciones
-            if (upper === "PRIMERA LECTURA" || upper === "LECTURA I") { seccionActual = "primera"; continue; }
-            if (upper === "SALMO RESPONSORIAL" || (upper.includes("SALMO") && linea.length < 25)) { seccionActual = "salmo"; continue; }
-            if (upper === "SEGUNDA LECTURA" || upper === "LECTURA II") { seccionActual = "segunda"; continue; }
-            if (upper === "EVANGELIO" || upper === "SANTO EVANGELIO") { seccionActual = "evangelio"; continue; }
+            // Encontrar qué lectura estamos escaneando
+            if (upper === "PRIMERA LECTURA" || upper === "LECTURA I") { seccionActual = "primera"; return; }
+            if (upper === "SALMO RESPONSORIAL" || (upper.includes("SALMO") && rawText.length < 25)) { seccionActual = "salmo"; return; }
+            if (upper === "SEGUNDA LECTURA" || upper === "LECTURA II") { seccionActual = "segunda"; return; }
+            if (upper === "EVANGELIO" || upper === "SANTO EVANGELIO") { seccionActual = "evangelio"; return; }
 
             if (seccionActual) {
-                // Posible referencia bíblica
-                if (!lecturas[seccionActual].referencia && linea.length < 100 && (linea.match(/\d+/) || linea.toLowerCase().includes("según"))) {
-                    lecturas[seccionActual].referencia = linea.replace(/:\s*$/, "");
-                    continue;
+                // Atrapar la cita bíblica (ej. Lucas 14:25-33)
+                if (!lecturas[seccionActual].referencia && rawText.length < 100 && (rawText.match(/\d+/) || rawText.toLowerCase().includes("según"))) {
+                    if (upper !== "ALELUYA") {
+                        lecturas[seccionActual].referencia = rawText.replace(/:\s*$/, "");
+                        return;
+                    }
                 }
 
-                // Filtrar basura y agregar texto
-                const textoFinal = limpiarTexto(linea);
+                // Atrapar y limpiar los párrafos
+                const textoFinal = limpiarTexto(rawText);
                 if (textoFinal && textoFinal.length > 5) {
-                     // Evitar duplicados (un problema común en EWTN)
-                     const ultimoPárrafo = lecturas[seccionActual].texto[lecturas[seccionActual].texto.length - 1];
-                     if (textoFinal !== ultimoPárrafo) {
-                         // Evitar agregar el párrafo gigante (a veces EWTN duplica todo el bloque antes de separarlo)
-                         if (textoFinal.length < 1500) { 
-                             lecturas[seccionActual].texto.push(textoFinal);
+                     const currentArray = lecturas[seccionActual].texto;
+                     // Evitar que EWTN nos meta párrafos duplicados
+                     if (currentArray.length === 0 || currentArray[currentArray.length - 1] !== textoFinal) {
+                         if (textoFinal.length < 1500) { // Ignorar bloques contenedores gigantes
+                             currentArray.push(textoFinal);
                          }
                      }
                 }
             }
-        }
+        });
 
-        // Limpiar objetos vacíos
+        // Eliminar lecturas que no aparecieron hoy (ej. si no hay Segunda Lectura)
         for (const key in lecturas) {
             if (lecturas[key].texto.length === 0) {
                 delete lecturas[key];
@@ -124,7 +124,7 @@ async function extraerLecturasDelDia(fechaStr) {
 
         const rutaArchivo = path.join(CARPETA_DATOS, `${fechaStr}.json`);
         fs.writeFileSync(rutaArchivo, JSON.stringify(datosDia, null, 2), 'utf8');
-        console.log(`✅ Guardado: ${fechaStr}.json`);
+        console.log(`✅ Guardado perfecto y limpio: ${fechaStr}.json`);
 
     } catch (error) {
         console.error(`❌ Error: ${fechaStr} - ${error.message}`);
@@ -132,10 +132,10 @@ async function extraerLecturasDelDia(fechaStr) {
 }
 
 async function iniciarRobot() {
-    let fechaActual = new Date('2026-11-04T12:00:00Z'); // EMPIEZA HOY
+    let fechaActual = new Date('2026-11-04T12:00:00Z'); 
     const fechaFin = new Date('2026-11-10T12:00:00Z');  // PRUEBA DE 7 DÍAS
 
-    console.log("🚀 Iniciando PRUEBA DE 7 DÍAS...");
+    console.log("🚀 Iniciando PRUEBA DE 7 DÍAS ABSOLUTA...");
 
     while (fechaActual <= fechaFin) {
         const fechaStr = formatearFecha(fechaActual);
