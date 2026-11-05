@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-21",
+  "fiesta": "Santa Inés, Virgen, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 7:25--8:6",
+      "texto": [
+        "Por eso puede también salvar perfectamente a los que se acercan a Dios a través de él, ya que vive siempre para interceder por nosotros.",
+        "Nos convenía, en efecto, que el Sumo Sacerdote fuera santo, inocente, inmaculado, separado de los pecadores y encumbrado por encima de los cielos;",
+        "que no tiene necesidad de ofrecer todos los días, como aquellos sumos sacerdotes, primero unas víctimas por sus propios pecados y luego por los del pueblo, porque esto lo hizo de una vez para siempre cuando se ofreció él mismo.",
+        "Pues la Ley constituye sumos sacerdotes a unos hombres con debilidades, mientras que la palabra del juramento, que sucede a la Ley, hace al Hijo perfecto para siempre.",
+        "Lo más importante de todo lo dicho es esto: tenemos un Sumo Sacerdote tan grande, que se sentó a la diestra del trono de la Majestad en los cielos,",
+        "ministro del Santuario y del Tabernáculo verdadero que erigió el Señor, y no un hombre.",
+        "Porque todo sumo sacerdote está constituido para ofrecer dones y sacrificios, y, por tanto, es necesario que también él tenga algo que ofrecer.",
+        "Si estuviera en la tierra, no sería siquiera sacerdote, porque ya hay quienes ofrecen dones según la Ley.",
+        "Éstos dan un culto que es sólo figura y sombra del celestial, conforme a lo que le fue revelado a Moisés cuando se disponía a construir el Tabernáculo. Pues dice: Mira, lo harás todo según el modelo que te ha sido mostrado en el monte.",
+        "Pero ahora él ha obtenido un oficio mucho más excelente, ya que es mediador de una alianza mucho más valiosa, por haber sido fundada sobre promesas mejores."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 40:7-10, 17",
+      "texto": [
+        "No quisiste sacrificio ni ofrenda, pero me abriste el oído. No pediste holocausto ni sacrificio de expiación;",
+        "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—",
+        "para hacer tu voluntad, Dios mío. Ése es mi querer, pues llevo tu Ley dentro de mí.",
+        "He anunciado la justicia en la gran asamblea; no he cerrado mis labios, Señor, Tú lo sabes bien.",
+        "Que se gocen y se alegren en Ti todos los que te buscan. Digan sin cesar: «¡Grande es el Señor!, los que aman tu salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:7-12",
+      "texto": [
+        "Jesús se alejó con sus discípulos hacia el mar. Y le siguió una gran muchedumbre de Galilea y de Judea.",
+        "También de Jerusalén, de Idumea, de más allá del Jordán y de los alrededores de Tiro y de Sidón, vino hacia él una gran multitud al oír las cosas que hacía.",
+        "Y les dijo a sus discípulos que le tuviesen dispuesta una pequeña barca, por causa de la muchedumbre, para que no le aplastasen;",
+        "porque sanaba a tantos, que todos los que tenían enfermedades se le echaban encima para tocarle.",
+        "Y los espíritus impuros, cuando lo veían, se arrojaban a sus pies y gritaban diciendo: —¡Tú eres el Hijo de Dios!",
+        "Y les ordenaba con mucha fuerza que no le descubriesen."
+      ]
+    }
+  }
+}

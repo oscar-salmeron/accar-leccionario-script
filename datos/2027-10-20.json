@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-10-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 6:12-18",
+      "texto": [
+        "Por lo tanto, que no reine el pecado en vuestro cuerpo mortal de modo que obedezcáis a sus concupiscencias,",
+        "ni ofrezcáis vuestros miembros al pecado como armas de injusticia; al contrario, ofreceos vosotros mismos a Dios como quienes, muertos, han vuelto a la vida, y convertid vuestros miembros en armas de justicia para Dios;",
+        "porque el pecado no tendrá dominio sobre vosotros, ya que no estáis bajo la Ley sino bajo la gracia.",
+        "Entonces, ¿qué? ¿Pecaremos, ya que no estamos bajo la Ley sino bajo la gracia? De ninguna manera.",
+        "¿Es que no sabéis que si os ofrecéis vosotros mismos como esclavos para obedecer a alguien, quedáis como esclavos de aquel a quien obedecéis, bien del pecado para la muerte, bien de la obediencia para la justicia?",
+        "Pero, gracias a Dios, vosotros, que fuisteis esclavos del pecado, obedecisteis de corazón a aquel modelo de doctrina al que fuisteis confiados",
+        "y, liberados del pecado, os hicisteis siervos de la justicia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 124:1-8",
+      "texto": [
+        "Canto de las subidas. De David. Si el Señor no hubiera estado a favor nuestro —que lo diga Israel—,",
+        "si el Señor no hubiera estado a favor nuestro cuando los hombres se alzaron contra nosotros,",
+        "nos habrían tragado vivos en el ardor de su ira;",
+        "nos habrían arrastrado las aguas, el torrente nos habría sumergido;",
+        "nos habrían sumergido las aguas impetuosas.",
+        "Bendito sea el Señor que no nos entregó en presa de sus dientes.",
+        "Nuestra alma, como un pájaro, se escapó del lazo de los cazadores: el lazo se rompió y nosotros escapamos.",
+        "Nuestro auxilio es el Nombre del Señor, el que hizo cielo y tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:39-48",
+      "texto": [
+        "Sabed esto: si el dueño de la casa conociera a qué hora va a llegar el ladrón, no permitiría que se horadase su casa.",
+        "Vosotros estad también preparados, porque a la hora que menos penséis vendrá el Hijo del Hombre.",
+        "Y le preguntó Pedro: —Señor, ¿dices esta parábola por nosotros o por todos?",
+        "El Señor respondió: —¿Quién es, pues, el administrador fiel y prudente a quien el amo pondrá al frente de la casa para dar la ración adecuada a la hora debida?",
+        "Dichoso aquel siervo a quien su amo cuando vuelva encuentre obrando así.",
+        "En verdad os digo que le pondrá al frente de toda su hacienda.",
+        "Pero si ese siervo dijera en sus adentros: «Mi amo tarda en venir, y comenzase a golpear a los criados y criadas, a comer, a beber y a emborracharse,",
+        "llegará el amo de aquel siervo el día menos pensado, a una hora imprevista, lo castigará duramente y le dará el pago de los que no son fieles.",
+        "El siervo que, conociendo la voluntad de su amo, no fue previsor ni actuó conforme a la voluntad de aquél, recibirá muchos azotes;",
+        "en cambio, el que sin saberlo hizo algo digno de castigo, recibirá pocos azotes. A todo el que se le ha dado mucho, mucho se le exigirá, y al que le encomendaron mucho, mucho le pedirán."
+      ]
+    }
+  }
+}

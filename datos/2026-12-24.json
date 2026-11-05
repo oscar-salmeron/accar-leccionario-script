@@ -1,0 +1,56 @@
+{
+  "fecha": "2026-12-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Samuel 7:1-5, 12, 14, 16",
+      "texto": [
+        "Cuando el rey se estableció en su casa y el Señor le concedió la paz con los enemigos de alrededor,",
+        "dijo el rey al profeta Natán: —Mira, yo habito en una casa de cedro, mientras que el arca del Señor habita en una tienda de lona.",
+        "Natán respondió al rey: —Vete y haz lo que te dicta el corazón, porque el Señor está contigo.",
+        "Pero esa misma noche la palabra del Señor llegó sobre Natán en estos términos:",
+        "—Vete y dile a mi siervo David: «Así dice el Señor: “¿Eres tú el que va a edificar una casa para que Yo habite en ella?",
+        "Y ahora así dirás a mi siervo David: «Así dice el Señor de los ejércitos: “Yo te he tomado del aprisco, de detrás del rebaño para que seas príncipe sobre mi pueblo Israel;",
+        "he estado contigo en todas tus andanzas, he eliminado a todos tus enemigos ante ti y he hecho tu nombre grande entre los grandes de la tierra.",
+        "Asignaré un lugar para mi pueblo Israel y lo plantaré para que habite allí y nadie le moleste; los malvados no volverán a oprimirlo como antes,",
+        "cuando constituí jueces sobre mi pueblo Israel. Te concederé la paz con todos tus enemigos. El Señor te anuncia que Él te edificará una casa.",
+        "Cuando hayas completado los días de tu vida y descanses con tus padres, suscitaré después de ti un linaje salido de tus entrañas y consolidaré su reino.",
+        "Yo seré para él un padre y él será para mí un hijo; si algo hace mal le castigaré con vara de hombres y con golpes humanos.",
+        "tu casa y tu reino permanecerán para siempre en mi presencia y tu trono será firme también para siempre”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 89:2-5, 27, 29",
+      "texto": [
+        "Las misericordias del Señor cantaré eternamente; de generación en generación anunciaré con mi boca tu fidelidad.",
+        "Pues he dicho: «La misericordia está edificada para siempre; tu fidelidad está firme en los cielos.",
+        "«Una alianza sellé con mi elegido, juré a David, mi siervo:",
+        "“Afirmaré tu descendencia para siempre, construiré tu trono por todas las generaciones”. (Pausa)",
+        "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”.",
+        "Le guardaré por siempre mi misericordia, mi alianza con él será firme."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:67-79",
+      "texto": [
+        "Y Zacarías, su padre, quedó lleno del Espíritu Santo y profetizó diciendo:",
+        "—Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo,",
+        "y ha suscitado para nosotros el poder salvador en la casa de David su siervo,",
+        "como lo había anunciado desde antiguo por boca de sus santos profetas;",
+        "para salvarnos de nuestros enemigos y de la mano de cuantos nos odian:",
+        "ejerciendo su misericordia con nuestros padres, y acordándose de su santa alianza,",
+        "y del juramento que hizo a Abrahán, nuestro padre,",
+        "para concedernos que, libres de la mano de los enemigos, le sirvamos sin temor,",
+        "con santidad y justicia en su presencia todos los días de nuestra vida.",
+        "Y tú, niño, serás llamado Profeta del Altísimo: porque irás delante del Señor a preparar sus caminos,",
+        "enseñando a su pueblo la salvación para el perdón de sus pecados;",
+        "por las entrañas de misericordia de nuestro Dios, el Sol naciente nos visitará desde lo alto,",
+        "para iluminar a los que yacen en tinieblas y en sombra de muerte, y guiar nuestros pasos por el camino de la paz."
+      ]
+    }
+  }
+}

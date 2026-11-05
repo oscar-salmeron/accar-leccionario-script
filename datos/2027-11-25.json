@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-11-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 50:22-24",
+      "texto": [
+        "Ahora, bendecid al Dios de todas las cosas, que realiza hazañas en toda la tierra, que ha exaltado nuestros días desde el seno materno, y ha obrado con nosotros según su misericordia.",
+        "Que nos conceda la alegría del corazón y se haga la paz, durante nuestros días, en Israel por los siglos.",
+        "Crea Israel. La misericordia de Dios esté con nosotros, y nos rescate en nuestros días."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 138:1-5",
+      "texto": [
+        "De David. Te doy gracias, Señor, de todo corazón, porque has escuchado las palabras de mi boca. Delante de los ángeles entonaré salmos para Ti.",
+        "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre por tu misericordia y tu fidelidad, porque has engrandecido tu promesa por encima de todo nombre.",
+        "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma.",
+        "Te alabarán, Señor, todos los reyes de la tierra, cuando oigan las palabras de tu boca.",
+        "Y cantarán los caminos del Señor, porque grande es la gloria del Señor;"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 1:3-9",
+      "texto": [
+        "gracia y paz a vosotros de parte de Dios, nuestro Padre, y del Señor Jesucristo.",
+        "Doy continuamente gracias a mi Dios por vosotros, a causa de la gracia de Dios que os ha sido concedida en Cristo Jesús,",
+        "porque en él fuisteis enriquecidos en todo: en toda palabra y en toda ciencia,",
+        "de modo que el testimonio de Cristo se ha confirmado en vosotros,",
+        "y así no os falta ningún don, mientras esperáis la manifestación de nuestro Señor Jesucristo.",
+        "Él os confirmará hasta el final, para que seáis hallados irreprochables el día de nuestro Señor Jesucristo.",
+        "Fiel es Dios, por quien fuisteis llamados a la unión con su Hijo Jesucristo, Señor nuestro."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:11-19",
+      "texto": [
+        "Al ir de camino a Jerusalén, atravesaba los confines de Samaría y Galilea;",
+        "y, cuando iba a entrar en un pueblo, le salieron al paso diez leprosos, que se detuvieron a distancia",
+        "y le dijeron gritando: —¡Jesús, Maestro, ten piedad de nosotros!",
+        "Al verlos, les dijo: —Id y presentaos a los sacerdotes. Y mientras iban quedaron limpios.",
+        "Uno de ellos, al verse curado, se volvió glorificando a Dios a gritos,",
+        "y fue a postrarse a sus pies dándole gracias. Y éste era samaritano.",
+        "Ante lo cual dijo Jesús: —¿No son diez los que han quedado limpios? Los otros nueve, ¿dónde están?",
+        "¿No ha habido quien volviera a dar gloria a Dios más que este extranjero?",
+        "Y le dijo: —Levántate y vete; tu fe te ha salvado."
+      ]
+    }
+  }
+}

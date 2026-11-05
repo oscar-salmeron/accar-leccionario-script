@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-03-12",
+  "fiesta": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 2:1, 22",
+      "texto": [
+        "Razonando torcidamente se dijeron: «Breve y triste es nuestra vida, y no hay remedio para el final del hombre, ni se sabe de alguien que se libre del hades.",
+        "Preparemos trampas para el justo, pues nos es molesto: se opone a nuestros actos, nos echa en cara pecados contra la Ley, nos denuncia de faltas contra la educación que recibimos.",
+        "Declara que conoce a Dios y se llama a sí mismo hijo de Dios.",
+        "Es un reproche de nuestros pensamientos, sólo el verle nos resulta una carga,",
+        "pues lleva una vida distinta de los demás, y sus sendas son diferentes.",
+        "Nos considera como escoria, y se separa de nuestros caminos como de la impureza; proclama dichoso el fin de los justos y se ufana de tener a Dios por padre.",
+        "Veamos si son veraces sus palabras, pongamos a prueba cómo es su salida.",
+        "Si el justo es de verdad hijo de Dios, Él le amparará y le librará de manos de los adversarios.",
+        "Sometámosle a prueba con ultraje y tortura para cerciorarnos de su rectitud y comprobar su paciencia.",
+        "Condenémosle a muerte ignominiosa, pues, según sus palabras, Dios le asistirá.",
+        "Así discurren, pero están engañados, pues su maldad los ciega;",
+        "no conocen los misterios de Dios, ni tienen esperanza en el premio de la santidad, ni aprecian el honor de las almas sin mancha."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:17-21, 23",
+      "texto": [
+        "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+        "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias.",
+        "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido.",
+        "(Resh) Muchas son las aflicciones del justo, pero el Señor le libra de todas;",
+        "(Shin) Él guarda todos sus huesos, ni uno solo será quebrantado.",
+        "El Señor rescata el alma de sus siervos; cuantos en Él se refugian no serán condenados."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 7:1-2, 10, 30",
+      "texto": [
+        "Después de esto caminaba Jesús por Galilea, pues no quería andar por Judea, ya que los judíos le buscaban para matarle.",
+        "Pronto iba a ser la fiesta judía de los Tabernáculos.",
+        "Pero una vez que sus hermanos subieron a la fiesta, entonces él también subió, no públicamente sino como a escondidas.",
+        "Entonces, algunos de Jerusalén decían: —¿No es éste al que intentan matar?",
+        "Pues mirad cómo habla con toda libertad y no le dicen nada. ¿Acaso habrán reconocido las autoridades que éste es el Cristo?",
+        "Sin embargo sabemos de dónde es éste, mientras que cuando venga el Cristo nadie conocerá de dónde es.",
+        "Jesús enseñando en el Templo clamó: —Me conocéis y sabéis de dónde soy; en cambio, yo no he venido de mí mismo, pero el que me ha enviado, a quien vosotros no conocéis, es veraz.",
+        "Yo le conozco, porque de Él vengo y Él mismo me ha enviado.",
+        "Intentaban detenerle, pero nadie le puso las manos encima porque aún no había llegado su hora."
+      ]
+    }
+  }
+}

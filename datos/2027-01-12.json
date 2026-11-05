@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-01-12",
+  "fiesta": "San Bernardo de Corleone, Religioso (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 2:5-12",
+      "texto": [
+        "Porque Dios no sometió a los ángeles el mundo futuro del que hablamos.",
+        "Por eso, se afirmó en cierto lugar de este modo: ¿Qué es el hombre para que te acuerdes de él, o el hijo del hombre para que te ocupes de él?",
+        "Le has hecho sólo un poco inferior a los ángeles y le has coronado de gloria y honor.",
+        "Todo lo has sometido bajo sus pies. Al someter todo al hombre no dejó nada sin someterle. Sin embargo, ahora no vemos que todo le esté ya sometido.",
+        "En cambio, a aquel que fue hecho por un momento inferior a los ángeles, a Jesús, le vemos coronado de gloria y honor a causa de la muerte padecida. De modo que, por gracia de Dios, experimentó la muerte en beneficio de todos.",
+        "Porque convenía que Aquel para quien y por quien son todas las cosas, habiéndose propuesto llevar muchos hijos a la gloria, perfeccionase mediante los sufrimientos al que iba a llevarlos a la salvación.",
+        "Porque quien santifica y quienes son santificados vienen todos de uno solo; por eso no se avergüenza de llamarlos hermanos,",
+        "y dice: Anunciaré tu nombre a mis hermanos y en medio de la iglesia te alabaré."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 8:2, 9",
+      "texto": [
+        "¡Dios y Señor nuestro, qué admirable es tu Nombre en toda la tierra! Has exaltado tu majestad sobre los cielos.",
+        "¿qué es el hombre, para que de él te acuerdes, y el hijo de Adán, para que te cuides de él?",
+        "Lo has hecho poco menor que los ángeles, le has coronado de gloria y honor.",
+        "Le das el mando sobre las obras de tus manos. Todo lo has puesto bajo sus pies:",
+        "ovejas y bueyes, bestias del campo,",
+        "aves del cielo, peces del mar, cuanto cruza las rutas del piélago."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:21-28",
+      "texto": [
+        "Entraron en Cafarnaún y, en cuanto llegó el sábado, fue a la sinagoga y se puso a enseñar.",
+        "Y se quedaron admirados de su enseñanza, porque les enseñaba como quien tiene potestad y no como los escribas.",
+        "Se encontraba entonces en la sinagoga un hombre poseído por un espíritu impuro,",
+        "que comenzó a gritar: —¿Qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios!",
+        "Y Jesús le conminó: —¡Cállate, y sal de él!",
+        "Entonces, el espíritu impuro, zarandeándolo y dando una gran voz, salió de él.",
+        "Y se quedaron todos estupefactos, de modo que se preguntaban entre ellos: —¿Qué es esto? Una enseñanza nueva con potestad. Manda incluso a los espíritus impuros y le obedecen.",
+        "Y su fama corrió pronto por todas partes, en toda la región de Galilea."
+      ]
+    }
+  }
+}

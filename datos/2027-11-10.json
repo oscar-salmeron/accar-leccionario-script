@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-11-10",
+  "fiesta": "San León Magno, Papa, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 6:1-11",
+      "texto": [
+        "Escuchad, pues, reyes, y comprended; aprended, jueces de los confines de la tierra;",
+        "prestad atención los que regís las muchedumbres y os jactáis de pueblos numerosos:",
+        "vuestro poder os fue otorgado por el Señor, vuestro dominio, por el Altísimo, que examinará vuestros actos y escudriñará intenciones.",
+        "Porque, siendo vosotros ministros de su reino, no gobernasteis con rectitud, ni respetasteis la Ley, ni anduvisteis según la voluntad de Dios.",
+        "Con espanto y sin demora se presentará a vosotros, porque habrá un juicio severo para los que dominan.",
+        "El inferior merece disculpa y misericordia, pero los poderosos poderosamente serán examinados.",
+        "Que el Señor de todos no se arredra ante nadie, ni se amedrenta por la grandeza de ninguno, porque Él hizo al pequeño y al grande e, igualmente, se cuida de todos;",
+        "pero a los poderosos les aguarda un severo examen.",
+        "A vosotros, pues, gobernantes, se dirigen mis palabras, para que aprendáis la sabiduría y no caigáis.",
+        "Quienes guarden santamente las cosas santas serán santificados, y los que las aprendan encontrarán quien les defienda.",
+        "Anhelad, por tanto, mis palabras, aspirad a ellas y recibiréis instrucción."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 82:3-4, 7",
+      "texto": [
+        "Defended al débil y al huérfano, haced justicia al pobre y al necesitado.",
+        "Poned a salvo al débil, librad al desvalido de la mano de los impíos.",
+        "Yo os digo: «Vosotros sois dioses, todos vosotros, hijos del Altísimo.",
+        "Pero moriréis como todos los hombres, caeréis como cualquier príncipe."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:11-19",
+      "texto": [
+        "Al ir de camino a Jerusalén, atravesaba los confines de Samaría y Galilea;",
+        "y, cuando iba a entrar en un pueblo, le salieron al paso diez leprosos, que se detuvieron a distancia",
+        "y le dijeron gritando: —¡Jesús, Maestro, ten piedad de nosotros!",
+        "Al verlos, les dijo: —Id y presentaos a los sacerdotes. Y mientras iban quedaron limpios.",
+        "Uno de ellos, al verse curado, se volvió glorificando a Dios a gritos,",
+        "y fue a postrarse a sus pies dándole gracias. Y éste era samaritano.",
+        "Ante lo cual dijo Jesús: —¿No son diez los que han quedado limpios? Los otros nueve, ¿dónde están?",
+        "¿No ha habido quien volviera a dar gloria a Dios más que este extranjero?",
+        "Y le dijo: —Levántate y vete; tu fe te ha salvado."
+      ]
+    }
+  }
+}

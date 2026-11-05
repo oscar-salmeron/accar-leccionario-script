@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-01-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 7:1-3, 17",
+      "texto": [
+        "Porque este Melquisedec, rey de Salem, sacerdote del Dios Altísimo, salió al encuentro de Abrahán que volvía de la victoria sobre los reyes y le bendijo;",
+        "y Abrahán le dio el diezmo de todo. Su nombre significa, en primer lugar, rey de justicia, y además, rey de Salem, es decir, rey de paz.",
+        "Al no tener ni padre, ni madre, ni genealogía, ni comienzo de días ni fin de vida, es hecho semejante al Hijo de Dios, y permanece sacerdote para siempre.",
+        "Y todo esto es aún más evidente si surge otro sacerdote a semejanza de Melquisedec,",
+        "que ha sido constituido no según las normas de una ley carnal sino según la fuerza de una vida indestructible.",
+        "Porque se afirma: Tú eres sacerdote para siempre según el orden de Melquisedec."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 110:1-4",
+      "texto": [
+        "De David. Salmo. Oráculo del Señor a mi señor: «Siéntate a mi derecha hasta que ponga a tus enemigos como estrado de tus pies.",
+        "El Señor extenderá desde Sión el poder de tu cetro: «Domina en medio de tus enemigos.",
+        "Para ti es el principado el día de tu poder, entre esplendores sagrados. Desde el seno, antes de la aurora, como el rocío, te he engendrado.",
+        "El Señor lo ha jurado y no se arrepiente: «Tú eres sacerdote para siempre según el orden de Melquisedec."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:1-6",
+      "texto": [
+        "De nuevo entró en la sinagoga. Había allí un hombre que tenía la mano seca.",
+        "Le observaban de cerca por si lo curaba en sábado, para acusarle.",
+        "Y le dice al hombre que tenía la mano seca: —Ponte de pie en medio.",
+        "Y les dice: —¿Es lícito en sábado hacer el bien o hacer el mal, salvar la vida de un hombre o quitársela? Ellos permanecían callados.",
+        "Entonces, mirando con ira a los que estaban a su alrededor, entristecido por la ceguera de sus corazones, le dice al hombre: —Extiende la mano. La extendió, y su mano quedó curada.",
+        "Nada más salir, los fariseos con los herodianos llegaron a un acuerdo contra él, para ver cómo perderle."
+      ]
+    }
+  }
+}

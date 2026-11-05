@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-04-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 9:1-20",
+      "texto": [
+        "Saulo, respirando todavía amenazas y muerte contra los discípulos del Señor, se presentó ante el sumo sacerdote",
+        "y le pidió cartas para las sinagogas de Damasco, con el fin de llevar detenidos a Jerusalén a cuantos encontrara, hombres y mujeres, seguidores del Camino.",
+        "Pero mientras se dirigía allí, al acercarse a Damasco, de repente le envolvió de resplandor una luz del cielo.",
+        "Cayó al suelo y oyó una voz que le decía: —Saulo, Saulo, ¿por qué me persigues?",
+        "Respondió: —¿Quién eres tú, Señor? Y él: —Yo soy Jesús, a quien tú persigues.",
+        "Levántate, entra en la ciudad y se te dirá lo que tienes que hacer.",
+        "Los hombres que le acompañaban se detuvieron estupefactos, puesto que oían la voz pero no veían a nadie.",
+        "Se levantó Saulo del suelo y, aunque tenía abiertos los ojos, no veía nada. Le condujeron de la mano a Damasco,",
+        "donde estuvo tres días sin vista y sin comer ni beber.",
+        "Había en Damasco un discípulo, de nombre Ananías, a quien el Señor habló en una visión: —¡Ananías! Él respondió: —Aquí estoy, Señor.",
+        "El Señor le dijo: —Levántate y vete a la calle que se llama Recta, y busca en casa de Judas a uno de Tarso, de nombre Saulo, que está orando",
+        "—y vio Saulo en una visión que un hombre llamado Ananías entraba y le imponía las manos, para que recobrase la vista.",
+        "—Señor —respondió Ananías—, he oído a muchos cuánto mal ha causado este hombre a tus santos en Jerusalén,",
+        "y que tiene aquí poderes de los príncipes de los sacerdotes para prender a todos los que invocan tu nombre.",
+        "El Señor le dijo: —Vete, porque éste es mi instrumento elegido para llevar mi nombre ante los gentiles, los reyes y los hijos de Israel.",
+        "Yo le mostraré lo que deberá sufrir a causa de mi nombre.",
+        "Marchó Ananías, entró en la casa, le impuso las manos y dijo: —Saulo, hermano, me ha enviado el Señor Jesús, el que se te apareció en el camino por donde venías, para que recobres la vista y te llenes del Espíritu Santo.",
+        "Al instante cayeron de sus ojos una especie de escamas y recobró la vista; se levantó y fue bautizado,",
+        "y tomando algo de comer recuperó las fuerzas. Estuvo algunos días con los discípulos que había en Damasco,",
+        "y enseguida empezó a predicar a Jesús en las sinagogas: —Éste es el Hijo de Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 117:1-2",
+      "texto": [
+        "¡Aleluya! Alabad al Señor todas las naciones, aclamadlo todos los pueblos.",
+        "Porque firme es con nosotros su misericordia, la fidelidad del Señor permanece para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:52-59",
+      "texto": [
+        "Los judíos se pusieron a discutir entre ellos: —¿Cómo puede éste darnos a comer su carne?",
+        "Jesús les dijo: —En verdad, en verdad os digo que si no coméis la carne del Hijo del Hombre y no bebéis su sangre, no tendréis vida en vosotros.",
+        "El que come mi carne y bebe mi sangre tiene vida eterna, y yo le resucitaré en el último día.",
+        "Porque mi carne es verdadera comida y mi sangre es verdadera bebida.",
+        "El que come mi carne y bebe mi sangre permanece en mí y yo en él.",
+        "Igual que el Padre que me envió vive y yo vivo por el Padre, así, aquel que me come vivirá por mí.",
+        "Éste es el pan que ha bajado del cielo, no como el que comieron los padres y murieron: quien come este pan vivirá eternamente.",
+        "Estas cosas dijo en la sinagoga, enseñando en Cafarnaún."
+      ]
+    }
+  }
+}

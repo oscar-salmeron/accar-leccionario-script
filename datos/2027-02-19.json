@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-02-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ezequiel 18:21-28",
+      "texto": [
+        "Pero si el impío se convierte de todos los pecados que cometió, guarda todos mis preceptos y obra justicia y derecho, ciertamente vivirá, no morirá.",
+        "No le será recordado ninguno de los delitos que cometió. Vivirá por la justicia que ha practicado.",
+        "¿Acaso me agrada la muerte del impío, oráculo del Señor Dios, y no que se convierta de sus caminos y viva?",
+        "Pero si el justo se aparta de su justicia y comete la iniquidad según las abominaciones que suele cometer el impío, ¿podrá vivir? Las obras justas que practicó no le serán recordadas. Por las rebeldías en que haya incurrido y por el pecado que haya cometido, morirá.",
+        "Y decís: “No son rectos los caminos del Señor”. Escucha, casa de Israel: ¿no son rectos mis caminos, o más bien, vuestros caminos son malos?",
+        "Si el justo se aparta de su justicia y comete la iniquidad, morirá. Por la injusticia que haya cometido, morirá.",
+        "Y si el impío se aparta de la impiedad que había obrado y hace justicia y derecho, él mismo se dará la vida.",
+        "Si se arrepiente y se aparta de todos los delitos que había cometido, ciertamente, vivirá, no morirá."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 130:1-8",
+      "texto": [
+        "Canto de las subidas. Desde lo más profundo, Te invoco, Señor.",
+        "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica.",
+        "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?",
+        "Pero en Ti está el perdón, y así mantenemos tu temor.",
+        "Espero en Ti, Señor. Mi alma espera en su palabra;",
+        "mi alma espera en el Señor más que los centinelas la aurora.",
+        "Los centinelas esperan la aurora, pero tú, Israel, espera en el Señor; pues en el Señor está la misericordia, en Él, la redención abundante.",
+        "Él redimirá a Israel de todas sus culpas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:20-26",
+      "texto": [
+        "Os digo, pues, que si vuestra justicia no es mayor que la de los escribas y fariseos, no entraréis en el Reino de los Cielos.",
+        "Habéis oído que se dijo a los antiguos: No matarás, y el que mate será reo de juicio.",
+        "Pero yo os digo: todo el que se llene de ira contra su hermano será reo de juicio; y el que insulte a su hermano será reo ante el Sanedrín; y el que le maldiga será reo del fuego del infierno.",
+        "Por lo tanto, si al llevar tu ofrenda al altar recuerdas que tu hermano tiene algo contra ti,",
+        "deja allí tu ofrenda delante del altar, vete primero a reconciliarte con tu hermano, y vuelve después para presentar tu ofrenda.",
+        "Ponte de acuerdo cuanto antes con tu adversario mientras vas de camino con él; no sea que tu adversario te entregue al juez y el juez al alguacil y te metan en la cárcel.",
+        "Te aseguro que no saldrás de allí hasta que restituyas la última moneda."
+      ]
+    }
+  }
+}

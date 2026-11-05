@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-02-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 58:1-9",
+      "texto": [
+        "¡Clama a gritos, no ceses! Eleva tu voz como una trompeta, denuncia a mi pueblo sus delitos, a la casa de Jacob, sus pecados.",
+        "Día tras día me andan buscando y quieren saber mis caminos, como si fueran una nación que practica la justicia y no abandona el derecho de su Dios. Me demandan juicios justos, pretenden estar cerca de Dios.",
+        "«¿Para qué ayunamos, si no miras, humillamos nuestras almas, si no te enteras?. Mirad: el día en que ayunáis pretendéis aprovecharos y oprimís a vuestros trabajadores.",
+        "Ayunáis para litigar y querellar y golpeáis con el puño sin piedad. No ayunéis como ahora, para que vuestra voz se oiga en las alturas.",
+        "¿Es ése el ayuno que prefiero, el día de humillarse el hombre? ¿Inclinar la cabeza como un junco, y preparar un lecho de saco y ceniza? ¿A eso llamáis ayuno y día grato al Señor?",
+        "¿El ayuno que prefiero no es más bien romper las cadenas de la iniquidad, soltar las ataduras del yugo, dejar libres a los oprimidos y quebrar todo yugo?",
+        "¿No es compartir tu pan con el hambriento, e invitar a tu casa a los pobres sin asilo? Al que veas desnudo, cúbrelo y no te escondas de quien es carne tuya.",
+        "Entonces tu luz despuntará como la aurora, y tu curación aparecerá al instante, tu justicia te precederá y la gloria del Señor cerrará tu marcha.",
+        "Entonces clamarás, y el Señor te responderá, pedirás socorro, y Él te dirá: «Aquí estoy. Si apartas de en medio de ti el yugo, el señalar con el dedo, y la maledicencia,"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 51:3-6, 19",
+      "texto": [
+        "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión borra mi delito.",
+        "Lávame por completo de mi culpa, y purifícame de mi pecado.",
+        "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí.",
+        "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos. Por eso has de ser justo en tu sentencia, has de tener razón en tu juicio.",
+        "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría.",
+        "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado, Dios mío, no lo desprecias."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:14-15",
+      "texto": [
+        "Entonces se le acercaron los discípulos de Juan para decirle: —¿Por qué nosotros y los fariseos ayunamos con frecuencia y, en cambio, tus discípulos no ayunan?",
+        "Jesús les respondió: —¿Acaso pueden estar de duelo los amigos del esposo mientras el esposo está con ellos? Ya vendrá el día en que les será arrebatado el esposo; entonces, ya ayunarán."
+      ]
+    }
+  }
+}

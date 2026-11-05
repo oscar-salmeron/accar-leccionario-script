@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-12-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Samuel 1:24-28",
+      "texto": [
+        "Entonces subió con él llevando consigo un novillo de tres años, un efah de flor de harina y un odre de vino; y entró con él en la casa del Señor en Siló. El niño era todavía muy pequeño.",
+        "Cuando inmolaron el novillo y presentaron al muchacho ante Elí,",
+        "Ana le dijo: —Perdona, señor; por tu vida, señor: yo soy aquella mujer que estuvo aquí en tu presencia implorando al Señor.",
+        "Por este niño rogué y el Señor me ha concedido lo que le pedí.",
+        "Ahora yo se lo devuelvo al Señor para que durante toda su vida esté entregado al Señor. Y adoraron allí al Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Samuel 2:1, 8",
+      "texto": [
+        "Entonces Ana recitó esta oración: —Mi corazón exulta en el Señor, mi frente se enaltece en el Señor, mi boca se ríe de mis enemigos pues me gozo con tu salvación.",
+        "Se ha quebrado el arco de los héroes y los débiles se han ceñido de vigor.",
+        "Los hartos se alquilan por pan, y los hambrientos han cesado en sus fatigas. La estéril da a luz siete hijos, y la que tiene muchos se marchita.",
+        "El Señor da muerte y vida, hace bajar al sheol y de allí los hace retornar.",
+        "El Señor da la pobreza y la riqueza, Él humilla y enaltece.",
+        "Levanta del polvo al indigente, del estiércol levanta al pobre para sentarlo con los príncipes y hacer que herede un trono de gloria. Del Señor son los pilares de la tierra y sobre ellos se ha afirmado el orbe."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:46-56",
+      "texto": [
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Manifestó el poder de su brazo, dispersó a los soberbios de corazón.",
+        "Derribó de su trono a los poderosos y ensalzó a los humildes.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,",
+        "como había prometido a nuestros padres, Abrahán y su descendencia para siempre.",
+        "María permaneció con ella unos tres meses, y se volvió a su casa."
+      ]
+    }
+  }
+}

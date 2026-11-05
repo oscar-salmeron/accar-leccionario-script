@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-01-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 3:7-14",
+      "texto": [
+        "Por eso, como dice el Espíritu Santo: Si hoy escucháis su voz,",
+        "no endurezcáis vuestros corazones como sucedió en la rebelión, el día de la tentación en el desierto,",
+        "cuando vuestros padres me tentaron y me sometieron a prueba, aunque habían visto mis obras",
+        "durante cuarenta años. Por eso me indigné contra esta generación y dije: «Están siempre extraviados en su corazón y no han conocido mis caminos.",
+        "Por eso juré en mi ira: «¡No entrarán en mi descanso!.",
+        "Vigilad, hermanos, para que ninguno de vosotros tenga un corazón malvado y sin fe que le haga apostatar del Dios vivo;",
+        "al contrario, exhortaos mutuamente todos los días, mientras perdura aquel hoy, para que nadie se endurezca por la seducción del pecado.",
+        "Pues hemos sido hechos partícipes de Cristo a condición de que mantengamos firme hasta el fin la segura confianza del principio."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:6-11",
+      "texto": [
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!",
+        "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,",
+        "donde me tentaron vuestros padres, me pusieron a prueba, aunque habían visto mis obras.",
+        "Cuarenta años me hastió aquella generación, y me dije: «Son un pueblo de corazón descarriado, éstos no reconocen mis caminos.",
+        "Por ello juré en mi enojo: «No entrarán en mi descanso."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:40-45",
+      "texto": [
+        "Y vino hacia él un leproso que, rogándole de rodillas, le decía: —Si quieres, puedes limpiarme.",
+        "Y, compadecido, extendió la mano, le tocó y le dijo: —Quiero, queda limpio.",
+        "Y al instante desapareció de él la lepra y quedó limpio.",
+        "Enseguida le conminó y le despidió.",
+        "Le dijo: —Mira, no digas nada a nadie; pero anda, preséntate al sacerdote y lleva la ofrenda que ordenó Moisés por tu curación, para que les sirva de testimonio.",
+        "Sin embargo, en cuanto se fue, comenzó a proclamar y a divulgar la noticia, hasta el punto de que ya no podía entrar abiertamente en ninguna ciudad, sino que se quedaba fuera, en lugares solitarios. Pero acudían a él de todas partes."
+      ]
+    }
+  }
+}

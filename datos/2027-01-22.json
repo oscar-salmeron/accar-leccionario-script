@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 8:6-13",
+      "texto": [
+        "Pero ahora él ha obtenido un oficio mucho más excelente, ya que es mediador de una alianza mucho más valiosa, por haber sido fundada sobre promesas mejores.",
+        "En efecto, si aquella primera hubiera sido sin tacha, no haría falta poner en su lugar una segunda,",
+        "pues les dice en tono de reproche: Mirad, vendrán días, dice el Señor, cuando establezca con la casa de Israel y con la casa de Judá una alianza nueva;",
+        "no como la alianza que hice con sus padres el día en que los tomé de la mano para sacarlos de la tierra de Egipto. Pero como no permanecieron fieles a mi alianza, tampoco yo me acordaré de ellos, dice el Señor.",
+        "Ésta es la alianza que estableceré con la casa de Israel después de aquellos días, dice el Señor. Pondré mis leyes en su inteligencia, y las grabaré en sus corazones; y yo seré su Dios, y ellos serán mi pueblo.",
+        "Y no tendrá que enseñar ya cada uno a su prójimo, ni a su hermano, ni dirá: «¡Conoce al Señor!, porque todos ellos me conocerán, desde el más pequeño hasta el mayor;",
+        "pues tendré misericordia de sus iniquidades y de sus pecados ya no me acordaré.",
+        "Al decir nueva declaró anticuada la anterior; y lo que se hace anticuado y envejece está a punto de desaparecer."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 85:8, 14",
+      "texto": [
+        "Señor, muéstranos tu misericordia y danos tu salvación.",
+        "En verdad, ya está cerca la salvación para los que le temen, para que en nuestra tierra habite la Gloria.",
+        "Misericordia y fidelidad se encontrarán, justicia y paz se besarán.",
+        "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia.",
+        "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos.",
+        "Ante Él marchará la justicia, y sus pasos abrirán camino."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:13-19",
+      "texto": [
+        "Y subiendo al monte llamó a los que él quiso, y fueron donde él estaba.",
+        "Y constituyó a doce, para que estuvieran con él y para enviarlos a predicar",
+        "con potestad de expulsar demonios:",
+        "a Simón, a quien le dio el nombre de Pedro;",
+        "a Santiago el de Zebedeo y a Juan, el hermano de Santiago, a quienes les dio el nombre de Boanerges, es decir, «hijos del trueno;",
+        "a Andrés, a Felipe, a Bartolomé, a Mateo, a Tomás, a Santiago el de Alfeo, a Tadeo, a Simón el Cananeo",
+        "y a Judas Iscariote, el que le entregó."
+      ]
+    }
+  }
+}

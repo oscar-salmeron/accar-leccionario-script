@@ -1,0 +1,58 @@
+{
+  "fecha": "2027-11-20",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Macabeos 6:1-13",
+      "texto": [
+        "Mientras el rey Antíoco recorría las regiones septentrionales, se enteró de que en Persia estaba la ciudad de Elimaida, famosa por sus riquezas, por la plata y por el oro,",
+        "y que tenía un templo riquísimo donde había armaduras de oro, corazas y armas dejadas allí por Alejandro, hijo de Filipo, el rey macedonio que reinó en primer lugar sobre los griegos.",
+        "Se dirigió allí con la intención de apoderarse de la ciudad y saquearla, pero no pudo porque su plan fue descubierto por sus habitantes,",
+        "que le presentaron batalla obligándole a huir. Y tuvo que marcharse de allí con gran tristeza, y regresar a Babilonia.",
+        "Durante su estancia en Persia llegó un mensajero para comunicarle que las tropas enviadas a tierra de Judá habían tenido que replegarse;",
+        "que Lisias había ido primero con un poderoso ejército, pero que había tenido que batirse en retirada ante los judíos; que éstos se habían reforzado con armas, con tropas y con el ingente botín de los vencidos;",
+        "que habían destruido la abominación erigida sobre el altar de Jerusalén, y que habían fortificado con altos muros el Santuario tal como estaba antes y Bet–Sur, ahora ciudad suya.",
+        "Cuando el rey escuchó estas noticias, quedó atónito preso de una gran conmoción. Se acostó, sumergido en una gran tristeza, porque las cosas no habían sucedido como él deseaba.",
+        "Permaneció así durante algunos días, pues su abatimiento se iba haciendo mayor, y vio que se estaba muriendo.",
+        "Entonces llamó a todos sus amigos y les dijo: —El sueño se aparta de mis ojos y mi corazón desfallece por la congoja.",
+        "Me he dicho a mí mismo: ¡a qué grado de aflicción he llegado! ¡En qué terrible zozobra me encuentro! ¡Yo, que era tan generoso y apreciado mientras gobernaba!",
+        "Ahora recuerdo los daños que he perpetrado contra Jerusalén al apoderarme de todos los utensilios de plata y de oro que estaban allí, y mandar exterminar a los habitantes de Judá sin razón alguna.",
+        "Reconozco que ésta es la causa de que me hayan sobrevenido estos males. Mirad, muero con una gran tristeza en un país extranjero."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 9:2-4, 6, 16, 19",
+      "texto": [
+        "(Alef) Te alabo, ¡Señor!, con todo mi corazón; contaré todas tus maravillas.",
+        "Me alegro, me regocijo en Ti, y canto salmos a tu Nombre, ¡oh Altísimo!",
+        "(Bet) Porque han retrocedido mis enemigos, han tropezado y perecido en tu presencia.",
+        "(Guímel) Has reprobado a los gentiles, has hecho perecer a los impíos, has borrado su nombre para siempre.",
+        "(Tet) Las naciones se hunden en la fosa que cavaron, su pie queda preso en el cepo que escondieron.",
+        "(Kaf) Él no se olvida nunca del pobre, ni se frustra jamás la esperanza de los afligidos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 20:27-40",
+      "texto": [
+        "Se le acercaron algunos de los saduceos —que niegan la resurrección— y le preguntaron:",
+        "—Maestro, Moisés nos dejó escrito: Si muere el hermano de alguien dejando mujer, sin haber tenido hijos, su hermano la tomará por mujer y dará descendencia a su hermano.",
+        "Pues bien, eran siete hermanos. El primero tomó mujer y murió sin hijos.",
+        "Lo mismo el segundo.",
+        "También el tercero la tomó por mujer. Los siete, de igual manera, murieron sin dejar hijos.",
+        "Después murió también la mujer.",
+        "Entonces, en la resurrección, la mujer ¿de cuál de ellos será esposa?, porque los siete la tuvieron como esposa.",
+        "Jesús les dijo: —Los hijos de este mundo se casan y ellas son dadas en matrimonio;",
+        "sin embargo, los que hayan sido dignos de alcanzar el otro mundo y la resurrección de los muertos, no se casarán, ni ellas serán dadas en matrimonio.",
+        "Porque ya no pueden morir otra vez, pues al ser hijos de la resurrección son iguales a los ángeles e hijos de Dios.",
+        "Que los muertos resucitarán lo mostró Moisés en el pasaje de la zarza, cuando llama al Señor Dios de Abrahán y Dios de Isaac y Dios de Jacob.",
+        "Pero no es Dios de muertos, sino de vivos; todos viven para Él.",
+        "Tomando la palabra, algunos escribas dijeron: —Maestro, has respondido muy bien.",
+        "Y ya no se atrevían a hacerle más preguntas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-12-12",
+  "fiesta": "Nuestra Señora de Guadalupe (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Zacarías 2:14-17",
+      "texto": [
+        "Grita de gozo y alégrate, hija de Sión, porque vengo a habitar dentro de ti —oráculo del Señor—.",
+        "Aquel día seguirán al Señor muchas naciones y serán pueblo mío. Yo habitaré en medio de ti, y sabrás que el Señor de los ejércitos a ti me envió.",
+        "El Señor tomará posesión de Judá como su lote en tierra santa, y volverá a elegir a Jerusalén.",
+        "Que calle toda carne ante el Señor, que se alza de su santa morada."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Judit 13:18-19",
+      "texto": [
+        "Ozías entonces dijo a Judit: —Bendita seas tú de parte de Dios altísimo, hija, por encima de todas las mujeres de la tierra, y bendito sea Dios, que creó los cielos y la tierra, que te ha guiado para herir en la cabeza al príncipe de nuestros enemigos.",
+        "Porque la esperanza que tú has tenido no se alejará del corazón de los hombres que se acuerden para siempre del poder de Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:26-38",
+      "texto": [
+        "En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret,",
+        "a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María.",
+        "Y entró donde ella estaba y le dijo: —Dios te salve, llena de gracia, el Señor es contigo.",
+        "Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo.",
+        "Y el ángel le dijo: —No temas, María, porque has hallado gracia delante de Dios:",
+        "concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús.",
+        "Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre,",
+        "reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin.",
+        "María le dijo al ángel: —¿De qué modo se hará esto, pues no conozco varón?",
+        "Respondió el ángel y le dijo: —El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios.",
+        "Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes,",
+        "porque para Dios no hay nada imposible.",
+        "Dijo entonces María: —He aquí la esclava del Señor, hágase en mí según tu palabra. Y el ángel se retiró de su presencia."
+      ]
+    }
+  }
+}

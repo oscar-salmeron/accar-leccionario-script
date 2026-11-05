@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-10-01",
+  "fiesta": "Santa Teresita del Niño Jesús, Virgen, Doctora de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Baruc 1:15-22",
+      "texto": [
+        "Diréis así: «Al Señor, Dios nuestro, la justicia; a nosotros, en cambio, la vergüenza en los rostros, como acontece hoy a los hombres de Judá y a los habitantes de Jerusalén,",
+        "a nuestros reyes y gobernantes, a nuestros sacerdotes, a nuestros profetas y a nuestros padres;",
+        "porque hemos pecado contra el Señor,",
+        "no hemos creído en Él, ni hemos escuchado la voz del Señor, Dios nuestro, para caminar según los mandamientos del Señor que promulgó en presencia nuestra.",
+        "Desde el día en que el Señor sacó a nuestros padres de la tierra de Egipto hasta hoy hemos sido incrédulos con el Señor, Dios nuestro, y obstinados en no escuchar su voz.",
+        "Por eso ahora nos han sobrevenido las calamidades y la maldición que Dios predijo a su siervo Moisés, el día que sacó a nuestros padres de la tierra de Egipto, para darnos una tierra que mana leche y miel.",
+        "No hemos escuchado la voz del Señor, Dios nuestro, desoyendo las palabras de los profetas que nos envió.",
+        "Y hemos andado, cada uno según las inclinaciones de su corazón perverso, para servir a dioses ajenos y hacer lo que es malo a los ojos del Señor, Dios nuestro."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 79:1-5, 9",
+      "texto": [
+        "Salmo. De Asaf. Dios mío, las naciones han entrado en tu heredad, han profanado tu Templo santo, han reducido a ruinas Jerusalén.",
+        "Han echado los cadáveres de tus siervos por comida a las aves del cielo; la carne de tus fieles, a las fieras del campo;",
+        "han derramado su sangre como agua, en derredor de Jerusalén, sin que nadie les dé sepultura.",
+        "Hemos venido a ser escarnio de nuestros vecinos, burla e irrisión de quienes nos rodean.",
+        "¿Hasta cuándo, Señor? ¿Vas a estar airado para siempre? ¿Hasta cuándo arderán tus celos como fuego?",
+        "No nos recuerdes nuestras culpas antiguas, que pronto nos preceda tu compasión, pues estamos en miseria extrema.",
+        "Socórrenos, oh Dios, Salvador nuestro, por la gloria de tu Nombre; sálvanos, borra nuestros pecados, por amor de tu Nombre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 10:13-16",
+      "texto": [
+        "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón hubieran sido realizados los milagros que se han obrado en vosotras, hace tiempo que habrían hecho penitencia sentados en saco y ceniza.",
+        "Sin embargo, en el Juicio Tiro y Sidón serán tratadas con menos rigor que vosotras.",
+        "Y tú, Cafarnaún, ¿acaso serás exaltada hasta el cielo? ¡Hasta los infiernos vas a descender!",
+        "Quien a vosotros os oye, a mí me oye; quien a vosotros os desprecia, a mí me desprecia; y quien a mí me desprecia, desprecia al que me ha enviado."
+      ]
+    }
+  }
+}

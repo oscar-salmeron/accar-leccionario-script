@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-06-26",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 18:1-15",
+      "texto": [
+        "El Señor se manifestó a Abrahán junto a la encina de Mambré, cuando estaba sentado a la puerta de la tienda en lo más caluroso del día.",
+        "Abrahán alzó la vista y vio que tres hombres estaban de pie junto a él. Apenas los vio, corrió a su encuentro desde la puerta de la tienda y se postró en tierra",
+        "diciendo: —Mi Señor, si he hallado gracia a tus ojos, no pases sin detenerte junto a tu siervo.",
+        "Haré que traigan un poco de agua para que os lavéis los pies, y descansaréis bajo el árbol;",
+        "entretanto, traeré un trozo de pan para que reparéis vuestras fuerzas, y luego seguiréis adelante, pues por algo habéis pasado junto a vuestro siervo. Contestaron: —Sí, haz como has dicho.",
+        "Abrahán corrió a la tienda donde estaba Sara y le dijo: —Date prisa, amasa tres seim de flor de harina y haz unas tortas.",
+        "Él fue corriendo a la vacada, tomó un hermoso ternero recental y lo entregó a su siervo que se dio prisa en prepararlo.",
+        "Luego tomó cuajada, leche, y el ternero que había preparado, y lo sirvió ante ellos; y permaneció en pie a su lado, bajo el árbol, mientras ellos comían.",
+        "Después le preguntaron: —¿Dónde está Sara, tu mujer? Él contestó: —Ahí en la tienda.",
+        "Y uno le dijo: —Sin falta volveré a ti la próxima primavera, y Sara tu mujer habrá tenido un hijo. Sara lo oyó desde la entrada de la tienda, pues estaba detrás del que hablaba.",
+        "Abrahán y Sara eran ancianos, de edad avanzada, y a Sara le había cesado la regla de las mujeres.",
+        "Sara se sonrió por dentro, diciendo: «¿Después de estar consumida, y con mi marido anciano, voy a sentir placer?",
+        "El Señor dijo a Abrahán: —¿Por qué se ha reído Sara, diciendo: «¿De veras voy a dar a luz siendo anciana?.",
+        "¿Es que hay algo difícil para el Señor? En el tiempo señalado, la próxima primavera, volveré a ti y Sara habrá tenido un hijo.",
+        "Sara lo negó diciendo: —No me he reído —pues tenía miedo. Pero Él le contestó: —No es cierto, te has reído."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Lucas 1:46-50, 55",
+      "texto": [
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,",
+        "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 8:5-17",
+      "texto": [
+        "Al entrar en Cafarnaún se le acercó un centurión que le rogó:",
+        "—Señor, mi criado yace paralítico en casa con dolores muy fuertes.",
+        "Jesús le dijo: —Yo iré y le curaré.",
+        "Pero el centurión le respondió: —Señor, no soy digno de que entres en mi casa. Pero basta que lo digas de palabra y mi criado quedará sano.",
+        "Pues también yo soy un hombre que se encuentra bajo disciplina y tengo soldados a mis órdenes. Le digo a uno: «Vete, y va; y a otro: «Ven, y viene; y a mi siervo: «Haz esto, y lo hace.",
+        "Al oírlo Jesús se admiró y les dijo a los que le seguían: —En verdad os digo que en nadie de Israel he encontrado una fe tan grande.",
+        "Y os digo que muchos de oriente y occidente vendrán y se sentarán a la mesa con Abrahán, Isaac y Jacob en el Reino de los Cielos,",
+        "mientras que los hijos del Reino serán arrojados a las tinieblas de afuera: allí habrá llanto y rechinar de dientes.",
+        "Y le dijo Jesús al centurión: —Vete y que se haga conforme has creído. Y en aquel momento quedó sano el criado.",
+        "Al llegar Jesús a casa de Pedro vio a la suegra de éste en cama, con fiebre.",
+        "Le tocó de la mano y le desapareció la fiebre; entonces ella se levantó y se puso a servirle.",
+        "Al atardecer, le trajeron muchos endemoniados; expulsó a los espíritus con su palabra y curó a todos los enfermos,",
+        "para que se cumpliera lo dicho por medio del profeta Isaías: Él tomó nuestras dolencias y cargó con nuestras enfermedades."
+      ]
+    }
+  }
+}

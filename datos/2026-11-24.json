@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-11-24",
+  "fiesta": "San Andrés Dung-Lac, Presbítero, Mártir y Compañeros, Mártires (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 14:14-19",
+      "texto": [
+        "Entonces, en la visión, apareció una nube blanca, y sobre la nube sentado uno semejante a un Hijo de hombre, con una corona de oro sobre la cabeza y una hoz afilada en la mano.",
+        "Y otro ángel salió del templo, gritando con voz fuerte al que estaba sentado sobre la nube: —¡Mete la hoz y siega, que ha llegado la hora de segar, porque está en sazón la mies de la tierra!",
+        "El que estaba sentado sobre la nube acercó la hoz a la tierra y quedó segada la tierra.",
+        "Otro ángel salió del templo que está en el cielo, llevando él también una hoz afilada.",
+        "Y otro ángel, el que tiene poder sobre el fuego, salió del altar y clamó con voz fuerte al que tenía la hoz afilada: —¡Mete la hoz afilada y vendimia los racimos de la viña de la tierra, porque sus uvas están maduras!",
+        "Acercó el ángel la hoz a la tierra, vendimió la viña de la tierra y la echó en el gran lagar de la ira de Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:10-13",
+      "texto": [
+        "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará. Él juzga a los pueblos con rectitud.",
+        "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;",
+        "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque",
+        "ante el Señor, que ya viene, que viene a juzgar la tierra: juzgará al mundo con justicia y a los pueblos con rectitud."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:5-11",
+      "texto": [
+        "Como algunos le hablaban del Templo, que estaba adornado con bellas piedras y ofrendas votivas, dijo:",
+        "—Vendrán días en los que de esto que veis no quedará piedra sobre piedra que no sea destruida.",
+        "Le preguntaron: —Maestro, ¿cuándo ocurrirán estas cosas y cuál será la señal de que están a punto de suceder?",
+        "Él dijo: —Mirad, no os dejéis engañar; porque vendrán en mi nombre muchos diciendo: «Yo soy, y «el momento está próximo. No les sigáis.",
+        "Cuando oigáis hablar de guerras y de revoluciones, no os aterréis, porque es necesario que sucedan primero estas cosas. Pero el fin no es inmediato.",
+        "Entonces les decía: —Se alzará pueblo contra pueblo y reino contra reino;",
+        "habrá grandes terremotos y hambre y peste en diversos lugares; habrá cosas aterradoras y grandes señales en el cielo."
+      ]
+    }
+  }
+}

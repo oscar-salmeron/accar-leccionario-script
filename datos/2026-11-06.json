@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-11-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Filipenses 3:17--4:1",
+      "texto": [
+        "Hermanos, sed imitadores míos y fijaos en los que caminan según el modelo que tenéis en nosotros.",
+        "Porque muchos —esos de quienes con frecuencia os hablaba y os hablo ahora llorando— se comportan como enemigos de la cruz de Cristo:",
+        "su fin es la perdición, su dios el vientre, y su gloria la propia vergüenza, porque ponen el corazón en las cosas terrenas.",
+        "Pero nosotros somos ciudadanos del cielo, de donde también esperamos al Salvador, al Señor Jesucristo,",
+        "el cual transformará nuestro cuerpo vil en un cuerpo glorioso como el suyo, en virtud del poder que tiene para someter a su dominio todas las cosas.",
+        "Por tanto, hermanos míos muy queridos y añorados, mi gozo y mi corona, ¡permaneced así, queridísimos míos, firmes en el Señor!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 122:1-5",
+      "texto": [
+        "Canto de las subidas. De David. Qué alegría cuando me dijeron: «¡Vamos a la Casa del Señor!",
+        "Ya se han parado nuestros pies a tus puertas, Jerusalén.",
+        "Jerusalén, bien cimentada, ciudad sólida y unida.",
+        "Allí suben las tribus, las tribus del Señor. Es un precepto de Israel, para alabar el Nombre del Señor.",
+        "Pues allí está la sede de justicia, la sede de la casa de David."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 16:1-8",
+      "texto": [
+        "Decía también a los discípulos: —Había un hombre rico que tenía un administrador, al que acusaron ante el amo de malversar la hacienda.",
+        "Le llamó y le dijo: «¿Qué es esto que oigo de ti? Dame cuentas de tu administración, porque ya no podrás seguir administrando.",
+        "Y dijo para sí el administrador: «¿Qué voy a hacer, ya que mi señor me quita la administración? Cavar no puedo; mendigar me da vergüenza.",
+        "Ya sé lo que haré para que me reciban en sus casas cuando me despidan de la administración.",
+        "Y, convocando uno a uno a los deudores de su amo, le dijo al primero: «¿Cuánto debes a mi señor?",
+        "Él respondió: «Cien medidas de aceite. Y le dijo: «Toma tu recibo; aprisa, siéntate y escribe cincuenta.",
+        "Después le dijo a otro: «¿Y tú cuánto debes? Él respondió: «Cien cargas de trigo. Y le dijo: «Toma tu recibo y escribe ochenta.",
+        "El amo alabó al administrador infiel por haber actuado sagazmente; porque los hijos de este mundo son más sagaces en lo suyo que los hijos de la luz."
+      ]
+    }
+  }
+}

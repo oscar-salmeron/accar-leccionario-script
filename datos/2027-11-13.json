@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-11-13",
+  "fiesta": "Santa Francisca Xavier Cabrini, Virgen (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 18:14-16; 19:6-9",
+      "texto": [
+        "Cuando un sereno silencio lo envolvía todo y la noche estaba a la mitad de su curso,",
+        "tu omnipotente Palabra desde el Cielo, desde los tronos reales, como guerrero implacable, se lanzó sobre aquella tierra desolada, llevando la espada afilada de tu orden terminante.",
+        "Deteniéndose, llenó todo de muerte. De una parte, tocaba el cielo; de otra, se apoyaba en la tierra.",
+        "Pues la creación entera, en su propia naturaleza, tomaba de nuevo una forma distinta, sirviendo a tus órdenes, para que tus hijos fueran guardados incólumes.",
+        "La nube cubría con su sombra el campamento; donde antes estaba el agua se vio emerger la tierra seca, del Mar Rojo, un camino expedito, y de las olas violentas, una llanura verdeante.",
+        "Por ella pasó todo el pueblo, los protegidos por tu mano, contemplando pasmosos prodigios.",
+        "Pastaron como caballos retozaron como corderos, cantando tus alabanzas, Señor, su libertador."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 105:2-3, 37, 43",
+      "texto": [
+        "Cantadle, entonadle salmos, proclamad todas sus maravillas.",
+        "Gloriaos en su Nombre santo; que se alegre el corazón de los que buscan al Señor.",
+        "E hirió a todos los primogénitos en su tierra, las primicias de su vigor.",
+        "Pero a ellos los sacó con plata y oro, sin que hubiera en sus tribus quien se tambaleara.",
+        "Pues se acordó de su palabra santa, que había dado a Abrahán, su siervo.",
+        "Y sacó a su pueblo con gozo, a sus elegidos con gritos de júbilo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 18:1-8",
+      "texto": [
+        "Les proponía una parábola sobre la necesidad de orar siempre y no desfallecer,",
+        "diciendo: —Había en una ciudad un juez que no temía a Dios ni respetaba a los hombres.",
+        "También había en aquella ciudad una viuda, que acudía a él diciendo: «Hazme justicia ante mi adversario.",
+        "Y durante mucho tiempo no quiso. Sin embargo, al final se dijo a sí mismo: «Aunque no temo a Dios ni respeto a los hombres,",
+        "como esta viuda está molestándome, le haré justicia, para que no siga viniendo a importunarme.",
+        "Concluyó el Señor: —Prestad atención a lo que dice el juez injusto.",
+        "¿Acaso Dios no hará justicia a sus elegidos que claman a Él día y noche, y les hará esperar?",
+        "Os aseguro que les hará justicia sin tardanza. Pero cuando venga el Hijo del Hombre, ¿encontrará fe sobre la tierra?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-07-17",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 12:37-42",
+      "texto": [
+        "Los hijos de Israel salieron de Ramsés hacia Sucot, unos seiscientos mil hombres de a pie, sin contar los niños.",
+        "Subió con ellos además una gran multitud; y ovejas y vacas, en grandes rebaños.",
+        "Cocieron la masa que habían sacado de Egipto e hicieron panes ácimos porque aún no había fermentado, pues al ser expulsados de Egipto no pudieron entretenerse; ni siquiera prepararon provisiones para el camino.",
+        "La estancia de los hijos de Israel en Egipto fue de cuatrocientos treinta años.",
+        "Pasados estos cuatrocientos treinta años, el mismo día salieron todos los ejércitos del Señor del país de Egipto.",
+        "Noche de vela fue ésta para el Señor, para sacarlos del país de Egipto; noche de vela en honor del Señor será para todos los hijos de Israel, de generación en generación."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 136:1, 24, 15",
+      "texto": [
+        "Dad gracias al Señor, porque es bueno, porque es eterna su misericordia.",
+        "Él hirió a Egipto en sus primogénitos, porque es eterna su misericordia.",
+        "Y sacó a Israel de en medio de ellos, porque es eterna su misericordia,",
+        "con mano fuerte y brazo extendido, porque es eterna su misericordia.",
+        "Él partió el Mar Rojo en dos, porque es eterna su misericordia;",
+        "e hizo pasar por medio a Israel, porque es eterna su misericordia;",
+        "y hundió en el Mar Rojo al Faraón y su ejército, porque es eterna su misericordia.",
+        "Él, en nuestra humillación, se acordó de nosotros, porque es eterna su misericordia;",
+        "y nos libró de nuestros adversarios, porque es eterna su misericordia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 12:14-21",
+      "texto": [
+        "Al salir, los fariseos se pusieron de acuerdo contra él, para ver cómo perderle.",
+        "Jesús, sabiéndolo, se alejó de allí, y le siguieron muchos y los curó a todos,",
+        "y les ordenó que no le descubriesen,",
+        "para que se cumpliera lo dicho por medio del profeta Isaías:",
+        "Aquí está mi Siervo, a quien elegí, mi amado, en quien se complace mi alma. Pondré mi Espíritu sobre él y anunciará la justicia a las naciones.",
+        "No disputará ni gritará, nadie oirá su voz en las plazas.",
+        "No quebrará la caña cascada, ni apagará la mecha humeante, hasta que haga triunfar la justicia.",
+        "Y en su nombre pondrán su esperanza las naciones."
+      ]
+    }
+  }
+}

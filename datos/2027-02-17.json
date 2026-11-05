@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-02-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jonás 3:1-10",
+      "texto": [
+        "La palabra del Señor fue dirigida a Jonás por segunda vez, diciéndole:",
+        "—Levántate, vete a Nínive, la gran ciudad, y pregona en ella el mensaje que voy a decirte.",
+        "Jonás se levantó y se encaminó a Nínive, con arreglo a la orden del Señor. Nínive era una gran ciudad ante Dios. Tres días hacían falta para recorrerla.",
+        "Estuvo Jonás deambulando un día entero por la ciudad, predicando y diciendo: —Dentro de cuarenta días Nínive será destruida.",
+        "Las gentes de Nínive creyeron en Dios. Convocaron a un ayuno y se vistieron de saco del mayor al más pequeño.",
+        "Cuando llegó la noticia al rey de Nínive, se levantó de su trono, se quitó el manto, se cubrió de saco y se sentó en la ceniza.",
+        "Y mandó pregonar y decir en Nínive, por decreto del rey y de sus magnates, lo siguiente: —Hombres y bestias, vacas y ovejas, que no prueben nada, ni pasten ni beban agua.",
+        "Que hombres y bestias se cubran de saco y clamen a Dios con fuerza. Que cada uno se convierta de su mala conducta y de la violencia de sus manos.",
+        "¿Quién sabe si Dios se dolerá y se retraerá, y retornará del ardor de su ira, y no pereceremos nosotros?",
+        "Dios miró sus obras, cómo se convertían de su mala conducta, y se arrepintió Dios del mal que había dicho que les iba a hacer, y no lo hizo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 51:3-4, 13, 19",
+      "texto": [
+        "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión borra mi delito.",
+        "Lávame por completo de mi culpa, y purifícame de mi pecado.",
+        "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme.",
+        "No me arrojes de tu presencia, ni me retires tu santo Espíritu.",
+        "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría.",
+        "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado, Dios mío, no lo desprecias."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:29-32",
+      "texto": [
+        "Habiéndose reunido una gran muchedumbre, comenzó a decir: —Esta generación es una generación perversa; busca una señal y no se le dará otra señal que la de Jonás.",
+        "Porque, así como Jonás fue señal para los habitantes de Nínive, del mismo modo lo será también el Hijo del Hombre para esta generación.",
+        "La reina del Sur se levantará en el Juicio contra los hombres de esta generación y los condenará: porque vino de los confines de la tierra para oír la sabiduría de Salomón, y daos cuenta de que aquí hay algo más que Salomón.",
+        "Los hombres de Nínive se levantarán en el Juicio contra esta generación y la condenarán: porque ellos se convirtieron ante la predicación de Jonás, y daos cuenta de que aquí hay algo más que Jonás."
+      ]
+    }
+  }
+}

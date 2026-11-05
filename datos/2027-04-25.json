@@ -1,0 +1,58 @@
+{
+  "fecha": "2027-04-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 9:26-31",
+      "texto": [
+        "Cuando llegó a Jerusalén intentaba unirse a los discípulos; pero todos le temían, porque no creían que fuera discípulo.",
+        "Sin embargo, Bernabé se lo llevó con él, lo condujo a los apóstoles y les contó cómo en el camino había visto al Señor, y que le había hablado, y cómo en Damasco había predicado abiertamente en el nombre de Jesús.",
+        "Entonces entraba y salía con ellos en Jerusalén, hablando claramente en el nombre del Señor.",
+        "Conversaba también y disputaba con los helenistas; y éstos intentaban matarle.",
+        "Cuando los hermanos lo supieron, lo llevaron a Cesarea y lo enviaron a Tarso.",
+        "La Iglesia gozaba de paz por toda Judea, Galilea y Samaría. Se consolidaba y caminaba en el temor del Señor y crecía con el consuelo del Espíritu Santo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 22:26-28, 32",
+      "texto": [
+        "Te alabaré ante la gran asamblea. Cumpliré mis votos delante de quienes le temen.",
+        "Los pobres comerán hasta saciarse, alabarán al Señor los que le buscan. ¡Que vuestro corazón viva por siempre!",
+        "Se acordarán y se convertirán al Señor los enteros confines de la tierra; se postrarán en su presencia todas las familias de las naciones,",
+        "Ante Él solo se postrarán los que duermen en la tierra, ante Él doblarán la rodilla cuantos bajan al polvo. Pero mi alma vivirá para Él.",
+        "Mi descendencia le servirá, hablará del Señor a la generación venidera,",
+        "y proclamarán su justicia al pueblo que ha de nacer: «Así lo hará el Señor."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Juan 3:18-24",
+      "texto": [
+        "Hijos, no amemos de palabra ni con la boca, sino con obras y de verdad.",
+        "En esto conoceremos que somos de la verdad, y en su presencia tranquilizaremos nuestro corazón,",
+        "aunque el corazón nos reproche algo, porque Dios es más grande que nuestro corazón y conoce todo.",
+        "Queridísimos: si el corazón no nos acusa, tenemos plena confianza ante Dios",
+        "y recibiremos de Él cuanto pidamos, porque guardamos sus mandamientos y hacemos lo que es grato a sus ojos.",
+        "Y éste es su mandamiento: que creamos en el nombre de su Hijo, Jesucristo, y que nos amemos unos a otros, conforme al mandamiento que nos dio.",
+        "El que guarda sus mandamientos permanece en Dios y Dios en él; y por esto conocemos que permanece en nosotros: por el Espíritu que nos ha dado."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:1-8",
+      "texto": [
+        "Yo soy la vid verdadera y mi Padre es el labrador.",
+        "Todo sarmiento que en mí no da fruto lo corta, y todo el que da fruto lo poda para que dé más fruto.",
+        "Vosotros ya estáis limpios por la palabra que os he hablado.",
+        "Permaneced en mí y yo en vosotros. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco vosotros si no permanecéis en mí.",
+        "Yo soy la vid, vosotros los sarmientos. El que permanece en mí y yo en él, ése da mucho fruto, porque sin mí no podéis hacer nada.",
+        "Si alguno no permanece en mí es arrojado fuera, como los sarmientos, y se seca; luego los recogen, los arrojan al fuego y arden.",
+        "Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que queráis y se os concederá.",
+        "En esto es glorificado mi Padre, en que deis mucho fruto y seáis discípulos míos."
+      ]
+    }
+  }
+}

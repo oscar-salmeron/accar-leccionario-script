@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-07-26",
+  "fiesta": "San Joaquín y Santa Ana, Padres de la Santísima Virgen María (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 44:1, 15",
+      "texto": [
+        "Hagamos el elogio de los hombres ilustres, de nuestros padres según su generación.",
+        "En cambio, hubo hombres virtuosos, cuyos méritos no se han olvidado.",
+        "En su linaje se transmite una preciosa herencia, sus descendientes.",
+        "Su estirpe permanece fiel a la alianza,",
+        "y sus hijos gracias a ellos. Su descendencia dura por siempre y su gloria no será borrada.",
+        "Sus cuerpos fueron sepultados en paz, y su nombre vive por generaciones.",
+        "Que los pueblos narren su sabiduría y la asamblea proclame su alabanza."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 132:11, 14, 18",
+      "texto": [
+        "El Señor juró a David una promesa firme de la que no se retractará: «Un fruto de tus entrañas pondré sobre tu trono.",
+        "Porque el Señor ha elegido a Sión, la ha preferido como su morada:",
+        "«Éste es el lugar de mi reposo para siempre; aquí habitaré porque la prefiero.",
+        "Allí haré germinar el vigor de David, prepararé una lámpara para mi Ungido.",
+        "A sus enemigos cubriré de vergüenza, pero sobre él brillará la corona."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 13:16-17",
+      "texto": [
+        "Bienaventurados, en cambio, vuestros ojos porque ven y vuestros oídos porque oyen.",
+        "Porque en verdad os digo que muchos profetas y justos ansiaron ver lo que estáis viendo y no lo vieron, y oír lo que estáis oyendo y no lo oyeron."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-11-28",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 22:1-7",
+      "texto": [
+        "Me mostró el río de agua de la vida, claro como un cristal, procedente del trono de Dios y del Cordero.",
+        "En medio de su plaza, y en una y otra orilla del río, está el árbol de la vida, que produce frutos doce veces: cada mes da fruto; y las hojas del árbol sirven para sanar a las naciones.",
+        "Ya no habrá nada maldito. En ella estará el trono de Dios y del Cordero, y sus siervos le darán culto,",
+        "verán su rostro y llevarán su nombre grabado en la frente.",
+        "Ya no habrá noche: no tienen necesidad de luz de lámparas ni de la luz del sol, porque el Señor Dios alumbrará sobre ellos y reinarán por los siglos de los siglos.",
+        "Y me dijo: —Estas palabras son fidedignas y veraces. El Señor, Dios de los espíritus de los profetas, ha enviado su ángel para manifestar a sus siervos las cosas que van a suceder pronto.",
+        "Mira, vendré enseguida. Bienaventurado el que guarde las palabras de la profecía de este libro."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:1-7",
+      "texto": [
+        "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación.",
+        "Vayamos a su presencia con acción de gracias, aclamémosle con salmos.",
+        "Porque el Señor es Dios Grande, el Gran Rey sobre todos los dioses.",
+        "En su mano están las simas de la tierra, suyas son las cumbres de los montes.",
+        "Suyo es el mar, pues Él lo hizo, y la tierra firme que modelaron sus manos.",
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:34-36",
+      "texto": [
+        "Vigilaos a vosotros mismos, para que vuestros corazones no estén ofuscados por la crápula, la embriaguez y los afanes de esta vida, y aquel día no sobrevenga de improviso sobre vosotros,",
+        "porque caerá como un lazo sobre todos aquellos que habitan en la faz de toda la tierra.",
+        "Vigilad orando en todo tiempo, a fin de que podáis evitar todos estos males que van a suceder, y estar en pie delante del Hijo del Hombre."
+      ]
+    }
+  }
+}

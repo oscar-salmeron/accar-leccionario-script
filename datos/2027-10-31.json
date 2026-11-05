@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-10-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Deuteronomio 6:2-6",
+      "texto": [
+        "a fin de que temas al Señor, tu Dios, y guardes todas sus leyes y mandamientos que yo te he ordenado, tú, tu hijo y el hijo de tu hijo, durante toda tu vida, y así se prolonguen tus días.",
+        "Escucha, pues, Israel, y esmérate en cumplir lo que te hará feliz y muy numeroso en una tierra que mana leche y miel, según te anunció el Señor, Dios de tus padres.",
+        "Escucha, Israel: el Señor es nuestro Dios, el Señor es Uno.",
+        "Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma y con todas tus fuerzas.",
+        "Que estas palabras que yo te dicto hoy estén en tu corazón."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 18:2-4, 47, 51",
+      "texto": [
+        "Y dijo: Yo te amo, Señor, fortaleza mía,",
+        "Señor, mi roca, mi fortaleza, mi libertador, mi Dios, mi peña donde me refugio, mi escudo, la fuerza de mi salvación, mi alcázar.",
+        "Invoco al Señor, digno de alabanza, y quedo a salvo de mis enemigos.",
+        "¡Viva el Señor! ¡Bendita sea mi Roca! ¡Exaltado sea el Dios de mi salvación!",
+        "Él hace grandes las victorias de su rey y tiene misericordia de su Ungido, de David y su descendencia por siempre."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 7:23-28",
+      "texto": [
+        "Y si aquéllos eran constituidos sacerdotes en gran número, porque la muerte les impedía permanecer,",
+        "éste, al contrario, como vive para siempre, posee un sacerdocio perpetuo.",
+        "Por eso puede también salvar perfectamente a los que se acercan a Dios a través de él, ya que vive siempre para interceder por nosotros.",
+        "Nos convenía, en efecto, que el Sumo Sacerdote fuera santo, inocente, inmaculado, separado de los pecadores y encumbrado por encima de los cielos;",
+        "que no tiene necesidad de ofrecer todos los días, como aquellos sumos sacerdotes, primero unas víctimas por sus propios pecados y luego por los del pueblo, porque esto lo hizo de una vez para siempre cuando se ofreció él mismo.",
+        "Pues la Ley constituye sumos sacerdotes a unos hombres con debilidades, mientras que la palabra del juramento, que sucede a la Ley, hace al Hijo perfecto para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 12:28-34",
+      "texto": [
+        "Se acercó uno de los escribas, que había oído la discusión y, al ver lo bien que les había respondido, le preguntó: —¿Cuál es el primero de todos los mandamientos?",
+        "Jesús respondió: —El primero es: Escucha, Israel, el Señor Dios nuestro es el único Señor;",
+        "y amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente y con todas tus fuerzas.",
+        "El segundo es éste: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.",
+        "Y le dijo el escriba: —¡Bien, Maestro! Con verdad has dicho que Dios es uno solo y no hay otro fuera de Él;",
+        "y amarle con todo el corazón y con toda la inteligencia y con toda la fuerza, y amar al prójimo como a sí mismo, vale más que todos los holocaustos y sacrificios.",
+        "Viendo Jesús que le había respondido con sensatez, le dijo: —No estás lejos del Reino de Dios. Y ninguno se atrevía ya a hacerle preguntas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-05-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 18:9-18",
+      "texto": [
+        "Por la noche el Señor le dijo a Pablo en una visión: —No tengas miedo, sigue hablando y no calles,",
+        "que yo estoy contigo y nadie se te acercará para hacerte daño; porque tengo en esta ciudad un pueblo numeroso.",
+        "Permaneció allí un año y seis meses enseñando entre ellos la palabra de Dios.",
+        "Galión era procónsul de Acaya cuando los judíos se amotinaron todos a una contra Pablo y lo condujeron al tribunal",
+        "diciendo: —Éste induce a los hombres a dar culto a Dios al margen de la Ley.",
+        "Cuando Pablo se disponía a hablar, les dijo Galión a los judíos: —Judíos, si se tratara de un delito o de un grave crimen, sería razonable que os atendiera,",
+        "pero si son cuestiones de palabras y de nombres y de vuestra Ley, os lo solucionáis vosotros; yo no quiero ser juez de esos asuntos.",
+        "Y los expulsó del tribunal.",
+        "Entonces todos ellos agarraron a Sóstenes, el jefe de la sinagoga, y comenzaron a golpearle delante del tribunal, pero nada de esto le importaba a Galión.",
+        "Después de permanecer allí bastante tiempo, Pablo se despidió de los hermanos y embarcó rumbo a Siria. Iban con él Priscila y Aquila. Se había rapado la cabeza en Céncreas porque había hecho un voto."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 47:2-7",
+      "texto": [
+        "Pueblos todos, batid palmas, aclamad a Dios con voces de júbilo.",
+        "Porque el Señor es el Altísimo, temible, el gran Rey en toda la tierra.",
+        "Él nos somete los pueblos, las naciones bajo nuestros pies.",
+        "Nos ha elegido una heredad, la grandeza de Jacob, a quien ama.",
+        "Dios sube entre aclamaciones, el Señor, al sonar de trompetas.",
+        "Cantad himnos a Dios, cantad, cantad himnos a nuestro rey, cantad."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 16:20-23",
+      "texto": [
+        "En verdad, en verdad os digo que lloraréis y os lamentaréis, y en cambio el mundo se alegrará; vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría.",
+        "La mujer, cuando va a dar a luz, está triste porque ha llegado su hora, pero una vez que ha dado a luz un niño, ya no se acuerda del sufrimiento por la alegría de que ha nacido un hombre en el mundo.",
+        "Así pues, también vosotros ahora os entristecéis, pero os volveré a ver y se os alegrará el corazón, y nadie os quitará vuestra alegría.",
+        "Ese día no me preguntaréis nada. En verdad, en verdad os digo: si le pedís al Padre algo en mi nombre, os lo concederá."
+      ]
+    }
+  }
+}

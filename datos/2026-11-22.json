@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-11-22",
+  "fiesta": "Nuestro Señor Jesucristo, Rey del Universo (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ezequiel 34:11-12, 17",
+      "texto": [
+        "Porque esto dice el Señor Dios: «Yo mismo buscaré mi rebaño y lo apacentaré.",
+        "Como recuenta un pastor su rebaño cuando está en medio de sus ovejas que se han dispersado, así recontaré mis ovejas y las recogeré de todos los lugares en que se dispersaron en día de niebla y oscuridad.",
+        "Yo mismo pastorearé mis ovejas y las haré descansar, dice el Señor Dios.",
+        "Buscaré a la perdida, haré volver a la descarriada, a la que esté herida la vendaré, y curaré a la enferma. Tendré cuidado de la bien nutrida y de la fuerte. Las pastorearé con rectitud.",
+        "A vosotros, rebaño mío, esto dice el Señor Dios: «Yo juzgo entre oveja y oveja, entre carneros y machos cabríos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-3, 6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 15:20-26, 28",
+      "texto": [
+        "Ahora bien, Cristo ha resucitado de entre los muertos, como primer fruto de los que mueren.",
+        "Porque como por un hombre vino la muerte, también por un hombre la resurrección de los muertos.",
+        "Y así como en Adán todos mueren, así también en Cristo todos serán vivificados.",
+        "Pero cada uno en su orden debido: como primer fruto, Cristo; luego, con su venida, los que son de Cristo.",
+        "Después llegará el fin, cuando entregue el Reino a Dios Padre, cuando haya aniquilado todo principado, toda potestad y poder.",
+        "Pues es necesario que él reine, hasta que ponga a todos los enemigos bajo sus pies.",
+        "Como último enemigo será destruida la muerte;",
+        "Y cuando le hayan sido sometidas todas las cosas, entonces también el mismo Hijo se someterá a quien a él sometió todo, para que Dios sea todo en todas las cosas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:31-46",
+      "texto": [
+        "Cuando venga el Hijo del Hombre en su gloria y acompañado de todos los ángeles, se sentará entonces en el trono de su gloria,",
+        "y serán reunidas ante él todas las gentes; y separará a los unos de los otros, como el pastor separa las ovejas de los cabritos,",
+        "y pondrá las ovejas a su derecha, los cabritos en cambio a su izquierda.",
+        "Entonces dirá el Rey a los que estén a su derecha: «Venid, benditos de mi Padre, tomad posesión del Reino preparado para vosotros desde la creación del mundo:",
+        "porque tuve hambre y me disteis de comer; tuve sed y me disteis de beber; era peregrino y me acogisteis;",
+        "estaba desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme.",
+        "Entonces le responderán los justos: «Señor, ¿cuándo te vimos hambriento y te dimos de comer, o sediento y te dimos de beber?;",
+        "¿cuándo te vimos peregrino y te acogimos, o desnudo y te vestimos?,",
+        "o ¿cuándo te vimos enfermo o en la cárcel y vinimos a verte?",
+        "Y el Rey, en respuesta, les dirá: «En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis.",
+        "Entonces dirá a los que estén a la izquierda: «Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles:",
+        "porque tuve hambre y no me disteis de comer; tuve sed y no me disteis de beber;",
+        "era peregrino y no me acogisteis; estaba desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis.",
+        "Entonces le replicarán también ellos: «Señor, ¿cuándo te vimos hambriento o sediento, peregrino o desnudo, enfermo o en la cárcel y no te asistimos?",
+        "Entonces les responderá: «En verdad os digo que cuanto dejasteis de hacer con uno de estos más pequeños, también dejasteis de hacerlo conmigo.",
+        "Y éstos irán al suplicio eterno; los justos, en cambio, a la vida eterna."
+      ]
+    }
+  }
+}

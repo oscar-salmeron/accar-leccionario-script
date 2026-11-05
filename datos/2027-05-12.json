@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-05-12",
+  "fiesta": "San Leopoldo Myic, Capuchino, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 20:28-38",
+      "texto": [
+        "Cuidad de vosotros y de toda la grey, en la que el Espíritu Santo os puso como obispos para apacentar la Iglesia de Dios, que Él adquirió con su sangre.",
+        "Sé que después de mi marcha se meterán entre vosotros lobos feroces que no perdonarán al rebaño,",
+        "y que de entre vosotros mismos surgirán hombres que enseñarán doctrinas perversas, con el fin de arrastrar a los discípulos tras ellos.",
+        "Debéis, por lo tanto, vigilar y recordar que durante tres años no cesé noche y día de exhortaros con lágrimas a cada uno de vosotros.",
+        "Ahora os encomiendo a Dios y a la palabra de su gracia, que es poderosa para edificar y conceder la herencia a todos los santificados.",
+        "No he codiciado de nadie plata, oro o ropas.",
+        "Sabéis bien que las cosas necesarias para mí y los que están conmigo las proveyeron estas manos.",
+        "Os he enseñado en todo que trabajando así es como debemos socorrer a los necesitados, y que hay que recordar las palabras del Señor Jesús, que dijo: «Mayor felicidad hay en dar que en recibir.",
+        "En cuanto acabó de hablar se puso de rodillas y oró con todos ellos.",
+        "Entonces rompieron todos a llorar y abrazándose al cuello de Pablo le besaban,",
+        "afligidos sobre todo por lo que había dicho de que no volverían a ver su rostro. Y le acompañaron hasta la nave."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 68:29-30, 36",
+      "texto": [
+        "Tú, Dios mío, ordena tu poder. Confirma, oh Dios, lo que obraste en favor nuestro.",
+        "Por tu Templo de Jerusalén, los reyes te traerán presentes.",
+        "Reinos de la tierra, cantad a Dios, entonad salmos al Señor.",
+        "El que cabalga por los cielos, los cielos antiguos, dará su voz, su voz potente.",
+        "Reconoced la fuerza de Dios, su majestad sobre Israel y su poder sobre las nubes.",
+        "Temible eres, Dios mío, desde tu Santuario. El Dios de Israel da al pueblo poderío y grandeza. ¡Bendito sea Dios!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 17:11-19",
+      "texto": [
+        "Ya no estoy en el mundo, pero ellos están en el mundo y yo voy a Ti. Padre Santo, guarda en tu nombre a aquellos que me has dado, para que sean uno como nosotros.",
+        "Cuando estaba con ellos yo los guardaba en tu nombre. He guardado a los que me diste y ninguno de ellos se ha perdido, excepto el hijo de la perdición, para que se cumpliera la Escritura.",
+        "Pero ahora voy a Ti y digo estas cosas en el mundo, para que tengan mi alegría completa en sí mismos.",
+        "Yo les he dado tu palabra, y el mundo los ha odiado porque no son del mundo, lo mismo que yo no soy del mundo.",
+        "No pido que los saques del mundo, sino que los guardes del Maligno.",
+        "No son del mundo lo mismo que yo no soy del mundo.",
+        "Santifícalos en la verdad: tu palabra es la verdad.",
+        "Lo mismo que Tú me enviaste al mundo, así los he enviado yo al mundo.",
+        "Por ellos yo me santifico, para que también ellos sean santificados en la verdad."
+      ]
+    }
+  }
+}

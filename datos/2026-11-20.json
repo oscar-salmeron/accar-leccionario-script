@@ -1,0 +1,39 @@
+{
+  "fecha": "2026-11-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 10:8-11",
+      "texto": [
+        "Entonces la voz que había oído del cielo me habló de nuevo: —Ve y toma el libro abierto de la mano del ángel que está de pie sobre el mar y sobre la tierra.",
+        "Me acerqué al ángel y le dije que me diera el pequeño libro. Él me contestó: —Toma y devóralo, te amargará las entrañas, pero en tu boca será dulce como la miel.",
+        "Tomé el pequeño libro de la mano del ángel y lo devoré. En mi boca fue dulce como la miel, pero cuando lo comí se me amargaron las entrañas.",
+        "Entonces me dijeron: —Es necesario que profetices de nuevo contra muchos pueblos, naciones, lenguas y reyes."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:14, 24, 72, 103, 111, 131",
+      "texto": [
+        "En el camino de tus preceptos me deleito más que en todas las riquezas.",
+        "Pues tus preceptos son mi gozo, y tus decretos, mis consejeros.",
+        "Mejor es para mí la Ley de tu boca que montones de oro y plata.",
+        "¡Qué dulces al paladar son tus palabras! Más que la miel en mi boca.",
+        "Tus preceptos son mi herencia perpetua, la alegría de mi corazón.",
+        "Abro la boca y aspiro el aliento, pues ansío tus mandatos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 19:45-48",
+      "texto": [
+        "Entró en el Templo y comenzó a expulsar a los que vendían,",
+        "diciéndoles: —Está escrito: Mi casa será casa de oración, pero vosotros la habéis convertido en una cueva de ladrones.",
+        "Y enseñaba todos los días en el Templo. Pero los príncipes de los sacerdotes y los escribas buscaban acabar con él, lo mismo que los jefes del pueblo,",
+        "pero no encontraban cómo hacerlo, pues todo el pueblo estaba pendiente escuchándole."
+      ]
+    }
+  }
+}

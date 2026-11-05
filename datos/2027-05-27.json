@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-05-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 42:15-25",
+      "texto": [
+        "Voy a recordar las obras del Señor. Expondré las cosas que he visto. Por la palabra del Señor existen sus obras, y, según su voluntad, se realizó lo que Él tenía decidido.",
+        "El sol ilumina todo con su esplendor; de la gloria del Señor está llena su obra.",
+        "Ni los santos del Señor son capaces de narrar todas sus maravillas. El Señor estableció su ejército para que estuviese delante de su gloria.",
+        "Él escruta el abismo y el corazón de los hombres, y penetra todos sus secretos.",
+        "El Altísimo conoce toda ciencia y examina los signos de los tiempos, anunciando el pasado y el porvenir, y desvelando los rastros de las cosas ocultas.",
+        "No se le escapa ningún pensamiento, ni una sola palabra le es desconocida.",
+        "Ha ordenado las maravillas de su sabiduría, pues es Único antes de los siglos y por los siglos. Nada se le puede añadir ni quitar,",
+        "ni tiene necesidad de consejero alguno.",
+        "¡Qué admirables son todas sus obras! y eso que apenas un destello se puede contemplar.",
+        "Todas ellas viven y permanecen por siglos, y en cualquier circunstancia todas le obedecen.",
+        "Todas son dobles, una frente a otra, Él no ha hecho nada imperfecto.",
+        "Una confirma la bondad de la otra, ¿quién se saciará de contemplar su gloria?"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:2-9",
+      "texto": [
+        "Alabad al Señor con la cítara, entonadle salmos con el arpa de diez cuerdas.",
+        "Cantadle un cántico nuevo, acompasadlo con sonidos de trompeta.",
+        "La palabra del Señor es recta, y hace con fidelidad todas sus obras.",
+        "Él ama la justicia y el derecho: la tierra está llena de su misericordia.",
+        "Por la palabra del Señor fueron hechos los cielos, y por el aliento de su boca todos sus ejércitos.",
+        "Reunió las aguas del mar como en un odre, metió en depósitos las aguas del abismo.",
+        "Tema al Señor la tierra entera, tiemblen ante Él cuantos habitan el orbe,",
+        "porque Él habló, y existió, Él lo ordenó, y se mantuvo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:46-52",
+      "texto": [
+        "Llegan a Jericó. Y cuando salía él de Jericó con sus discípulos y una gran multitud, el hijo de Timeo, Bartimeo, un mendigo ciego, estaba sentado al lado del camino.",
+        "Y al oír que era Jesús Nazareno, comenzó a decir a gritos: —¡Jesús, Hijo de David, ten piedad de mí!",
+        "Y muchos le reprendían para que se callara. Pero él gritaba mucho más: —¡Hijo de David, ten piedad de mí!",
+        "Se paró Jesús y dijo: —Llamadle. Llamaron al ciego diciéndole: —¡Ánimo!, levántate, te llama.",
+        "Él, arrojando su manto, dio un salto y se acercó a Jesús.",
+        "Jesús le preguntó: —¿Qué quieres que te haga? —Rabboni, que vea —le respondió el ciego.",
+        "Entonces Jesús le dijo: —Anda, tu fe te ha salvado. Y al instante recobró la vista. Y le seguía por el camino."
+      ]
+    }
+  }
+}

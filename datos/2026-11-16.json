@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-11-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 1:1-4; 2:1-5",
+      "texto": [
+        "Revelación de Jesucristo, que Dios le ha comunicado para manifestar a sus siervos lo que va a suceder pronto, y que, enviando a su ángel, dio a conocer a su siervo Juan,",
+        "quien ha dado testimonio de todo lo que vio: la palabra de Dios y el testimonio de Jesucristo.",
+        "Bienaventurado quien lea y quienes escuchen las palabras de esta profecía, y guarden lo que está escrito en ella; porque el momento está cerca.",
+        "Juan, a las siete iglesias que están en Asia: la gracia y la paz estén con vosotros, de parte de aquel que es, que era y que va a venir; de parte de los siete espíritus que están delante de su trono,",
+        "Al ángel de la iglesia de Éfeso escríbele: «Esto dice el que tiene las siete estrellas en la mano derecha, el que anda por en medio de los siete candelabros de oro:",
+        "“Conozco tus obras, tu fatiga y tu paciencia; que no puedes soportar a los malvados y que has puesto a prueba a los que se dicen apóstoles y no lo son, y los encontraste mentirosos;",
+        "que tienes paciencia y has sufrido por mi nombre, sin desfallecer.",
+        "Pero tengo contra ti que has perdido la caridad que tenías al principio.",
+        "Recuerda, por tanto, de dónde has caído, arrepiéntete, y practica las obras de antes. De lo contrario, iré adonde estás tú y desplazaré tu candelabro de su sitio, a no ser que te conviertas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 1:1-4, 6",
+      "texto": [
+        "Dichoso el hombre que no sigue el consejo de impíos, ni se detiene en el camino de pecadores, ni toma asiento con farsantes,",
+        "sino que se complace en la Ley del Señor, y noche y día medita en su Ley.",
+        "Será como un árbol plantado al borde de la acequia, que da fruto a su tiempo, y no se marchitan sus hojas: cuanto hace prospera.",
+        "No así los impíos, no así. Son como polvo que dispersa el viento.",
+        "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 18:35-43",
+      "texto": [
+        "Cuando se acercaban a Jericó, un ciego estaba sentado al lado del camino mendigando.",
+        "Al oír que pasaba mucha gente, preguntó qué era aquello.",
+        "Le contestaron: —Es Jesús Nazareno, que pasa.",
+        "Y gritó diciendo: —¡Jesús, Hijo de David, ten piedad de mí!",
+        "Y los que iban delante le reprendían para que se estuviera callado. Pero él gritaba mucho más: —¡Hijo de David, ten piedad de mí!",
+        "Jesús, parándose, mandó que lo trajeran ante él. Y cuando se acercó, le preguntó:",
+        "—¿Qué quieres que te haga? —Señor, que vea —respondió él.",
+        "Y Jesús le dijo: —Recobra la vista, tu fe te ha salvado.",
+        "Y al instante recobró la vista, y le seguía glorificando a Dios. Y todo el pueblo, al presenciarlo, alabó a Dios."
+      ]
+    }
+  }
+}

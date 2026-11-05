@@ -1,0 +1,57 @@
+{
+  "fecha": "2026-11-09",
+  "fiesta": "Dedicación de la Basílica de San Juan de Letrán (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ezequiel 47:1-2, 9, 12",
+      "texto": [
+        "Me hizo volver a la entrada del Templo y vi que brotaba agua de debajo del umbral del Templo hacia oriente; porque la fachada del Templo daba a oriente. El agua bajaba desde el lado derecho del Templo, por la parte meridional del altar.",
+        "Me hizo salir por la puerta del norte y me hizo volver por fuera, hasta la puerta exterior que da a oriente. El agua manaba desde el lado derecho.",
+        "Y me dijo: —Esta agua que brota hacia la región oriental desciende hasta la Arabá y llega al mar de aguas salobres; pero las sanará.",
+        "Todo ser viviente que se mueve por donde llega el torrente vivirá. Habrá gran abundancia de peces allí donde llegue el agua porque las aguas serán sanadas y vivirá todo lo que haya en el lugar donde el torrente llegue;",
+        "Junto al torrente, a una y otra orilla, crecerá toda clase de árboles frutales. Sus hojas no se marchitarán ni se acabará su fruto. Todos los meses darán frutos nuevos porque sus aguas fluyen del santuario. Sus frutos serán comestibles y sus hojas medicinales."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 46:2-3, 6, 9",
+      "texto": [
+        "Dios es nuestro refugio y fortaleza, socorro fácil de encontrar en las angustias.",
+        "Por eso no tememos aunque se conmueva la tierra, y se derrumben los montes en lo hondo del mar;",
+        "Un río y sus canales alegran la ciudad de Dios, la morada santa del Altísimo.",
+        "Dios está en medio de ella: no podrá retemblar; al despuntar el alba, Dios la asiste.",
+        "El Señor de los ejércitos está con nosotros, nuestra fortaleza es el Dios de Jacob.",
+        "Venid a ver los prodigios del Señor, que hace maravillas en la tierra."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 3:9-11, 17",
+      "texto": [
+        "Porque nosotros somos colaboradores de Dios; vosotros sois campo de Dios, edificación de Dios.",
+        "Según la gracia de Dios que me ha sido dada, yo puse los cimientos como sabio arquitecto, y otro edifica sobre ellos. Cada uno mire cómo edifica,",
+        "pues nadie puede poner otro cimiento distinto del que está puesto, que es Jesucristo.",
+        "¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?",
+        "Si alguno destruye el templo de Dios, Dios le destruirá a él; porque el templo de Dios, que sois vosotros, es santo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 2:13-22",
+      "texto": [
+        "Pronto iba a ser la Pascua de los judíos y Jesús subió a Jerusalén.",
+        "Encontró en el Templo a los vendedores de bueyes, ovejas y palomas, y a los cambistas en sus puestos.",
+        "Con unas cuerdas hizo un látigo y arrojó a todos del Templo, con las ovejas y los bueyes; tiró las monedas de los cambistas y volcó las mesas.",
+        "Y les dijo a los que vendían palomas: —Quitad esto de aquí: no hagáis de la casa de mi Padre un mercado.",
+        "Recordaron sus discípulos que está escrito: El celo de tu casa me consume.",
+        "Entonces los judíos replicaron: —¿Qué signo nos das para hacer esto?",
+        "Jesús respondió: —Destruid este Templo y en tres días lo levantaré.",
+        "Los judíos contestaron: —¿En cuarenta y seis años ha sido construido este Templo, y tú lo vas a levantar en tres días?",
+        "Pero él se refería al Templo de su cuerpo.",
+        "Cuando resucitó de entre los muertos, recordaron sus discípulos que él había dicho esto, y creyeron en la Escritura y en las palabras que había pronunciado Jesús."
+      ]
+    }
+  }
+}

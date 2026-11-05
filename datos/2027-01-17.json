@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-01-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Samuel 3:3-10, 19",
+      "texto": [
+        "la lámpara de Dios todavía no se había apagado y Samuel estaba acostado en el Santuario del Señor donde estaba el arca de Dios.",
+        "Entonces el Señor le llamó: —¡Samuel, Samuel! Él respondió: —Aquí estoy.",
+        "Y corrió hasta Elí y le dijo: —Aquí estoy porque me has llamado. Pero Elí le respondió: —No te he llamado. Vuelve a acostarte. Y fue a acostarse.",
+        "El Señor lo llamó de nuevo: —¡Samuel! Se levantó, fue hasta Elí y le dijo: —Aquí estoy porque me has llamado. Pero Elí contestó: —No te he llamado, hijo mío. Vuelve a acostarte",
+        "—Samuel todavía no reconocía al Señor, pues aún no se le había revelado la palabra del Señor.",
+        "Volvió a llamar el Señor por tercera vez a Samuel. Él se levantó, fue hasta Elí y le dijo: —Aquí estoy porque me has llamado. Comprendió entonces Elí que era el Señor quien llamaba al joven,",
+        "y le dijo: —Vuelve a acostarte y si te llaman dirás: «Habla, Señor, que tu siervo escucha. Samuel se fue y se acostó en su aposento.",
+        "Vino el Señor, se presentó y le llamó como otras veces: —¡Samuel, Samuel! Respondió Samuel: —Habla, que tu siervo escucha.",
+        "Samuel crecía y el Señor estaba con él; ninguna de sus palabras cayó en vacío."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 40:2, 4, 10",
+      "texto": [
+        "Esperaba confiadamente en el Señor; Él se inclinó a mí y escuchó mi clamor.",
+        "Ha puesto en mi boca un cántico nuevo, una alabanza a nuestro Dios. Muchos, al verlo, temerán y esperarán en el Señor.",
+        "No quisiste sacrificio ni ofrenda, pero me abriste el oído. No pediste holocausto ni sacrificio de expiación;",
+        "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—",
+        "para hacer tu voluntad, Dios mío. Ése es mi querer, pues llevo tu Ley dentro de mí.",
+        "He anunciado la justicia en la gran asamblea; no he cerrado mis labios, Señor, Tú lo sabes bien."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 6:13-15, 20",
+      "texto": [
+        "«La comida para el vientre, y el vientre para la comida. Pero Dios destruirá lo uno y lo otro. Por otra parte, el cuerpo no es para la fornicación sino para el Señor, y el Señor para el cuerpo.",
+        "Y Dios, que resucitó al Señor, también nos resucitará a nosotros por su poder.",
+        "¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Voy, entonces, a tomar los miembros de Cristo para hacerlos miembros de una meretriz? ¡De ninguna manera!",
+        "En cambio, el que se une al Señor se hace un solo espíritu con él.",
+        "Huid de la fornicación. Todo pecado que un hombre comete queda fuera de su cuerpo; pero el que fornica peca contra su propio cuerpo.",
+        "¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo, que está en vosotros y habéis recibido de Dios, y que no os pertenecéis?",
+        "Habéis sido comprados mediante un precio. Glorificad, por tanto, a Dios en vuestro cuerpo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:35-42",
+      "texto": [
+        "Al día siguiente estaban allí de nuevo Juan y dos de sus discípulos",
+        "y, fijándose en Jesús que pasaba, dijo: —Éste es el Cordero de Dios.",
+        "Los dos discípulos, al oírle hablar así, siguieron a Jesús.",
+        "Se volvió Jesús y, viendo que le seguían, les preguntó: —¿Qué buscáis? Ellos le dijeron: —Rabbí —que significa: «Maestro—, ¿dónde vives?",
+        "Les respondió: —Venid y veréis. Fueron y vieron dónde vivía, y se quedaron con él aquel día. Era más o menos la hora décima.",
+        "Andrés, el hermano de Simón Pedro, era uno de los dos que habían oído a Juan y habían seguido a Jesús.",
+        "Encontró primero a su hermano Simón y le dijo: —Hemos encontrado al Mesías —que significa: «Cristo.",
+        "Y lo llevó a Jesús. Jesús le miró y le dijo: —Tú eres Simón, el hijo de Juan; tú te llamarás Cefas —que significa: «Piedra."
+      ]
+    }
+  }
+}

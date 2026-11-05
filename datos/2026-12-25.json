@@ -1,0 +1,61 @@
+{
+  "fecha": "2026-12-25",
+  "fiesta": "Natividad del Señor (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 9:1-6",
+      "texto": [
+        "El pueblo que caminaba en tinieblas vio una gran luz; a los que habitaban en tierra de sombras de muerte, les ha brillado una luz.",
+        "Multiplicaste el gozo, aumentaste la alegría. Se alegran en tu presencia con la alegría de la siega, como se gozan al repartirse el botín.",
+        "Porque el yugo que los cargaba, la vara de su hombro, el cetro que los oprimía, los quebraste como en el día de Madián.",
+        "Pues toda bota militar que taconea con estrépito, y todo manto restregado en sangre, están destinados a arder, a ser pasto del fuego.",
+        "Porque un niño nos ha nacido, un hijo se nos ha dado. Sobre sus hombros está el imperio, y lleva por nombre: Consejero maravilloso, Dios fuerte, Padre sempiterno, Príncipe de la paz.",
+        "El imperio será engrandecido, y la paz no tendrá fin sobre el trono de David y sobre su reino, para sostenerlo y consolidarlo con el derecho y la justicia, desde ahora y para siempre. El celo del Señor de los ejércitos lo hará."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:1-3, 13",
+      "texto": [
+        "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera.",
+        "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación.",
+        "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos.",
+        "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;",
+        "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque",
+        "ante el Señor, que ya viene, que viene a juzgar la tierra: juzgará al mundo con justicia y a los pueblos con rectitud."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Tito 2:11-14",
+      "texto": [
+        "Pues se ha manifestado la gracia de Dios, portadora de salvación para todos los hombres,",
+        "educándonos para que renunciemos a la impiedad y a las concupiscencias mundanas, y vivamos con prudencia, justicia y piedad en este mundo,",
+        "aguardando la esperanza bienaventurada y la manifestación de la gloria del gran Dios y Salvador nuestro, Jesucristo,",
+        "que se entregó a sí mismo por nosotros para redimirnos de toda iniquidad, y para purificar para sí un pueblo escogido, celoso por hacer el bien."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 2:1-14",
+      "texto": [
+        "En aquellos días se promulgó un edicto de César Augusto, para que se empadronase todo el mundo.",
+        "Este primer empadronamiento se hizo cuando Quirino era gobernador de Siria.",
+        "Todos iban a inscribirse, cada uno a su ciudad.",
+        "José, como era de la casa y familia de David, subió desde Nazaret, ciudad de Galilea, a la ciudad de David llamada Belén, en Judea,",
+        "para empadronarse con María, su esposa, que estaba encinta.",
+        "Y cuando ellos se encontraban allí, le llegó la hora del parto,",
+        "y dio a luz a su hijo primogénito; lo envolvió en pañales y lo recostó en un pesebre, porque no había lugar para ellos en el aposento.",
+        "Había unos pastores por aquellos contornos, que dormían al raso y vigilaban por turno su rebaño durante la noche.",
+        "De improviso un ángel del Señor se les presentó, y la gloria del Señor los rodeó de luz. Y se llenaron de un gran temor.",
+        "El ángel les dijo: —No temáis. Mirad, voy a anunciaros una gran alegría, que lo será para todo el pueblo:",
+        "hoy os ha nacido, en la ciudad de David, el Salvador, que es el Cristo, el Señor;",
+        "y esto os servirá de señal: encontraréis a un niño envuelto en pañales y reclinado en un pesebre.",
+        "De pronto apareció junto al ángel una muchedumbre de la milicia celestial, que alababa a Dios diciendo:",
+        "«Gloria a Dios en las alturas y paz en la tierra a los hombres en los que Él se complace."
+      ]
+    }
+  }
+}

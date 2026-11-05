@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-01-04",
+  "fiesta": "Santa Isabel Ana Seton (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 3:22--4:6",
+      "texto": [
+        "y recibiremos de Él cuanto pidamos, porque guardamos sus mandamientos y hacemos lo que es grato a sus ojos.",
+        "Y éste es su mandamiento: que creamos en el nombre de su Hijo, Jesucristo, y que nos amemos unos a otros, conforme al mandamiento que nos dio.",
+        "El que guarda sus mandamientos permanece en Dios y Dios en él; y por esto conocemos que permanece en nosotros: por el Espíritu que nos ha dado.",
+        "Queridísimos: no creáis a cualquier espíritu, sino averiguad si los espíritus son de Dios, porque han aparecido muchos falsos profetas en el mundo.",
+        "En esto conocéis el espíritu de Dios: todo espíritu que confiesa a Jesucristo venido en carne, es de Dios;",
+        "y todo espíritu que no confiesa a Jesús, no es de Dios. Ése es el espíritu del Anticristo, de quien habéis oído que va a venir, y ya está en el mundo.",
+        "Vosotros, hijos, sois de Dios y los habéis vencido, porque el que está en vosotros es más poderoso que el que está en el mundo.",
+        "Ellos son del mundo; por eso hablan según el mundo, y el mundo los escucha.",
+        "Nosotros somos de Dios. El que conoce a Dios nos escucha; el que no es de Dios no nos escucha. En esto conocemos el espíritu de la verdad y el espíritu del error."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 2:7-8, 12",
+      "texto": [
+        "Proclamaré el decreto del Señor. Él me ha dicho: «Tú eres mi hijo. Yo te he engendrado hoy.",
+        "Pídeme y te daré en herencia las naciones, los confines de la tierra en propiedad.",
+        "Ahora, reyes, sed juiciosos. Escarmentad los que gobernáis la tierra.",
+        "Servid al Señor con temor y aclamadle con temblor.",
+        "Adoradle sin reservas, no sea que se irrite y perdáis el camino, cuando de pronto se encienda su ira. Dichosos cuantos se refugian en Él."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 4:12-17, 25",
+      "texto": [
+        "Cuando oyó que Juan había sido encarcelado, se retiró a Galilea.",
+        "Y dejando Nazaret se fue a vivir a Cafarnaún, ciudad marítima, en los confines de Zabulón y Neftalí,",
+        "para que se cumpliera lo dicho por medio del profeta Isaías:",
+        "Tierra de Zabulón y tierra de Neftalí en el camino del mar, al otro lado del Jordán, la Galilea de los gentiles,",
+        "el pueblo que yacía en tinieblas ha visto una gran luz; para los que yacían en región y sombra de muerte una luz ha amanecido.",
+        "Desde entonces comenzó Jesús a predicar y a decir: —Convertíos, porque está al llegar el Reino de los Cielos.",
+        "Su fama se extendió por toda Siria; y le traían a todos los que se sentían mal, aquejados de diversas enfermedades y dolores, a los endemoniados, lunáticos y paralíticos, y los curaba.",
+        "Y le seguían grandes multitudes de Galilea, Decápolis, Jerusalén, Judea y del otro lado del Jordán."
+      ]
+    }
+  }
+}

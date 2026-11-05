@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-06-11",
+  "fiesta": "San Barnabas, Apóstol (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 11:21-26; 13:1-3",
+      "texto": [
+        "La mano del Señor estaba con ellos y un gran número creyó y se convirtió al Señor.",
+        "Llegó esta noticia a oídos de la iglesia que había en Jerusalén, y enviaron a Bernabé a Antioquía.",
+        "Cuando llegó y vio la gracia de Dios se alegró, y a todos les exhortaba a permanecer en el Señor con un corazón firme,",
+        "porque era un hombre bueno y lleno del Espíritu Santo y de fe. Y una gran muchedumbre se adhirió al Señor.",
+        "Marchó Bernabé a Tarso para buscar a Saulo,",
+        "lo encontró y lo condujo a Antioquía. Estuvieron juntos en aquella iglesia un año entero y adoctrinaron a una gran muchedumbre. Fue en Antioquía donde los discípulos recibieron por primera vez el nombre de cristianos.",
+        "En la iglesia de Antioquía había profetas y maestros: Bernabé y Simón, que era llamado el Negro, Lucio, el de Cirene, y Manahén, hermano de leche del tetrarca Herodes, y Saulo.",
+        "Mientras celebraban el culto del Señor y ayunaban, dijo el Espíritu Santo: —Separadme a Bernabé y a Saulo para la obra que les he destinado.",
+        "Y después de ayunar, orar e imponerles las manos, los despidieron."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-6",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos.",
+        "Entonad salmos al Señor con la cítara, con la cítara al son de la música;",
+        "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 10:7-13",
+      "texto": [
+        "Id y predicad: «El Reino de los Cielos está al llegar.",
+        "Curad a los enfermos, resucitad a los muertos, sanad a los leprosos, expulsad los demonios. Gratuitamente lo recibisteis, dadlo gratuitamente.",
+        "No llevéis oro, ni plata, ni dinero en vuestras bolsas,",
+        "ni alforja para el camino, ni dos túnicas, ni sandalias, ni bastón, porque el que trabaja merece su sustento.",
+        "En cualquier ciudad o aldea en que entréis, informaos sobre quién hay en ella que sea digno; y quedaos allí hasta que os vayáis.",
+        "Al entrar en una casa dadle vuestro saludo.",
+        "Si la casa fuera digna, venga vuestra paz sobre ella; pero si no fuera digna, que vuestra paz vuelva a vosotros."
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-11-08",
+  "fiesta": "Beato Juan Duns Escoto, Presbítero (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 1:1-7",
+      "texto": [
+        "Amad la justicia, los que gobernáis la tierra, pensad con bondad en las cosas del Señor, y buscadle con sencillez de corazón.",
+        "Porque se deja hallar por los que no le tientan, se manifiesta a los que no le niegan su fe.",
+        "Pero los razonamientos retorcidos apartan de Dios, y su poder, puesto a prueba, recrimina a los insensatos.",
+        "La sabiduría no penetra en un alma maliciosa, ni habita en un cuerpo dominado por el pecado.",
+        "El espíritu santo, maestro, rehúye del engaño, se aleja de los razonamientos necios y será recriminado al sobrevenir la iniquidad.",
+        "La sabiduría es un espíritu que ama a los hombres, pero no dejará sin castigo al que blasfema con sus labios; porque Dios es testigo de sus interioridades, vigilante veraz de su corazón, y escucha su lengua.",
+        "El espíritu del Señor llena la tierra, y, al contener todas las cosas, conoce bien cualquier voz."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 139:1-10",
+      "texto": [
+        "Al maestro de coro. De David. Salmo. Señor, Tú me examinas y me conoces.",
+        "Tú sabes cuándo me siento y me levanto. Penetras desde lejos mis pensamientos.",
+        "Camine o descanse, Tú lo adviertes; todas mis sendas te son familiares.",
+        "Pues aún no está una palabra en mi lengua, y ya, Señor, la conoces toda.",
+        "Me aprietas por detrás y por delante, en mí tienes puesta tu mano.",
+        "Misterioso es para mí este saber; demasiado elevado, no puedo alcanzarlo.",
+        "¿Adónde alejarme de tu espíritu? ¿Adónde huir de tu presencia?",
+        "Si subo al cielo, allí estás Tú; si bajo hasta el sheol, allí te encuentras.",
+        "Si monto en las alas de la aurora y habito en los confines del mar,",
+        "también allí me guiará tu mano, me sujetará tu diestra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:1-6",
+      "texto": [
+        "Les dijo a sus discípulos: —Es imposible que no vengan los escándalos; pero, ¡ay de aquel por quien vienen!",
+        "Más le valdría que le ajustaran al cuello una piedra de molino y que le arrojaran al mar, que escandalizar a uno de esos pequeños:",
+        "andaos con cuidado. Si tu hermano peca, repréndele; y, si se arrepiente, perdónale.",
+        "Y si peca siete veces al día contra ti, y siete veces vuelve a ti, diciendo: «Me arrepiento, le perdonarás.",
+        "Los apóstoles le dijeron al Señor: —Auméntanos la fe.",
+        "Respondió el Señor: —Si tuvierais fe como un grano de mostaza, diríais a esta morera: arráncate y plántate en el mar, y os obedecería."
+      ]
+    }
+  }
+}

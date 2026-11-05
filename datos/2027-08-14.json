@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-08-14",
+  "fiesta": "San Maximiliano María Kolbe, Presbítero, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 3:13-18",
+      "texto": [
+        "No os extrañéis, hermanos, si el mundo os aborrece.",
+        "Nosotros sabemos que hemos pasado de la muerte a la vida, porque amamos a nuestros hermanos. El que no ama permanece en la muerte.",
+        "Todo el que aborrece a su hermano es un homicida; y sabéis que ningún homicida tiene en sí la vida eterna.",
+        "En esto hemos conocido el amor: en que él dio su vida por nosotros. Por eso también nosotros debemos dar la vida por nuestros hermanos.",
+        "Si alguno posee bienes de este mundo y, viendo que su hermano padece necesidad, le cierra su corazón, ¿cómo puede permanecer en él el amor a Dios?",
+        "Hijos, no amemos de palabra ni con la boca, sino con obras y de verdad."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 116:10-13, 17",
+      "texto": [
+        "Yo mantenía la fe, aun cuando dije: «Soy muy desdichado.",
+        "Yo, que en mi turbación decía: «Todo hombre es falaz.",
+        "¿Cómo pagaré al Señor todo el bien que me ha dado?",
+        "Alzaré la copa de la salvación e invocaré el Nombre del Señor.",
+        "¡Ah, Señor, yo soy tu siervo, tu siervo soy, el hijo de tu esclava! Tú has soltado mis cadenas.",
+        "Te ofreceré un sacrificio de acción de gracias, e invocaré el Nombre del Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:12-17",
+      "texto": [
+        "Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado.",
+        "Nadie tiene amor más grande que el de dar uno la vida por sus amigos.",
+        "Vosotros sois mis amigos si hacéis lo que os mando.",
+        "Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer.",
+        "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda.",
+        "Esto os mando: que os améis los unos a los otros."
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-10-04",
+  "fiesta": "San Francisco de Asís, Diácono, Religioso, Fundador de las Tres Órdenes (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 50:1, 4, 7",
+      "texto": [
+        "Simón, hijo de Onías, sumo sacerdote: en vida reparó el Templo, y en sus días fortificó el Santuario.",
+        "En sus días se excavó el depósito de agua, un estanque ancho como el mar.",
+        "Cuidó de su pueblo frente a los salteadores, y fortificó la ciudad contra los asedios.",
+        "Era como el lucero de la mañana entre las nubes, como la luna llena en los días de fiesta;",
+        "como el sol que brilla sobre el Templo del Altísimo,",
+        "como el arco iris entre nubes de gloria, como la flor de las rosas en días de primavera, como azucena junto a corriente de agua, como brote del Líbano en los días de verano;"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 16:1-2, 5, 8, 11",
+      "texto": [
+        "Mictam. De David. Guárdame, Dios mío, que me refugio en Ti.",
+        "Yo digo al Señor: «Tú eres mi Señor. No tengo otro bien que Tú.",
+        "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte.",
+        "Yo bendigo al Señor, que me aconseja; hasta de noche mi corazón me instruye.",
+        "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo.",
+        "Me enseñas la senda de la vida, saciedad de gozo en tu presencia, dicha perpetua a tu derecha."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Gálatas 6:14-18",
+      "texto": [
+        "¡Que yo nunca me gloríe más que en la cruz de nuestro Señor Jesucristo, por quien el mundo está crucificado para mí y yo para el mundo!",
+        "Porque ni la circuncisión ni la falta de circuncisión importan, sino la nueva criatura.",
+        "Para todos los que sigan esta norma, paz y misericordia, lo mismo que para el Israel de Dios.",
+        "En adelante, que nadie me importune, porque llevo en mi cuerpo las señales de Jesús.",
+        "Hermanos, que la gracia de nuestro Señor Jesucristo esté con vuestro espíritu. Amén."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 11:25-30",
+      "texto": [
+        "En aquella ocasión Jesús declaró: —Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños.",
+        "Sí, Padre, porque así te ha parecido bien.",
+        "Todo me ha sido entregado por mi Padre, y nadie conoce al Hijo sino el Padre, ni nadie conoce al Padre sino el Hijo y aquel a quien el Hijo quiera revelarlo.",
+        "Venid a mí todos los fatigados y agobiados, y yo os aliviaré.",
+        "Llevad mi yugo sobre vosotros y aprended de mí que soy manso y humilde de corazón, y encontraréis descanso para vuestras almas:",
+        "porque mi yugo es suave y mi carga es ligera."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-14",
+  "fiesta": "San Juan de la Cruz, Presbítero, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 24:2-7, 17",
+      "texto": [
+        "Balaam levantó sus ojos y vio a Israel acampado por tribus; vino sobre él el espíritu de Dios,",
+        "y proclamó su mensaje diciendo: —Oráculo de Balaam, hijo de Beor, oráculo del caballero clarividente,",
+        "oráculo de quien escucha las locuciones de Dios, vislumbra la previsión del Omnipotente, se postra, y contempla clarísimo.",
+        "¡Qué hermosas son tus tiendas, oh Jacob, y tus moradas, Israel!",
+        "Como valles dilatados, y jardines a la orilla de torrentes, como áloes del Señor plantados, como cedros a la vera de las fuentes.",
+        "Rebosan las aguas de sus baldes, las acequias inundan sus simientes. Su rey será ensalzado más que Agag, su reino será exaltado.",
+        "Y proclamó su mensaje diciendo: —Oráculo de Balaam, hijo de Beor, oráculo del caballero clarividente,",
+        "oráculo de quien escucha las locuciones de Dios, conoce el criterio del Altísimo, vislumbra la previsión del Omnipotente, se postra, y contempla clarísimo.",
+        "Lo vislumbro, pero no es ahora; lo diviso, pero no de cerca: de Jacob viene en camino una estrella, en Israel se ha levantado un cetro. Tritura las sienes de Moab y el cráneo de todos los hijos de Set."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 25:4-9",
+      "texto": [
+        "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas.",
+        "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador, (Vav) y en Ti espero todo el día.",
+        "(Záin) Acuérdate, Señor, de tu misericordia y de tu amor, que son eternos.",
+        "(Het) No recuerdes los pecados y delitos de mi juventud. Acuérdate de mí según tu misericordia, por tu bondad, ¡Señor!",
+        "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,",
+        "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 21:23-27",
+      "texto": [
+        "Llegó al Templo, y mientras estaba enseñando se le acercaron los príncipes de los sacerdotes y los ancianos del pueblo, y le preguntaron: —¿Con qué potestad haces estas cosas? ¿Y quién te ha dado tal potestad?",
+        "Jesús les respondió: —También yo os voy a hacer una pregunta; si me la contestáis, entonces yo os diré con qué potestad hago estas cosas.",
+        "El bautismo de Juan ¿de dónde era?, ¿del cielo o de los hombres? Ellos deliberaban entre sí: «Si decimos que del cielo, nos replicará: “¿Por qué, pues, no le creísteis?”",
+        "Si decimos que de los hombres, tememos a la gente; pues todos tienen a Juan por profeta.",
+        "Y respondieron a Jesús: —No lo sabemos. Entonces él les dijo: —Pues tampoco yo os digo con qué potestad hago estas cosas."
+      ]
+    }
+  }
+}

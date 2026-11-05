@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-08-06",
+  "fiesta": "Transfiguración del Señor (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 7:9-10, 14",
+      "texto": [
+        "Seguí mirando hasta que se levantaron unos tronos y un anciano en días se sentó. Su vestido era blanco como nieve, el cabello de su cabeza como lana pura; su trono, llamas de fuego; sus ruedas, fuego llameante.",
+        "Corría un río de fuego que surgía delante de él. Miles de millares le servían, miríadas y miríadas permanecían ante él. El tribunal se sentó y se abrieron los libros.",
+        "Seguí mirando en mi visión nocturna y he aquí que con las nubes del cielo venía como un hijo de hombre. Avanzó hasta el anciano venerable y fue llevado ante él.",
+        "A él se le dio dominio, honor y reino. Y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará; y su reino no será destruido."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 97:1-2, 6, 9",
+      "texto": [
+        "El Señor reina: exulte la tierra, alégrense las islas incontables.",
+        "Nubes y tinieblas lo rodean, justicia y derecho son el fundamento de su trono.",
+        "Los montes se derriten como cera ante el Señor, ante el Dueño de toda la tierra.",
+        "Los cielos anuncian su justicia, y todos los pueblos contemplan su gloria.",
+        "Porque Tú eres el Señor, el Altísimo sobre toda la tierra, ensalzado sobre todos los dioses."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Pedro 1:16-19",
+      "texto": [
+        "Pues os hemos dado a conocer el poder y la venida futura de nuestro Señor Jesucristo, no siguiendo fábulas ingeniosas, sino porque hemos sido testigos oculares de su majestad.",
+        "En efecto, él fue honrado y glorificado por Dios Padre, cuando la suprema gloria le dirigió esta voz: «Éste es mi Hijo, el Amado, en quien tengo mis complacencias.",
+        "Y esta voz venida del cielo la oímos nosotros estando con él en el monte santo.",
+        "Y tenemos así mejor confirmada la palabra de los profetas, a la que hacéis bien en prestar atención como a una lámpara que alumbra en la oscuridad, hasta que alboree el día y el lucero de la mañana amanezca en vuestros corazones."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 9:2-10",
+      "texto": [
+        "Seis días después, Jesús se llevó con él a Pedro, a Santiago y a Juan, y los condujo, a ellos solos aparte, a un monte alto y se transfiguró ante ellos.",
+        "Sus vestidos se volvieron deslumbrantes y muy blancos; tanto, que ningún batanero en la tierra puede dejarlos así de blancos.",
+        "Y se les aparecieron Elías y Moisés, y conversaban con Jesús.",
+        "Pedro, tomando la palabra, le dice a Jesús: —Maestro, qué bien estamos aquí; hagamos tres tiendas: una para ti, otra para Moisés y otra para Elías.",
+        "Pues no sabía lo que decía, porque estaban llenos de temor.",
+        "Entonces se formó una nube que los cubrió y se oyó una voz desde la nube: —Éste es mi Hijo, el amado: escuchadle.",
+        "Y luego, mirando a su alrededor, ya no vieron a nadie: sólo a Jesús con ellos.",
+        "Mientras bajaban del monte les ordenó que no contasen a nadie lo que habían visto, hasta que el Hijo del Hombre resucitara de entre los muertos.",
+        "Ellos retuvieron estas palabras, discutiendo entre sí qué era lo de resucitar de entre los muertos."
+      ]
+    }
+  }
+}

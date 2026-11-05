@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-10-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jonás 4:1-11",
+      "texto": [
+        "Pero Jonás se llevó un gran disgusto y se enojó.",
+        "Y oró al Señor, diciendo: —¡Ah, Señor! ¿No era esto lo que yo me decía cuando aún estaba en mi tierra? Por eso me adelanté a huir a Tarsis, porque sabía que Tú eres el Dios clemente y misericordioso, lento a la ira y rico en misericordia, y que te dueles del mal.",
+        "Ahora, Señor, te suplico, quítame la vida: más me vale morir que vivir.",
+        "El Señor le respondió: —¿Te vale más enojarte?",
+        "Jonás salió de la ciudad y se detuvo a levante de la ciudad. Allí se hizo una cabaña, y se sentó debajo, a la sombra, a la espera de lo que sucediese en la ciudad.",
+        "El Señor Dios dispuso que un ricino creciera por encima de Jonás para darle sombra en la cabeza y librarlo de su malestar. Jonás sintió gran dicha por aquel ricino.",
+        "Pero el Señor dispuso que, al rayar la aurora, al día siguiente, un gusano atacara el ricino, que se secó.",
+        "Y, al brillar el sol, Dios dispuso un viento solano sofocante, y pegó el sol en la cabeza de Jonás, que se desvaneció. Entonces pidió morirse, y decía: —Más me vale morir que vivir.",
+        "Respondió Dios a Jonás: —¿Te parece bien enojarte por un ricino? Y contestó: —Me parece bien enojarme hasta morir.",
+        "Replicó el Señor: —Tú te apiadas del ricino, por el que no te has pasado fatiga alguna, ni le has hecho crecer, que una noche ha nacido y una noche ha perecido.",
+        "Pues Yo, ¿no he de apiadarme de Nínive, la gran ciudad, en la que hay mucho más de ciento veinte mil personas que no saben distinguir entre su derecha y su izquierda, e innumerables animales?"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 86:3-6, 10",
+      "texto": [
+        "Ten piedad de mí, Señor mío, que te invoco todo el día.",
+        "Alegra la vida de tu siervo, que a Ti, Señor, levanto mi alma.",
+        "Pues Tú, Señor, eres bueno e indulgente, rico en misericordia con los que te invocan.",
+        "Escucha, Señor, mi plegaria, atiende a la voz de mi súplica.",
+        "Todas las naciones que hiciste vendrán a postrarse ante Ti, Señor, y a dar gloria a tu Nombre;",
+        "porque Tu eres grande y haces maravillas: Tú solo eres Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:1-4",
+      "texto": [
+        "Estaba haciendo oración en cierto lugar. Y cuando terminó, le dijo uno de sus discípulos: —Señor, enséñanos a orar, como Juan enseñó a sus discípulos.",
+        "Él les respondió: —Cuando oréis, decid: Padre, santificado sea tu Nombre, venga tu Reino;",
+        "danos cada día nuestro pan cotidiano;",
+        "y perdónanos nuestros pecados, puesto que también nosotros perdonamos a todo el que nos debe; y no nos pongas en tentación."
+      ]
+    }
+  }
+}

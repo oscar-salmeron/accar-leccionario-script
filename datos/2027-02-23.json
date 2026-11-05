@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-02-23",
+  "fiesta": "San Policarpo, Obispo, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 1:10, 20",
+      "texto": [
+        "¡Escuchad la palabra del Señor, príncipes de Sodoma! ¡Prestad oído a la Ley de nuestro Dios, pueblo de Gomorra!",
+        "Lavaos, purificaos, quitad de delante de mis ojos la maldad de vuestras obras, dejad de hacer el mal,",
+        "aprended a hacer el bien: buscad la justicia, proteged al oprimido, haced justicia al huérfano, defended la causa de la viuda.",
+        "Venid y litiguemos —dice el Señor—. Aunque vuestros pecados fuesen como la grana, quedarán blancos como la nieve; aunque fuesen rojos como la púrpura, quedarán como la lana.",
+        "Si queréis y escucháis, comeréis lo mejor de la tierra;",
+        "pero si no queréis y os rebeláis, seréis devorados por la espada, pues ha hablado la boca del Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 50:8-9, 17, 21, 23",
+      "texto": [
+        "No te reprendo por tus sacrificios, pues tus holocaustos están siempre ante Mí.",
+        "No tomaré de tu casa ni un ternero, ni un cabrito de tus apriscos;",
+        "Dios dice al impío: «¿Por qué repites mis preceptos y tienes en tu boca mi alianza,",
+        "tú, que aborreces mi doctrina y postergas mis mandatos?",
+        "Tú has hecho estas cosas y Yo me he callado. Pensabas que soy como tú. Pero Yo te acusaré y te reprocharé cara a cara.",
+        "Quien ofrece un sacrificio de alabanza me da gloria. Al que es íntegro en el camino le mostraré la salvación de Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 23:1-12",
+      "texto": [
+        "Entonces Jesús habló a las multitudes y a sus discípulos",
+        "diciendo: —En la cátedra de Moisés se han sentado los escribas y los fariseos.",
+        "Haced y cumplid todo cuanto os digan; pero no obréis como ellos, pues dicen pero no hacen.",
+        "Atan cargas pesadas e insoportables y las echan sobre los hombros de los demás, pero ellos ni con uno de sus dedos quieren moverlas.",
+        "Hacen todas sus obras para que les vean los hombres. Ensanchan sus filacterias y alargan sus franjas.",
+        "Anhelan los primeros puestos en los banquetes, los primeros asientos en las sinagogas",
+        "y que les saluden en las plazas, y que la gente les llame rabbí.",
+        "Vosotros, al contrario, no os hagáis llamar rabbí, porque sólo uno es vuestro maestro y todos vosotros sois hermanos.",
+        "No llaméis padre vuestro a nadie en la tierra, porque sólo uno es vuestro Padre, el celestial.",
+        "Tampoco os dejéis llamar doctores, porque vuestro doctor es uno sólo: Cristo.",
+        "Que el mayor entre vosotros sea vuestro servidor.",
+        "El que se ensalce será humillado, y el que se humille será ensalzado."
+      ]
+    }
+  }
+}

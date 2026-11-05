@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-11-07",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Filipenses 4:10-19",
+      "texto": [
+        "Me alegré mucho en el Señor de que por fin hayáis podido manifestar de nuevo el afecto que sentíais por mí, porque, aunque lo sentíais, no se os había presentado la ocasión de expresarlo.",
+        "No os lo digo porque esté necesitado, pues he aprendido a contentarme con lo que tengo:",
+        "he aprendido a vivir en la pobreza, he aprendido a vivir en la abundancia, estoy acostumbrado a todo en todo lugar, a la hartura y a la escasez, a la riqueza y a la pobreza.",
+        "Todo lo puedo en Aquel que me conforta.",
+        "No obstante, habéis hecho bien al compartir mi tribulación.",
+        "Sabéis bien vosotros, filipenses, que al principio de la evangelización, cuando salí de Macedonia, ninguna iglesia me abrió una cuenta de «debe y «haber, excepto vosotros,",
+        "pues una y otra vez enviasteis a Tesalónica con qué atender a mis necesidades.",
+        "No es que yo busque dádivas, sino que deseo que aumenten los intereses en vuestra cuenta.",
+        "He recibido todo y tengo de sobra, estoy colmado con los bienes recibidos de parte vuestra por medio de Epafrodito, una ofrenda aceptable, de suave olor, agradable ante Dios.",
+        "Mi Dios colmará todas vuestras necesidades, generosamente según su riqueza, con la gloria por Cristo Jesús."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 112:1-2, 6, 9",
+      "texto": [
+        "Aleluya. (Alef) Dichoso el hombre que teme al Señor, (Bet) y se complace de lleno en sus mandamientos.",
+        "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos.",
+        "(Tet) Feliz el hombre compasivo y que presta, (Yod) y que administra sus asuntos con justicia;",
+        "(Kaf) no vacilará jamás. (Lámed) El justo será siempre recordado;",
+        "(Sámek) su corazón está seguro, sin temer, (Áin) hasta que mire por encima a sus enemigos.",
+        "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre; (Qof) lleva alta su frente con honor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 16:9-15",
+      "texto": [
+        "Y yo os digo: haceos amigos con las riquezas injustas, para que, cuando falten, os reciban en las moradas eternas.",
+        "Quien es fiel en lo poco también es fiel en lo mucho; y quien es injusto en lo poco también es injusto en lo mucho.",
+        "Por tanto, si no fuisteis fieles en la riqueza injusta, ¿quién os confiará la verdadera?",
+        "Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo vuestro?",
+        "Ningún criado puede servir a dos señores, porque o tendrá odio a uno y amor al otro, o prestará su adhesión al primero y menospreciará al segundo: no podéis servir a Dios y a las riquezas.",
+        "Oían todas estas cosas los fariseos, que eran amantes del dinero, y se burlaban de él.",
+        "Y les dijo: —Vosotros os hacéis pasar por justos delante de los hombres, pero Dios conoce vuestros corazones; porque lo que parece ser excelso ante los hombres es abominable delante de Dios."
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-03-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jeremías 7:23-28",
+      "texto": [
+        "Sino que esto fue lo que les ordené: “Escuchad mi voz y Yo seré vuestro Dios y vosotros seréis mi pueblo y andaréis por todo camino donde os mande, para que os vaya bien”.",
+        "Ellos, sin embargo, no me escucharon ni prestaron oídos, sino que caminaron según sus designios, siguiendo a su perverso y obstinado corazón, y me dieron la espalda en vez de la cara.",
+        "Desde el día en que vuestros padres salieron de la tierra de Egipto hasta hoy, os fui enviando, sin cesar, a tantísimos siervos míos, los profetas.",
+        "Pero no me escucharon, ni prestaron oídos, sino que endurecieron su cerviz y fueron peores que sus padres.",
+        "Les repetirás todas estas palabras, pero no te escucharán. Les gritarás, pero no te responderán.",
+        "Entonces les dirás: “Ésta es la nación que no ha escuchado la voz del Señor, su Dios, ni aceptó la instrucción. Se perdió la fidelidad, fue arrancada de su boca”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:1-2, 9",
+      "texto": [
+        "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación.",
+        "Vayamos a su presencia con acción de gracias, aclamémosle con salmos.",
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!",
+        "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,",
+        "donde me tentaron vuestros padres, me pusieron a prueba, aunque habían visto mis obras."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:14-23",
+      "texto": [
+        "Estaba expulsando un demonio que era mudo. Y cuando salió el demonio, habló el mudo y la multitud se quedó admirada;",
+        "pero algunos de ellos dijeron: —Expulsa los demonios por Beelzebul, el príncipe de los demonios.",
+        "Y otros, para tentarle, le pedían una señal del cielo.",
+        "Pero él, que conocía sus pensamientos, les replicó: —Todo reino dividido contra sí mismo queda desolado y cae casa contra casa.",
+        "Si también Satanás está dividido contra sí mismo, ¿cómo se sostendrá su reino? Puesto que decís que expulso los demonios por Beelzebul.",
+        "Si yo expulso los demonios por Beelzebul, vuestros hijos ¿por quién los expulsan? Por eso, ellos mismos serán vuestros jueces.",
+        "Pero si yo expulso los demonios por el dedo de Dios, es que el Reino de Dios ha llegado a vosotros.",
+        "Cuando uno que es fuerte y está bien armado custodia su palacio, sus bienes están seguros;",
+        "pero si llega otro más fuerte y le vence, le quita las armas en las que confiaba y reparte su botín.",
+        "El que no está conmigo está contra mí, y el que no recoge conmigo, desparrama."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 45:6-8, 18, 25",
+      "texto": [
+        "para que sepan, desde la salida del sol hasta el ocaso, que no hay otro fuera de mí: Yo soy el Señor, y no hay ningún otro,",
+        "el que produce la luz y crea las tinieblas, el que hace la paz y crea la desdicha. Yo, el Señor, hago todas estas cosas.",
+        "Destilad, cielos, el rocío de lo alto, derramad, nubes, la justicia, que se abra la tierra y germine la salvación, y que, a la vez, brote la justicia. Yo, el Señor, lo he creado.",
+        "Porque así dice el Señor, el creador de los cielos, el mismo Dios, el que formó la tierra y la hizo, el que la afianzó —no la creó para estar vacía, la formó para ser habitada—: «Yo soy el Señor, y no hay otro.",
+        "Declarad, presentad vuestra causa, tomad juntos vuestras decisiones. ¿Quién hizo oír estas cosas desde el principio, las anunció desde antiguo? ¿No fui acaso Yo, el Señor? Pues no hay otro dios fuera de Mí, no existe un dios justo y salvador excepto Yo.",
+        "Volveos a Mí y seréis salvos, confines todos de la tierra. Pues Yo soy Dios y nadie más.",
+        "Lo juré por Mí mismo, de mi boca salió la justicia, la palabra que no será revocada. Ante Mí se doblará toda rodilla, y jurará toda lengua.",
+        "«Sólo en el Señor —dirán— están la justicia y la fuerza. Vendrán hasta Él, llenos de vergüenza, todos los que se irritaron contra Él.",
+        "En el Señor será justificada y glorificada toda la estirpe de Israel."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 85:9-14",
+      "texto": [
+        "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles, con tal de que no retornen a la necedad.",
+        "En verdad, ya está cerca la salvación para los que le temen, para que en nuestra tierra habite la Gloria.",
+        "Misericordia y fidelidad se encontrarán, justicia y paz se besarán.",
+        "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia.",
+        "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos.",
+        "Ante Él marchará la justicia, y sus pasos abrirán camino."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 7:18-23",
+      "texto": [
+        "Informaron a Juan sus discípulos de todas estas cosas.",
+        "Y Juan llamó a dos de ellos, y los envió al Señor a preguntarle: —¿Eres tú el que va a venir o esperamos a otro?",
+        "Cuando aquellos hombres se presentaron ante él le dijeron: —Juan el Bautista nos ha enviado a ti a preguntarte: «¿Eres tú el que va a venir o esperamos a otro?.",
+        "En aquel momento curó a muchos de sus enfermedades, de dolencias y de malos espíritus y dio la vista a muchos ciegos.",
+        "Y bienaventurado el que no se escandalice de mí."
+      ]
+    }
+  }
+}

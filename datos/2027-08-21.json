@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-08-21",
+  "fiesta": "San Pío X, Papa (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Rut 2:1-3, 11; 4:13-17",
+      "texto": [
+        "Noemí tenía por parte de su marido un pariente de la familia de Elimélec llamado Booz, hombre fuerte y poderoso.",
+        "Rut, la moabita, dijo a Noemí: —¿Me das tu permiso para ir al campo a espigar tras aquel que me mire con benevolencia? Ella le respondió: —Vete, hija mía.",
+        "Fue, pues, a un campo y se puso a espigar detrás de los segadores. Pero he aquí que la suerte la condujo casualmente a la parcela del campo de Booz, que era de la familia de Elimélec.",
+        "Y Booz dijo a Rut: —Escucha, hija mía. No vayas a espigar en otro campo; no hace falta que te salgas de éste; únete a mis muchachas.",
+        "Fíjate en qué campo van a segar y síguelas. He dado orden de que no te molesten; y si tienes sed, toma los botijos y bebe del agua que saquen los criados.",
+        "Entonces ella se postró rostro en tierra y le respondió: —¿Cómo es que he encontrado gracia a tus ojos y te has fijado en mí, que soy extranjera?",
+        "Booz le contestó diciendo: —Me han contado con detalle todo lo que has hecho por tu suegra tras la muerte de su marido; que dejaste a tu padre, a tu madre y a tu tierra natal y te marchaste a un pueblo que no conocías.",
+        "Booz tomó, pues, a Rut como esposa. Se llegó a ella y el Señor le otorgó concebir y dar a luz un hijo.",
+        "Las mujeres decían a Noemí: —¡Bendito sea el Señor que hoy no te ha privado de un goel que sea renombrado en Israel!",
+        "Él es quien reconfortará tu espíritu y sostendrá tu vejez, pues ha nacido de tu nuera, que te ama y que es mejor para ti que siete hijos.",
+        "Noemí tomó al niño, lo acogió en su regazo y le hizo de aya.",
+        "Las vecinas le pusieron nombre y decían: —¡Le ha nacido un hijo a Noemí! Lo llamaron con el nombre de Obed. Él es el padre de Jesé, padre de David."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 128:1-5",
+      "texto": [
+        "Canto de las subidas. Dichoso el que teme al Señor y anda por sus caminos.",
+        "Del trabajo de tus manos comerás; serás dichoso, y te irá bien.",
+        "Tu mujer será como viña fecunda paredes adentro de tu casa. Tus hijos, como brotes de olivos, en torno a tu mesa.",
+        "Pues así es bendecido el hombre que teme al Señor.",
+        "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén todos los días de tu vida."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 23:1-12",
+      "texto": [
+        "Entonces Jesús habló a las multitudes y a sus discípulos",
+        "diciendo: —En la cátedra de Moisés se han sentado los escribas y los fariseos.",
+        "Haced y cumplid todo cuanto os digan; pero no obréis como ellos, pues dicen pero no hacen.",
+        "Atan cargas pesadas e insoportables y las echan sobre los hombros de los demás, pero ellos ni con uno de sus dedos quieren moverlas.",
+        "Hacen todas sus obras para que les vean los hombres. Ensanchan sus filacterias y alargan sus franjas.",
+        "Anhelan los primeros puestos en los banquetes, los primeros asientos en las sinagogas",
+        "y que les saluden en las plazas, y que la gente les llame rabbí.",
+        "Vosotros, al contrario, no os hagáis llamar rabbí, porque sólo uno es vuestro maestro y todos vosotros sois hermanos.",
+        "No llaméis padre vuestro a nadie en la tierra, porque sólo uno es vuestro Padre, el celestial.",
+        "Tampoco os dejéis llamar doctores, porque vuestro doctor es uno sólo: Cristo.",
+        "Que el mayor entre vosotros sea vuestro servidor.",
+        "El que se ensalce será humillado, y el que se humille será ensalzado."
+      ]
+    }
+  }
+}

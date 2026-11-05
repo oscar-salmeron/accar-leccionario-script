@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-05-10",
+  "fiesta": "San Damián de Veuster (de Molokai), Presbítero (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 19:1-8",
+      "texto": [
+        "Mientras Apolo estaba en Corinto, Pablo recorrió las regiones altas y llegó a Éfeso. Encontró a algunos discípulos",
+        "y les preguntó: —¿Habéis recibido el Espíritu Santo al abrazar la fe? —Ni siquiera hemos oído que haya Espíritu Santo —le respondieron.",
+        "Él les replicó: —¿Entonces con qué bautismo habéis sido bautizados? —Con el bautismo de Juan —dijeron.",
+        "Pablo contestó: —Juan bautizó con un bautismo de penitencia diciendo al pueblo que creyeran en el que iba a venir detrás de él, es decir, en Jesús.",
+        "Cuando oyeron esto se bautizaron en el nombre del Señor Jesús.",
+        "Al imponerles Pablo las manos, vino el Espíritu Santo sobre ellos, de modo que hablaban en lenguas y profetizaban.",
+        "Eran entre todos unos doce hombres.",
+        "Entró en la sinagoga y habló abiertamente durante tres meses, exponiendo lo referente al Reino de Dios y tratando de convencerles."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 68:2-7",
+      "texto": [
+        "Dios se alza, sus enemigos se dispersan, los que lo odian huyen de su presencia.",
+        "Como se disipa el humo, los disipas, como se derrite la cera ante el fuego, así perecen los impíos delante de Dios.",
+        "Pero los justos se alegran, se deleitan en la presencia de Dios y se gozan con alegría.",
+        "Cantad a Dios, entonad salmos a su Nombre; aplanad el camino al que cabalga sobre las nubes: «el Señor es su Nombre; regocijaos en su presencia.",
+        "Padre de los huérfanos y defensor de las viudas es Dios en su morada santa.",
+        "Dios dispone un hogar para los abandonados, suelta a los cautivos y los hace prósperos; sólo los rebeldes habitan en árida tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 16:29-33",
+      "texto": [
+        "Le dicen sus discípulos: —Ahora sí que hablas con claridad y no usas ninguna comparación;",
+        "ahora vemos que lo sabes todo, y no necesitas que nadie te pregunte; por eso creemos que has salido de Dios.",
+        "—¿Ahora creéis? —les dijo Jesús—.",
+        "Mirad que llega la hora, y ya llegó, en que os dispersaréis cada uno por su lado, y me dejaréis solo, aunque no estoy solo porque el Padre está conmigo.",
+        "Os he dicho esto para que tengáis paz en mí. En el mundo tendréis sufrimientos, pero confiad: yo he vencido al mundo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-08-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jueces 11:29-39",
+      "texto": [
+        "El espíritu del Señor vino sobre Jefté, que atravesó Galaad y Manasés, pasó a Mispá de Galaad y desde allí hacia los amonitas.",
+        "Hizo Jefté un voto al Señor diciendo: —Si pones en mis manos a los amonitas,",
+        "quien me salga al encuentro por las puertas de mi casa cuando regrese en paz después de luchar con los amonitas será para el Señor, lo ofreceré en holocausto.",
+        "Jefté se dirigió hacia los amonitas, luchó contra ellos, y el Señor los puso en sus manos.",
+        "Los batió desde Aroer hasta llegar a Minit: veinte ciudades, y hasta Abel–Cramim, infligiéndoles muy grandes pérdidas; de modo que los amonitas se doblegaron ante los israelitas.",
+        "Cuando Jefté volvía a su casa en Mispá, su hija salió a su encuentro con tamboriles y danzas. Era hija única, ya que no tenía otros hijos ni hijas.",
+        "Al verla, rasgó sus vestiduras y dijo: —¡Ay, hija mía! Me has dejado completamente abatido. Tú has venido a ser la causa de mi aflicción. Yo he hecho una promesa al Señor, y no puedo echarme atrás.",
+        "Ella le contestó: —Padre mío, ya que abriste tu boca ante el Señor, haz conmigo lo que prometiste puesto que el Señor te ha concedido desquitarte de tus enemigos, los amonitas.",
+        "Y le dijo a su padre: —Hazme este favor: déjame dos meses para que vaya a vagar por los montes y llore por mi virginidad junto con mis compañeras.",
+        "Él respondió: —Vete. Y la dejó marchar durante dos meses. Ella se fue con sus compañeras a llorar por su virginidad en los montes.",
+        "Al cabo de dos meses volvió junto a su padre que cumplió con ella el voto que había hecho, sin que hubiera conocido a varón. Y se estableció la costumbre en Israel"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 40:5, 10",
+      "texto": [
+        "Dichoso el hombre que pone en el Señor su confianza, y no se vuelve hacia los soberbios, ni a los proclives a la mentira.",
+        "No quisiste sacrificio ni ofrenda, pero me abriste el oído. No pediste holocausto ni sacrificio de expiación;",
+        "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—",
+        "para hacer tu voluntad, Dios mío. Ése es mi querer, pues llevo tu Ley dentro de mí.",
+        "He anunciado la justicia en la gran asamblea; no he cerrado mis labios, Señor, Tú lo sabes bien."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 22:1-14",
+      "texto": [
+        "Jesús les habló de nuevo con parábolas y dijo:",
+        "—El Reino de los Cielos es como un rey que celebró las bodas de su hijo,",
+        "y envió a sus siervos a llamar a los invitados a las bodas; pero éstos no querían acudir.",
+        "Nuevamente envió a otros siervos diciéndoles: «Decid a los invitados: mirad que tengo preparado ya mi banquete, se ha hecho la matanza de mis terneros y mis reses cebadas, y todo está a punto; venid a las bodas.",
+        "Pero ellos, sin hacer caso, se marcharon: quien a su campo, quien a su negocio.",
+        "Los demás echaron mano a los siervos, los maltrataron y los mataron.",
+        "El rey se encolerizó, y envió a sus tropas a acabar con aquellos homicidas y prendió fuego a su ciudad.",
+        "Luego les dijo a sus siervos: «Las bodas están preparadas pero los invitados no eran dignos.",
+        "Así que marchad a los cruces de los caminos y llamad a las bodas a cuantos encontréis.",
+        "Los siervos salieron a los caminos y reunieron a todos los que encontraron, malos y buenos; y se llenó de comensales la sala de bodas.",
+        "Entró el rey para ver a los comensales, y se fijó en un hombre que no vestía traje de boda;",
+        "y le dijo: «Amigo, ¿cómo has entrado aquí sin llevar traje de boda? Pero él enmudeció.",
+        "Entonces el rey les dijo a los servidores: «Atadlo de pies y manos y echadlo a las tinieblas de afuera; allí habrá llanto y rechinar de dientes.",
+        "Porque muchos son los llamados, pero pocos los elegidos."
+      ]
+    }
+  }
+}

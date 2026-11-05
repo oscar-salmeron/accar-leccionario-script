@@ -1,0 +1,63 @@
+{
+  "fecha": "2027-04-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 4:32-35",
+      "texto": [
+        "La multitud de los creyentes tenía un solo corazón y una sola alma, y nadie consideraba como suyo lo que poseía, sino que compartían todas las cosas.",
+        "Con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús; y en todos ellos había abundancia de gracia.",
+        "No había entre ellos ningún necesitado, porque los que eran dueños de campos o casas los vendían, llevaban el precio de la venta",
+        "y lo ponían a los pies de los apóstoles; luego se repartía a cada uno según sus necesidades."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 118:2-4, 15, 24",
+      "texto": [
+        "Diga Israel: «El Señor es bueno. Eterna es su misericordia.",
+        "Diga la casa de Aarón: «Eterna es su misericordia.",
+        "Digan los que temen al Señor: «Eterna es su misericordia.",
+        "Me empujaban con violencia para hacerme caer, pero el Señor me socorrió.",
+        "El Señor es mi fuerza y mi vigor, Él es mi salvación.",
+        "Gritos de júbilo y de victoria hay en las tiendas de los justos: «La diestra del Señor hace proezas;",
+        "La piedra que desecharon los constructores ésta ha llegado a ser la piedra angular.",
+        "Es el Señor quien ha hecho esto y es admirable a nuestros ojos.",
+        "Éste es el día que hizo el Señor, exultemos y alegrémonos en él."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Juan 5:1-6",
+      "texto": [
+        "Todo el que cree que Jesús es el Cristo, ése ha nacido de Dios; y todo el que ama a quien le engendró, ama también a quien ha sido engendrado por Él.",
+        "En esto conocemos que amamos a los hijos de Dios: en que amamos a Dios y cumplimos sus mandamientos.",
+        "Porque el amor de Dios consiste precisamente en que guardemos sus mandamientos; y sus mandamientos no son costosos,",
+        "porque todo el que ha nacido de Dios, vence al mundo. Y ésta es la victoria que ha vencido al mundo: nuestra fe.",
+        "¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios?",
+        "Éste es el que vino por el agua y por la sangre: Jesucristo. No solamente con el agua, sino con el agua y con la sangre. Y es el Espíritu quien da testimonio, porque el Espíritu es la verdad."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:19-31",
+      "texto": [
+        "Al atardecer de aquel día, el siguiente al sábado, con las puertas del lugar donde se habían reunido los discípulos cerradas por miedo a los judíos, vino Jesús, se presentó en medio de ellos y les dijo: —La paz esté con vosotros.",
+        "Y dicho esto les mostró las manos y el costado. Al ver al Señor, los discípulos se alegraron.",
+        "Les repitió: —La paz esté con vosotros. Como el Padre me envió, así os envío yo.",
+        "Dicho esto sopló sobre ellos y les dijo: —Recibid el Espíritu Santo;",
+        "a quienes les perdonéis los pecados, les son perdonados; a quienes se los retengáis, les son retenidos.",
+        "Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando vino Jesús.",
+        "Los otros discípulos le dijeron: —¡Hemos visto al Señor! Pero él les respondió: —Si no le veo en las manos la marca de los clavos, y no meto mi dedo en esa marca de los clavos y meto mi mano en el costado, no creeré.",
+        "A los ocho días, estaban otra vez dentro sus discípulos y Tomás con ellos. Aunque estaban las puertas cerradas, vino Jesús, se presentó en medio y dijo: —La paz esté con vosotros.",
+        "Después le dijo a Tomás: —Trae aquí tu dedo y mira mis manos, y trae tu mano y métela en mi costado, y no seas incrédulo sino creyente.",
+        "Respondió Tomás y le dijo: —¡Señor mío y Dios mío!",
+        "Jesús contestó: —Porque me has visto has creído; bienaventurados los que sin haber visto hayan creído.",
+        "Muchos otros signos hizo también Jesús en presencia de sus discípulos, que no han sido escritos en este libro.",
+        "Sin embargo, éstos han sido escritos para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo tengáis vida en su nombre."
+      ]
+    }
+  }
+}

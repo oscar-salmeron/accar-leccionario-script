@@ -1,0 +1,62 @@
+{
+  "fecha": "2027-06-29",
+  "fiesta": "San Pedro y San Pablo, Apóstoles (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 12:1-11",
+      "texto": [
+        "En aquel tiempo prendió el rey Herodes a algunos de la Iglesia para maltratarlos.",
+        "Dio muerte por la espada a Santiago, hermano de Juan.",
+        "Y al ver que esto agradaba a los judíos, decidió prender también a Pedro. Eran los días de los Ácimos.",
+        "Cuando lo apresó, lo metió en la cárcel y lo entregó a cuatro escuadras de cuatro soldados para que lo custodiaran, con el propósito de hacerlo comparecer ante el pueblo después de la Pascua.",
+        "Así pues, Pedro estaba encerrado en la cárcel, mientras la Iglesia rogaba incesantemente por él a Dios.",
+        "Cuando Herodes iba ya a hacerlo comparecer, aquella misma noche dormía Pedro entre dos soldados, sujeto con dos cadenas, mientras unos centinelas vigilaban la cárcel delante de la puerta.",
+        "De pronto se presentó un ángel del Señor y un resplandor iluminó la celda. Tocó a Pedro en el costado, le despertó y dijo: —¡Levántate deprisa! —y se cayeron las cadenas de sus manos.",
+        "El ángel le dijo: —¡Vístete y ponte las sandalias! —y así lo hizo. Y añadió: —¡Ponte el manto y sígueme!",
+        "Salió y le siguió, pero ignoraba que fuera realidad lo que hacía el ángel; pensaba que se trataba de una visión.",
+        "Atravesaron la primera guardia y la segunda y llegaron a la puerta de hierro que conduce a la ciudad, la cual se les abrió por sí sola. Salieron y avanzaron por una calle y de repente el ángel le dejó.",
+        "Entonces Pedro, vuelto en sí, dijo: —Ahora comprendo realmente que el Señor ha enviado su ángel, y me ha librado de las manos de Herodes y de toda la expectación del pueblo judío."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-9",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(Guímel) Engrandeced conmigo al Señor; ensalcemos juntos su Nombre.",
+        "(Dálet) Busqué al Señor y me ha escuchado, me ha librado de todos mis temores.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Het) El ángel del Señor se sitúa alrededor de los que le temen para librarlos.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Timoteo 4:6-8, 18",
+      "texto": [
+        "Pues yo estoy a punto de derramar mi sangre en sacrificio, y el momento de mi partida es inminente.",
+        "He peleado el noble combate, he alcanzado la meta, he guardado la fe.",
+        "Por lo demás, me está reservada la merecida corona que el Señor, el Justo Juez, me entregará aquel día; y no sólo a mí, sino también a todos los que han deseado con amor su venida.",
+        "Pero el Señor me asistió y me fortaleció para que, por medio de mí, se proclamara plenamente el mensaje y lo oyeran todos los gentiles. Y fui librado de la boca del león.",
+        "El Señor me librará de toda obra mala y me salvará para su reino celestial. A Él la gloria por los siglos de los siglos. Amén."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 16:13-19",
+      "texto": [
+        "Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos: —¿Quién dicen los hombres que es el Hijo del Hombre?",
+        "Ellos respondieron: —Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas.",
+        "Él les dijo: —Y vosotros, ¿quién decís que soy yo?",
+        "Respondió Simón Pedro: —Tú eres el Cristo, el Hijo de Dios vivo.",
+        "Jesús le respondió: —Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos.",
+        "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella.",
+        "Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+      ]
+    }
+  }
+}

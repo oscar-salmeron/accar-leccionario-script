@@ -1,0 +1,56 @@
+{
+  "fecha": "2027-05-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 6:5-17",
+      "texto": [
+        "Palabras dulces ganan muchos amigos, y el bien hablar multiplica las cortesías.",
+        "Que sean muchos los que están en paz contigo, pero consejeros tuyos, uno entre mil.",
+        "Si quieres ganar un amigo, ponlo a prueba, y no te fíes de él enseguida.",
+        "Porque hay quien es amigo cuando le conviene, pero no te acompañará el día de la tribulación.",
+        "Hay también amigo que se convierte en enemigo, que revelará vuestra querella para denigrarte.",
+        "Hay amigo compañero de mesa, pero que no te acompaña el día de la tribulación.",
+        "En tu prosperidad será como otro tú, y tratará con confianza a tus criados.",
+        "Pero si vienes a menos, se levantará contra ti y se esconderá de tu rostro.",
+        "Aléjate de tus enemigos, y sé cauto con tus amigos.",
+        "Un amigo fiel es protección poderosa, quien lo encuentra, halla un tesoro.",
+        "Un amigo fiel no tiene precio, es de incalculable valor.",
+        "Un amigo fiel es medicina que salva, lo encontrarán los que temen al Señor.",
+        "El que teme al Señor será recto en su amistad, pues según es él, así será su prójimo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:12, 16, 18, 27, 35",
+      "texto": [
+        "Bendito eres, Señor, enséñame tus preceptos.",
+        "En tus estatutos pongo mi gozo, no olvidaré tus palabras.",
+        "Abre mis ojos para contemplar las maravillas de tu Ley.",
+        "Hazme entender el camino de tus mandatos, y meditaré en tus maravillas.",
+        "Dame inteligencia para guardar tu Ley, y observarla de todo corazón.",
+        "Encamíname por la senda de tus mandamientos, porque en ella me deleito."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:1-12",
+      "texto": [
+        "Saliendo de allí llegó a la región de Judea, al otro lado del Jordán, y de nuevo se congregó ante él la multitud. Y, como era su costumbre, se puso de nuevo a enseñarles.",
+        "Se acercaron entonces unos fariseos que le preguntaban, para tentarle, si le es lícito al marido repudiar a la mujer.",
+        "Él les respondió: —¿Qué os mandó Moisés?",
+        "—Moisés permitió escribir el libelo de repudio y despedirla —dijeron ellos.",
+        "Pero Jesús les dijo: —Por la dureza de vuestro corazón os escribió este precepto.",
+        "Pero en el principio de la creación los hizo hombre y mujer.",
+        "Por eso dejará el hombre a su padre y a su madre y se unirá a su mujer,",
+        "y serán los dos una sola carne. De modo que ya no son dos, sino una sola carne.",
+        "Por tanto, lo que Dios ha unido, que no lo separe el hombre.",
+        "Una vez en la casa, sus discípulos volvieron a preguntarle sobre esto.",
+        "Y les dijo: —Cualquiera que repudie a su mujer y se case con otra, comete adulterio contra aquélla;",
+        "y si la mujer repudia a su marido y se casa con otro, comete adulterio."
+      ]
+    }
+  }
+}

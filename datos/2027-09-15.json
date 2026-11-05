@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-09-15",
+  "fiesta": "Nuestra Señora de los Dolores (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 5:7-9",
+      "texto": [
+        "Él, en los días de su vida en la tierra, ofreció con gran clamor y lágrimas oraciones y súplicas al que podía salvarle de la muerte, y fue escuchado por su piedad filial,",
+        "y, aun siendo Hijo, aprendió por los padecimientos la obediencia.",
+        "Y, llegado a la perfección, se ha hecho causa de salvación eterna para todos los que le obedecen,"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 31:2-6, 16, 20",
+      "texto": [
+        "En Ti, Señor, espero; no quede yo nunca avergonzado: por tu justicia, líbrame.",
+        "Inclina tu oído hacia mí, date prisa en socorrerme. Sé para mí la roca de refugio, el alcázar firme de mi salvación;",
+        "porque Tú eres mi peña, mi fortaleza: por honor de tu Nombre, dirígeme y guíame;",
+        "sácame de la red que me han tendido, que Tú eres mi refugio.",
+        "En tus manos encomiendo mi espíritu: Tú, Señor, Dios fiel, me has rescatado.",
+        "Pero yo confío en Ti, Señor. Digo: «Tú eres mi Dios.",
+        "Mi suerte está en tu mano; líbrame de la garra de mis enemigos y de mis perseguidores.",
+        "Qué grande es tu bondad, la que has reservado para los que te temen, preparado para los que se refugian en Ti, a la vista de los hijos de los hombres."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 19:25-27",
+      "texto": [
+        "Estaban junto a la cruz de Jesús su madre y la hermana de su madre, María de Cleofás, y María Magdalena.",
+        "Jesús, viendo a su madre y al discípulo a quien amaba, que estaba allí, le dijo a su madre: —Mujer, aquí tienes a tu hijo.",
+        "Después le dice al discípulo: —Aquí tienes a tu madre. Y desde aquel momento el discípulo la recibió en su casa."
+      ]
+    }
+  }
+}

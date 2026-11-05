@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-07-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 34:29-35",
+      "texto": [
+        "Cuando Moisés bajó del monte, llevaba en su mano las tablas del Testimonio, pero no sabía que su rostro se había vuelto radiante por haber hablado con el Señor.",
+        "Aarón y todos los hijos de Israel miraron a Moisés y al ver que su rostro se había vuelto radiante, temieron acercarse a él.",
+        "Entonces Moisés los llamó y Aarón y todos los jefes de la comunidad se volvieron hacia él y pudo hablarles.",
+        "Después se acercaron todos los hijos de Israel y él les ordenó todo lo que el Señor le había dicho en el monte Sinaí.",
+        "Al terminar de hablar con ellos, Moisés se cubrió el rostro con un velo.",
+        "Cuando Moisés entraba a la presencia del Señor para hablar con Él se quitaba el velo hasta que salía; y al salir, transmitía a los hijos de Israel lo que el Señor le había ordenado.",
+        "Los hijos de Israel veían que el rostro de Moisés se había vuelto radiante; él volvía a cubrirse el rostro con el velo hasta que entraba para hablar con el Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 99:5-7, 9",
+      "texto": [
+        "Ensalzad al Señor, nuestro Dios, postraos ante el estrado de sus pies: Él es Santo.",
+        "Moisés y Aarón están entre sus sacerdotes, Samuel entre los que invocan su Nombre: invocaban al Señor, y Él les escuchaba.",
+        "Desde la columna de nube les hablaba: ellos guardaron sus preceptos y la Ley que les había dado.",
+        "Ensalzad al Señor, nuestro Dios, postraos en su santo monte, porque Santo es el Señor, nuestro Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 13:44-46",
+      "texto": [
+        "El Reino de los Cielos es como un tesoro escondido en el campo que, al encontrarlo un hombre, lo oculta y, en su alegría, va y vende todo cuanto tiene y compra aquel campo.",
+        "Asimismo el Reino de los Cielos es como un comerciante que busca perlas finas",
+        "y, cuando encuentra una perla de gran valor, va y vende todo cuanto tiene y la compra."
+      ]
+    }
+  }
+}

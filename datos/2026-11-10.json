@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-11-10",
+  "fiesta": "San León Magno, Papa, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tito 2:1-8, 14",
+      "texto": [
+        "Tú, en cambio, habla de lo que está de acuerdo con la sana doctrina.",
+        "Que los ancianos sean sobrios, dignos, prudentes, fuertes en la fe, en la caridad y en la paciencia.",
+        "Que las ancianas, asimismo, se comporten como corresponde a los santos; que no sean ni calumniadoras ni estén dominadas por el vicio del vino, que sean maestras del bien,",
+        "para que enseñen a las más jóvenes a amar a sus maridos y a sus hijos,",
+        "a ser prudentes, castas, buenas amas de casa, sujetas a sus maridos, para que no sea ultrajada la palabra de Dios.",
+        "Del mismo modo, a los más jóvenes exhórtales a ser prudentes,",
+        "mostrándote tú mismo como modelo de buenas obras en todo: pureza de doctrina, dignidad,",
+        "predicación sana e intachable, para que el adversario se avergüence al no tener nada malo que decir de nosotros.",
+        "Pues se ha manifestado la gracia de Dios, portadora de salvación para todos los hombres,",
+        "educándonos para que renunciemos a la impiedad y a las concupiscencias mundanas, y vivamos con prudencia, justicia y piedad en este mundo,",
+        "aguardando la esperanza bienaventurada y la manifestación de la gloria del gran Dios y Salvador nuestro, Jesucristo,",
+        "que se entregó a sí mismo por nosotros para redimirnos de toda iniquidad, y para purificar para sí un pueblo escogido, celoso por hacer el bien."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 37:3-4, 18, 23, 27, 29",
+      "texto": [
+        "(Bet) Confía en el Señor y haz el bien; habita tu tierra y guarda la fidelidad.",
+        "Pon tu delicia en el Señor, y te concederá los deseos de tu corazón.",
+        "(Yod) El Señor conoce los días de los íntegros, su heredad durará por siempre;",
+        "(Mem) El Señor afianza los pasos del hombre y se complace en su conducta.",
+        "(Sámek) Aléjate del mal y obra el bien, y tendrás una morada para siempre;",
+        "Los justos heredarán la tierra y habitarán en ella eternamente."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:7-10",
+      "texto": [
+        "Si uno de vosotros tiene un siervo en la labranza o con el ganado y regresa del campo, ¿acaso le dice: «Entra enseguida y siéntate a la mesa?",
+        "Por el contrario, ¿no le dirá más bien: «Prepárame la cena y disponte a servirme mientras como y bebo, que después comerás y beberás tú?",
+        "¿Es que tiene que agradecerle al siervo el que haya hecho lo que se le había mandado?",
+        "Pues igual vosotros, cuando hayáis hecho todo lo que se os ha mandado, decid: «Somos unos siervos inútiles; no hemos hecho más que lo que teníamos que hacer."
+      ]
+    }
+  }
+}

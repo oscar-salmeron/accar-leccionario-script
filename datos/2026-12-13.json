@@ -1,0 +1,63 @@
+{
+  "fecha": "2026-12-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 61:1-2, 11",
+      "texto": [
+        "El Espíritu del Señor Dios está sobre mí, porque el Señor me ha ungido. Me ha enviado para llevar la buena nueva a los pobres, a vendar los corazones rotos, anunciar la redención a los cautivos, y a los prisioneros la libertad;",
+        "para anunciar el año de gracia del Señor, el día de venganza de nuestro Dios; a consolar a los que hacen duelo,",
+        "Reboso de gozo en el Señor, y mi alma se alegra en mi Dios, porque me ha vestido con ropaje de salvación, me ha envuelto con manto de justicia, como novio que se ciñe la diadema, como novia que se adorna con sus joyas.",
+        "Lo mismo que la tierra echa sus brotes, y el huerto hace germinar sus semillas, así el Señor Dios hace germinar la justicia y la alabanza ante todas las naciones."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Lucas 1:46-50, 54",
+      "texto": [
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Tesalonicenses 5:16-24",
+      "texto": [
+        "Estad siempre alegres.",
+        "Dad gracias por todo, porque eso es lo que Dios quiere de vosotros en Cristo Jesús.",
+        "No extingáis el Espíritu,",
+        "ni despreciéis las profecías;",
+        "sino examinad todas las cosas, retened lo bueno",
+        "y apartaos de toda clase de mal.",
+        "Que Él, Dios de la paz, os santifique plenamente, y que vuestro ser entero —espíritu, alma y cuerpo— se mantenga sin mancha hasta la venida de nuestro Señor Jesucristo.",
+        "El que os llama es fiel, y por eso lo cumplirá."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:6-8, 28",
+      "texto": [
+        "Hubo un hombre enviado por Dios, que se llamaba Juan.",
+        "Éste vino como testigo, para dar testimonio de la luz, para que por él todos creyeran.",
+        "No era él la luz, sino el que debía dar testimonio de la luz.",
+        "Éste es el testimonio de Juan, cuando desde Jerusalén los judíos le enviaron sacerdotes y levitas para que le preguntaran: «¿Tú quién eres?.",
+        "Entonces él confesó la verdad y no la negó, y declaró: —Yo no soy el Cristo.",
+        "Y le preguntaron: —¿Entonces, qué? ¿Eres tú Elías? Y dijo: —No lo soy. —¿Eres tú el Profeta? —No —respondió.",
+        "Por último le dijeron: —¿Quién eres, para que demos una respuesta a los que nos han enviado? ¿Qué dices de ti mismo?",
+        "Contestó: —Yo soy la voz del que clama en el desierto: «Haced recto el camino del Señor, como dijo el profeta Isaías.",
+        "Los enviados eran de los fariseos.",
+        "Le preguntaron: —¿Pues por qué bautizas si tú no eres el Cristo, ni Elías, ni el Profeta?",
+        "Juan les respondió: —Yo bautizo con agua, pero en medio de vosotros está uno a quien no conocéis.",
+        "Él es el que viene después de mí, a quien yo no soy digno de desatarle la correa de la sandalia.",
+        "Esto sucedió en Betania, al otro lado del Jordán, donde Juan estaba bautizando."
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-05-09",
+  "fiesta": "Ascensión del Señor (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 1:1-11",
+      "texto": [
+        "Escribí el primer libro, Teófilo, sobre todo lo que Jesús comenzó a hacer y enseñar",
+        "hasta el día en que, después de haber dado instrucciones por el Espíritu Santo a los apóstoles que él había elegido, fue elevado al cielo.",
+        "También después de su Pasión, él se presentó vivo ante ellos con muchas pruebas: se les apareció durante cuarenta días y les habló de lo referente al Reino de Dios.",
+        "Mientras estaba a la mesa con ellos les mandó no ausentarse de Jerusalén, sino esperar la promesa del Padre: —La que oísteis de mis labios:",
+        "que Juan bautizó con agua; vosotros, en cambio, seréis bautizados en el Espíritu Santo dentro de pocos días.",
+        "Los que estaban reunidos allí le hicieron esta pregunta: —Señor, ¿es ahora cuando vas a restaurar el Reino de Israel?",
+        "Él les contestó: —No es cosa vuestra conocer los tiempos o momentos que el Padre ha fijado con su poder,",
+        "sino que recibiréis la fuerza del Espíritu Santo, que descenderá sobre vosotros, y seréis mis testigos en Jerusalén, en toda Judea y Samaría, y hasta los confines de la tierra.",
+        "Y después de decir esto, mientras ellos lo observaban, se elevó, y una nube lo ocultó a sus ojos.",
+        "Estaban mirando atentamente al cielo mientras él se iba, cuando se presentaron ante ellos dos hombres con vestiduras blancas",
+        "que dijeron: —Hombres de Galilea, ¿qué hacéis mirando al cielo? Este mismo Jesús, que de entre vosotros ha sido elevado al cielo, vendrá de igual manera a como le habéis visto subir al cielo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 47:2-3, 9",
+      "texto": [
+        "Pueblos todos, batid palmas, aclamad a Dios con voces de júbilo.",
+        "Porque el Señor es el Altísimo, temible, el gran Rey en toda la tierra.",
+        "Dios sube entre aclamaciones, el Señor, al sonar de trompetas.",
+        "Cantad himnos a Dios, cantad, cantad himnos a nuestro rey, cantad.",
+        "Que Dios es el rey de toda la tierra, cantadle el himno más bello.",
+        "Dios reina sobre las naciones; Dios está sentado en su santo trono."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 1:17-23",
+      "texto": [
+        "para que el Dios de nuestro Señor Jesucristo, el Padre de la gloria, os conceda el Espíritu de sabiduría y de revelación para conocerle;",
+        "iluminando los ojos de vuestro corazón, para que sepáis cuál es la esperanza a la que os llama, cuáles las riquezas de gloria dejadas en su herencia a los santos,",
+        "y cuál es la suprema grandeza de su poder en favor de nosotros, los creyentes, según la eficacia de su fuerza poderosa.",
+        "Él la ha puesto por obra en Cristo resucitándole de entre los muertos y sentándole a su derecha en los cielos,",
+        "por encima de todo principado, potestad, virtud y dominación y de todo cuanto existe, no sólo en este mundo sino también en el venidero.",
+        "Todo lo sometió bajo sus pies y a él lo constituyó cabeza de todas las cosas en favor de la Iglesia,",
+        "que es su cuerpo, la plenitud de quien llena todo en todas las cosas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 16:15-20",
+      "texto": [
+        "El que crea y sea bautizado será salvado; pero el que no crea será condenado.",
+        "A los que crean acompañarán estos signos: en mi nombre expulsarán demonios, hablarán lenguas nuevas,",
+        "agarrarán serpientes con las manos y, si bebieran algún veneno, no les dañará; impondrán las manos sobre los enfermos y quedarán curados.",
+        "El Señor, Jesús, después de hablarles, se elevó al cielo y está sentado a la derecha de Dios.",
+        "Y ellos, partiendo de allí, predicaron por todas partes, y el Señor cooperaba y confirmaba la palabra con los milagros que la acompañaban."
+      ]
+    }
+  }
+}

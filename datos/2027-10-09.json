@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-10-09",
+  "fiesta": "San Juan Enrique Newman, Presbítero, Doctor de la Iglesia (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Joel 4:12-21",
+      "texto": [
+        "Que se levanten y suban las naciones al valle de Josafat, que allí me sentaré para juzgar a todas las naciones de alrededor.",
+        "Meted la hoz, que la mies ya está madura. Venid, pisad, que está lleno el lagar, rebosan las cavas, pues abundó su maldad.",
+        "¡Muchedumbres, muchedumbres en el valle del Jarús!, porque está próximo el día del Señor en el valle del Jarús.",
+        "Sol y luna se oscurecen, los astros retiran su brillo.",
+        "El Señor ruge desde Sión, alza su voz desde Jerusalén: cielos y tierra se estremecen. El Señor es refugio para su pueblo, fortaleza para los hijos de Israel.",
+        "Y sabréis que Yo soy el Señor, vuestro Dios, que habito en Sión, mi monte santo, y Jerusalén será el lugar santo: ya no pasarán por ella extranjeros.",
+        "En aquel día los montes destilarán mosto, y las colinas manarán leche. Por todos los torrentes de Judá correrán las aguas; y brotará una fuente del Templo del Señor que regará el valle de Sitim.",
+        "Egipto se volverá una desolación, y Edom, un desierto solitario, por su violencia contra los hijos de Judá, porque derramaron sangre inocente en su tierra.",
+        "Judá será habitada por siempre, y Jerusalén, de generación en generación.",
+        "Vengaré su sangre, no la dejaré impune. Y el Señor habitará en Sión."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 97:1-2, 6, 12",
+      "texto": [
+        "El Señor reina: exulte la tierra, alégrense las islas incontables.",
+        "Nubes y tinieblas lo rodean, justicia y derecho son el fundamento de su trono.",
+        "Los montes se derriten como cera ante el Señor, ante el Dueño de toda la tierra.",
+        "Los cielos anuncian su justicia, y todos los pueblos contemplan su gloria.",
+        "La luz ha sido esparcida para el justo, la alegría, para los rectos de corazón.",
+        "Alegraos, justos, en el Señor, celebrad su memoria santa."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:27-28",
+      "texto": [
+        "Mientras él estaba diciendo todo esto, una mujer de en medio de la multitud, alzando la voz, le dijo: —Bienaventurado el vientre que te llevó y los pechos que te criaron.",
+        "Pero él replicó: —Bienaventurados más bien los que escuchan la palabra de Dios y la guardan."
+      ]
+    }
+  }
+}

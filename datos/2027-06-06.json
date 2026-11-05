@@ -1,0 +1,69 @@
+{
+  "fecha": "2027-06-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 3:9-15",
+      "texto": [
+        "El Señor Dios llamó al hombre y le dijo: —¿Dónde estás?",
+        "Éste contestó: —Oí tu voz en el jardín y tuve miedo porque estaba desnudo; por eso me oculté.",
+        "Dios le preguntó: —¿Quién te ha indicado que estabas desnudo? ¿Acaso has comido del árbol del que te prohibí comer?",
+        "El hombre contestó: —La mujer que me diste por compañera me dio del árbol y comí.",
+        "Entonces el Señor Dios dijo a la mujer: —¿Qué es lo que has hecho? La mujer respondió: —La serpiente me engañó y comí.",
+        "El Señor Dios dijo a la serpiente: —Por haber hecho eso, maldita seas entre todos los animales y todas las bestias del campo. Te arrastrarás sobre el vientre, y polvo comerás todos los días de tu vida.",
+        "Pondré enemistad entre ti y la mujer, entre tu linaje y el suyo; él te herirá en la cabeza, mientras tú le herirás en el talón."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 130:1-8",
+      "texto": [
+        "Canto de las subidas. Desde lo más profundo, Te invoco, Señor.",
+        "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica.",
+        "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?",
+        "Pero en Ti está el perdón, y así mantenemos tu temor.",
+        "Espero en Ti, Señor. Mi alma espera en su palabra;",
+        "mi alma espera en el Señor más que los centinelas la aurora.",
+        "Los centinelas esperan la aurora, pero tú, Israel, espera en el Señor; pues en el Señor está la misericordia, en Él, la redención abundante.",
+        "Él redimirá a Israel de todas sus culpas."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 4:13--5:1",
+      "texto": [
+        "Pero teniendo el mismo espíritu de fe —según lo que está escrito: Creí, por eso hablé—, también nosotros creemos, y por eso hablamos,",
+        "sabiendo que quien resucitó al Señor Jesús también nos resucitará con Jesús y nos pondrá a su lado con vosotros.",
+        "Porque todo es para vuestro bien, a fin de que la gracia, multiplicada a través de muchos, haga abundar la acción de gracias para la gloria de Dios.",
+        "Por eso no desfallecemos; al contrario, aunque nuestro hombre exterior se vaya desmoronando, nuestro hombre interior se va renovando día a día.",
+        "Porque la leve tribulación de un instante se convierte para nosotros, incomparablemente, en una gloria eterna y consistente,",
+        "ya que nosotros no ponemos nuestros ojos en las cosas visibles, sino en las invisibles; pues las visibles son pasajeras, y en cambio las invisibles, eternas.",
+        "Porque sabemos que, si la tienda de nuestra mansión terrena se deshace, tenemos un edificio que es de Dios, una casa no hecha por mano de hombre, sino eterna, en los cielos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:20-35",
+      "texto": [
+        "Entonces llegó a casa; y se volvió a juntar la muchedumbre, de manera que no podían ni siquiera comer.",
+        "Se enteraron sus parientes y fueron a llevárselo porque decían que había perdido el juicio.",
+        "Y los escribas que habían bajado de Jerusalén decían: —Tiene a Beelzebul, y expulsa los demonios por el príncipe de los demonios.",
+        "Y convocándolos les decía con parábolas: —¿Cómo puede Satanás expulsar a Satanás?",
+        "Si un reino está dividido en su interior, ese reino no puede sostenerse;",
+        "y si una casa está dividida en su interior, esa casa no podrá sostenerse.",
+        "Y si Satanás se levanta contra sí mismo, entonces se encuentra dividido y no puede sostenerse, sino que ha llegado su fin.",
+        "Pues nadie puede entrar en la casa de uno que es fuerte y arrebatarle sus bienes, si antes no ata al que es fuerte. Sólo entonces podrá arrebatarle su casa.",
+        "En verdad os digo que todo se les perdonará a los hijos de los hombres: los pecados y cuantas blasfemias profieran;",
+        "pero el que blasfeme contra el Espíritu Santo jamás tendrá perdón, sino que será reo de delito eterno.",
+        "Porque ellos decían: —Tiene un espíritu impuro.",
+        "Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo.",
+        "Y estaba sentada a su alrededor una muchedumbre, y le dicen: —Mira, tu madre, tus hermanos y tus hermanas te buscan fuera.",
+        "Y, en respuesta, les dice: —¿Quién es mi madre y quiénes mis hermanos?",
+        "Y mirando a los que estaban sentados a su alrededor, dice: —Éstos son mi madre y mis hermanos:",
+        "quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "fecha": "2026-11-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Proverbios 31:10-13, 20, 31",
+      "texto": [
+        "(Alef) Una mujer fuerte, ¿quién la encontrara? Vale mucho más que las perlas.",
+        "(Bet) En ella confía el corazón de su marido y no le faltará ganancia.",
+        "(Guímel) Le procura bien y no mal todos los días de la vida.",
+        "(Dálet) Busca lana y lino y trabaja con diligencia.",
+        "(Yod) Aplica sus manos a la rueca, sus palmas empuñan el huso.",
+        "(Kaf) Abre su palma al indigente y extiende su mano al pobre.",
+        "(Shin) Falaz es la gracia y vana la hermosura, la mujer que teme al Señor será alabada.",
+        "(Tav) Dadle el fruto de sus manos y que sus obras la alaben en las puertas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 128:1-5",
+      "texto": [
+        "Canto de las subidas. Dichoso el que teme al Señor y anda por sus caminos.",
+        "Del trabajo de tus manos comerás; serás dichoso, y te irá bien.",
+        "Tu mujer será como viña fecunda paredes adentro de tu casa. Tus hijos, como brotes de olivos, en torno a tu mesa.",
+        "Pues así es bendecido el hombre que teme al Señor.",
+        "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén todos los días de tu vida."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Tesalonicenses 5:1-6",
+      "texto": [
+        "Sobre el tiempo y el momento, hermanos, no necesitáis que os escriba,",
+        "porque vosotros mismos sabéis muy bien que el día del Señor vendrá como un ladrón en la noche.",
+        "Así pues, cuando clamen: «Paz y seguridad, entonces, de repente, se precipitará sobre ellos la ruina —como los dolores de parto de la que está encinta—, sin que puedan escapar.",
+        "Pero vosotros, hermanos, no estáis en tinieblas, de modo que ese día os sorprenda como un ladrón;",
+        "pues todos vosotros sois hijos de la luz e hijos del día. Nosotros no somos de la noche ni de las tinieblas.",
+        "Por tanto, no durmamos como los demás, sino estemos en vela y mantengámonos sobrios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:14-30",
+      "texto": [
+        "Porque es como un hombre que al marcharse de su tierra llamó a sus servidores y les entregó sus bienes.",
+        "A uno le dio cinco talentos, a otro dos y a otro uno sólo: a cada uno según su capacidad; y se marchó.",
+        "El que había recibido cinco talentos fue, trabajó con ellos y ganó otros cinco.",
+        "Del mismo modo, el que había recibido dos ganó otros dos.",
+        "Pero el que había recibido uno fue, hizo un hoyo en la tierra y escondió el dinero de su señor.",
+        "Después de mucho tiempo, regresó el amo de dichos servidores e hizo cuentas con ellos.",
+        "Cuando se presentó el que había recibido los cinco talentos, entregó otros cinco diciendo: «Señor, cinco talentos me entregaste; mira, he ganado otros cinco talentos.",
+        "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor.",
+        "Se presentó también el que había recibido los dos talentos y dijo: «Señor, dos talentos me entregaste; mira, he ganado otros dos talentos.",
+        "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor.",
+        "Cuando llegó por fin el que había recibido un talento, dijo: «Señor, sé que eres hombre duro, que cosechas donde no sembraste y recoges donde no esparciste;",
+        "por eso tuve miedo, fui y escondí tu talento en tierra: aquí tienes lo tuyo.",
+        "Su amo le respondió: «Siervo malo y perezoso, sabías que cosecho donde no he sembrado y que recojo donde no he esparcido;",
+        "por eso mismo debías haber dado tu dinero a los banqueros, y así, al venir yo, hubiera recibido lo mío con los intereses.",
+        "Por lo tanto, quitadle el talento y dádselo al que tiene los diez.",
+        "Porque a todo el que tiene se le dará y tendrá en abundancia; pero al que no tiene incluso lo que tiene se le quitará.",
+        "En cuanto al siervo inútil, arrojadlo a las tinieblas de afuera: allí habrá llanto y rechinar de dientes."
+      ]
+    }
+  }
+}

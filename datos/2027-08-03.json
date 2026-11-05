@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-08-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 12:1-13",
+      "texto": [
+        "María y Aarón murmuraron contra Moisés por causa de la cusita que había tomado por esposa —pues se había desposado con una mujer cusita—,",
+        "y dijeron: —¿Acaso el Señor ha hablado sólo con Moisés? ¿No ha hablado también con nosotros? Y el Señor los oyó.",
+        "Pero este hombre, Moisés, era muy humilde, más que ningún otro hombre sobre la faz de la tierra.",
+        "De improviso, el Señor dijo a Moisés, a Aarón y a María: —Salid los tres hacia la Tienda de la Reunión. Y salieron los tres.",
+        "El Señor bajó en una columna de nube, se puso a la entrada de la tienda, llamó a Aarón y María, y salieron ambos.",
+        "Y dijo: —Escuchad, pues, mis palabras: Cuando hay entre vosotros un profeta del Señor, mediante visiones yo me doy a conocer, en el sueño yo le hablo.",
+        "Esto no lo hago con mi siervo Moisés. Ningún otro es tan fiel en toda mi casa.",
+        "Conversamos cara a cara. Mediante visión, no por enigmas, contempla la figura del Señor. ¿Cómo no teméis murmurar contra mi siervo Moisés?",
+        "Se encendió la ira del Señor contra ellos y el Señor se marchó.",
+        "La nube se apartó de encima de la tienda y María quedó leprosa, blanca como la nieve. Aarón se dirigió hacia María y vio que estaba leprosa.",
+        "Entonces Aarón dijo a Moisés: —Por favor, señor mío, no cargues sobre nosotros este pecado que tan neciamente hemos cometido.",
+        "¡Que ella no sea como un aborto que, cuando sale de las entrañas de su madre, tiene consumida la mitad de su carne!",
+        "Moisés clamó al Señor diciendo: —Oh Dios, ¡cúrala, por favor!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 51:3-7, 13",
+      "texto": [
+        "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión borra mi delito.",
+        "Lávame por completo de mi culpa, y purifícame de mi pecado.",
+        "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí.",
+        "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos. Por eso has de ser justo en tu sentencia, has de tener razón en tu juicio.",
+        "¡Mira! En culpa nací, y en pecado me concibió mi madre.",
+        "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme.",
+        "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 14:22-36",
+      "texto": [
+        "Y enseguida Jesús mandó a los discípulos que subieran a la barca y que se adelantaran a la otra orilla, mientras él despedía a la gente.",
+        "Y, después de despedirla, subió al monte a orar a solas. Cuando se hizo de noche seguía él solo allí.",
+        "Mientras tanto, la barca ya se había alejado de tierra muchos estadios, sacudida por las olas, porque el viento le era contrario.",
+        "En la cuarta vigilia de la noche vino hacia ellos caminando sobre el mar.",
+        "Cuando le vieron los discípulos andando sobre el mar, se asustaron y dijeron: —¡Es un fantasma! —y llenos de miedo empezaron a gritar.",
+        "Pero al instante Jesús les habló: —Tened confianza, soy yo, no temáis.",
+        "Entonces Pedro le respondió: —Señor, si eres tú, manda que yo vaya a ti sobre las aguas.",
+        "—Ven —le dijo él. Y Pedro se bajó de la barca y comenzó a andar sobre las aguas en dirección a Jesús.",
+        "Pero al ver que el viento era muy fuerte se atemorizó y, al empezar a hundirse, se puso a gritar: —¡Señor, sálvame!",
+        "Al instante Jesús alargó la mano, lo sujetó y le dijo: —Hombre de poca fe, ¿por qué has dudado?",
+        "Y cuando subieron a la barca se calmó el viento.",
+        "Los que estaban en la barca le adoraron diciendo: —Verdaderamente eres Hijo de Dios.",
+        "Acabaron la travesía y llegaron a tierra a la altura de Genesaret.",
+        "Al reconocerlo los hombres de aquel lugar mandaron aviso a toda la comarca y le trajeron a todos los que se sentían mal,",
+        "y le suplicaban poder tocar aunque sólo fuera el borde de su manto. Y todos los que lo tocaron quedaron sanos."
+      ]
+    }
+  }
+}

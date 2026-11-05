@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-05-26",
+  "fiesta": "San Felipe Neri, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 36:1, 5, 17",
+      "texto": [
+        "Ten piedad de nosotros, Señor Dios del universo; míranos, muéstranos la luz de tus misericordias.",
+        "Que te reconozcan, como nosotros reconocimos que no existe otro Dios fuera de ti, Señor.",
+        "Renueva tus signos y repite tus maravillas.",
+        "Glorifica tu mano y tu brazo diestro.",
+        "Reúne todas las tribus de Jacob y dales la heredad como al principio.",
+        "Ten piedad, Señor, del pueblo llamado con tu Nombre, de Israel, a quien declaraste primogénito.",
+        "Ten piedad de tu ciudad santa, de Jerusalén, lugar de tu descanso.",
+        "Llena a Sión de tu majestad, y de tu gloria a tu Templo.",
+        "Testifica cuáles desde el principio son tus criaturas, y cumple las profecías hechas en tu Nombre.",
+        "Da su recompensa a quienes esperan en Ti, y que tus profetas sean dignos de crédito. Escucha, Señor, la oración de tus siervos,",
+        "según el beneplácito sobre tu pueblo. Dirígenos por el camino de la justicia; que sepan cuantos habitan la tierra que Tú eres el Señor, el Dios eterno."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 79:8-9, 11, 13",
+      "texto": [
+        "No nos recuerdes nuestras culpas antiguas, que pronto nos preceda tu compasión, pues estamos en miseria extrema.",
+        "Socórrenos, oh Dios, Salvador nuestro, por la gloria de tu Nombre; sálvanos, borra nuestros pecados, por amor de tu Nombre.",
+        "Llegue a tu presencia el gemido del cautivo. Conforme a la grandeza de tu brazo, libra a los destinados a la muerte.",
+        "Nosotros, tu pueblo, ovejas de tu rebaño, te daremos gracias por siempre, y proclamaremos tu alabanza de generación en generación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:32-45",
+      "texto": [
+        "Iban de camino subiendo a Jerusalén. Jesús los precedía y ellos estaban sorprendidos: los que le seguían tenían miedo. Tomó de nuevo consigo a los doce y comenzó a decirles lo que le iba a suceder:",
+        "—Mirad, subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas; le condenarán a muerte y le entregarán a los gentiles;",
+        "se burlarán de él, le escupirán, lo azotarán y lo matarán, pero después de tres días resucitará.",
+        "Entonces se acercan a él Santiago y Juan, los hijos de Zebedeo, diciéndole: —Maestro, queremos que nos concedas lo que te vamos a pedir.",
+        "Él les dijo: —¿Qué queréis que os haga?",
+        "Y ellos le contestaron: —Concédenos sentarnos uno a tu derecha y otro a tu izquierda en tu gloria.",
+        "Y Jesús les dijo: —No sabéis lo que pedís. ¿Podéis beber el cáliz que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?",
+        "—Podemos —le dijeron ellos. Jesús les dijo: —Beberéis el cáliz que yo bebo y seréis bautizados con el bautismo con que yo soy bautizado;",
+        "pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto.",
+        "Al oír esto los diez comenzaron a indignarse contra Santiago y Juan.",
+        "Entonces Jesús les llamó y les dijo: —Sabéis que los que figuran como jefes de las naciones las oprimen, y los poderosos las avasallan.",
+        "No tiene que ser así entre vosotros; al contrario: quien quiera llegar a ser grande entre vosotros, que sea vuestro servidor;",
+        "y quien entre vosotros quiera ser el primero, que sea esclavo de todos:",
+        "porque el Hijo del Hombre no ha venido a ser servido, sino a servir y a dar su vida en redención de muchos."
+      ]
+    }
+  }
+}

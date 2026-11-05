@@ -1,0 +1,59 @@
+{
+  "fecha": "2027-06-04",
+  "fiesta": "Solemnidad del Sacratísimo Corazón de Jesús",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Oseas 11:1, 4, 9",
+      "texto": [
+        "Cuando Israel era niño, Yo lo amé, y de Egipto llamé a mi hijo.",
+        "Yo enseñé a andar a Efraím, lo tomaba en mis brazos; pero ellos no entendían que Yo los cuidaba.",
+        "Con vínculos de afecto los atraje, con lazos de amor. Era para ellos como quien alza a un niño hasta sus mejillas, y me inclinaba a él y le daba de comer.",
+        "¿Podré abandonarte, Efraím, podré entregarte, Israel? ¿Podré abandonarte como a Admá, tratarte como a Seboim? Me da un vuelco el corazón, se conmueven a la vez mis entrañas.",
+        "No dejaré que prenda el ardor de mi cólera, no volveré a destruir a Efraím, porque Yo soy Dios, y no un hombre; soy el Santo en medio de ti y no voy a llegar con mi ira."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Isaías 12:2-6",
+      "texto": [
+        "Éste es el Dios de mi salvación: confío y no temo, porque el Señor es mi fuerza y mi canción, y Él me ha salvado.",
+        "Sacaréis aguas con gozo de las fuentes de la salvación;",
+        "y aquel día diréis: «Alabad al Señor, invocad su Nombre, contad a los pueblos sus hazañas, recordad que su Nombre es excelso.",
+        "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!",
+        "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 3:8-12, 19",
+      "texto": [
+        "A mí, el menor de todos los santos, me ha sido otorgada esta gracia: anunciar a los gentiles la insondable riqueza de Cristo",
+        "e iluminar a todos acerca del cumplimiento del misterio que durante siglos estuvo escondido en Dios, el Creador de todas las cosas,",
+        "para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por medio de la Iglesia,",
+        "conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,",
+        "en quien tenemos la segura confianza de llegar a Dios, mediante la fe en él.",
+        "Por este motivo, me pongo de rodillas ante el Padre,",
+        "de quien toma nombre toda familia en los cielos y en la tierra,",
+        "para que, conforme a las riquezas de su gloria, os conceda fortaleceros firmemente en el hombre interior mediante su Espíritu.",
+        "Que Cristo habite en vuestros corazones por la fe, para que, arraigados y fundamentados en la caridad,",
+        "podáis comprender con todos los santos cuál es la anchura y la longitud, la altura y la profundidad;",
+        "y conocer también el amor de Cristo, que supera todo conocimiento, para que os llenéis por completo de toda la plenitud de Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 19:31-37",
+      "texto": [
+        "Como era la Parasceve, para que no se quedaran los cuerpos en la cruz el sábado, porque aquel sábado era un día grande, los judíos rogaron a Pilato que les rompieran las piernas y los retirasen.",
+        "Vinieron los soldados y rompieron las piernas al primero y al otro que había sido crucificado con él.",
+        "Pero cuando llegaron a Jesús, al verle ya muerto, no le quebraron las piernas,",
+        "sino que uno de los soldados le abrió el costado con la lanza. Y al instante brotó sangre y agua.",
+        "El que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice la verdad para que también vosotros creáis.",
+        "Esto ocurrió para que se cumpliera la Escritura: No le quebrantarán ni un hueso.",
+        "Y también otro pasaje de la Escritura dice: Mirarán al que traspasaron."
+      ]
+    }
+  }
+}

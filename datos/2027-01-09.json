@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-01-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 5:14-21",
+      "texto": [
+        "Ésta es la confianza que tenemos en Él: si le pedimos algo según su voluntad, nos escucha.",
+        "Y puesto que sabemos que nos va a escuchar en todo lo que pidamos, sabemos que tenemos ya lo que le hemos pedido.",
+        "Si alguno ve que su hermano comete un pecado que no lleva a la muerte, que pida y le dará la vida. Esto para quienes cometen un pecado que no lleva a la muerte, pues hay un pecado que lleva a la muerte: de éste no hablo al decir que se ruegue.",
+        "Toda injusticia es pecado, pero hay pecados que no llevan a la muerte.",
+        "Sabemos que todo el que ha nacido de Dios no peca, sino que el Nacido de Dios le guarda, y el Maligno no le alcanza.",
+        "Sabemos que somos de Dios, mientras que el mundo entero yace en poder del Maligno.",
+        "Pero también sabemos que el Hijo de Dios ha venido y nos ha dado la inteligencia para que conozcamos al Verdadero; y nosotros estamos en el Verdadero, en su Hijo Jesucristo. Éste es el Dios verdadero y la vida eterna.",
+        "Hijos, estad prevenidos contra los ídolos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 149:1-6, 9",
+      "texto": [
+        "¡Aleluya! Cantad al Señor un cántico nuevo, esté su alabanza en la asamblea de los fieles.",
+        "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión.",
+        "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras.",
+        "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación.",
+        "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,",
+        "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos.",
+        "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 3:22-30",
+      "texto": [
+        "Después de esto fue Jesús con sus discípulos a la región de Judea, y allí convivía con ellos y bautizaba.",
+        "También Juan estaba bautizando en Ainón, cerca de Salim, porque allí había mucha agua, y acudían a que los bautizara",
+        "—porque aún no habían encarcelado a Juan.",
+        "Se originó una discusión entre los discípulos de Juan y un judío acerca de la purificación.",
+        "Y fueron a Juan a decirle: —Rabbí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, está bautizando y todos se dirigen a él.",
+        "Respondió Juan: —No puede el hombre apropiarse nada si no le es dado del cielo.",
+        "Vosotros mismos me sois testigos de que dije: «Yo no soy el Cristo, sino que he sido enviado delante de él.",
+        "Esposo es el que tiene la esposa; el amigo del esposo, el que está presente y le oye, se alegra mucho con la voz del esposo. Por eso, mi alegría es completa.",
+        "Es necesario que él crezca y que yo disminuya."
+      ]
+    }
+  }
+}

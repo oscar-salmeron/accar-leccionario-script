@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-11-21",
+  "fiesta": "Nuestro Señor Jesucristo, Rey del Universo (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 7:13-14",
+      "texto": [
+        "Seguí mirando en mi visión nocturna y he aquí que con las nubes del cielo venía como un hijo de hombre. Avanzó hasta el anciano venerable y fue llevado ante él.",
+        "A él se le dio dominio, honor y reino. Y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará; y su reino no será destruido."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 93:1-2, 5",
+      "texto": [
+        "El Señor reina. Vestido está de majestad. El Señor está vestido, ceñido de poder. Por eso el orbe se mantiene firme; no vacilará.",
+        "Tu trono está firme desde antiguo. Tú eres desde siempre.",
+        "Tus preceptos son firmes. Tu Casa, Señor, exige la santidad, por días sin término."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Apocalipsis 1:5-8",
+      "texto": [
+        "y de parte de Jesucristo, el testigo fiel, primogénito de los muertos y príncipe de los reyes de la tierra. Al que nos ama y nos libró de nuestros pecados con su sangre",
+        "y nos ha hecho estirpe real, sacerdotes para su Dios y Padre: a él la gloria y el poder por los siglos de los siglos. Amén.",
+        "Mirad, viene rodeado de nubes y todos los ojos le verán, incluso los que le traspasaron, y se lamentarán por él todas las tribus de la tierra. Sí. Amén.",
+        "Yo soy el Alfa y la Omega, dice el Señor Dios, aquel que es, que era y que va a venir, el Todopoderoso."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 18:33-37",
+      "texto": [
+        "Pilato entró de nuevo en el pretorio, llamó a Jesús y le dijo: —¿Eres tú el Rey de los judíos?",
+        "Jesús contestó: —¿Dices esto por ti mismo, o te lo han dicho otros de mí?",
+        "—¿Acaso soy yo judío? —respondió Pilato—. Tu gente y los príncipes de los sacerdotes te han entregado a mí: ¿qué has hecho?",
+        "Jesús respondió: —Mi reino no es de este mundo; si mi reino fuera de este mundo, mis servidores lucharían para que no fuera entregado a los judíos; pero mi reino no es de aquí.",
+        "Pilato le dijo: —¿O sea, que tú eres Rey? Jesús contestó: —Tú lo dices: yo soy Rey. Para esto he nacido y para esto he venido al mundo, para dar testimonio de la verdad; todo el que es de la verdad escucha mi voz."
+      ]
+    }
+  }
+}

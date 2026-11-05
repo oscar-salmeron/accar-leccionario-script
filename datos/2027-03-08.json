@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-03-08",
+  "fiesta": "Porque he aquí que Yo creo unos cielos nuevos y una tierra nueva. Las cosas pasadas no serán recordadas, ni vendrán a la memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 65:17-21",
+      "texto": [
+        "Porque he aquí que Yo creo unos cielos nuevos y una tierra nueva. Las cosas pasadas no serán recordadas, ni vendrán a la memoria.",
+        "Al contrario, alegraos y regocijaos eternamente de lo que Yo voy a crear, pues voy a crear a Jerusalén para el gozo, y a su pueblo para la alegría.",
+        "Me gozaré en Jerusalén y me alegraré en su pueblo, y no se oirán más en ella voces de llanto ni clamor de gemidos.",
+        "Ya no habrá allí niño que viva pocos días, ni anciano que no colme sus días, pues se considerará que era joven el que muera centenario, y a quien no llegue a los cien años se le tendrá por maldito.",
+        "Edificarán casas y las habitarán, plantarán viñas y comerán de sus frutos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 30:2, 6, 13",
+      "texto": [
+        "Te ensalzaré, Señor, porque me has librado, no has dejado a mis enemigos alegrarse a mi costa.",
+        "Señor, sacaste mi alma del sheol, me hiciste revivir cuando bajaba a la tumba.",
+        "Entonad, fieles, salmos al Señor, alabad su santo Nombre,",
+        "porque su ira dura un instante, su bondad, toda la vida; al atardecer se hospeda el llanto, al amanecer, el júbilo.",
+        "Escucha, Señor, ten piedad de mí. Señor, sé mi socorro.",
+        "Has cambiado mi llanto en danza, has desatado mi saco y me has vestido de alegría.",
+        "Por eso mi corazón te entona salmos sin cesar. Señor, Dios mío, te alabaré por siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 4:43-54",
+      "texto": [
+        "Dos días después marchó de allí hacia Galilea.",
+        "Pues Jesús mismo había dado testimonio de que a un profeta no le honran en su propia tierra.",
+        "Cuando vino a Galilea, le recibieron los galileos porque habían visto todo cuanto hizo en Jerusalén durante la fiesta, pues también ellos habían ido a la fiesta.",
+        "Entonces vino de nuevo a Caná de Galilea, donde había convertido el agua en vino. Había allí un funcionario real, cuyo hijo estaba enfermo en Cafarnaún,",
+        "el cual, al oír que Jesús venía de Judea hacia Galilea, se le acercó para rogarle que bajase y curara a su hijo, porque estaba a punto de morir.",
+        "Jesús le dijo: —Si no veis signos y prodigios, no creéis.",
+        "Le respondió el funcionario real: —Señor, baja antes de que se muera mi hijo.",
+        "Jesús le contestó: —Vete, tu hijo está vivo. Aquel hombre creyó en la palabra que Jesús le dijo y se marchó.",
+        "Mientras bajaba, sus siervos le salieron al encuentro diciendo que su hijo estaba vivo.",
+        "Les preguntó la hora en que empezó a mejorar. Le respondieron: —Ayer a la hora séptima le dejó la fiebre.",
+        "Entonces el padre cayó en la cuenta de que precisamente en aquella hora Jesús le había dicho: «Tu hijo está vivo. Y creyó él y toda su casa.",
+        "Este segundo signo lo hizo Jesús cuando vino de Judea a Galilea."
+      ]
+    }
+  }
+}

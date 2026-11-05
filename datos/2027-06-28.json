@@ -1,0 +1,56 @@
+{
+  "fecha": "2027-06-28",
+  "fiesta": "San Ireneo, Obispo, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 18:16-33",
+      "texto": [
+        "Los hombres se levantaron de allí y se dirigieron hacia Sodoma. Abrahán iba con ellos para despedirlos.",
+        "Entonces el Señor se dijo: «¿Cómo podré ocultar a Abrahán lo que voy a hacer,",
+        "cuando Abrahán se va a convertir en un pueblo grande y poderoso, y en él van a ser bendecidos todos los pueblos de la tierra?;",
+        "pues a él lo he elegido para que instruya a sus hijos y a su futura casa, y para que guarden el camino del Señor practicando la justicia y el derecho, de forma que el Señor conceda a Abrahán lo que le ha prometido.",
+        "Y dijo el Señor: —Se ha extendido un gran clamor contra Sodoma y Gomorra, y su pecado es gravísimo;",
+        "bajaré y veré si han obrado en todo según ese clamor que contra ella ha llegado hasta mí, y si no es así lo sabré.",
+        "Los hombres partieron de allí y se dirigieron a Sodoma, mientras Abrahán permanecía todavía junto al Señor.",
+        "Abrahán se acercó a Dios y le dijo: —¿Vas a destruir al justo con el malvado?",
+        "Quizá haya cincuenta justos dentro de la ciudad; ¿la vas a destruir?, ¿no la perdonarás en atención a los cincuenta justos que haya dentro de ella?",
+        "Lejos de ti hacer tal cosa; matar al justo con el malvado, y equiparar al justo y al malvado; lejos de ti. ¿Es que el juez de toda la tierra no va a hacer justicia?",
+        "El Señor respondió: —Si encuentro en Sodoma cincuenta justos dentro de la ciudad, la perdonaré en atención a ellos.",
+        "Abrahán contestó diciendo: —Soy en verdad un atrevido al hablar a mi Señor, yo que soy polvo y ceniza;",
+        "quizá falten cinco para los cincuenta justos. ¿Acaso destruirás por cinco toda la ciudad? Dios respondió: —No la destruiré si encuentro allí cuarenta y cinco.",
+        "Todavía volvió a hablarle Abrahán diciendo: —Quizá se encuentren allí cuarenta. Dijo Dios: —No lo haré en atención a los cuarenta.",
+        "Continuó Abrahán: —No se enfade mi Señor si sigo hablando; quizá se encuentren allí treinta. Dijo Dios: —No lo haré si encuentro allí treinta.",
+        "Insistió Abrahán: —Soy en verdad un atrevido al hablar a mi Señor; quizá se encuentren sólo veinte. Contestó Dios: —No la destruiré en atención a los veinte.",
+        "Abrahán siguió: —No se enfade mi Señor si hablo una vez más; quizá se encuentren allí diez. Dios contestó: —No la destruiré en atención a los diez.",
+        "Cuando terminó de hablar con Abrahán, el Señor se marchó, y Abrahán volvió a su lugar."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:1-4, 11",
+      "texto": [
+        "De David. Bendice, alma mía, al Señor, y todo mi ser a su Nombre santo.",
+        "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios.",
+        "Él es quien perdona tus culpas, quien sana tus enfermedades.",
+        "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión.",
+        "El Señor es compasivo y misericordioso, lento a la ira y rico en misericordia.",
+        "No dura siempre su querella, ni guarda rencor perpetuamente.",
+        "No nos trata según nuestros pecados, ni nos paga según nuestras culpas.",
+        "Pues cuanto se elevan los cielos sobre la tierra, así prevalece su misericordia con los que le temen."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 8:18-22",
+      "texto": [
+        "Al ver Jesús a la multitud que estaba a su alrededor, ordenó marchar a la otra orilla.",
+        "Y se le acercó un escriba: —Maestro, te seguiré adonde vayas —le dijo.",
+        "Jesús le contestó: —Las zorras tienen sus guaridas y los pájaros del cielo sus nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza.",
+        "Otro de sus discípulos le dijo: —Señor, permíteme ir primero a enterrar a mi padre.",
+        "—Sígueme y deja a los muertos enterrar a sus muertos —le respondió Jesús."
+      ]
+    }
+  }
+}

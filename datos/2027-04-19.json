@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-04-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 11:1-18",
+      "texto": [
+        "Los apóstoles y los hermanos que estaban en Judea oyeron que también los gentiles habían recibido la palabra de Dios.",
+        "Y cuando Pedro subió a Jerusalén, los de la circuncisión le reprochaban:",
+        "—¡Has entrado en casa de incircuncisos y has comido con ellos! —le decían.",
+        "Pedro comenzó a explicarles de forma ordenada lo sucedido:",
+        "—Estaba yo orando en la ciudad de Jope cuando tuve en éxtasis una visión: cierto objeto como un gran mantel bajaba del cielo sujeto por sus cuatro puntas y llegó hasta mí.",
+        "Lo miré con atención y vi en él cuadrúpedos de la tierra, fieras, reptiles y aves del cielo.",
+        "Oí entonces una voz que me decía: «Levántate, Pedro, mata y come.",
+        "Yo respondí: «De ningún modo, Señor, porque jamás ha entrado en mi boca nada profano o impuro.",
+        "Pero la voz venida del cielo me dijo por segunda vez: «Lo que Dios ha purificado no lo llames tú profano.",
+        "Esto ocurrió tres veces; y al fin todo fue arrebatado al cielo.",
+        "Inmediatamente después se presentaron tres hombres en la casa donde estábamos, enviados a mí desde Cesarea.",
+        "Y me dijo el Espíritu que fuese con ellos sin ningún reparo. Vinieron también conmigo estos seis hermanos y entramos en la casa de aquel hombre.",
+        "Él nos contó cómo había visto en su casa un ángel que, de pie, le decía: «Manda aviso a Jope y haz venir a Simón, llamado Pedro,",
+        "quien te dirá palabras por las que seréis salvados tú y toda tu casa.",
+        "Y cuando comencé a hablar, descendió sobre ellos el Espíritu Santo, igual que al principio lo hizo sobre nosotros.",
+        "Entonces recordé la palabra del Señor cuando decía: «Juan bautizó en agua, pero vosotros seréis bautizados en el Espíritu Santo.",
+        "Si Dios les concedió el mismo don que a nosotros, que creímos en el Señor Jesucristo, ¿quién era yo para estorbar a Dios?",
+        "Al oír esto se tranquilizaron y glorificaron a Dios diciendo: —Luego también a los gentiles les ha concedido Dios la conversión para la Vida."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 42:2-3; 43:3-4",
+      "texto": [
+        "Como ansía la cierva las corrientes de agua, así te ansía mi alma, Dios mío.",
+        "Mi alma está sedienta de Dios, del Dios vivo. ¿Cuándo podré ir a ver el rostro de Dios?",
+        "Envía tu luz y tu verdad; que ellas me guíen y me conduzcan a tu monte santo, a tus moradas;",
+        "Y me acercaré al altar de Dios, al Dios de mi alegría y de mi gozo, y te alabaré con la cítara, ¡oh Dios, Dios mío!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 10:1-10",
+      "texto": [
+        "En verdad, en verdad os digo: el que no entra por la puerta del redil de las ovejas, sino que salta por otra parte, ése es un ladrón y un salteador.",
+        "Pero el que entra por la puerta es pastor de las ovejas.",
+        "A éste le abre el portero y las ovejas atienden a su voz, llama a sus propias ovejas por su nombre y las conduce fuera.",
+        "Cuando las ha sacado todas, va delante de ellas y las ovejas le siguen porque conocen su voz.",
+        "Pero a un extraño no le seguirán, sino que huirán de él porque no conocen la voz de los extraños.",
+        "Jesús les propuso esta comparación, pero ellos no entendieron qué era lo que les decía.",
+        "Entonces volvió a decir Jesús: —En verdad, en verdad os digo: yo soy la puerta de las ovejas.",
+        "Todos cuantos han venido antes que yo son ladrones y salteadores, pero las ovejas no les escucharon.",
+        "Yo soy la puerta; si alguno entra a través de mí, se salvará; y entrará y saldrá y encontrará pastos.",
+        "El ladrón no viene sino para robar, matar y destruir. Yo he venido para que tengan vida y la tengan en abundancia."
+      ]
+    }
+  }
+}

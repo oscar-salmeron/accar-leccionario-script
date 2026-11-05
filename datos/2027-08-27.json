@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-08-27",
+  "fiesta": "Santa Mónica (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 4:1-8",
+      "texto": [
+        "Por lo demás, hermanos, os rogamos y os exhortamos en el Señor Jesús a que, conforme aprendisteis de nosotros sobre el modo de comportaros y de agradar al Señor, y tal como ya estáis haciendo, progreséis cada vez más.",
+        "Pues conocéis los preceptos que os dimos de parte del Señor Jesús.",
+        "Porque ésta es la voluntad de Dios: vuestra santificación; que os abstengáis de la fornicación:",
+        "que cada uno sepa guardar su propio cuerpo santamente y con honor,",
+        "sin dejarse dominar por la concupiscencia, como los gentiles, que no conocen a Dios.",
+        "En este asunto, que nadie abuse ni engañe a su hermano, pues el Señor toma venganza de todas estas cosas, como ya os advertimos y aseguramos;",
+        "porque Dios no nos llamó a la impureza, sino a la santidad.",
+        "Por tanto, el que menosprecia esto no menosprecia a un hombre, sino a Dios, que además os concede el don del Espíritu Santo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 97:1-2, 6, 12",
+      "texto": [
+        "El Señor reina: exulte la tierra, alégrense las islas incontables.",
+        "Nubes y tinieblas lo rodean, justicia y derecho son el fundamento de su trono.",
+        "Los montes se derriten como cera ante el Señor, ante el Dueño de toda la tierra.",
+        "Los cielos anuncian su justicia, y todos los pueblos contemplan su gloria.",
+        "Los que amáis al Señor, odiad el mal: Él guarda las almas de sus fieles, los libra de las manos de los impíos.",
+        "La luz ha sido esparcida para el justo, la alegría, para los rectos de corazón.",
+        "Alegraos, justos, en el Señor, celebrad su memoria santa."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:1-13",
+      "texto": [
+        "Entonces el Reino de los Cielos será como diez vírgenes, que tomaron sus lámparas y salieron a recibir al esposo.",
+        "Cinco de ellas eran necias y cinco prudentes;",
+        "pero las necias, al tomar sus lámparas, no llevaron consigo aceite;",
+        "las prudentes, en cambio, junto con las lámparas llevaron aceite en sus alcuzas.",
+        "Como tardaba en venir el esposo, les entró sueño a todas y se durmieron.",
+        "A medianoche se oyó una voz: «¡Ya está aquí el esposo! ¡Salid a su encuentro!",
+        "Entonces se levantaron todas aquellas vírgenes y aderezaron sus lámparas.",
+        "Y las necias les dijeron a las prudentes: «Dadnos aceite del vuestro porque nuestras lámparas se apagan.",
+        "Pero las prudentes les respondieron: «No, no sea que no alcance para nosotras y vosotras. Mejor es que vayáis a quienes lo venden y compréis para vosotras.",
+        "Mientras fueron a comprarlo vino el esposo, y las que estaban preparadas entraron con él a las bodas y se cerró la puerta.",
+        "Luego llegaron las otras vírgenes diciendo: «¡Señor, señor, ábrenos!",
+        "Pero él les respondió: «En verdad os digo que no os conozco.",
+        "Por eso: velad, porque no sabéis el día ni la hora."
+      ]
+    }
+  }
+}

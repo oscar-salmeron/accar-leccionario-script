@@ -1,0 +1,58 @@
+{
+  "fecha": "2027-02-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Job 7:1-4, 7",
+      "texto": [
+        "¿No es acaso milicia la vida del hombre sobre la tierra, y sus días como los del jornalero?",
+        "Como esclavo que busca la sombra, como jornalero que espera el salario,",
+        "así he tenido yo que afrontar meses inútiles, me ha tocado pasar noches de dolor.",
+        "Al acostarme me pregunto: «¿Cuándo me levantaré?. Al hacerse de noche me lleno de pesares hasta el amanecer.",
+        "Mis días corrían como lanzadera pero se han parado por falta de hilo.",
+        "Recuerda que mi vida es como un soplo, que mis ojos no volverán a ver la dicha."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 147:1-6",
+      "texto": [
+        "¡Aleluya! Alabad al Señor: es bueno entonar salmos a nuestro Dios, es bella y dulce la alabanza.",
+        "El Señor edifica Jerusalén, Él reúne a los dispersos de Israel.",
+        "Sana a los contritos de corazón, venda sus heridas.",
+        "Él lleva la cuenta de las estrellas y llama a cada una por su nombre.",
+        "Grande es nuestro Señor, de inmenso poder, su inteligencia no tiene límite.",
+        "El Señor sustenta a los humildes, y humilla hasta el suelo a los impíos."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 9:16-19, 23",
+      "texto": [
+        "Porque si evangelizo, no es para mí motivo de gloria, pues es un deber que me incumbe. ¡Ay de mí si no evangelizara!",
+        "Si lo hiciera por propia iniciativa, tendría recompensa; pero si lo hago por mandato, cumplo una misión encomendada."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:29-39",
+      "texto": [
+        "Porque siendo libre de todos, me hice siervo de todos para ganar a cuantos más pueda.",
+        "Me hice débil con los débiles, para ganar a los débiles. Me he hecho todo para todos, para salvar de cualquier manera a algunos.",
+        "En cuanto salieron de la sinagoga, fueron a la casa de Simón y de Andrés, con Santiago y Juan.",
+        "La suegra de Simón estaba acostada con fiebre, y enseguida le hablaron de ella.",
+        "Se acercó, la tomó de la mano y la levantó; le desapareció la fiebre y ella se puso a servirles.",
+        "Al atardecer, cuando se había puesto el sol, comenzaron a llevarle a todos los enfermos y a los endemoniados.",
+        "Y toda la ciudad se agolpaba en la puerta.",
+        "Y curó a muchos que padecían diversas enfermedades y expulsó a muchos demonios, y no les permitía hablar porque sabían quién era.",
+        "De madrugada, todavía muy oscuro, se levantó, salió y se fue a un lugar solitario, y allí hacía oración.",
+        "Salió a buscarle Simón y los que estaban con él,",
+        "y cuando lo encontraron le dijeron: —Todos te buscan.",
+        "Y les dijo: —Vámonos a otra parte, a las aldeas vecinas, para que predique también allí, porque para esto he venido.",
+        "Y pasó por toda Galilea predicando en sus sinagogas y expulsando a los demonios."
+      ]
+    }
+  }
+}

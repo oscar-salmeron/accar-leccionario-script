@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-08-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Josué 24:1-13",
+      "texto": [
+        "Josué reunió a todas las tribus de Israel en Siquem y llamó a los ancianos de Israel, a los jefes, a los jueces y a los capataces, y se presentaron delante de Dios.",
+        "Josué dijo a todo el pueblo: —Así dice el Señor, Dios de Israel: «Vuestros antepasados, Téraj, el padre de Abrahán y de Najor, habitaron desde siempre en el otro lado del río y sirvieron a otros dioses.",
+        "Tomé a vuestro padre Abrahán del otro lado del río y lo hice caminar por toda la tierra de Canaán, multipliqué su descendencia y le di a Isaac.",
+        "A Isaac le di a Jacob y Esaú. A Esaú le otorgué la posesión de la montaña de Seír, mientras que Jacob y sus hijos bajaron a Egipto.",
+        "Envié a Moisés y a Aarón, y golpeé a Egipto con lo que realicé en medio de él. Después os saqué a vosotros.",
+        "Saqué a vuestros padres de Egipto y llegaron al mar mientras que los egipcios les perseguían con carros y caballeros hasta el Mar Rojo.",
+        "Clamaron al Señor, que puso tinieblas entre vosotros y los egipcios, trajo sobre ellos el mar y los cubrió. Vuestros ojos han visto todo lo que hice en Egipto. Habitasteis en el desierto durante mucho tiempo",
+        "y os traje a la tierra del amorreo, que habita a este lado del Jordán. Lucharon contra vosotros y los puse en vuestras manos; ocupasteis su tierra y los quité de vuestra presencia.",
+        "Se levantó Balac, hijo de Sipor, rey de Moab, y luchó contra Israel. Mandó llamar a Balaam, hijo de Beor, para maldeciros;",
+        "pero no consentí que Balaam le obedeciera: él os bendijo y Yo os libré de su mano.",
+        "Pasaron el Jordán y llegaron a Jericó. Lucharon contra vosotros los hombres de Jericó, el amorreo, el perezeo, el cananeo, el hitita, el guirgaseo, el jeveo y el jebuseo, pero los puse en vuestras manos.",
+        "Envié avispas que os quitaron de delante a los dos reyes amorreos, sin que tuvierais que utilizar ni vuestra espada ni vuestro arco.",
+        "Y os di una tierra que no labrasteis, ciudades que no edificasteis para que habitarais en ellas. Os alimentáis de viñas y olivos que no plantasteis."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 136:1-3, 18, 22, 24",
+      "texto": [
+        "Dad gracias al Señor, porque es bueno, porque es eterna su misericordia.",
+        "Dad gracias al Dios de los dioses, porque es eterna su misericordia.",
+        "Dad gracias al Señor de los señores, porque es eterna su misericordia.",
+        "Él condujo a su pueblo por el desierto, porque es eterna su misericordia.",
+        "Él hirió a reyes potentes, porque es eterna su misericordia;",
+        "y dio muerte a reyes poderosos, porque es eterna su misericordia:",
+        "y dio sus tierras en heredad, porque es eterna su misericordia,",
+        "en heredad a Israel, su siervo, porque es eterna su misericordia.",
+        "y nos libró de nuestros adversarios, porque es eterna su misericordia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 19:3-12",
+      "texto": [
+        "Se acercaron entonces a él unos fariseos y le preguntaron para tentarle: —¿Le es lícito a un hombre repudiar a su mujer por cualquier motivo?",
+        "Él respondió: —¿No habéis leído que al principio el Creador los hizo hombre y mujer,",
+        "y que dijo: Por eso dejará el hombre a su padre y a su madre y se unirá a su mujer, y serán los dos una sola carne?",
+        "De modo que ya no son dos, sino una sola carne. Por tanto, lo que Dios ha unido, que no lo separe el hombre.",
+        "Ellos le replicaron: —¿Por qué entonces Moisés mandó dar el libelo de repudio y despedirla?",
+        "Él les respondió: —Moisés os permitió repudiar a vuestras mujeres a causa de la dureza de vuestro corazón; pero al principio no fue así.",
+        "Sin embargo, yo os digo: cualquiera que repudie a su mujer —a no ser por fornicación— y se case con otra, comete adulterio.",
+        "Le dicen los discípulos: —Si esa es la condición del hombre con respecto a su mujer, no trae cuenta casarse.",
+        "—No todos son capaces de entender esta doctrina —les respondió él—, sino aquellos a quienes se les ha concedido.",
+        "Pues, hay eunucos que nacieron así del vientre de su madre; también hay eunucos que han quedado así por obra de los hombres; y los hay que se han hecho eunucos a sí mismos por el Reino de los Cielos. Quien sea capaz de entender, que entienda."
+      ]
+    }
+  }
+}

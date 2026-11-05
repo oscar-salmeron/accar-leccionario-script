@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-12-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 2:12-17",
+      "texto": [
+        "Os escribo a vosotros, hijos, porque por su nombre se os han perdonado los pecados.",
+        "Os escribo a vosotros, padres, porque habéis conocido al que existe desde el principio. Os escribo a vosotros, jóvenes, porque habéis vencido al Maligno.",
+        "Os he escrito a vosotros, niños, porque habéis conocido al Padre. Os he escrito a vosotros, padres, porque habéis conocido al que existe desde el principio. Os he escrito a vosotros, jóvenes, porque sois fuertes, y la palabra de Dios permanece en vosotros, y habéis vencido al Maligno.",
+        "No améis al mundo ni lo que hay en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.",
+        "Porque todo lo que hay en el mundo —la concupiscencia de la carne, la concupiscencia de los ojos y la arrogancia de los bienes terrenos— no procede del Padre, sino del mundo.",
+        "Y el mundo es pasajero, y también sus concupiscencias; pero quien cumple la voluntad de Dios permanece para siempre."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:7-10",
+      "texto": [
+        "Rendid al Señor, familias de los pueblos, rendid al Señor gloria y poder.",
+        "Rendid al Señor la gloria de su Nombre. Llevad ofrendas, entrad en sus atrios.",
+        "Postraos ante el Señor en su atrio santo, temblad en su presencia, tierra entera.",
+        "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará. Él juzga a los pueblos con rectitud."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 2:36-40",
+      "texto": [
+        "Vivía entonces una profetisa llamada Ana, hija de Fanuel, de la tribu de Aser. Era de edad muy avanzada, había vivido con su marido siete años de casada",
+        "y había permanecido viuda hasta los ochenta y cuatro años, sin apartarse del Templo, sirviendo con ayunos y oraciones noche y día.",
+        "Y llegando en aquel mismo momento, alababa a Dios y hablaba de él a todos los que esperaban la redención de Jerusalén.",
+        "Cuando cumplieron todas las cosas mandadas en la Ley del Señor, regresaron a Galilea, a su ciudad de Nazaret.",
+        "El niño iba creciendo y fortaleciéndose lleno de sabiduría, y la gracia de Dios estaba en él."
+      ]
+    }
+  }
+}

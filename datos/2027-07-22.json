@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-07-22",
+  "fiesta": "Santa María Magdalena (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 19:1-2, 11, 20",
+      "texto": [
+        "A los tres meses de la salida del país de Egipto, ese mismo día, los hijos de Israel llegaron al desierto del Sinaí.",
+        "Habían salido de Refidim, llegaron al desierto del Sinaí y acamparon. Israel puso allí el campamento frente a la montaña.",
+        "Entonces dijo el Señor a Moisés: —He aquí que Yo voy a presentarme a ti en una densa nube para que el pueblo oiga cuándo me comunico contigo, y así te crean a ti siempre. Y Moisés refirió al Señor la respuesta de su pueblo.",
+        "El Señor dijo a Moisés: —Ve al pueblo y haz que se purifiquen hoy y mañana; que laven sus vestidos.",
+        "Y que estén preparados para el tercer día, porque el día tercero el Señor descenderá a la vista de todo el pueblo sobre el monte Sinaí.",
+        "El día tercero, al despuntar la aurora, hubo truenos y relámpagos, y una densa nube sobre la montaña, y un sonido muy intenso de trompeta. Todo el pueblo que estaba en el campamento se estremeció.",
+        "Moisés hizo salir al pueblo del campamento al encuentro de Dios; ellos se detuvieron al pie de la montaña.",
+        "Todo el monte Sinaí humeaba porque el Señor había descendido sobre él en el fuego. El humo subía como humo de horno y toda la montaña se estremeció violentamente.",
+        "El sonido de la trompeta se fue haciendo más intenso: Moisés hablaba y Dios le respondía con el trueno.",
+        "El Señor descendió sobre el monte Sinaí, sobre la cima de la montaña. Luego el Señor llamó a Moisés a la cumbre de la montaña y allí subió Moisés."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Daniel 3:52-56",
+      "texto": [
+        "—Bendito eres, Señor, Dios de nuestros padres, digno de alabanza y ensalzado por los siglos. Bendito el santo Nombre de tu gloria, muy digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres en el Templo de tu santa gloria, muy digno de alabanza y glorioso por los siglos.",
+        "Bendito eres sobre el trono de tu reino: muy digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres Tú, que sondeas los abismos sentado sobre querubines, digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres en la bóveda del cielo, digno de alabanza y glorioso por los siglos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:1-2, 18",
+      "texto": [
+        "El día siguiente al sábado, muy temprano, cuando todavía estaba oscuro, fue María Magdalena al sepulcro y vio quitada la piedra del sepulcro.",
+        "Entonces echó a correr, llegó hasta donde estaban Simón Pedro y el otro discípulo, el que Jesús amaba, y les dijo: —Se han llevado al Señor del sepulcro y no sabemos dónde lo han puesto.",
+        "María estaba fuera, llorando junto al sepulcro. Mientras lloraba se inclinó hacia el sepulcro,",
+        "y vio a dos ángeles de blanco, sentados uno a la cabecera y otro a los pies, donde había sido colocado el cuerpo de Jesús.",
+        "Ellos dijeron: —Mujer, ¿por qué lloras? —Se han llevado a mi Señor y no sé dónde lo han puesto —les respondió.",
+        "Dicho esto, se volvió hacia atrás y vio a Jesús de pie, pero no sabía que era Jesús.",
+        "Le dijo Jesús: —Mujer, ¿por qué lloras? ¿A quién buscas? Ella, pensando que era el hortelano, le dijo: —Señor, si te lo has llevado tú, dime dónde lo has puesto y yo lo recogeré.",
+        "Jesús le dijo: —¡María! Ella, volviéndose, exclamó en hebreo: —¡Rabbuni! —que quiere decir: «Maestro.",
+        "Jesús le dijo: —Suéltame, que aún no he subido a mi Padre; pero vete donde están mis hermanos y diles: «Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios.",
+        "Fue María Magdalena y anunció a los discípulos: —¡He visto al Señor!, y me ha dicho estas cosas."
+      ]
+    }
+  }
+}

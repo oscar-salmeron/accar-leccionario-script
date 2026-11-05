@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-07-21",
+  "fiesta": "San Lorenzo de Brindis, Presbítero, Doctor de la Iglesia (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 8:9-16",
+      "texto": [
+        "Por eso decidí tomarla por compañera de mi vida, consciente de que me sería buena consejera y consuelo en las preocupaciones y tristezas.",
+        "Gracias a ella conseguiré gloria ante la gente, y honor de los ancianos, aun siendo joven.",
+        "En los juicios me encontrarán agudo, y delante de los poderosos seré admirado.",
+        "Cuando yo calle, se quedarán esperando, y cuando hable, me prestarán atención, y si me alargo hablando, se llevarán la mano a la boca.",
+        "Gracias a ella alcanzaré inmortalidad y dejaré un recuerdo eterno a los que me sucedan.",
+        "Gobernaré pueblos, y se me someterán naciones.",
+        "Soberanos terribles oirán hablar de mí y me temerán; con la gente me mostraré bueno, y en el combate, valiente.",
+        "Al volver a casa descansaré con ella, pues no hay amargura en su convivencia, ni tedio en su compañía; al contrario, da alegría y contento."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 67:2-5, 8",
+      "texto": [
+        "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros.",
+        "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones.",
+        "¡Que te alaben los pueblos, oh Dios, que todos los pueblos te alaben!",
+        "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud y diriges las naciones de la tierra.",
+        "La tierra ha dado su fruto: Dios, nuestro Dios, nos bendice.",
+        "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:1-6",
+      "texto": [
+        "Convocó a los doce y les dio poder y potestad sobre todos los demonios, y para curar enfermedades.",
+        "Los envió a predicar el Reino de Dios y a sanar a los enfermos.",
+        "Y les dijo: —No llevéis nada para el camino, ni bastón, ni alforja, ni pan, ni dinero, ni tengáis dos túnicas.",
+        "En cualquier casa que entréis, quedaos allí hasta que de allí os vayáis.",
+        "Y si nadie os acoge, al salir de aquella ciudad, sacudíos el polvo de los pies en testimonio contra ellos.",
+        "Se marcharon y pasaban por las aldeas evangelizando y curando por todas partes."
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-03-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 3:25, 43",
+      "texto": [
+        "Azarías, puesto así en pie, oró; comenzó a hablar en medio del fuego y dijo:",
+        "No nos desampares para siempre, por honor de tu Nombre; y no rompas tu alianza,",
+        "ni apartes de nosotros tu misericordia, por Abrahán, tu amigo, por Isaac, tu siervo, por Israel, tu consagrado,",
+        "a quienes prometiste multiplicar su descendencia como las estrellas del cielo, como la arena de las playas marinas.",
+        "Pues ahora, Señor, somos el más pequeño de todos los pueblos; hoy estamos humillados por toda la tierra a causa de nuestros pecados.",
+        "En este momento no tenemos príncipes, ni profetas, ni jefes; ni holocausto, ni sacrificios, ni ofrendas, ni incienso; ni un lugar para ofrecerte primicias y alcanzar misericordia.",
+        "Pero sea aceptado nuestro corazón contrito y nuestro espíritu humillado como un holocausto de carneros y toros,",
+        "como una multitud de corderos cebados. Que así sea hoy nuestro sacrificio delante de Ti, y vayamos en todo tras de Ti, porque no son avergonzados los que en Ti confían.",
+        "Ahora te seguimos de todo corazón y te respetamos, buscamos tu rostro.",
+        "No nos avergüences, Señor, sino trátanos según tu mansedumbre, según tu gran misericordia.",
+        "Líbranos según tus obras prodigiosas y da gloria a tu Nombre, Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 25:4-9",
+      "texto": [
+        "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas.",
+        "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador, (Vav) y en Ti espero todo el día.",
+        "(Záin) Acuérdate, Señor, de tu misericordia y de tu amor, que son eternos.",
+        "(Het) No recuerdes los pecados y delitos de mi juventud. Acuérdate de mí según tu misericordia, por tu bondad, ¡Señor!",
+        "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,",
+        "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 18:21-35",
+      "texto": [
+        "Entonces, se acercó Pedro a preguntarle: —Señor, ¿cuántas veces tengo que perdonar a mi hermano cuando peque contra mí? ¿Hasta siete?",
+        "Jesús le respondió: —No te digo que hasta siete veces, sino hasta setenta veces siete.",
+        "Por eso el Reino de los Cielos viene a ser como un rey que quiso arreglar cuentas con sus siervos.",
+        "Puesto a hacer cuentas, le presentaron uno que le debía diez mil talentos.",
+        "Como no podía pagar, el señor mandó que fuese vendido él con su mujer y sus hijos y todo lo que tenía, y que así pagase.",
+        "Entonces el siervo se echó a sus pies y le suplicaba: «Ten paciencia conmigo y te pagaré todo.",
+        "El señor, compadecido de aquel siervo, lo mandó soltar y le perdonó la deuda.",
+        "Al salir aquel siervo, encontró a uno de sus compañeros que le debía cien denarios y, agarrándole, lo ahogaba y le decía: «Págame lo que me debes.",
+        "Su compañero, se echó a sus pies y se puso a rogarle: «Ten paciencia conmigo y te pagaré.",
+        "Pero él no quiso, sino que fue y lo hizo meter en la cárcel, hasta que pagase la deuda.",
+        "Al ver sus compañeros lo ocurrido, se disgustaron mucho y fueron a contar a su señor lo que había pasado.",
+        "Entonces su señor lo mandó llamar y le dijo: «Siervo malvado, yo te he perdonado toda la deuda porque me lo has suplicado.",
+        "¿No debías tú también tener compasión de tu compañero, como yo la he tenido de ti?",
+        "Y su señor, irritado, lo entregó a los verdugos, hasta que pagase toda la deuda.",
+        "Del mismo modo hará con vosotros mi Padre celestial, si cada uno no perdona de corazón a su hermano."
+      ]
+    }
+  }
+}

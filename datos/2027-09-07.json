@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-09-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 2:6-15",
+      "texto": [
+        "Por tanto, así como habéis recibido a Cristo Jesús, el Señor, vivid en él,",
+        "enraizados y edificados sobre él, permaneciendo fuertes en la fe, tal como aprendisteis, y manifestando generosamente vuestro agradecimiento.",
+        "Vigilad para que nadie os seduzca por medio de vanas filosofías y falacias, fundadas en la tradición de los hombres y en los elementos del mundo, pero no en Cristo.",
+        "Porque en él habita toda la plenitud de la divinidad corporalmente,",
+        "y por él, que es cabeza de todo principado y potestad, habéis alcanzado la plenitud.",
+        "Por él fuisteis también circuncidados con una circuncisión no hecha por mano que mutila el cuerpo carnal, sino con la circuncisión de Cristo.",
+        "Sepultados con él por medio del Bautismo, también fuisteis resucitados con él mediante la fe en el poder de Dios, que lo resucitó de entre los muertos.",
+        "Y a vosotros, que estabais muertos por los delitos y por la falta de circuncisión de vuestra carne, os vivificó con él, y perdonó gratuitamente todos nuestros delitos,",
+        "al borrar el pliego de cargos que nos era adverso, y que canceló clavándolo en la cruz.",
+        "Habiendo despojado a los principados y potestades, los exhibió en público llevándolos en su cortejo triunfal."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:1-2, 11",
+      "texto": [
+        "Laude. De David. (Alef) Te ensalzaré, Dios mío, mi Rey, bendeciré tu Nombre por siempre sin fin.",
+        "(Bet) Cada día te bendeciré y alabaré tu Nombre por siempre sin fin.",
+        "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia.",
+        "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras.",
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 6:12-19",
+      "texto": [
+        "En aquellos días salió al monte a orar y pasó toda la noche en oración a Dios.",
+        "Cuando se hizo de día, llamó a sus discípulos y de entre ellos eligió a doce, a los que denominó apóstoles:",
+        "a Simón, a quien también llamó Pedro, y a su hermano Andrés, a Santiago, a Juan, a Felipe, a Bartolomé,",
+        "a Mateo, a Tomás, a Santiago de Alfeo, a Simón, llamado Zelotes,",
+        "a Judas de Santiago y a Judas Iscariote, que fue el traidor.",
+        "Bajando con ellos, se detuvo en un lugar llano. Y había una multitud de sus discípulos, y una gran muchedumbre del pueblo procedente de toda Judea y de Jerusalén y del litoral de Tiro y Sidón,",
+        "que vinieron a oírle y a ser curados de sus enfermedades. Y los que estaban atormentados por espíritus impuros quedaban curados.",
+        "Toda la multitud intentaba tocarle, porque salía de él una fuerza que sanaba a todos."
+      ]
+    }
+  }
+}

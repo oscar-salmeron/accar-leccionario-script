@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-09-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 1:9-14",
+      "texto": [
+        "Por eso también nosotros, desde el día en que nos enteramos, no cesamos de rezar y pedir por vosotros, para que alcancéis un pleno conocimiento de su voluntad con toda sabiduría y entendimiento espiritual.",
+        "Rezamos para que viváis de una manera digna del Señor, agradándole en todo, dando como fruto toda clase de obras buenas y creciendo en el conocimiento de Dios.",
+        "Así seréis fortalecidos con toda la fuerza propia de su glorioso poder para tener en todo paciencia y longanimidad, con alegría,",
+        "dando gracias al Padre, que os hizo dignos de participar en la herencia de los santos en la luz.",
+        "Él nos arrebató del poder de las tinieblas y nos trasladó al reino del Hijo de su amor,",
+        "en quien tenemos la redención, el perdón de los pecados."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:2-6",
+      "texto": [
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos.",
+        "Entonad salmos al Señor con la cítara, con la cítara al son de la música;",
+        "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 5:1-11",
+      "texto": [
+        "Estaba Jesús junto al lago de Genesaret y la multitud se agolpaba a su alrededor para oír la palabra de Dios.",
+        "Y vio dos barcas que estaban a la orilla del lago; los pescadores habían bajado de ellas y estaban lavando las redes.",
+        "Entonces, subiendo a una de las barcas, que era de Simón, le rogó que la apartase un poco de tierra. Y, sentado, enseñaba a la multitud desde la barca.",
+        "Cuando terminó de hablar, le dijo a Simón: —Guía mar adentro, y echad vuestras redes para la pesca.",
+        "Simón le contestó: —Maestro, hemos estado bregando durante toda la noche y no hemos pescado nada; pero sobre tu palabra echaré las redes.",
+        "Lo hicieron y recogieron gran cantidad de peces. Tantos, que las redes se rompían.",
+        "Entonces hicieron señas a los compañeros que estaban en la otra barca, para que vinieran y les ayudasen. Vinieron, y llenaron las dos barcas, de modo que casi se hundían.",
+        "Cuando lo vio Simón Pedro, se arrojó a los pies de Jesús, diciendo: —Apártate de mí, Señor, que soy un hombre pecador.",
+        "Pues el asombro se había apoderado de él y de cuantos estaban con él, por la gran cantidad de peces que habían pescado.",
+        "Lo mismo sucedía a Santiago y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Entonces Jesús le dijo a Simón: —No temas; desde ahora serán hombres los que pescarás.",
+        "Y ellos, sacando las barcas a tierra, dejadas todas las cosas, le siguieron."
+      ]
+    }
+  }
+}

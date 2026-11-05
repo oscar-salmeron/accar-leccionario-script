@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-01-16",
+  "fiesta": "San Berardo, OFM, Presbítero y Compañeros, Protomártires (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 4:12-16",
+      "texto": [
+        "Ciertamente, la palabra de Dios es viva y eficaz, y más cortante que una espada de doble filo: entra hasta la división del alma y del espíritu, de las articulaciones y de la médula, y descubre los sentimientos y pensamientos del corazón.",
+        "No hay ante ella criatura invisible, sino que todo está desnudo y patente a los ojos de Aquel a quien hemos de rendir cuenta.",
+        "Ya que tenemos un Sumo Sacerdote que ha entrado en los cielos —Jesús, el Hijo de Dios—, mantengamos firme nuestra confesión de fe.",
+        "Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino que, de manera semejante a nosotros, ha sido probado en todo, excepto en el pecado.",
+        "Por lo tanto, acerquémonos confiadamente al trono de la gracia, para que alcancemos misericordia y encontremos la gracia que nos ayude en el momento oportuno."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:8-10, 15",
+      "texto": [
+        "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme, instruye al sencillo.",
+        "Los preceptos del Señor son rectos, alegran el corazón. Los mandamientos del Señor son puros, dan luz a los ojos.",
+        "El temor del Señor es limpio, dura por siempre. Los juicios del Señor son veraces, son enteramente justos,",
+        "Sean de tu agrado las palabras de mi boca y las meditaciones de mi corazón en tu presencia. ¡Señor, Roca mía y Redentor mío!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 2:13-17",
+      "texto": [
+        "Y se fue otra vez a la orilla del mar. Y toda la muchedumbre iba hacia él, y les enseñaba.",
+        "Al pasar, vio a Leví, el de Alfeo, sentado al telonio, y le dijo: —Sígueme. Él se levantó y le siguió.",
+        "Ya en su casa, estando a la mesa, se sentaron con Jesús y sus discípulos muchos publicanos y pecadores, porque eran muchos los que le seguían.",
+        "Los escribas de los fariseos, al ver que comía con pecadores y publicanos, empezaron a decir a sus discípulos: —¿Por qué come con publicanos y pecadores?",
+        "Lo oyó Jesús y les dijo: —No tienen necesidad de médico los sanos, sino los enfermos; no he venido a llamar a los justos, sino a los pecadores."
+      ]
+    }
+  }
+}

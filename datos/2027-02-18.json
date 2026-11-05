@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-02-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "",
+      "texto": [
+        "Ester C:12, -16, -25",
+        "También la reina Ester, presa de angustia por el inminente peligro de muerte, buscó refugio junto al Señor.",
+        "Desde la mañana hasta la tarde se mantuvo postrada en tierra junto con sus sirvientas; y dijo:",
+        "—Bendito eres, Dios de Abrahán, Dios de Isaac y Dios de Jacob. Ven en mi ayuda, pues me encuentro sola y no tengo otro auxilio fuera ti, Señor,",
+        "porque me amenaza un gran peligro.",
+        "Yo sé por los libros de mis antepasados, Señor, que Tú libras a todos los que te complacen, Señor, por siempre.",
+        "Así que ahora, ayúdame, que estoy sola y no tengo a nadie sino a ti, Señor, Dios mío.",
+        "Ayúdame, que soy huérfana, y pon en mi boca una palabra apropiada frente al león, hazme grata ante él y convierte su corazón en odio contra el que nos hostiga, para ruina suya y de los que piensan como él.",
+        "Libéranos de la mano de nuestros enemigos; convierte nuestro luto en gozo y nuestros dolores en salud."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 138:1-3, 8",
+      "texto": [
+        "De David. Te doy gracias, Señor, de todo corazón, porque has escuchado las palabras de mi boca. Delante de los ángeles entonaré salmos para Ti.",
+        "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre por tu misericordia y tu fidelidad, porque has engrandecido tu promesa por encima de todo nombre.",
+        "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma.",
+        "Si camino entre angustias, me das vida. Contra la ira de mis enemigos extiendes tu mano, y tu diestra me salva.",
+        "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna: no abandones la obra de tus manos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 7:7-12",
+      "texto": [
+        "Pedid y se os dará; buscad y encontraréis; llamad y se os abrirá.",
+        "Porque todo el que pide, recibe; y el que busca, encuentra; y al que llama, se le abrirá.",
+        "¿Quién de entre vosotros, si un hijo suyo le pide un pan, le da una piedra?",
+        "¿O si le pide un pez le da una serpiente?",
+        "Pues si vosotros, siendo malos, sabéis dar a vuestros hijos cosas buenas, ¿cuánto más vuestro Padre que está en los cielos dará cosas buenas a los que se lo pidan?",
+        "Todo lo que queráis que hagan los hombres con vosotros, hacedlo también vosotros con ellos: ésta es la Ley y los Profetas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "fecha": "2027-04-05",
+  "fiesta": "Anunciación del Señor (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 7:10-14; 8:10",
+      "texto": [
+        "Y el Señor siguió hablando a Ajaz:",
+        "—Pídele al Señor, tu Dios, un signo, en el fondo del sheol o en lo alto del cielo.",
+        "Pero Ajaz dijo: —No lo pediré y no tentaré al Señor.",
+        "Entonces respondió: —Escuchad, casa de David: «¿Os parece poco cansar a los hombres para que canséis también a mi Dios?",
+        "Pues bien, el propio Señor os da un signo. Mirad, la virgen está encinta y dará a luz un hijo, a quien pondrán por nombre Emmanuel.",
+        "¡Llegad a un acuerdo, y fracasará! ¡Quedad en algo, y no se mantendrá!, porque ¡Dios está con nosotros!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 40:7-11",
+      "texto": [
+        "No quisiste sacrificio ni ofrenda, pero me abriste el oído. No pediste holocausto ni sacrificio de expiación;",
+        "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—",
+        "para hacer tu voluntad, Dios mío. Ése es mi querer, pues llevo tu Ley dentro de mí.",
+        "He anunciado la justicia en la gran asamblea; no he cerrado mis labios, Señor, Tú lo sabes bien.",
+        "No he escondido tu justicia dentro de mi corazón; he proclamado tu fidelidad y tu salvación, no he ocultado tu bondad y tu lealtad a la gran asamblea."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 10:4-10",
+      "texto": [
+        "porque es imposible que la sangre de toros y machos cabríos borre los pecados.",
+        "Por eso, al entrar en el mundo, dice: Sacrificio y ofrenda no quisiste, pero me preparaste un cuerpo;",
+        "los holocaustos y sacrificios por el pecado no te han agradado.",
+        "Entonces dije: «Aquí vengo, como está escrito de mí al comienzo del libro, para hacer, oh Dios, tu voluntad.",
+        "Después de haber dicho antes: No quisiste ni te agradaron sacrificios y ofrendas ni holocaustos y víctimas expiatorias por el pecado —cosas que se ofrecen según la Ley—,",
+        "añade luego: Aquí vengo para hacer tu voluntad. Deroga lo primero para instaurar lo segundo.",
+        "Y por esa voluntad somos santificados de una vez para siempre, mediante la ofrenda del cuerpo de Jesucristo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:26-38",
+      "texto": [
+        "En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret,",
+        "a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María.",
+        "Y entró donde ella estaba y le dijo: —Dios te salve, llena de gracia, el Señor es contigo.",
+        "Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo.",
+        "Y el ángel le dijo: —No temas, María, porque has hallado gracia delante de Dios:",
+        "concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús.",
+        "Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre,",
+        "reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin.",
+        "María le dijo al ángel: —¿De qué modo se hará esto, pues no conozco varón?",
+        "Respondió el ángel y le dijo: —El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios.",
+        "Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes,",
+        "porque para Dios no hay nada imposible.",
+        "Dijo entonces María: —He aquí la esclava del Señor, hágase en mí según tu palabra. Y el ángel se retiró de su presencia."
+      ]
+    }
+  }
+}

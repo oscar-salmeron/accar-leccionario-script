@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-10-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 2:1-11",
+      "texto": [
+        "Por eso, tú que juzgas, quienquiera que seas, eres inexcusable; porque en lo que juzgas a otro te condenas a ti mismo, ya que tú, el que juzgas, haces lo mismo.",
+        "Pues sabemos que Dios condena según la verdad a los que hacen esas cosas.",
+        "¿Y tú, hombre que juzgas a los que hacen las mismas cosas que tú, piensas que escaparás al juicio de Dios?",
+        "¿O es que desprecias las riquezas de su bondad, paciencia y longanimidad, y no sabes que la bondad de Dios te lleva a la penitencia?",
+        "Tú, sin embargo, con tu dureza y con tu corazón que no se quiere arrepentir, atesoras contra ti mismo ira para el día de la ira y de la revelación del justo juicio de Dios,",
+        "el cual retribuirá a cada uno según sus obras:",
+        "la vida eterna para quienes, mediante la perseverancia en el buen obrar, buscan gloria, honor e incorrupción;",
+        "la ira y la indignación, en cambio, para quienes, con contumacia, no sólo se rebelan contra la verdad, sino que obedecen a la injusticia.",
+        "Tribulación y angustia para todo hombre que obra el mal, primero para el judío y luego para el griego.",
+        "Gloria, en cambio, honor y paz a todo el que obra el bien, primero para el judío, luego para el griego;",
+        "porque delante de Dios no hay acepción de personas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 62:2-3, 7, 9",
+      "texto": [
+        "Sólo en Dios está el descanso, alma mía, de Él viene mi salvación.",
+        "Sólo Él es mi roca y mi salvación, mi alcázar: ya no podré vacilar.",
+        "Sólo en Dios está el descanso, alma mía, porque de Él viene mi esperanza.",
+        "Sólo Él es mi roca y mi salvación mi alcázar: no podré vacilar.",
+        "Confiad en Él, comunidad entera del pueblo, desahogad vuestro corazón en su presencia: Dios es nuestro refugio."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:42-46",
+      "texto": [
+        "Pero, ¡ay de vosotros, fariseos, que pagáis el diezmo de la menta, de la ruda y de todas las legumbres, pero despreciáis la justicia y el amor de Dios! ¡Hay que hacer esto sin descuidar lo otro!",
+        "¡Ay de vosotros, fariseos, porque apetecéis los primeros asientos en las sinagogas y que os saluden en las plazas!",
+        "¡Ay de vosotros, que sois como sepulcros disimulados, sobre los que pasan los hombres sin saberlo!",
+        "Entonces, cierto doctor de la Ley, tomando la palabra, le replica: —Maestro, diciendo tales cosas nos ofendes también a nosotros.",
+        "Pero él dijo: —¡Ay también de vosotros, los doctores de la Ley, porque imponéis a los hombres cargas insoportables, pero vosotros ni con uno de vuestros dedos las tocáis!"
+      ]
+    }
+  }
+}

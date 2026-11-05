@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-09-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ageo 2:1-9",
+      "texto": [
+        "El día vigésimo primero del séptimo mes, la palabra del Señor fue dirigida, por medio del profeta Ageo, diciendo:",
+        "—Háblale a Zorobabel, hijo de Sealtiel, gobernador de Judá, y a Josué, hijo de Yosadac, sumo sacerdote, y al resto del pueblo, y diles:",
+        "«¿Quién queda entre vosotros que haya visto este Templo en su primitiva gloria? ¿Cómo lo veis ahora? ¿No os parece a vuestros ojos como nada?",
+        "Ahora: ¡ánimo, Zorobabel! —oráculo del Señor—, ¡ánimo, Josué, hijo de Yosadac, sumo sacerdote!, ¡ánimo, todo el pueblo llano! —oráculo del Señor—. Poneos a la obra, que Yo estoy con vosotros —oráculo del Señor de los ejércitos—,",
+        "según la palabra que pacté con vosotros cuando salisteis de Egipto. Mi Espíritu está en medio de vosotros: no temáis.",
+        "Pues así dice el Señor de los ejércitos: “Todavía un poco y Yo sacudiré cielos y tierra, mar y tierra firme.",
+        "Haré temblar a todas las naciones, y vendrán los tesoros de todas las naciones; llenaré de gloria este Templo, dice el Señor de los ejércitos.",
+        "Mía es la plata y mío el oro —oráculo del Señor de los ejércitos—.",
+        "Mayor será la gloria de este Templo, el postrero, que la del primero —dice el Señor de los ejércitos—. En este lugar daré la paz —oráculo del Señor de los ejércitos—”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 43:1-4",
+      "texto": [
+        "Hazme justicia, Dios mío, y defiende mi causa de gente sin piedad; líbrame del hombre falso y perverso.",
+        "Tú eres el Dios de mi refugio. ¿Por qué me rechazas? ¿Por qué he de andar entristecido por la opresión del enemigo?",
+        "Envía tu luz y tu verdad; que ellas me guíen y me conduzcan a tu monte santo, a tus moradas;",
+        "Y me acercaré al altar de Dios, al Dios de mi alegría y de mi gozo, y te alabaré con la cítara, ¡oh Dios, Dios mío!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:18-22",
+      "texto": [
+        "Cuando estaba haciendo oración a solas, y se encontraban con él los discípulos, les preguntó: —¿Quién dicen las gentes que soy yo?",
+        "Ellos respondieron: —Juan el Bautista. Pero otros que Elías, y otros que ha resucitado uno de los antiguos profetas.",
+        "Pero él les dijo: —Y vosotros ¿quién decís que soy yo? Respondió Pedro: —El Cristo de Dios.",
+        "Pero él les amonestó y les ordenó que no dijeran esto a nadie.",
+        "Y añadió que el Hijo del Hombre debía padecer mucho y ser rechazado por causa de los ancianos, de los príncipes de los sacerdotes y de los escribas, y ser llevado a la muerte y resucitar al tercer día."
+      ]
+    }
+  }
+}

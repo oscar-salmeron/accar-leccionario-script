@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-03-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Oseas 14:2-10",
+      "texto": [
+        "¡Conviértete, Israel, al Señor, tu Dios, pues caíste por tu culpa!",
+        "Preparaos las palabras y convertíos al Señor. Decidle: «Quita toda iniquidad, acepta lo que sea bueno, te ofreceremos el fruto de nuestros labios.",
+        "Asiria no nos ha de salvar; no montaremos a caballo, ni llamaremos más “Dios nuestro” a la obra de nuestras manos, porque en Ti el huérfano halla piedad.",
+        "«Yo curaré su infidelidad, les amaré de buen grado, porque mi cólera se habrá apartado de ellos.",
+        "Seré como rocío para Israel, florecerá como azucena, y echará raíces como el Líbano.",
+        "Se extenderán sus ramas tiernas y tendrá la belleza del olivo y el aroma del Líbano.",
+        "Volverán a habitar a mi sombra, a cultivar el trigo, a florecer como la vid; su renombre será como el del vino del Líbano.",
+        "Efraím, ¿de qué le servirán ya los ídolos? Yo le atiendo y le miro. Yo soy como ciprés lozano: es de Mí de quien vienen tus frutos.",
+        "Quien sea sabio que discierna estas cosas; el prudente, que las entienda. Que los caminos del Señor son rectos: por ellos caminan los justos, pero los rebeldes en ellos caerán."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 81:6-11, 14, 17",
+      "texto": [
+        "un precepto que dio a José al salir del país de Egipto. Oigo una lengua que ignoro.",
+        "Libré su espalda de la carga, sus manos se soltaron de la espuerta.",
+        "En la angustia me invocaste y te libré; te respondí desde lo oculto del trueno. Te puse a prueba junto a las aguas de Meribá.",
+        "Escucha, pueblo mío, te prevengo. ¡Ojalá quieras escucharme, Israel!",
+        "No tendrás un dios extraño, ni te postrarás ante un dios extranjero.",
+        "Yo soy el Señor, tu Dios, que te hice subir de la tierra de Egipto. Abre bien tu boca y Yo la llenaré.",
+        "¡Ay si mi pueblo me escuchase, si Israel marchara por mis caminos!",
+        "Yo le alimentaría con flor de harina; le saciaría de miel de roca."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 12:28-34",
+      "texto": [
+        "Se acercó uno de los escribas, que había oído la discusión y, al ver lo bien que les había respondido, le preguntó: —¿Cuál es el primero de todos los mandamientos?",
+        "Jesús respondió: —El primero es: Escucha, Israel, el Señor Dios nuestro es el único Señor;",
+        "y amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente y con todas tus fuerzas.",
+        "El segundo es éste: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos.",
+        "Y le dijo el escriba: —¡Bien, Maestro! Con verdad has dicho que Dios es uno solo y no hay otro fuera de Él;",
+        "y amarle con todo el corazón y con toda la inteligencia y con toda la fuerza, y amar al prójimo como a sí mismo, vale más que todos los holocaustos y sacrificios.",
+        "Viendo Jesús que le había respondido con sensatez, le dijo: —No estás lejos del Reino de Dios. Y ninguno se atrevía ya a hacerle preguntas."
+      ]
+    }
+  }
+}

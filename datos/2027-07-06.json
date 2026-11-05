@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-07-06",
+  "fiesta": "Santa María Goretti, Virgen, Mártir (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 32:23-33",
+      "texto": [
+        "Se levantó por la noche, tomó a sus dos mujeres, a sus dos esclavas y a sus once hijos y cruzó el vado de Yaboc.",
+        "Los llevó y les hizo pasar el río; después pasó todo lo que tenía,",
+        "y se quedó Jacob solo. Un hombre estuvo luchando con él hasta rayar el alba;",
+        "y al ver aquel hombre que no le podía, le alcanzó en la articulación del muslo; y se le dislocó a Jacob la articulación del muslo en su lucha con él.",
+        "Y le dijo el hombre: —Suéltame, pues va a rayar el alba. Le contestó: —No te soltaré hasta que no me bendigas.",
+        "Entonces le preguntó: —¿Cómo te llamas? Respondió: —Jacob.",
+        "Le dijo: —Ya no te llamarás más Jacob, sino Israel, porque has luchado con Dios y con hombres, y has podido.",
+        "Jacob le preguntó: —Por favor, dime tu nombre. Le contestó: —¿Por qué preguntas mi nombre? Y le bendijo allí mismo.",
+        "Jacob puso a aquel lugar el nombre de Penuel, porque se dijo: «He visto a Dios cara a cara y conservo la vida.",
+        "Salía el sol cuando atravesó Penuel, e iba cojeando del muslo.",
+        "Por eso los hijos de Israel no comen hasta hoy el tendón que está en la articulación del muslo, porque en el tendón fue alcanzada la articulación del muslo de Jacob."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 17:1-3, 7, 8, 15",
+      "texto": [
+        "Oración. De David. Escucha, Señor, mi demanda, atiende a mi clamor, presta oído a mi súplica, que en mis labios no hay engaño.",
+        "Que de Ti salga mi sentencia, que vean tus ojos lo que es recto.",
+        "Examina mi corazón, obsérvalo de noche; pruébame al fuego. No encontrarás malicia en mí;",
+        "Yo te invoco porque Tú me escuchas, Dios mío. Inclina tu oído hacia mí, escucha mis palabras.",
+        "Muestra tu misericordia, Tú que salvas de los adversarios a los que se refugian en tu diestra.",
+        "Guárdame como la niña de tus ojos; a la sombra de tus alas escóndeme",
+        "Pero yo, en justicia, contemplaré tu rostro, y, al despertar, me saciaré de tu presencia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:32-38",
+      "texto": [
+        "Nada más irse, le trajeron un endemoniado mudo.",
+        "Después de expulsar al demonio habló el mudo. Y la multitud se quedó admirada diciendo: —Jamás se ha visto cosa igual en Israel.",
+        "Pero los fariseos decían: —Expulsa los demonios por el príncipe de los demonios.",
+        "Al ver a las multitudes se llenó de compasión por ellas, porque estaban maltratadas y abatidas como ovejas que no tienen pastor.",
+        "Entonces les dijo a sus discípulos: —La mies es mucha, pero los obreros pocos.",
+        "Rogad, por tanto, al señor de la mies que envíe obreros a su mies."
+      ]
+    }
+  }
+}

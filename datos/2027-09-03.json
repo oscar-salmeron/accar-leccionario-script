@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-09-03",
+  "fiesta": "San Gregorio Magno, Papa, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 1:15-20",
+      "texto": [
+        "El cual es la imagen del Dios invisible, primogénito de toda creación,",
+        "porque en él fueron creadas todas las cosas en los cielos y sobre la tierra, las visibles y las invisibles, sean los tronos o las dominaciones, los principados o las potestades. Todo ha sido creado por él y para él.",
+        "Él es antes que todas las cosas y todas subsisten en él.",
+        "Él es también la cabeza del cuerpo, que es la Iglesia; él es el principio, el primogénito de entre los muertos, para que él sea el primero en todo,",
+        "pues Dios tuvo a bien que en él habitase toda la plenitud,",
+        "y por él reconciliar todos los seres consigo, restableciendo la paz, por medio de su sangre derramada en la cruz, tanto en las criaturas de la tierra como en las celestiales."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 100:2-5",
+      "texto": [
+        "servid al Señor con alegría, entrad a su presencia con júbilo.",
+        "Sabed que el Señor es Dios: Él nos hizo y somos suyos, somos su pueblo y ovejas que Él apacienta.",
+        "Entrad por sus puertas con acción de gracias, en sus atrios con cantos de alabanza, dadle gracias, bendecid su Nombre.",
+        "Porque el Señor es bueno: su misericordia es eterna, y su fidelidad, por todas las generaciones."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 5:33-39",
+      "texto": [
+        "Pero ellos le dijeron: —¿Por qué los discípulos de Juan ayunan con frecuencia y hacen oraciones, y lo mismo los de los fariseos; y en cambio, los tuyos comen y beben?",
+        "Jesús les respondió: —¿Acaso pueden ayunar los invitados a la boda, mientras el esposo está con ellos?",
+        "Ya vendrán los días en que les será arrebatado el esposo; entonces, en aquellos días, ayunarán.",
+        "Y les decía también una parábola: —Nadie pone a un vestido viejo un remiendo cortado de un vestido nuevo, porque entonces, además de romper el nuevo, el remiendo del vestido nuevo no le iría bien al viejo.",
+        "Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino nuevo reventará los odres, y se derramará, y los odres se perderán.",
+        "El vino nuevo debe echarse en odres nuevos.",
+        "Y ninguno acostumbrado a beber vino añejo quiere del nuevo, porque dice: «El añejo es mejor."
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fecha": "2027-02-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Joel 2:12-18",
+      "texto": [
+        "Ahora, pues, —oráculo del Señor— convertíos a Mí de todo corazón, con ayuno, con llanto y con lamento.",
+        "Rasgad vuestros corazones y no vuestros vestidos. Convertíos al Señor, vuestro Dios, porque es clemente y compasivo, lento a la ira y rico en misericordia, y se duele de hacer el mal.",
+        "¿Quién sabe si se volverá y se arrepentirá, y dejará tras sí la bendición? Presentad ofrenda y libación al Señor, vuestro Dios.",
+        "¡Tocad la trompeta en Sión! Promulgad el santo ayuno, convocad a asamblea,",
+        "congregad al pueblo, celebrad asamblea santa, reunid a los ancianos, congredad a los párvulos y a los niños de pecho. Que el esposo salga de su alcoba y la esposa de su tálamo.",
+        "Que entre el vestíbulo y el altar lloren los sacerdotes, ministros del Señor, y clamen: «¡Perdona, Señor, a tu pueblo; no entregues tu heredad al oprobio, ni dominen en ella las naciones!. ¿Por qué se ha de decir entre los pueblos: «Dónde está su Dios?.",
+        "El Señor tuvo celos por su tierra y se apiadó de su pueblo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 51:3-6, 14, 17",
+      "texto": [
+        "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión borra mi delito.",
+        "Lávame por completo de mi culpa, y purifícame de mi pecado.",
+        "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí.",
+        "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos. Por eso has de ser justo en tu sentencia, has de tener razón en tu juicio.",
+        "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme.",
+        "No me arrojes de tu presencia, ni me retires tu santo Espíritu.",
+        "Devuélveme el gozo de tu salvación y afírmame con un espíritu noble.",
+        "Señor, abre mis labios y mi boca proclamará tu alabanza."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 5:20--6:2",
+      "texto": [
+        "Somos, pues, embajadores en nombre de Cristo, como si Dios os exhortase por medio de nosotros. En nombre de Cristo os rogamos: reconciliaos con Dios.",
+        "A él, que no conoció pecado, lo hizo pecado por nosotros, para que llegásemos a ser en él justicia de Dios.",
+        "Como colaboradores suyos os exhortamos también a que no recibáis en vano la gracia de Dios.",
+        "Porque dice: En el tiempo favorable te escuché. Y en el día de la salvación te ayudé. Mirad, ahora es el tiempo favorable, ahora es el día de la salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 6:1-6, 18",
+      "texto": [
+        "Guardaos de hacer vuestra justicia delante de los hombres con el fin de que os vean; de otro modo no tendréis recompensa de vuestro Padre que está en los cielos.",
+        "Por lo tanto, cuando des limosna no lo vayas pregonando, como hacen los hipócritas en las sinagogas y en las calles, con el fin de que los alaben los hombres. En verdad os digo que ya recibieron su recompensa.",
+        "Tú, por el contrario, cuando des limosna, que tu mano izquierda no sepa lo que hace tu mano derecha,",
+        "para que tu limosna quede en lo oculto; de este modo, tu Padre, que ve en lo oculto, te recompensará.",
+        "Cuando oréis, no seáis como los hipócritas, que son amigos de orar puestos de pie en las sinagogas y en las esquinas de las plazas, para exhibirse delante de los hombres; en verdad os digo que ya recibieron su recompensa.",
+        "Tú, por el contrario, cuando te pongas a orar, entra en tu aposento y, con la puerta cerrada, ora a tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará.",
+        "Cuando ayunéis no os finjáis tristes como los hipócritas, que desfiguran su rostro para que los hombres noten que ayunan. En verdad os digo que ya recibieron su recompensa.",
+        "Tú, en cambio, cuando ayunes, perfuma tu cabeza y lávate la cara,",
+        "para que no adviertan los hombres que ayunas, sino tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fecha": "2027-06-24",
+  "fiesta": "Natividad de San Juan Bautista (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 49:1-6",
+      "texto": [
+        "¡Escuchadme, islas! ¡Poned atención, pueblos lejanos! El Señor me llamó desde el seno materno, desde las entrañas de mi madre pronunció mi nombre.",
+        "Hizo de mi boca espada afilada, a la sombra de su mano me encubrió; hizo de mí una flecha aguzada, y me guardó en su aljaba.",
+        "Y me dijo: «Tú eres mi siervo, Israel, en quien me glorío.",
+        "Yo me decía: «En balde me he fatigado, inútilmente y en vano he gastado mi fuerza. Sin embargo, mi juicio pertenece al Señor, y mi recompensa está en mi Dios.",
+        "Ahora dice el Señor, el que me formó desde el seno materno para ser su siervo, para hacer que Jacob volviese a Él y para reunirle a Israel, pues soy estimado a los ojos del Señor y mi Dios ha venido a ser mi fortaleza:",
+        "«Muy poco es que seas siervo mío para restaurar las tribus de Jacob y hacer volver a los supervivientes de Israel. Te he puesto para ser luz de las naciones, para que mi salvación alcance hasta los extremos de la tierra."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 139:1-3, 15",
+      "texto": [
+        "Al maestro de coro. De David. Salmo. Señor, Tú me examinas y me conoces.",
+        "Tú sabes cuándo me siento y me levanto. Penetras desde lejos mis pensamientos.",
+        "Camine o descanse, Tú lo adviertes; todas mis sendas te son familiares.",
+        "Tú has formado mis entrañas, me has plasmado en el vientre de mi madre.",
+        "Te doy gracias porque me has hecho como un prodigio: tus obras son maravillosas, bien lo sabe mi alma.",
+        "No se te ocultaban mis huesos cuando en secreto iba yo siendo hecho, cuando era formado en lo profundo de la tierra."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hechos 13:22-26",
+      "texto": [
+        "Cuando lo depuso, les suscitó como rey a David, a quien acreditó diciendo: Encontré a David, hijo de Jesé, hombre según mi corazón, que hará en todo mi voluntad.",
+        "De su descendencia, Dios, según la promesa, hizo surgir para Israel un Salvador, Jesús.",
+        "Juan había predicado, ante la proximidad de su venida, un bautismo de penitencia a todo el pueblo de Israel.",
+        "Cuando estaba Juan para terminar su carrera decía: «¿Quién pensáis que soy? No soy yo, sino mirad que detrás de mí viene uno a quien no soy digno de desatar el calzado de los pies.",
+        "Hermanos, hijos de Abrahán y los que entre vosotros sois temerosos de Dios: a nosotros se nos ha enviado esta palabra de Salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:57-66, 80",
+      "texto": [
+        "Entretanto le llegó a Isabel el tiempo del parto, y dio a luz un hijo.",
+        "Y sus vecinos y parientes oyeron que el Señor había agrandado su misericordia con ella y se congratulaban con ella.",
+        "El día octavo fueron a circuncidar al niño, y querían ponerle el nombre de su padre, Zacarías.",
+        "Pero su madre dijo: —De ninguna manera, sino que se llamará Juan.",
+        "Y le dijeron: —No hay nadie en tu familia que tenga este nombre.",
+        "Al mismo tiempo preguntaban por señas a su padre cómo quería que se le llamase.",
+        "Y él, pidiendo una tablilla, escribió: «Juan es su nombre. Lo cual llenó a todos de admiración.",
+        "En aquel momento recobró el habla, se soltó su lengua y hablaba bendiciendo a Dios.",
+        "Y se apoderó de todos sus vecinos el temor y se comentaban estos acontecimientos por toda la montaña de Judea;",
+        "y cuantos los oían los grababan en su corazón, diciendo: —¿Qué va a ser, entonces, este niño? Porque la mano del Señor estaba con él.",
+        "Mientras tanto el niño iba creciendo y se fortalecía en el espíritu, y habitaba en el desierto hasta el tiempo en que debía darse a conocer a Israel."
+      ]
+    }
+  }
+}

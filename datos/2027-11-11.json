@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-11-11",
+  "fiesta": "San Martín de Tours, Obispo (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 7:22--8:1",
+      "texto": [
+        "Porque hay en ella un espíritu inteligente, santo, único, multiforme, sutil, móvil, perspicaz, incontaminado, lúcido, inofensivo, amante del bien, agudo,",
+        "incoercible, benigno, amigo de los hombres, firme, cierto, seguro, omnipotente, que lo observa todo, que penetra todos los espíritus inteligentes, puros, sutilísimos.",
+        "La sabiduría es el más móvil de todos los movimientos, pues por su pureza atraviesa y penetra todas las cosas.",
+        "Es un hálito del poder de Dios y un destello puro de la gloria del Todopoderoso: por eso nada inmundo penetra en ella.",
+        "Es reflejo de la luz eterna, espejo nítido de la acción de Dios e imagen de su bondad.",
+        "Aun siendo una, todo lo puede; y, sin cambiar en nada, todo lo renueva; se comunica a las almas santas de cada generación y las convierte en amigos de Dios y en profetas,",
+        "porque Dios ama sólo a los que conviven con la sabiduría.",
+        "Ella es más bella que el sol y que todas las constelaciones. Comparada con la luz, ella resulta superior,",
+        "pues a aquélla la releva la noche, pero a la sabiduría no la vence la maldad.",
+        "Alcanza con vigor de un confín a otro confín y gobierna todo con benignidad."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:89-91, 130, 135, 175",
+      "texto": [
+        "(Lámed) Eterna es tu palabra, Señor, estable en los cielos.",
+        "De generación en generación dura tu fidelidad: asentaste la tierra, y permanece;",
+        "conforme a tus decretos, permanecen hasta hoy, porque todos están a tu servicio.",
+        "La revelación de tus palabras ilumina, da inteligencia a los sencillos.",
+        "Haz brillar tu rostro sobre tu siervo y enséñame tus decretos.",
+        "Viva mi alma para alabarte, que me socorran tus juicios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:20-25",
+      "texto": [
+        "Interrogado por los fariseos sobre cuándo llegaría el Reino de Dios, él les respondió: —El Reino de Dios no viene con espectáculo;",
+        "ni se podrá decir: «Mirad, está aquí, o «está allí; porque daos cuenta de que el Reino de Dios está ya en medio de vosotros.",
+        "Y les dijo a los discípulos: —Vendrá un tiempo en que desearéis ver uno solo de los días del Hijo del Hombre, y no lo veréis.",
+        "Entonces os dirán: «Mirad, está aquí, o «mirad, está allí. No vayáis ni corráis detrás.",
+        "Porque, como el relámpago fulgurante brilla de un extremo a otro del cielo, así será en su día el Hijo del Hombre.",
+        "Pero es necesario que antes padezca mucho y sea reprobado por esta generación."
+      ]
+    }
+  }
+}

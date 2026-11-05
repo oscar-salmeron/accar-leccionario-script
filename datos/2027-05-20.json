@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-05-20",
+  "fiesta": "San Bernardino de Siena, OFM Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 5:1-8",
+      "texto": [
+        "No confíes en tus riquezas, ni digas: «Me basto a mí mismo.",
+        "No sigas tu instinto ni tu propia fuerza para andar según las pasiones de tu corazón.",
+        "Y no digas: «¿Quién me dominará? , porque es seguro que el Señor hará justicia.",
+        "No digas: «He pecado, y ¿qué me ha sucedido? ¡El Señor es paciente!.",
+        "No estés tan seguro del perdón de modo que añadas pecado tras pecado.",
+        "No digas: «Su misericordia es grande, perdonará la multitud de mis pecados,",
+        "porque suyas son la misericordia y la ira, y su furor recae sobre los pecadores.",
+        "No demores en convertirte al Señor, no lo dejes pasar de día en día,",
+        "pues la ira del Señor sobreviene de improviso, y en el tiempo del castigo puedes perecer.",
+        "No confíes en riquezas injustas, porque de nada te servirán en el día de la desgracia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 1:1-4, 6",
+      "texto": [
+        "Dichoso el hombre que no sigue el consejo de impíos, ni se detiene en el camino de pecadores, ni toma asiento con farsantes,",
+        "sino que se complace en la Ley del Señor, y noche y día medita en su Ley.",
+        "Será como un árbol plantado al borde de la acequia, que da fruto a su tiempo, y no se marchitan sus hojas: cuanto hace prospera.",
+        "No así los impíos, no así. Son como polvo que dispersa el viento.",
+        "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 9:41-50",
+      "texto": [
+        "Y cualquiera que os dé de beber un vaso de agua en mi nombre, porque sois de Cristo, en verdad os digo que no perderá su recompensa.",
+        "Y al que escandalice a uno de estos pequeños que creen en mí, más le valdría que le ajustaran al cuello una piedra de molino, de las que mueve un asno, y fuera arrojado al mar.",
+        "Y si tu mano te escandaliza, córtatela. Más te vale entrar manco en la Vida que con las dos manos acabar en el infierno, en el fuego inextinguible.",
+        "Y si tu pie te escandaliza, córtatelo. Más te vale entrar cojo en la Vida que con los dos pies ser arrojado al infierno.",
+        "Y si tu ojo te escandaliza, sácatelo. Más te vale entrar tuerto en el Reino de Dios que con los dos ojos ser arrojado al infierno,",
+        "donde su gusano no muere y el fuego no se apaga.",
+        "Porque todos serán salados con fuego.",
+        "La sal es buena; pero si la sal se vuelve insípida, ¿con qué la sazonaréis? Tened en vosotros sal y tened paz unos con otros."
+      ]
+    }
+  }
+}

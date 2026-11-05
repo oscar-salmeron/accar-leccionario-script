@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-03-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 49:8-15",
+      "texto": [
+        "Esto dice el Señor: «En el tiempo oportuno te responderé, al tiempo de salvación te socorreré, te protegeré y te pondré como alianza del pueblo, para restaurar el país, para repartir las heredades devastadas,",
+        "para decir a los cautivos: “¡Salid!”, y a los que están en las tinieblas: “¡Venid a la luz!”. A lo largo de los caminos se apacentarán, y en cada colina hallarán pasto.",
+        "No tendrán hambre ni sed, no los afligirá bochorno ni sol, porque quien se apiada de ellos los guiará y los conducirá a manantiales de agua.",
+        "Y convertiré todos mis montes en camino, y toda calzada será nivelada.",
+        "Mirad: éstos vienen de muy lejos, fijaos en ésos del septentrión y del Mar, y aquéllos, del país de Sinim.",
+        "¡Cielos, aclamad! ¡Tierra, alégrate! ¡Montañas, romped en gritos de júbilo!, que el Señor ha consolado a su pueblo, y ha tenido piedad de sus pobres.",
+        "Sión había dicho: «El Señor me ha abandonado, mi Señor me ha olvidado.",
+        "¿Es que puede una mujer olvidarse de su niño de pecho, no compadecerse del hijo de sus entrañas? ¡Pues aunque ellas se olvidaran, Yo no te olvidaré!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:8-9, 14, 18",
+      "texto": [
+        "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia.",
+        "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras.",
+        "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones. (Nun) El Señor es fiel en todas sus palabras y piadoso en todas sus obras.",
+        "(Sámek) El Señor sostiene a los que van a caer y endereza a los que se encorvan.",
+        "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones.",
+        "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 5:17-30",
+      "texto": [
+        "Jesús les replicó: —Mi Padre no deja de trabajar, y yo también trabajo.",
+        "Por esto los judíos con más ahínco intentaban matarle, porque no sólo quebrantaba el sábado, sino que también llamaba a Dios Padre suyo, haciéndose igual a Dios.",
+        "Respondió Jesús y les dijo: —En verdad, en verdad os digo que el Hijo no puede hacer nada por sí mismo, sino lo que ve hacer al Padre; pues lo que Él hace, eso lo hace del mismo modo el Hijo.",
+        "Porque el Padre ama al Hijo y le muestra todo lo que Él hace, y le mostrará obras mayores que éstas para que vosotros os maravilléis.",
+        "Pues así como el Padre resucita a los muertos y les da vida, del mismo modo el Hijo da vida a quienes quiere.",
+        "El Padre no juzga a nadie, sino que todo juicio lo ha dado al Hijo,",
+        "para que todos honren al Hijo como honran al Padre. El que no honra al Hijo no honra al Padre que le ha enviado.",
+        "En verdad, en verdad os digo que el que escucha mi palabra y cree en el que me envió tiene vida eterna, y no viene a juicio sino que de la muerte pasa a la vida.",
+        "En verdad, en verdad os digo que llega la hora, y es ésta, en la que los muertos oirán la voz del Hijo de Dios; y los que la oigan vivirán,",
+        "pues como el Padre tiene vida en sí mismo, así ha dado al Hijo tener vida en sí mismo.",
+        "Y le dio la potestad de juzgar, ya que es el Hijo del Hombre.",
+        "No os maravilléis de esto, porque viene la hora en la que todos los que están en los sepulcros oirán su voz;",
+        "y los que hicieron el bien saldrán para la resurrección de la vida; y los que practicaron el mal, para la resurrección del juicio.",
+        "Yo no puedo hacer nada por mí mismo: según oigo, así juzgo; y mi juicio es justo, porque no busco mi voluntad sino la voluntad del que me envió."
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-04-08",
+  "fiesta": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 5:27-33",
+      "texto": [
+        "Los condujeron y presentaron al Sanedrín. El sumo sacerdote les interrogó:",
+        "—¿No os habíamos mandado expresamente que no enseñaseis en ese nombre? En cambio, vosotros habéis llenado Jerusalén con vuestra doctrina y queréis hacer recaer sobre nosotros la sangre de ese hombre.",
+        "Pedro y los apóstoles respondieron: —Hay que obedecer a Dios antes que a los hombres.",
+        "El Dios de nuestros padres ha resucitado a Jesús, al que vosotros matasteis colgándolo de un madero.",
+        "A éste lo exaltó Dios a su derecha, como Príncipe y Salvador, para otorgar a Israel la conversión y el perdón de los pecados.",
+        "Y de estas cosas somos testigos nosotros y el Espíritu Santo, que Dios ha dado a todos los que le obedecen.",
+        "Al oír esto se enfurecieron y querían matarlos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2, 9, 20",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él.",
+        "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+        "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias.",
+        "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido.",
+        "(Resh) Muchas son las aflicciones del justo, pero el Señor le libra de todas;"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 3:31-36",
+      "texto": [
+        "El que viene de lo alto está sobre todos. El que es de la tierra, de la tierra es y de la tierra habla. El que viene del cielo está sobre todos,",
+        "y da testimonio de lo que ha visto y oído, pero nadie recibe su testimonio.",
+        "El que recibe su testimonio confirma que Dios es veraz;",
+        "pues aquel a quien Dios ha enviado habla las palabras de Dios, porque da el Espíritu sin medida.",
+        "El Padre ama al Hijo y todo lo ha puesto en sus manos.",
+        "El que cree en el Hijo tiene vida eterna, pero quien rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios pesa sobre él."
+      ]
+    }
+  }
+}

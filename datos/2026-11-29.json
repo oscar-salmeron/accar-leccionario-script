@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-11-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 63:16-17, 19; 64:2-7",
+      "texto": [
+        "¡Pero Tú eres nuestro Padre! Aunque Abrahán ya no nos conozca, e Israel nos ignore, ¡Tú, Señor, eres nuestro Padre, nuestro Redentor! Tu Nombre es eterno.",
+        "¿Por qué, Señor, nos hiciste vagar fuera de tus caminos, y endureciste nuestro corazón para que no te temiésemos? ¡Vuélvete, por amor a tus siervos, a las tribus de tu heredad!",
+        "Somos como aquellos sobre los que nunca reinaste, como si tu Nombre no hubiera sido invocado sobre ellos. ¡Ojalá rasgaras los cielos y bajases! Ante ti se estremecerían las montañas.",
+        "Cuando, haciendo prodigios que no aguardábamos, descendiste, los montes se estremecieron ante Ti.",
+        "Nunca se oyó, ni oído escuchó, ni ojo vio a un Dios fuera de Ti, que haga tanto con quien espera en Él.",
+        "Tú sales al encuentro de quien se goza en hacer justicia, de los que se acuerdan de tus caminos. Te airaste, y nosotros pecamos contra ellos por largo tiempo: ¿cómo podemos ser salvos?",
+        "Todos nosotros somos algo inmundo, todas nuestras justicias son como paños de menstruación. Todos estamos marchitos como hojarasca y nuestras iniquidades nos arrastran como el viento.",
+        "No hay quien invoque tu Nombre, quien se levante para serte fiel, pues nos has escondido tu rostro y nos has dejado en mano de nuestras iniquidades.",
+        "Pero ahora, Señor, Tú eres nuestro Padre; nosotros, el barro, Tú nuestro alfarero, y todos nosotros la obra de tus manos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 80:2-3, 16, 19",
+      "texto": [
+        "Pastor de Israel, inclina tu oído, Tú que guías a José como un rebaño, que estás sentado sobre los querubines, muestra tu esplendor",
+        "ante Efraím, Benjamín y Manasés, despierta tu fuerza y ven a salvarnos.",
+        "¡Oh Dios de los ejércitos, vuélvete! Mira desde los cielos, fíjate, ven a visitar esta viña.",
+        "Protégela, es la que tu diestra plantó, el hijo que te adoptaste:",
+        "Proteja tu mano al hombre de tu diestra, al hijo del hombre que adoptaste.",
+        "No nos apartaremos más de Ti. Tú nos volverás a la vida, y nosotros invocaremos tu Nombre."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 1:3-9",
+      "texto": [
+        "gracia y paz a vosotros de parte de Dios, nuestro Padre, y del Señor Jesucristo.",
+        "Doy continuamente gracias a mi Dios por vosotros, a causa de la gracia de Dios que os ha sido concedida en Cristo Jesús,",
+        "porque en él fuisteis enriquecidos en todo: en toda palabra y en toda ciencia,",
+        "de modo que el testimonio de Cristo se ha confirmado en vosotros,",
+        "y así no os falta ningún don, mientras esperáis la manifestación de nuestro Señor Jesucristo.",
+        "Él os confirmará hasta el final, para que seáis hallados irreprochables el día de nuestro Señor Jesucristo.",
+        "Fiel es Dios, por quien fuisteis llamados a la unión con su Hijo Jesucristo, Señor nuestro."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 13:33-37",
+      "texto": [
+        "Estad atentos, velad: porque no sabéis cuándo será el momento.",
+        "Es como un hombre que al marcharse de su tierra, y al dejar su casa y dar atribuciones a sus siervos, a cada uno su trabajo, ordenó también al portero que velase.",
+        "Por eso: velad, porque no sabéis cuándo va a llegar el señor de la casa, si por la tarde, o a la medianoche, o al canto del gallo, o de madrugada;",
+        "no sea que, viniendo de repente, os encuentre dormidos.",
+        "Lo que a vosotros os digo, a todos lo digo: ¡velad!"
+      ]
+    }
+  }
+}

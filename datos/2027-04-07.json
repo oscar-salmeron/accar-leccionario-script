@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-04-07",
+  "fiesta": "San Juan Bautista de la Salle, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 5:17-26",
+      "texto": [
+        "El sumo sacerdote y todos los que le acompañaban, que eran de la secta de los saduceos, se levantaron llenos de envidia.",
+        "Prendieron a los apóstoles y los metieron en la prisión pública.",
+        "Pero un ángel del Señor abrió de noche las puertas de la cárcel, los sacó y les dijo:",
+        "—Salid, presentaos en el Templo y predicad al pueblo toda la doctrina que concierne a esta Vida.",
+        "Después de haberlo escuchado, entraron de madrugada en el Templo y comenzaron a enseñar. En cuanto llegaron el sumo sacerdote y los que le acompañaban, convocaron el Sanedrín y todo el consejo de ancianos de los hijos de Israel y enviaron a buscarlos a la prisión.",
+        "Pero al llegar los alguaciles no los encontraron en la cárcel, y regresaron y comunicaron la noticia:",
+        "—Hemos encontrado la cárcel cerrada, bien custodiada, y a los centinelas firmes ante las puertas; pero al abrir no hemos encontrado a nadie dentro.",
+        "Cuando oyeron estas palabras el oficial del Templo y los príncipes de los sacerdotes, se quedaron perplejos por lo que habría sido de ellos.",
+        "Llegó uno y les anunció: —Los hombres que metisteis en la cárcel están en el Templo y siguen enseñando al pueblo.",
+        "Entonces fue el oficial con los alguaciles y los trajo, no por la fuerza, porque tenían miedo de que el pueblo les apedrease."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-9",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(Guímel) Engrandeced conmigo al Señor; ensalcemos juntos su Nombre.",
+        "(Dálet) Busqué al Señor y me ha escuchado, me ha librado de todos mis temores.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Het) El ángel del Señor se sitúa alrededor de los que le temen para librarlos.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 3:16-21",
+      "texto": [
+        "Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna.",
+        "Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él.",
+        "El que cree en él no es juzgado; pero quien no cree ya está juzgado, porque no cree en el nombre del Hijo Unigénito de Dios.",
+        "Éste es el juicio: que vino la luz al mundo y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas.",
+        "Pues todo el que obra mal odia la luz y no viene a la luz, para que sus obras no le acusen.",
+        "Pero el que obra según la verdad viene a la luz, para que sus obras se pongan de manifiesto, porque han sido hechas según Dios."
+      ]
+    }
+  }
+}

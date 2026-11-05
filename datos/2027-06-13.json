@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-06-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ezequiel 17:22-24",
+      "texto": [
+        "Esto dice el Señor Dios: «También Yo voy a llevarme la copa de un cedro elevado y la plantaré; arrancaré un renuevo del extremo de sus ramas y lo plantaré en un monte alto y eminente.",
+        "Lo plantaré en el monte alto de Israel. Y echará ramas, dará fruto y llegará a ser un cedro magnífico. En él anidarán todas las aves, a la sombra de sus ramas pondrán sus nidos toda suerte de pájaros.",
+        "Y todos los árboles del campo sabrán que Yo, el Señor, he humillado al árbol elevado y he enaltecido al humilde; he secado el leño verde y hecho florecer al seco. Yo, el Señor, lo digo y lo hago."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 92:2-3, 16",
+      "texto": [
+        "Es bueno dar gracias al Señor y entonar salmos a tu Nombre, ¡oh Altísimo!;",
+        "anunciar de mañana tu misericordia, y de noche tu fidelidad,",
+        "El justo florecerá como palmera, crecerá como cedro del Líbano.",
+        "Plantados en la Casa del Señor, florecerán en los atrios de nuestro Dios.",
+        "Aun en la vejez darán fruto, estarán exuberantes y lozanos,",
+        "anunciando que el Señor es recto. Él es mi Roca. En Él no hay injusticia."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 5:6-10",
+      "texto": [
+        "Por eso, siempre estamos llenos de buen ánimo, aun sabiendo que mientras moramos en el cuerpo, estamos en destierro lejos del Señor,",
+        "pues caminamos en la fe y no en la visión.",
+        "Así pues, estamos llenos de buen ánimo y preferimos salirnos de este cuerpo y volver junto al Señor.",
+        "Por eso, tanto ahora en el cuerpo como fuera de él, nos empeñamos en agradarle.",
+        "Porque todos debemos comparecer ante el tribunal de Cristo, para que cada uno reciba conforme a lo bueno o malo que hizo durante su vida mortal."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:26-34",
+      "texto": [
+        "Y decía: —El Reino de Dios es como un hombre que echa la semilla sobre la tierra,",
+        "y, duerma o vele, noche y día, la semilla brota y crece, sin que él sepa cómo.",
+        "Porque la tierra produce fruto ella sola: primero hierba, después espiga y por fin trigo maduro en la espiga.",
+        "Y en cuanto está a punto el fruto, enseguida mete la hoz, porque ha llegado la siega.",
+        "Y decía: —¿A qué se parecerá el Reino de Dios?, o ¿con qué parábola lo compararemos?",
+        "Es como un grano de mostaza que, cuando se siembra en la tierra, es la más pequeña de todas las semillas que hay en la tierra;",
+        "pero, una vez sembrado, crece y llega a hacerse mayor que todas las hortalizas, y echa ramas grandes, hasta el punto de que los pájaros del cielo pueden anidar bajo su sombra.",
+        "Y con muchas parábolas semejantes les anunciaba la palabra, conforme a lo que podían entender;",
+        "y no les solía hablar nada sin parábolas. Pero a solas, les explicaba todo a sus discípulos."
+      ]
+    }
+  }
+}

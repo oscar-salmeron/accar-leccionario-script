@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-01-10",
+  "fiesta": "Bautismo del Señor (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 42:1-4, 7",
+      "texto": [
+        "Mira a mi siervo, a quien sostengo, mi elegido, en quien se complace mi alma. He puesto mi Espíritu sobre él: llevará el derecho a las naciones.",
+        "No gritará, ni chillará, no hará oír su voz en la calle.",
+        "No quebrará la caña cascada, ni apagará el pabilo vacilante. Dictará sentencia según la verdad.",
+        "No desfallecerá ni se doblará hasta que establezca el derecho en la tierra. Las islas esperarán su ley.",
+        "«Yo, el Señor, te he llamado en justicia, te he tomado de la mano, te he guardado y te he destinado para alianza del pueblo, para luz de las naciones,",
+        "para abrir los ojos de los ciegos, para sacar de la prisión a los cautivos y del calabozo a los que yacen en tinieblas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 29:1-4, 3, 10",
+      "texto": [
+        "Salmo. De David. Hijos de Dios, dad al Señor, dad al Señor la gloria y el poder.",
+        "Dad al Señor la gloria de su Nombre, postraos ante el Señor en su atrio santo.",
+        "La voz del Señor sobre las aguas: ha tronado el Dios de la gloria, el Señor sobre las aguas caudalosas.",
+        "La voz del Señor con potencia, la voz del Señor con majestad.",
+        "La voz del Señor retuerce los robles, desnuda las selvas, mientras en su Templo todos claman: «¡Gloria!.",
+        "El Señor está sentado sobre el diluvio, el Señor está sentado como rey eterno."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hechos 10:34-38",
+      "texto": [
+        "Pedro comenzó a hablar: —En verdad comprendo que Dios no hace acepción de personas,",
+        "sino que en cualquier pueblo le es agradable todo el que le teme y obra la justicia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:7-11",
+      "texto": [
+        "Vosotros sabéis lo ocurrido por toda Judea, comenzando por Galilea, después del bautismo que predicó Juan:",
+        "cómo a Jesús de Nazaret le ungió Dios con el Espíritu Santo y poder, y cómo pasó haciendo el bien y sanando a todos los oprimidos por el diablo, porque Dios estaba con él.",
+        "Y predicaba: —Después de mí viene el que es más poderoso que yo, ante quien yo no soy digno de inclinarme para desatarle la correa de las sandalias.",
+        "Yo os he bautizado en agua, pero él os bautizará en el Espíritu Santo.",
+        "Y sucedió que en aquellos días vino Jesús desde Nazaret de Galilea, y fue bautizado por Juan en el Jordán.",
+        "Y nada más salir del agua vio los cielos abiertos y al Espíritu que, en forma de paloma, descendía sobre él;",
+        "y se oyó una voz desde los cielos: —Tú eres mi Hijo, el amado, en ti me he complacido."
+      ]
+    }
+  }
+}

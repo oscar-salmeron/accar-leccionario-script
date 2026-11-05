@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-07-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 1:8-14, 22",
+      "texto": [
+        "Surgió en Egipto un nuevo rey que no había conocido a José,",
+        "y dijo a su pueblo: —Mirad, el pueblo de los hijos de Israel es ya más numeroso y fuerte que nosotros.",
+        "Vamos, actuemos astutamente con él, para que no siga multiplicándose y suceda que, si se declara una guerra, se unan a nuestros enemigos, peleen contra nosotros y luego abandonen el país.",
+        "Así pues, les impusieron capataces que les oprimieran con duros trabajos mientras construían para el Faraón las ciudades de almacenaje Pitón y Ramsés.",
+        "Pero cuanto más los oprimían, más se multiplicaban y propagaban. Los egipcios llegaron a sentir pavor ante los hijos de Israel,",
+        "así que los esclavizaron con crueldad",
+        "y les llenaron su vida de amargura, imponiéndoles trabajos severos como el de la arcilla y los ladrillos, y toda clase de faenas del campo; a todo tipo de trabajos los sometieron con crudeza.",
+        "Entonces el Faraón dio a todo su pueblo esta orden: —A todo niño que les nazca a los hebreos lo arrojaréis al Nilo; en cambio, a las niñas las dejaréis con vida."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 124:1-8",
+      "texto": [
+        "Canto de las subidas. De David. Si el Señor no hubiera estado a favor nuestro —que lo diga Israel—,",
+        "si el Señor no hubiera estado a favor nuestro cuando los hombres se alzaron contra nosotros,",
+        "nos habrían tragado vivos en el ardor de su ira;",
+        "nos habrían arrastrado las aguas, el torrente nos habría sumergido;",
+        "nos habrían sumergido las aguas impetuosas.",
+        "Bendito sea el Señor que no nos entregó en presa de sus dientes.",
+        "Nuestra alma, como un pájaro, se escapó del lazo de los cazadores: el lazo se rompió y nosotros escapamos.",
+        "Nuestro auxilio es el Nombre del Señor, el que hizo cielo y tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 10:34--11:1",
+      "texto": [
+        "No penséis que he venido a traer la paz a la tierra. No he venido a traer la paz sino la espada.",
+        "Porque he venido a enfrentar al hombre contra su padre, a la hija contra su madre y a la nuera contra su suegra.",
+        "Y los enemigos del hombre serán los de su misma casa.",
+        "Quien ama a su padre o a su madre más que a mí, no es digno de mí; y quien ama a su hijo o a su hija más que a mí, no es digno de mí.",
+        "Quien no toma su cruz y me sigue, no es digno de mí.",
+        "Quien encuentre su vida, la perderá; pero quien pierda por mí su vida, la encontrará.",
+        "Quien a vosotros os recibe, a mí me recibe, y quien me recibe a mí, recibe al que me ha enviado.",
+        "Quien recibe a un profeta por ser profeta obtendrá recompensa de profeta, y quien recibe a un justo por ser justo obtendrá recompensa de justo.",
+        "Y cualquiera que dé de beber tan sólo un vaso de agua fresca a uno de estos pequeños por el hecho de ser discípulo, en verdad os digo que no quedará sin recompensa.",
+        "Cuando terminó Jesús de dar instrucciones a sus doce discípulos, se fue de allí para enseñar y predicar en sus ciudades."
+      ]
+    }
+  }
+}

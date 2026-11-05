@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-03-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Reyes 5:1-15",
+      "texto": [
+        "Naamán, jefe del ejército del rey de Siria, era un hombre importante ante su señor, y muy respetado porque gracias a él el Señor había concedido la victoria a Siria. Este hombre, que era un valiente, padecía lepra.",
+        "Los sirios habían realizado una incursión, y habían traído a una muchacha jovencita de tierra de Israel, que había pasado al servicio de la mujer de Naamán.",
+        "Le dijo a su señora: —Ojalá mi señor estuviera ante el profeta que hay en Samaría. Seguro que él lo curaría de la lepra.",
+        "Naamán fue y se lo contó a su señor diciendo: —Esto y aquello ha dicho la muchacha procedente de Israel.",
+        "Contestó el rey de Siria: —Anda, vete; yo enviaré cartas al rey de Israel. Partió llevando consigo diez talentos de plata, seis mil siclos de oro y diez trajes.",
+        "Llevó también la carta al rey de Israel que decía: «Al presente, cuando te llegue esta carta, te envío a Naamán, mi siervo, para que lo cures de la lepra.",
+        "Cuando el rey de Israel leyó la carta, se rasgó las vestiduras diciendo: —¿Acaso soy Dios para hacer morir o vivir, que éste me envía un hombre a fin de que lo cure de la lepra? Poned atención y veréis que busca un motivo contra mí.",
+        "Eliseo, el hombre de Dios, al oír que el rey de Israel se había rasgado las vestiduras, envió a decir al rey: —¿Por qué te rasgas las vestiduras? Que venga hasta mí y sabrá que hay un profeta en Israel.",
+        "Llegó Naamán con sus caballos y su carruaje y se detuvo en la puerta de la casa de Eliseo.",
+        "Eliseo le envió un mensajero a decirle: —Vete y lávate siete veces en el Jordán y tu carne volverá a quedar sana.",
+        "Naamán se irritó y se dispuso a marchar diciendo: —Yo me imaginaba que a buen seguro saldría hasta mí y de pie invocaría el nombre del Señor, su Dios; pondría su mano donde está la lepra y me curaría de ella.",
+        "¿Acaso no son los ríos de Damasco, el Amaná y el Parpar, mejores que todos los ríos de Israel, para lavarme en ellos y quedar limpio? Dio media vuelta y se marchó con rabia.",
+        "Pero se le acercaron sus siervos y le hablaron diciendo: —Padre, si el profeta te hubiera mandado algo difícil, ¿no lo habrías hecho? Cuánto más si te ha dicho: «Lávate y te quedarás limpio.",
+        "Bajó y se metió siete veces en el Jordán, conforme a la palabra del hombre de Dios, y entonces su carne se volvió como la carne de un niño, y quedó limpio.",
+        "Volvió con todo su acompañamiento adonde estaba el hombre de Dios, entró y se detuvo ante él diciendo: —Reconozco ciertamente que no hay otro Dios en toda la tierra sino el Dios de Israel. Ahora, por favor, recibe un regalo de tu siervo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 42:2-3; 43:3-4",
+      "texto": [
+        "Como ansía la cierva las corrientes de agua, así te ansía mi alma, Dios mío.",
+        "Mi alma está sedienta de Dios, del Dios vivo. ¿Cuándo podré ir a ver el rostro de Dios?",
+        "Envía tu luz y tu verdad; que ellas me guíen y me conduzcan a tu monte santo, a tus moradas;",
+        "Y me acercaré al altar de Dios, al Dios de mi alegría y de mi gozo, y te alabaré con la cítara, ¡oh Dios, Dios mío!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 4:24-30",
+      "texto": [
+        "Y añadió: —En verdad os digo que ningún profeta es bien recibido en su tierra.",
+        "Os digo de verdad que muchas viudas había en Israel en tiempos de Elías, cuando durante tres años y seis meses se cerró el cielo y hubo gran hambre por toda la tierra;",
+        "y a ninguna de ellas fue enviado Elías, sino a una mujer viuda en Sarepta de Sidón.",
+        "Muchos leprosos había también en Israel en tiempo del profeta Eliseo, y ninguno de ellos fue curado, más que Naamán el Sirio.",
+        "Al oír estas cosas, todos en la sinagoga se llenaron de ira",
+        "y se levantaron, le echaron fuera de la ciudad y lo llevaron hasta la cima del monte sobre el que estaba edificada su ciudad para despeñarle.",
+        "Pero él, pasando por medio de ellos, se marchó."
+      ]
+    }
+  }
+}

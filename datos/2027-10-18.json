@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-10-18",
+  "fiesta": "San Lucas, Evangelista (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 4:10-17",
+      "texto": [
+        "pues Demas me abandonó por amor de este mundo y se marchó a Tesalónica; Crescente, a Galacia; Tito, a Dalmacia;",
+        "sólo Lucas está conmigo. Toma a Marcos y tráelo contigo, porque me es útil para el ministerio.",
+        "A Tíquico lo mandé a Éfeso.",
+        "Cuando vengas, trae la capa que me dejé en Tróade, en casa de Carpo, y los libros, sobre todo los de pergamino.",
+        "Alejandro, el herrero, me ha ocasionado muchos males. El Señor le pagará de acuerdo con sus obras.",
+        "Tú, ten cuidado con él, pues se ha opuesto obstinadamente a nuestras palabras.",
+        "Nadie me apoyó en mi primera defensa, sino que todos me abandonaron: ¡que no les sea tenido en cuenta!",
+        "Pero el Señor me asistió y me fortaleció para que, por medio de mí, se proclamara plenamente el mensaje y lo oyeran todos los gentiles. Y fui librado de la boca del león."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:10-13, 18",
+      "texto": [
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder.",
+        "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino.",
+        "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones. (Nun) El Señor es fiel en todas sus palabras y piadoso en todas sus obras.",
+        "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones.",
+        "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 10:1-9",
+      "texto": [
+        "Después de esto designó el Señor a otros setenta y dos, y los envió de dos en dos delante de él a toda ciudad y lugar adonde él había de ir.",
+        "Y les decía: —La mies es mucha, pero los obreros pocos. Rogad, por tanto, al señor de la mies que envíe obreros a su mies.",
+        "Id: mirad que yo os envío como corderos en medio de lobos.",
+        "No llevéis bolsa ni alforja ni sandalias, y no saludéis a nadie por el camino.",
+        "En la casa en que entréis decid primero: «Paz a esta casa.",
+        "Y si allí hubiera algún hijo de la paz, descansará sobre él vuestra paz; de lo contrario, retornará a vosotros.",
+        "Permaneced en la misma casa comiendo y bebiendo de lo que tengan, porque el que trabaja merece su salario. No vayáis de casa en casa.",
+        "Y en la ciudad donde entréis y os reciban, comed lo que os pongan;",
+        "curad a los enfermos que haya en ella y decidles: «El Reino de Dios está cerca de vosotros."
+      ]
+    }
+  }
+}

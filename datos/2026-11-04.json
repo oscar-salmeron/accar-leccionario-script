@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-11-04",
+  "fiesta": "San Carlos Borromeo, Obispo (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Filipenses 2:12-18",
+      "texto": [
+        "Por tanto, queridísimos míos, así como siempre habéis obedecido, no sólo en mi presencia, sino también mucho más ahora en mi ausencia, trabajad por vuestra salvación con temor y temblor;",
+        "porque Dios es quien obra en vosotros el querer y el actuar conforme a su beneplácito.",
+        "Hacedlo todo sin murmuraciones ni discusiones,",
+        "para que lleguéis a ser irreprochables y sencillos, hijos de Dios sin tacha en medio de una generación depravada y perversa, en la cual brilláis como luceros en el mundo",
+        "al poner en alto la palabra de vida, para gloria mía en el día de Cristo, porque no habré corrido en vano ni en vano habré trabajado.",
+        "Pues, aunque sea derramada mi sangre sobre el sacrificio y ofrenda de vuestra fe, me alegro y me congratulo con todos vosotros;",
+        "por la misma causa alegraos también vosotros y congratulaos conmigo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 14:25-33",
+      "texto": [
+        "Iba con él mucha gente, y se volvió hacia ellos y les dijo:",
+        "—Si alguno viene a mí y no odia a su padre y a su madre y a su mujer y a sus hijos y a sus hermanos y a sus hermanas, hasta su propia vida, no puede ser mi discípulo.",
+        "Y el que no carga con su cruz y viene detrás de mí, no puede ser mi discípulo.",
+        "Porque, ¿quién de vosotros, al querer edificar una torre, no se sienta primero a calcular los gastos a ver si tiene para acabarla?",
+        "No sea que, después de poner los cimientos y no poder acabar, todos los que lo vean empiecen a burlarse de él,",
+        "y digan: «Este hombre comenzó a edificar y no pudo terminar.",
+        "¿O qué rey, que sale a luchar contra otro rey, no se sienta antes a deliberar si puede enfrentarse con diez mil hombres al que viene contra él con veinte mil?",
+        "Y si no, cuando todavía está lejos, envía una embajada para pedir condiciones de paz.",
+        "Así pues, cualquiera de vosotros que no renuncie a todos sus bienes no puede ser mi discípulo."
+      ]
+    }
+  }
+}

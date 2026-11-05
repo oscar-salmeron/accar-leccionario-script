@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-05-18",
+  "fiesta": "San Félix Porri de Cantalice, Capuchino, Religioso (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 2:44-47",
+      "texto": [
+        "Todos los creyentes estaban unidos y tenían todas las cosas en común.",
+        "Vendían las posesiones y los bienes y los repartían entre todos, según las necesidades de cada uno.",
+        "Todos los días acudían al Templo con un mismo espíritu, partían el pan en las casas y comían juntos con alegría y sencillez de corazón,",
+        "alabando a Dios y gozando del favor de todo el pueblo. Todos los días el Señor incorporaba a los que habían de salvarse."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 131:1-3",
+      "texto": [
+        "Canto de las subidas. De David. Señor, mi corazón no se ha engreído, ni mis ojos se han alzado altivos. No he marchado en pos de grandezas, ni de portentos que me exceden.",
+        "He moderado y acallado mi alma como un niño en el regazo de su madre. Como niño satisfecho está mi alma.",
+        "¡Espera, Israel, en el Señor, desde ahora y para siempre!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:22-31",
+      "texto": [
+        "Les dijo a sus discípulos: —Por eso os digo: no estéis preocupados por vuestra vida: qué vais a comer; o por vuestro cuerpo: con qué os vais a vestir.",
+        "Porque la vida vale más que el alimento, y el cuerpo más que el vestido.",
+        "Fijaos en los cuervos: no siembran ni siegan; no tienen despensa ni granero, pero Dios los alimenta. ¡Cuánto más valéis vosotros que los pájaros!",
+        "¿Quién de vosotros por mucho que cavile puede añadir un codo a su estatura?",
+        "Si no podéis ni lo más pequeño, ¿por qué os preocupáis por las demás cosas?",
+        "Contemplad los lirios, cómo crecen; no se fatigan ni hilan, y yo os digo que ni Salomón en toda su gloria pudo vestirse como uno de ellos.",
+        "Y si a la hierba del campo, que hoy es y mañana se echa al horno, Dios la viste así, ¡cuánto más a vosotros, hombres de poca fe!",
+        "Así, vosotros no andéis buscando qué comer o qué beber, y no estéis inquietos.",
+        "Por todas esas cosas se afanan las gentes del mundo. Bien sabe vuestro Padre que estáis necesitados de ellas.",
+        "Buscad más bien su Reino, y esas cosas se os añadirán."
+      ]
+    }
+  }
+}

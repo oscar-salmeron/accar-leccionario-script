@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-11-12",
+  "fiesta": "San Josafat, Obispo, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 13:1-9",
+      "texto": [
+        "Vanos son por naturaleza todos los hombres que han vivido en la ignorancia de Dios, que de los bienes visibles no fueron capaces de conocer al–que–es, ni al considerar las obras reconocieron a su artífice.",
+        "Sino que al fuego, al viento o al aire veloz, a la órbita de los astros o a la violencia de las aguas, o a los luceros del cielo, rectores del cosmos, los tuvieron por dioses.",
+        "Y si, fascinados por su belleza, los tomaron por dioses, que sepan cuánto mejor es el Señor de ellos, pues los creó el progenitor de la belleza.",
+        "Y si se asombraron de su potencia y eficacia, que deduzcan de ellas cuánto más poderoso es el que los formó.",
+        "Pues por la grandeza y hermosura de las criaturas se puede contemplar, por analogía, al que las engendró.",
+        "Sin embargo, para éstos el reproche es pequeño, pues tal vez andan errados al buscar a Dios y al querer encontrarlo.",
+        "Se ocupan de sus obras, las investigan, pero se dejan seducir por su apariencia, pues lo que se ve es hermoso.",
+        "A pesar de todo, ni siquiera éstos son excusables;",
+        "ya que, si fueron capaces de saber tanto, que pudieron escrutar los mundos, ¿cómo no encontraron más pronto a su Señor?"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:2-5",
+      "texto": [
+        "Los cielos pregonan la gloria de Dios y el firmamento anuncia la obra de sus manos.",
+        "Un día le anuncia el mensaje al otro día y una noche le da la noticia a la otra noche.",
+        "Sin discurso, sin palabras sin que se oiga su voz,",
+        "se esparce su rumor por toda la tierra, y su pregón hasta los confines del orbe. En éstos ha puesto una tienda para el sol."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:26-37",
+      "texto": [
+        "Y como ocurrió en los días de Noé, así será también en los días del Hijo del Hombre.",
+        "Comían y bebían, tomaban mujer o marido, hasta el día en que Noé entró en el arca, y vino el diluvio e hizo perecer a todos.",
+        "Lo mismo sucedió en los días de Lot: comían y bebían, compraban y vendían, plantaban y edificaban;",
+        "pero el día en que salió Lot de Sodoma, llovió del cielo fuego y azufre y los hizo perecer a todos.",
+        "Del mismo modo sucederá el día en que se manifieste el Hijo del Hombre.",
+        "Ese día, quien esté en el terrado y tenga sus cosas en la casa, que no baje por ellas; y lo mismo quien esté en el campo, que no vuelva atrás.",
+        "Acordaos de la mujer de Lot.",
+        "Quien pretenda guardar su vida la perderá; y quien la pierda la conservará viva.",
+        "Yo os digo que esa noche estarán dos en el mismo lecho: uno será tomado y el otro dejado.",
+        "Estarán dos moliendo juntas: una será tomada y la otra dejada.",
+        "Y a esto le dijeron: —¿Dónde, Señor? Él les respondió: —Dondequiera que esté el cuerpo, allí se reunirán los buitres."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-10-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 8:12-17",
+      "texto": [
+        "Así pues, hermanos, no somos deudores de la carne de modo que vivamos según la carne.",
+        "Porque si vivís según la carne, moriréis; pero, si con el Espíritu hacéis morir las obras del cuerpo, viviréis.",
+        "Porque los que son guiados por el Espíritu de Dios, éstos son hijos de Dios.",
+        "Porque no recibisteis un espíritu de esclavitud para estar de nuevo bajo el temor, sino que recibisteis un Espíritu de hijos de adopción, en el que clamamos: «¡Abbá, Padre!",
+        "Pues el Espíritu mismo da testimonio junto con nuestro espíritu de que somos hijos de Dios.",
+        "Y si somos hijos, también herederos: herederos de Dios, coherederos de Cristo; con tal de que padezcamos con él, para ser con él también glorificados."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 68:2, 4, 7, 21",
+      "texto": [
+        "Dios se alza, sus enemigos se dispersan, los que lo odian huyen de su presencia.",
+        "Pero los justos se alegran, se deleitan en la presencia de Dios y se gozan con alegría.",
+        "Padre de los huérfanos y defensor de las viudas es Dios en su morada santa.",
+        "Dios dispone un hogar para los abandonados, suelta a los cautivos y los hace prósperos; sólo los rebeldes habitan en árida tierra.",
+        "¡Bendito sea el Señor, día tras día! Él lleva nuestras cargas, es el Dios de nuestra salvación.",
+        "Dios es para nosotros el Dios que salva, y al Señor, nuestro Dios, debemos el escapar de la muerte."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 13:10-17",
+      "texto": [
+        "Un sábado estaba enseñando en una de las sinagogas.",
+        "Y había allí una mujer poseída por un espíritu, enferma desde hacía dieciocho años, y estaba encorvada sin poder enderezarse de ningún modo.",
+        "Al verla Jesús, la llamó y le dijo: —Mujer, quedas libre de tu enfermedad.",
+        "Y le impuso las manos, y al instante se enderezó y glorificaba a Dios.",
+        "Tomando la palabra el jefe de la sinagoga, indignado porque Jesús curaba en sábado, decía a la muchedumbre: —Hay seis días para trabajar; venid, pues, en ellos a ser curados, y no un día de sábado.",
+        "El Señor le respondió: —¡Hipócritas!, cualquiera de vosotros ¿no suelta del pesebre en sábado su buey o su asno y lo lleva a beber?",
+        "Y a ésta, que es hija de Abrahán, a la que Satanás ató hace ya dieciocho años, ¿no había que soltarla de esta atadura aun un día de sábado?",
+        "Y cuando decía esto, quedaban avergonzados todos sus adversarios, y toda la gente se alegraba por todas las maravillas que hacía."
+      ]
+    }
+  }
+}

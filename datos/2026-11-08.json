@@ -1,0 +1,62 @@
+{
+  "fecha": "2026-11-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 6:12-16",
+      "texto": [
+        "La sabiduría es resplandeciente e imperecedera; los que la aman la contemplan con facilidad, los que la buscan, la encuentran.",
+        "Se adelanta a darse a conocer a quienes la anhelan.",
+        "Quien madruga por ella no pasará fatigas, la encontrará sentada a la puerta.",
+        "Pensar en ella es sensatez perfecta; quien vela por ella pronto estará libre de preocupaciones.",
+        "Que ella misma anda buscando a los que le son dignos, se les muestra en los caminos con actitud benigna y les sale al encuentro llena de solicitud."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 63:2-8",
+      "texto": [
+        "Oh Dios, Tú eres mi Dios, al alba te busco, mi alma tiene sed de Ti, por Ti mi carne desfallece, en tierra desierta y seca, sin agua.",
+        "Por eso te contemplo en el Santuario, para ver tu poder y tu gloria",
+        "Tu misericordia vale más que la vida, mis labios te alabarán.",
+        "Así, te bendeciré toda mi vida, a tu Nombre alzaré mis manos.",
+        "Como de enjundia y de grosura se saciará mi alma, y con labios jubilosos te alabará mi boca.",
+        "En el lecho me acuerdo de Ti, en las vigilias de la noche medito en Ti;",
+        "porque Tú eres mi socorro, canto gozoso a la sombra de tus alas."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Tesalonicenses 4:13-18",
+      "texto": [
+        "No queremos, hermanos, que ignoréis lo que se refiere a los que han muerto, para que no os entristezcáis como esos otros que no tienen esperanza.",
+        "Porque si creemos que Jesús murió y resucitó, de igual manera también Dios, por medio de Jesús, reunirá con Él a los que murieron.",
+        "Así pues, como palabra del Señor, os transmitimos lo siguiente: nosotros, los que vivamos, los que quedemos hasta la venida del Señor, no nos anticiparemos a los que hayan muerto;",
+        "porque, cuando la voz del arcángel y la trompeta de Dios den la señal, el Señor mismo descenderá del cielo, y resucitarán en primer lugar los que murieron en Cristo;",
+        "después, nosotros, los que vivamos, los que quedemos, seremos arrebatados a las nubes junto con ellos al encuentro del Señor en los aires, de modo que, en adelante estemos siempre con el Señor.",
+        "Por tanto, animaos mutuamente con estas palabras."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:1-13",
+      "texto": [
+        "Entonces el Reino de los Cielos será como diez vírgenes, que tomaron sus lámparas y salieron a recibir al esposo.",
+        "Cinco de ellas eran necias y cinco prudentes;",
+        "pero las necias, al tomar sus lámparas, no llevaron consigo aceite;",
+        "las prudentes, en cambio, junto con las lámparas llevaron aceite en sus alcuzas.",
+        "Como tardaba en venir el esposo, les entró sueño a todas y se durmieron.",
+        "A medianoche se oyó una voz: «¡Ya está aquí el esposo! ¡Salid a su encuentro!",
+        "Entonces se levantaron todas aquellas vírgenes y aderezaron sus lámparas.",
+        "Y las necias les dijeron a las prudentes: «Dadnos aceite del vuestro porque nuestras lámparas se apagan.",
+        "Pero las prudentes les respondieron: «No, no sea que no alcance para nosotras y vosotras. Mejor es que vayáis a quienes lo venden y compréis para vosotras.",
+        "Mientras fueron a comprarlo vino el esposo, y las que estaban preparadas entraron con él a las bodas y se cerró la puerta.",
+        "Luego llegaron las otras vírgenes diciendo: «¡Señor, señor, ábrenos!",
+        "Pero él les respondió: «En verdad os digo que no os conozco.",
+        "Por eso: velad, porque no sabéis el día ni la hora."
+      ]
+    }
+  }
+}

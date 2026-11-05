@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-08-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 3:7-13",
+      "texto": [
+        "Por eso hemos recibido de vuestra parte, hermanos, gracias a vuestra fe, un gran consuelo en medio de todas nuestras adversidades y tribulaciones:",
+        "ahora sí vivimos, ya que permanecéis firmes en el Señor.",
+        "¿Y cómo podremos dar gracias suficientes a Dios por toda la alegría que nos proporcionáis y con la que nos gozamos por vosotros ante nuestro Dios?",
+        "Le rogamos noche y día, sin cesar, que podamos veros y completar lo que falta a vuestra fe.",
+        "Que Dios mismo, nuestro Padre, y nuestro Señor Jesús, dirija nuestro camino para poder veros;",
+        "y que el Señor os colme y os haga rebosar en la caridad de unos con otros y en la caridad hacia todos, como es la nuestra hacia vosotros,",
+        "para que se confirmen vuestros corazones en una santidad sin tacha ante Dios, nuestro Padre, el día de la venida de nuestro Señor Jesús con todos sus santos. Amén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 90:3-5, 14, 17",
+      "texto": [
+        "Al polvo haces volver al hombre, diciendo: «Volved, hijos de Adán.",
+        "Pues mil años a tus ojos son como un día de ayer, que pasó, como una vigilia de la noche.",
+        "Tú los arrastras, son un sueño al amanecer, como hierba que brota:",
+        "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio.",
+        "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos.",
+        "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días.",
+        "El esplendor del Señor, nuestro Dios, esté con nosotros. Haz prósperas las obras de nuestras manos, las obras de nuestras manos hazlas prósperas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 24:42-51",
+      "texto": [
+        "Por eso: velad, porque no sabéis en qué día vendrá vuestro Señor.",
+        "Sabed esto: si el dueño de la casa supiera a qué hora de la noche va a llegar el ladrón, estaría ciertamente velando y no dejaría que se horadase su casa.",
+        "Por tanto, estad también vosotros preparados, porque a la hora que menos penséis vendrá el Hijo del Hombre.",
+        "¿Quién es, pues, el siervo fiel y prudente, a quien el amo puso al frente de la servidumbre, para darles el alimento a la hora debida?",
+        "Dichoso aquel siervo a quien su amo cuando vuelva encuentre obrando así.",
+        "En verdad os digo que le pondrá al frente de toda su hacienda.",
+        "Pero si ese siervo fuese malo y dijera en sus adentros: «Mi amo tarda,",
+        "y comenzase a golpear a sus compañeros y a comer y beber con los borrachos,",
+        "llegará el amo de aquel siervo el día menos pensado, a una hora imprevista,",
+        "lo castigará duramente y le dará el pago de los hipócritas. Allí habrá llanto y rechinar de dientes."
+      ]
+    }
+  }
+}

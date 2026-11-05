@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-03-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 2:14, 33",
+      "texto": [
+        "Entonces Pedro, de pie con los once, alzó la voz para hablarles así: —Judíos y habitantes todos de Jerusalén, entended bien esto y escuchad atentamente mis palabras.",
+        "Israelitas, escuchad estas palabras: a Jesús Nazareno, hombre acreditado por Dios ante vosotros con milagros, prodigios y señales, que Dios realizó entre vosotros por medio de él, como bien sabéis,",
+        "a éste, que fue entregado según el designio establecido y la presciencia de Dios, le matasteis clavándole en la cruz por mano de los impíos.",
+        "Pero Dios le resucitó rompiendo las ataduras de la muerte, porque no era posible que ésta lo retuviera bajo su dominio.",
+        "En efecto, David dice de él: Tenía siempre presente al Señor ante mis ojos, porque está a mi derecha, para que yo no vacile.",
+        "Por eso se alegró mi corazón y exultó mi lengua, y hasta mi carne descansará en la esperanza;",
+        "porque no abandonarás mi alma en los infiernos, ni dejarás que tu Santo vea la corrupción.",
+        "Me diste a conocer los caminos de la vida y me llenarás de alegría con tu presencia.",
+        "Hermanos, permitidme que os diga con claridad que el patriarca David murió y fue sepultado, y su sepulcro se conserva entre nosotros hasta el día de hoy.",
+        "Pero como era profeta y sabía que Dios le había jurado solemnemente que sobre su trono se sentaría un fruto de sus entrañas,",
+        "lo vio con anticipación y habló de la resurrección de Cristo, que ni fue abandonado en los infiernos ni su carne vio la corrupción.",
+        "A este Jesús le resucitó Dios, y de eso todos nosotros somos testigos.",
+        "Exaltado, pues, a la diestra de Dios, y recibida del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 16:1-2, 5, 11",
+      "texto": [
+        "Mictam. De David. Guárdame, Dios mío, que me refugio en Ti.",
+        "Yo digo al Señor: «Tú eres mi Señor. No tengo otro bien que Tú.",
+        "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte.",
+        "Yo bendigo al Señor, que me aconseja; hasta de noche mi corazón me instruye.",
+        "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo.",
+        "Por eso se alegra mi corazón, se goza mi alma, hasta mi carne descansa en la esperanza.",
+        "Porque no abandonarás mi alma en el sheol, ni dejarás a tu fiel ver la corrupción.",
+        "Me enseñas la senda de la vida, saciedad de gozo en tu presencia, dicha perpetua a tu derecha."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 28:8-15",
+      "texto": [
+        "Ellas partieron al instante del sepulcro con temor y una gran alegría, y corrieron a dar la noticia a los discípulos.",
+        "De pronto Jesús les salió al encuentro y las saludó. Ellas se acercaron, abrazaron sus pies y le adoraron.",
+        "Entonces Jesús les dijo: —No tengáis miedo; id a anunciar a mis hermanos que vayan a Galilea: allí me verán.",
+        "Mientras ellas se iban, algunos de la guardia fueron a la ciudad y comunicaron a los príncipes de los sacerdotes todo lo sucedido.",
+        "Se reunieron con los ancianos, se pusieron de acuerdo y dieron una buena suma de dinero a los soldados",
+        "diciéndoles: —«Decid que sus discípulos vinieron de noche y lo robaron mientras nosotros estábamos dormidos.",
+        "Y en el caso de que esto llegue a oídos del procurador, nosotros le calmaremos y nos encargaremos de vuestra seguridad.",
+        "Ellos aceptaron el dinero y actuaron según las instrucciones recibidas. Así se divulgó este rumor entre los judíos hasta el día de hoy."
+      ]
+    }
+  }
+}

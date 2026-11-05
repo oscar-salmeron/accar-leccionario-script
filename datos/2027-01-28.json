@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-01-28",
+  "fiesta": "Santo Tomás de Aquino, Presbítero, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 10:19-25",
+      "texto": [
+        "Por tanto, hermanos, como tenemos la confianza de entrar en el Santuario por la sangre de Jesús",
+        "—por el camino reciente y vivo que él nos abrió a través del velo, es decir, de su carne—",
+        "y a un gran sacerdote al frente de la casa de Dios,",
+        "acerquémonos con un corazón sincero y una fe plena, después de purificar nuestros corazones de una mala conciencia y de lavar nuestro cuerpo con agua pura.",
+        "Mantengamos firme la confesión de la esperanza, porque fiel es el que hizo la promesa,",
+        "y estemos pendientes unos de otros para estimularnos a la caridad y a las buenas obras,",
+        "sin abandonar nuestras propias reuniones, como acostumbran algunos, sino animándonos tanto más cuanto más cercano veis el día."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 24:1-6",
+      "texto": [
+        "De David. Salmo. Del Señor es la tierra y cuanto hay en ella, el orbe y los que lo habitan.",
+        "Él la cimentó sobre los mares y la asentó sobre los ríos.",
+        "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?",
+        "El de manos inocentes y de corazón puro, el que no dirige su alma a la vanidad, ni jura en falso.",
+        "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador.",
+        "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:21-25",
+      "texto": [
+        "Y les decía: —¿Acaso se enciende la lámpara para ponerla debajo de un celemín o debajo de la cama? ¿No se pone sobre un candelero?",
+        "Pues no hay cosa escondida que no vaya a saberse, ni secreto que no acabe por hacerse público.",
+        "Si alguno tiene oídos para oír, que oiga.",
+        "Y les decía: —Prestad atención a lo que oís. Con la medida con que midáis se os medirá y hasta se os dará de más.",
+        "Porque al que tiene se le dará; y al que no tiene incluso lo que tiene se le quitará."
+      ]
+    }
+  }
+}

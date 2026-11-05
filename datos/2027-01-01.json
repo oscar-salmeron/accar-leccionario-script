@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-01-01",
+  "fiesta": "Octava de la Natividad: Solemnidad de la Santísima Virgen María, Madre de Dios",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 6:22-27",
+      "texto": [
+        "El Señor habló a Moisés diciendo:",
+        "—Habla a Aarón y a sus hijos y diles: «Así bendeciréis a los hijos de Israel, diciéndoles:",
+        "“El Señor te bendiga y te guarde,",
+        "el Señor haga brillar su rostro sobre ti y te conceda su gracia,",
+        "el Señor alce su rostro hacia ti y te conceda la paz”.",
+        "Así invocarán mi nombre sobre los hijos de Israel, y Yo los bendeciré."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 67:2-3, 6, 8",
+      "texto": [
+        "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros.",
+        "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones.",
+        "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud y diriges las naciones de la tierra.",
+        "¡Que te alaben los pueblos, oh Dios, que todos los pueblos te alaben!",
+        "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Gálatas 4:4-7",
+      "texto": [
+        "Pero al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer, nacido bajo la Ley,",
+        "para redimir a los que estaban bajo la Ley, a fin de que recibiésemos la adopción de hijos.",
+        "Y, puesto que sois hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: «¡Abbá, Padre!",
+        "De manera que ya no eres siervo, sino hijo; y como eres hijo, también heredero por gracia de Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 2:16-21",
+      "texto": [
+        "Y fueron presurosos y encontraron a María y a José y al niño reclinado en el pesebre.",
+        "Al verlo, reconocieron las cosas que les habían sido anunciadas sobre este niño.",
+        "Y todos los que lo oyeron se maravillaron de cuanto los pastores les habían dicho.",
+        "María guardaba todas estas cosas ponderándolas en su corazón.",
+        "Y los pastores regresaron, glorificando y alabando a Dios por todo lo que habían oído y visto, según les fue dicho.",
+        "Cuando se cumplieron los ocho días para circuncidarle, le pusieron por nombre Jesús, como le había llamado el ángel antes de que fuera concebido en el seno materno."
+      ]
+    }
+  }
+}

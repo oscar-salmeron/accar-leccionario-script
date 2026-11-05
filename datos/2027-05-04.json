@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-05-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 16:22-34",
+      "texto": [
+        "La multitud se alborotó contra ellos y los pretores les hicieron quitarse la ropa y mandaron azotarles.",
+        "Después de haberles dado numerosos azotes, los arrojaron en la cárcel y ordenaron al carcelero custodiarlos con todo cuidado.",
+        "Éste, recibida la orden, los metió en el calabozo interior y les sujetó los pies al cepo.",
+        "A eso de la medianoche Pablo y Silas se pusieron a orar y a entonar alabanzas a Dios, mientras los presos les escuchaban.",
+        "De repente se produjo un terremoto tan fuerte, que se conmovieron los cimientos de la cárcel, e inmediatamente se abrieron todas las puertas y se soltaron las cadenas de todos.",
+        "Se despertó el jefe de la prisión, y al ver abiertas las puertas de la cárcel sacó la espada y quería matarse pensando que los presos se habían fugado.",
+        "Pero Pablo le gritó con fuerte voz: —¡No te hagas ningún daño, que estamos todos aquí!",
+        "El jefe de la prisión pidió una luz, entró precipitadamente y temblando se arrojó ante Pablo y Silas.",
+        "Los sacó fuera y les dijo: —Señores, ¿qué debo hacer para salvarme?",
+        "Ellos le contestaron: —Cree en el Señor Jesús y te salvarás tú y tu casa.",
+        "Le predicaron entonces la palabra del Señor a él y a todos los de su casa.",
+        "En aquella hora de la noche los tomó consigo, les lavó las heridas y acto seguido se bautizaron él y todos los suyos.",
+        "Les hizo subir a su casa, les preparó la mesa y se regocijó con toda su familia por haber creído en Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 138:1-3, 8",
+      "texto": [
+        "De David. Te doy gracias, Señor, de todo corazón, porque has escuchado las palabras de mi boca. Delante de los ángeles entonaré salmos para Ti.",
+        "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre por tu misericordia y tu fidelidad, porque has engrandecido tu promesa por encima de todo nombre.",
+        "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma.",
+        "Si camino entre angustias, me das vida. Contra la ira de mis enemigos extiendes tu mano, y tu diestra me salva.",
+        "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna: no abandones la obra de tus manos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 16:5-11",
+      "texto": [
+        "Ahora voy a quien me envió y ninguno de vosotros me pregunta: «¿Adónde vas?",
+        "Pero porque os he dicho esto, vuestro corazón se ha llenado de tristeza;",
+        "pero yo os digo la verdad: os conviene que me vaya, porque si no me voy, el Paráclito no vendrá a vosotros. En cambio, si yo me voy, os lo enviaré.",
+        "Y cuando venga Él, acusará al mundo de pecado, de justicia y de juicio:",
+        "de pecado, porque no creen en mí;",
+        "de justicia, porque me voy al Padre y ya no me veréis;",
+        "de juicio, porque el príncipe de este mundo ya está juzgado."
+      ]
+    }
+  }
+}

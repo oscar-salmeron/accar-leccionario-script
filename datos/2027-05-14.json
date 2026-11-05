@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-05-14",
+  "fiesta": "San Matías, Apóstol (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 1:15-17, 26",
+      "texto": [
+        "En aquellos días Pedro, puesto de pie en medio de los hermanos —se habían reunido allí unas ciento veinte personas—, dijo:",
+        "—Hermanos, era preciso que se cumpliera la Escritura que el Espíritu Santo predijo por boca de David acerca de Judas, que fue guía de los que prendieron a Jesús,",
+        "pues se contaba entre nosotros y se le había hecho partícipe de este ministerio.",
+        "Pues está escrito en el libro de los Salmos: Que su morada quede desierta y no haya quien habite en ella. Y que su cargo lo ocupe otro.",
+        "Es necesario, por tanto, que de los hombres que nos han acompañado todo el tiempo que el Señor Jesús vivió con nosotros,",
+        "empezando desde el bautismo de Juan hasta el día en que fue elevado de entre nosotros, uno de ellos sea constituido con nosotros testigo de su resurrección.",
+        "Presentaron a dos: a José, llamado Barsabás, por sobrenombre Justo, y a Matías.",
+        "Y oraron así: —Tú, Señor, que conoces el corazón de todos, muestra a cuál de estos dos has elegido",
+        "para ocupar el puesto en este ministerio y apostolado, del que desertó Judas para ir a su destino.",
+        "Echaron suertes y la suerte recayó sobre Matías, que fue agregado a los once apóstoles."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 113:1-8",
+      "texto": [
+        "¡Aleluya! Alabad, siervos del Señor, alabad el Nombre del Señor.",
+        "Bendito sea el Nombre del Señor, ahora y por siempre, sin fin.",
+        "Desde la salida del sol hasta el ocaso, alabado sea el Nombre del Señor.",
+        "Excelso sobre todas las naciones es el Señor, por encima de los cielos está su gloria.",
+        "¿Quién como el Señor, nuestro Dios, que se sienta en las alturas,",
+        "y se abaja para mirar los cielos y la tierra?",
+        "Él levanta del polvo al indigente, y del estiércol hace subir al mísero,",
+        "para hacerlo sentar entre los príncipes, entre los príncipes de su pueblo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:9-17",
+      "texto": [
+        "Como el Padre me amó, así os he amado yo. Permaneced en mi amor.",
+        "Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor.",
+        "Os he dicho esto para que mi alegría esté en vosotros y vuestra alegría sea completa.",
+        "Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado.",
+        "Nadie tiene amor más grande que el de dar uno la vida por sus amigos.",
+        "Vosotros sois mis amigos si hacéis lo que os mando.",
+        "Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer.",
+        "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda.",
+        "Esto os mando: que os améis los unos a los otros."
+      ]
+    }
+  }
+}

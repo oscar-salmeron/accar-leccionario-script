@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-02-03",
+  "fiesta": "San Blas, Obispo y Mártir (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 12:4-7, 15",
+      "texto": [
+        "No habéis resistido todavía hasta la sangre al combatir contra el pecado",
+        "y habéis olvidado la exhortación dirigida a vosotros como a hijos: Hijo mío, no desprecies la corrección del Señor, ni te desanimes cuando Él te reprenda;",
+        "porque el Señor corrige al que ama y azota a todo aquel que reconoce como hijo.",
+        "Lo que sufrís sirve para vuestra corrección. Dios os trata como a hijos, ¿y qué hijo hay a quien su padre no corrija?",
+        "Toda corrección, al momento, no parece agradable sino penosa, pero luego produce fruto apacible de justicia en los que en ella se ejercitan.",
+        "Por lo tanto, levantad las manos caídas y las rodillas debilitadas,",
+        "y dad pasos derechos con vuestros pies, para que los miembros cojos no se tuerzan, sino más bien se curen.",
+        "Buscad la paz con todos y la santificación, sin la cual nadie puede ver a Dios.",
+        "Vigilad para que a nadie le falte la gracia de Dios, no sea que brote alguna raíz amarga y os perturbe y llegue a contagiar a muchos;"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:1-2, 14, 18",
+      "texto": [
+        "De David. Bendice, alma mía, al Señor, y todo mi ser a su Nombre santo.",
+        "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios.",
+        "Como se apiada un padre de sus hijos, así el Señor tiene piedad de los que le temen.",
+        "Pues Él conoce de qué estamos hechos, recuerda que somos polvo.",
+        "Pero la misericordia del Señor dura desde siempre y para siempre con los que le temen; y su justicia, con los hijos de los hijos,",
+        "con los que guardan su alianza y recuerdan sus mandatos y los cumplen."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:1-6",
+      "texto": [
+        "Salió de allí y se fue a su ciudad, y le seguían sus discípulos.",
+        "Y cuando llegó el sábado comenzó a enseñar en la sinagoga, y muchos de los que le oían decían admirados: —¿De dónde sabe éste estas cosas? ¿Y qué sabiduría es la que se le ha dado y estos milagros que se hacen por sus manos?",
+        "¿No es éste el artesano, el hijo de María, y hermano de Santiago y de José y de Judas y de Simón? ¿Y sus hermanas no viven aquí entre nosotros? Y se escandalizaban de él.",
+        "Y les decía Jesús: —No hay profeta que sea menospreciado, si no es en su tierra, entre sus parientes y en su casa.",
+        "Y no podía hacer allí ningún milagro; solamente sanó a unos pocos enfermos imponiéndoles las manos.",
+        "Y se asombraba por su incredulidad. Y recorría las aldeas de los contornos enseñando."
+      ]
+    }
+  }
+}

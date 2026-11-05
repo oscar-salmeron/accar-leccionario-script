@@ -1,0 +1,38 @@
+{
+  "fecha": "2027-09-17",
+  "fiesta": "Sagrados Estigmas de San Francisco de Asís (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Gálatas 6:14-18",
+      "texto": [
+        "¡Que yo nunca me gloríe más que en la cruz de nuestro Señor Jesucristo, por quien el mundo está crucificado para mí y yo para el mundo!",
+        "Porque ni la circuncisión ni la falta de circuncisión importan, sino la nueva criatura.",
+        "Para todos los que sigan esta norma, paz y misericordia, lo mismo que para el Israel de Dios.",
+        "En adelante, que nadie me importune, porque llevo en mi cuerpo las señales de Jesús.",
+        "Hermanos, que la gracia de nuestro Señor Jesucristo esté con vuestro espíritu. Amén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Gálatas 2:16, 20. Filipenses 1:20-21",
+      "texto": [
+        "Y sin embargo, como sabemos que el hombre no es justificado por las obras de la Ley, sino por medio de la fe en Jesucristo, también nosotros hemos creído en Cristo Jesús, para ser justificados por la fe en Cristo y no por las obras de la Ley, ya que por las obras de la Ley ningún hombre será justificado.",
+        "vivo, pero ya no vivo yo, sino que Cristo vive en mí. Y la vida que vivo ahora en la carne la vivo en la fe del Hijo de Dios, que me amó y se entregó a sí mismo por mí.",
+        "Así es mi expectación y esperanza, de que en nada seré defraudado, sino que con toda seguridad, ahora como siempre, Cristo será glorificado en mi cuerpo, tanto en mi vida como en mi muerte.",
+        "Porque para mí, el vivir es Cristo, y el morir una ganancia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:23-26",
+      "texto": [
+        "Y les decía a todos: —Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz cada día, y que me siga.",
+        "Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mí, ése la salvará.",
+        "Porque ¿de qué le sirve al hombre haber ganado el mundo entero si se destruye a sí mismo o se pierde?",
+        "Porque quien se avergüence de mí y de mis palabras, de él se avergonzará el Hijo del Hombre cuando venga en su gloria y en la del Padre y en la de los santos ángeles."
+      ]
+    }
+  }
+}

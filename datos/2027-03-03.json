@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-03-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Deuteronomio 4:1, 9",
+      "texto": [
+        "Ahora, Israel, escucha las leyes y normas que yo os enseño a poner en práctica para que viváis y para que entrando en la tierra que el Señor, Dios de vuestros padres, os da, toméis posesión de ella.",
+        "Mirad que os he enseñado leyes y normas, según me ha ordenado el Señor, mi Dios, para que os comportéis con arreglo a ellas en la tierra en la que vais a entrar a tomar posesión.",
+        "Observadlas y llevadlas a la práctica, pues serán vuestra sabiduría y vuestro discernimiento a los ojos de los pueblos que, al conocer todos estos mandatos, dirán: «En verdad esa gran nación es un pueblo sabio y juicioso.",
+        "Porque ¿qué nación hay tan grande que tenga dioses tan cercanos, como lo está el Señor, nuestro Dios, cuantas veces le invocamos?",
+        "Y ¿qué nación hay tan grande que tenga unas leyes y normas tan justas, como toda esta ley que hoy os entrego?",
+        "Guárdate, pues, y cuídate mucho de no olvidar los sucesos que han visto tus ojos, de modo que no se alejen de tu corazón en todos los días de tu vida; y enséñalos a tus hijos y a los hijos de tus hijos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 147:12-13, 16, 20",
+      "texto": [
+        "Glorifica al Señor, Jerusalén, alaba a tu Dios, Sión.",
+        "Porque ha reforzado los cerrojos de tus puertas, ha bendecido a tus hijos dentro de ti.",
+        "Él envía su orden a la tierra, su palabra corre veloz.",
+        "Él dispensa la nieve como lana, esparce la escarcha como ceniza.",
+        "Él anuncia su palabra a Jacob, sus decretos y sus preceptos a Israel.",
+        "No ha obrado así con ninguna otra nación, ni les ha dado a conocer sus preceptos. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:17-19",
+      "texto": [
+        "No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud.",
+        "En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla.",
+        "Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+      ]
+    }
+  }
+}

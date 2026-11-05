@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-11-21",
+  "fiesta": "Presentación de la Santísima Virgen María (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 11:4-12",
+      "texto": [
+        "Ellos son los dos olivos y los dos candelabros que están en presencia del Señor de la tierra.",
+        "Y si alguno quisiera hacerles daño, les saldrá fuego de la boca y devorará a sus enemigos; y si alguno quisiera hacerles daño, de la misma forma deberá morir.",
+        "Ellos tienen el poder de cerrar el cielo para que no llueva durante los días de su profecía, y tienen poder sobre las aguas para convertirlas en sangre, y para afligir la tierra con toda suerte de plagas, cuantas veces quieran.",
+        "Cuando concluyan su testimonio, la bestia que surge del abismo entablará combate contra ellos, los derrotará y los matará.",
+        "Sus cadáveres quedarán en la plaza de la gran ciudad, la que simbólicamente se llama Sodoma o Egipto, donde también su Señor fue crucificado.",
+        "Las gentes de los pueblos, tribus, lenguas y naciones verán sus cadáveres durante tres días y medio, y no permitirán colocar sus cadáveres en el sepulcro.",
+        "Los habitantes de la tierra se alegrarán de ello, se regocijarán y se intercambiarán regalos, porque estos dos profetas habían atormentado a los habitantes de la tierra.",
+        "Después de tres días y medio un soplo de vida procedente de Dios entró en ellos, y se pusieron de pie, y un gran temor sobrecogió a quienes los miraban.",
+        "Entonces oyeron una voz fuerte desde el cielo que les decía: —Subid aquí. Y subieron al cielo en una nube y sus enemigos los vieron."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 144:1-2, 10",
+      "texto": [
+        "De David. Bendito sea el Señor, mi Roca, que adiestra mis manos para la batalla, mis dedos, para la guerra.",
+        "Misericordia mía, fortaleza mía, mi alcázar y mi libertador; mi escudo con el que me protejo, el que me somete los pueblos.",
+        "Oh Dios, te cantaré un cántico nuevo; con el arpa de diez cuerdas entonaré salmos para Ti.",
+        "Tú, que das la victoria a los reyes, que libras a David, tu siervo, de la espada cruel."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 20:27-40",
+      "texto": [
+        "Se le acercaron algunos de los saduceos —que niegan la resurrección— y le preguntaron:",
+        "—Maestro, Moisés nos dejó escrito: Si muere el hermano de alguien dejando mujer, sin haber tenido hijos, su hermano la tomará por mujer y dará descendencia a su hermano.",
+        "Pues bien, eran siete hermanos. El primero tomó mujer y murió sin hijos.",
+        "Lo mismo el segundo.",
+        "También el tercero la tomó por mujer. Los siete, de igual manera, murieron sin dejar hijos.",
+        "Después murió también la mujer.",
+        "Entonces, en la resurrección, la mujer ¿de cuál de ellos será esposa?, porque los siete la tuvieron como esposa.",
+        "Jesús les dijo: —Los hijos de este mundo se casan y ellas son dadas en matrimonio;",
+        "sin embargo, los que hayan sido dignos de alcanzar el otro mundo y la resurrección de los muertos, no se casarán, ni ellas serán dadas en matrimonio.",
+        "Porque ya no pueden morir otra vez, pues al ser hijos de la resurrección son iguales a los ángeles e hijos de Dios.",
+        "Que los muertos resucitarán lo mostró Moisés en el pasaje de la zarza, cuando llama al Señor Dios de Abrahán y Dios de Isaac y Dios de Jacob.",
+        "Pero no es Dios de muertos, sino de vivos; todos viven para Él.",
+        "Tomando la palabra, algunos escribas dijeron: —Maestro, has respondido muy bien.",
+        "Y ya no se atrevían a hacerle más preguntas."
+      ]
+    }
+  }
+}

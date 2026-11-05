@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-06-16",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 9:6-11",
+      "texto": [
+        "Os digo esto: quien siembra escasamente, escasamente cosechará; y quien siembra copiosamente, copiosamente cosechará.",
+        "Que cada uno dé según se ha propuesto en su corazón, no de mala gana ni forzado, porque Dios ama al que da con alegría.",
+        "Y poderoso es Dios para colmaros de toda gracia, para que, teniendo siempre en todas las cosas todo lo necesario, tengáis abundancia en toda obra buena,",
+        "según está escrito: Repartió con largueza, dio a los pobres; su justicia permanece para siempre.",
+        "Aquel que provee de semilla al sembrador y de pan para comer, os dará y multiplicará la semilla y acrecentará los frutos de vuestra justicia.",
+        "Así seréis enriquecidos en todo para toda obra generosa, que mediante nosotros fructifica en acción de gracias a Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 112:1-4, 9",
+      "texto": [
+        "Aleluya. (Alef) Dichoso el hombre que teme al Señor, (Bet) y se complace de lleno en sus mandamientos.",
+        "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos.",
+        "(He) En su casa habrá fortuna y riqueza; (Vav) su justicia permanecerá para siempre.",
+        "(Záin) Para los rectos brilla como luz en las tinieblas, (Het) el clemente, compasivo y justo.",
+        "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre; (Qof) lleva alta su frente con honor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 6:1-6, 18",
+      "texto": [
+        "Guardaos de hacer vuestra justicia delante de los hombres con el fin de que os vean; de otro modo no tendréis recompensa de vuestro Padre que está en los cielos.",
+        "Por lo tanto, cuando des limosna no lo vayas pregonando, como hacen los hipócritas en las sinagogas y en las calles, con el fin de que los alaben los hombres. En verdad os digo que ya recibieron su recompensa.",
+        "Tú, por el contrario, cuando des limosna, que tu mano izquierda no sepa lo que hace tu mano derecha,",
+        "para que tu limosna quede en lo oculto; de este modo, tu Padre, que ve en lo oculto, te recompensará.",
+        "Cuando oréis, no seáis como los hipócritas, que son amigos de orar puestos de pie en las sinagogas y en las esquinas de las plazas, para exhibirse delante de los hombres; en verdad os digo que ya recibieron su recompensa.",
+        "Tú, por el contrario, cuando te pongas a orar, entra en tu aposento y, con la puerta cerrada, ora a tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará.",
+        "Cuando ayunéis no os finjáis tristes como los hipócritas, que desfiguran su rostro para que los hombres noten que ayunan. En verdad os digo que ya recibieron su recompensa.",
+        "Tú, en cambio, cuando ayunes, perfuma tu cabeza y lávate la cara,",
+        "para que no adviertan los hombres que ayunas, sino tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+      ]
+    }
+  }
+}

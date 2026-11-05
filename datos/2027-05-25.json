@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-05-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 35:1-12",
+      "texto": [
+        "Quien observa la Ley es generoso en las ofrendas.",
+        "Sacrificio pacífico es cumplir los mandamientos.",
+        "Quien es agradecido ofrece flor de harina, quien da limosna hace un sacrificio de alabanza.",
+        "Lo más agradable al Señor es apartarse del mal, y el mejor sacrificio expiatorio, apartarse de la injusticia.",
+        "No te presentes con las manos vacías ante el Señor,",
+        "pues todo eso es lo prescrito por el mandamiento.",
+        "La ofrenda del justo unge el altar, y su perfume sube hasta el Altísimo.",
+        "El sacrificio del hombre justo es aceptado, y su recuerdo no caerá en el olvido.",
+        "Glorifica al Señor con generosidad, no seas mezquino en las primicias que ofreces.",
+        "En toda ofrenda pon buena cara, y consagra con alegría los diezmos.",
+        "Da al Altísimo conforme de Él recibiste, y da con generosidad, según lo que puedas,",
+        "pues el Señor es buen pagador y te restituirá siete veces más.",
+        "No intentes sobornarlo con dones defectuosos, porque no los aceptará,",
+        "ni confíes en sacrificios injustos, porque el Señor es juez, y en Él no cuenta la categoría de las personas,"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 50:5-8, 14, 23",
+      "texto": [
+        "«Reunid ante mí a mis fieles, los que han sellado mi alianza con el sacrificio.",
+        "Que los cielos pregonen su justicia, porque Dios mismo es el juez.",
+        "Escucha, pueblo mío, voy a hablar. Contra ti, Israel, voy a dar testimonio: Yo, Dios, soy tu Dios.",
+        "No te reprendo por tus sacrificios, pues tus holocaustos están siempre ante Mí.",
+        "Ofrece a Dios un sacrificio de alabanza, cumple tus votos al Altísimo,",
+        "Quien ofrece un sacrificio de alabanza me da gloria. Al que es íntegro en el camino le mostraré la salvación de Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:28-31",
+      "texto": [
+        "Comenzó Pedro a decirle: —Ya ves que nosotros lo hemos dejado todo y te hemos seguido.",
+        "que no reciba en este mundo cien veces más en casas, hermanos, hermanas, madres, hijos y campos, con persecuciones; y, en el siglo venidero, la vida eterna.",
+        "Porque muchos primeros serán últimos, y muchos últimos serán primeros."
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-10-05",
+  "fiesta": "Santa Faustina, Virgen (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jonás 3:1-10",
+      "texto": [
+        "La palabra del Señor fue dirigida a Jonás por segunda vez, diciéndole:",
+        "—Levántate, vete a Nínive, la gran ciudad, y pregona en ella el mensaje que voy a decirte.",
+        "Jonás se levantó y se encaminó a Nínive, con arreglo a la orden del Señor. Nínive era una gran ciudad ante Dios. Tres días hacían falta para recorrerla.",
+        "Estuvo Jonás deambulando un día entero por la ciudad, predicando y diciendo: —Dentro de cuarenta días Nínive será destruida.",
+        "Las gentes de Nínive creyeron en Dios. Convocaron a un ayuno y se vistieron de saco del mayor al más pequeño.",
+        "Cuando llegó la noticia al rey de Nínive, se levantó de su trono, se quitó el manto, se cubrió de saco y se sentó en la ceniza.",
+        "Y mandó pregonar y decir en Nínive, por decreto del rey y de sus magnates, lo siguiente: —Hombres y bestias, vacas y ovejas, que no prueben nada, ni pasten ni beban agua.",
+        "Que hombres y bestias se cubran de saco y clamen a Dios con fuerza. Que cada uno se convierta de su mala conducta y de la violencia de sus manos.",
+        "¿Quién sabe si Dios se dolerá y se retraerá, y retornará del ardor de su ira, y no pereceremos nosotros?",
+        "Dios miró sus obras, cómo se convertían de su mala conducta, y se arrepintió Dios del mal que había dicho que les iba a hacer, y no lo hizo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 130:1-4, 8",
+      "texto": [
+        "Canto de las subidas. Desde lo más profundo, Te invoco, Señor.",
+        "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica.",
+        "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?",
+        "Pero en Ti está el perdón, y así mantenemos tu temor.",
+        "Los centinelas esperan la aurora, pero tú, Israel, espera en el Señor; pues en el Señor está la misericordia, en Él, la redención abundante.",
+        "Él redimirá a Israel de todas sus culpas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 10:38-42",
+      "texto": [
+        "Cuando iban de camino entró en cierta aldea, y una mujer que se llamaba Marta le recibió en su casa.",
+        "Tenía ésta una hermana llamada María que, sentada a los pies del Señor, escuchaba su palabra.",
+        "Pero Marta andaba afanada con numerosos quehaceres y poniéndose delante dijo: —Señor, ¿no te importa que mi hermana me deje sola en las tareas de servir? Dile entonces que me ayude.",
+        "Pero el Señor le respondió: —Marta, Marta, tú te preocupas y te inquietas por muchas cosas.",
+        "Pero una sola cosa es necesaria: María ha escogido la mejor parte, que no le será arrebatada."
+      ]
+    }
+  }
+}

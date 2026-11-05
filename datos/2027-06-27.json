@@ -1,0 +1,71 @@
+{
+  "fecha": "2027-06-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 1:13-15; 2:23-24",
+      "texto": [
+        "que Dios no hizo la muerte, ni se goza con la pérdida de los vivientes.",
+        "Sino que creó todas las cosas para que existieran: las criaturas del mundo son saludables, no hay en ellas veneno mortífero, ni el mundo del hades reina sobre la tierra,",
+        "porque la justicia es inmortal.",
+        "Porque Dios creó al hombre para la incorruptibilidad y lo hizo a imagen de su propia eternidad.",
+        "Mas por la envidia del diablo entró la muerte en el mundo, y la experimentan los que son de su bando."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 30:2, 6, 13",
+      "texto": [
+        "Te ensalzaré, Señor, porque me has librado, no has dejado a mis enemigos alegrarse a mi costa.",
+        "Señor, sacaste mi alma del sheol, me hiciste revivir cuando bajaba a la tumba.",
+        "Entonad, fieles, salmos al Señor, alabad su santo Nombre,",
+        "porque su ira dura un instante, su bondad, toda la vida; al atardecer se hospeda el llanto, al amanecer, el júbilo.",
+        "Escucha, Señor, ten piedad de mí. Señor, sé mi socorro.",
+        "Has cambiado mi llanto en danza, has desatado mi saco y me has vestido de alegría.",
+        "Por eso mi corazón te entona salmos sin cesar. Señor, Dios mío, te alabaré por siempre."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 8:7, 9, 15",
+      "texto": [
+        "Y así como tenéis abundancia de todo —de fe, de palabra, de ciencia, de todo desvelo y de la caridad que os hemos comunicado—, sed también abundantes en esta gracia.",
+        "Porque conocéis la gracia de nuestro Señor Jesucristo, que, siendo rico, se hizo pobre por vosotros, para que vosotros seáis ricos por su pobreza.",
+        "Pues no se trata de que para otros haya desahogo y para vosotros apuros, sino de que, según las normas de la igualdad,",
+        "vuestra abundancia remedie ahora su necesidad, para que la abundancia de ellos pueda remediar vuestra necesidad, a fin de que haya equidad, según está escrito:",
+        "El que mucho recogió no tuvo de más; y el que recogió poco no tuvo de menos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 5:21-43",
+      "texto": [
+        "Y tras cruzar de nuevo Jesús en la barca hasta la orilla opuesta, se congregó una gran muchedumbre a su alrededor mientras él estaba junto al mar.",
+        "Viene uno de los jefes de la sinagoga, que se llamaba Jairo. Al verlo, se postra a sus pies",
+        "y le suplica con insistencia diciendo: —Mi hija está en las últimas. Ven, pon las manos sobre ella para que se salve y viva.",
+        "Se fue con él, y le seguía la muchedumbre, que le apretujaba.",
+        "Y una mujer que tenía un flujo de sangre desde hacía doce años,",
+        "y que había sufrido mucho a manos de muchos médicos y se había gastado todos sus bienes sin aprovecharle de nada, sino que iba de mal en peor,",
+        "cuando oyó hablar de Jesús, vino por detrás entre la muchedumbre y le tocó el manto",
+        "—porque decía: «Con que toque sus ropas, me curaré—.",
+        "Y de repente se secó la fuente de sangre y sintió en su cuerpo que estaba curada de la enfermedad.",
+        "Y al momento Jesús conoció en sí mismo la fuerza salida de él y, vuelto hacia la muchedumbre, decía: —¿Quién me ha tocado la ropa?",
+        "Y le decían sus discípulos: —Ves que la muchedumbre te apretuja y dices: «¿Quién me ha tocado?.",
+        "Y miraba a su alrededor para ver a la que había hecho esto.",
+        "La mujer, asustada y temblando, sabiendo lo que le había ocurrido, se acercó, se postró ante él y le dijo toda la verdad.",
+        "Él entonces le dijo: —Hija, tu fe te ha salvado. Vete en paz y queda curada de tu dolencia.",
+        "Todavía estaba él hablando, cuando llegan desde la casa del jefe de la sinagoga, diciendo: —Tu hija ha muerto, ¿para qué molestas ya al Maestro?",
+        "Jesús, al oír lo que hablaban, le dice al jefe de la sinagoga: —No temas, tan sólo ten fe.",
+        "Y no permitió que nadie le siguiera, excepto Pedro, Santiago y Juan, el hermano de Santiago.",
+        "Llegan a la casa del jefe de la sinagoga, y ve el alboroto y a los que lloraban y a las plañideras.",
+        "Y al entrar, les dice: —¿Por qué alborotáis y estáis llorando? La niña no ha muerto, sino que duerme.",
+        "Y se burlaban de él. Pero él, haciendo salir a todos, toma consigo al padre y a la madre de la niña y a los que le acompañaban, y entra donde estaba la niña.",
+        "Y tomando la mano de la niña, le dice: —Talitha qum —que significa: «Niña, a ti te digo, levántate.",
+        "Y enseguida la niña se levantó y se puso a andar, pues tenía doce años. Y quedaron llenos de asombro.",
+        "Les insistió mucho en que nadie lo supiera, y dijo que le dieran a ella de comer."
+      ]
+    }
+  }
+}

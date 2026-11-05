@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-05-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 10:25-26, 35, 48",
+      "texto": [
+        "En el momento en que entraba Pedro, salió Cornelio a su encuentro y, postrándose, le adoró.",
+        "Pero Pedro le incorporó diciendo: —Levántate, que también yo soy un simple hombre.",
+        "Pedro comenzó a hablar: —En verdad comprendo que Dios no hace acepción de personas,",
+        "sino que en cualquier pueblo le es agradable todo el que le teme y obra la justicia.",
+        "Todavía estaba diciendo Pedro estas cosas cuando descendió el Espíritu Santo sobre todos los que escuchaban la palabra;",
+        "y los fieles que procedían de la circuncisión y que habían acompañado a Pedro quedaron atónitos, porque también sobre los gentiles se derramaba el don del Espíritu Santo;",
+        "pues les oían hablar lenguas y glorificar a Dios. Entonces habló Pedro:",
+        "—¿Podrá alguien negar el agua del bautismo a estos que han recibido el Espíritu Santo igual que nosotros?",
+        "Y mandó bautizarlos en el nombre de Jesucristo. Entonces le rogaron que se quedase algunos días."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-4",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Juan 4:7-10",
+      "texto": [
+        "Queridísimos: amémonos unos a otros, porque el amor procede de Dios, y todo el que ama ha nacido de Dios, y conoce a Dios.",
+        "El que no ama no ha llegado a conocer a Dios, porque Dios es amor.",
+        "En esto se manifestó entre nosotros el amor de Dios: en que Dios envió a su Hijo Unigénito al mundo para que recibiéramos por él la vida.",
+        "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó y envió a su Hijo como víctima propiciatoria por nuestros pecados."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:9-17",
+      "texto": [
+        "Como el Padre me amó, así os he amado yo. Permaneced en mi amor.",
+        "Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor.",
+        "Os he dicho esto para que mi alegría esté en vosotros y vuestra alegría sea completa.",
+        "Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado.",
+        "Nadie tiene amor más grande que el de dar uno la vida por sus amigos.",
+        "Vosotros sois mis amigos si hacéis lo que os mando.",
+        "Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer.",
+        "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda.",
+        "Esto os mando: que os améis los unos a los otros."
+      ]
+    }
+  }
+}

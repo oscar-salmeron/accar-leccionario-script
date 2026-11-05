@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-07-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 28:10-22",
+      "texto": [
+        "Jacob partió de Berseba y se dirigió a Jarán.",
+        "Al llegar a un cierto lugar, se dispuso a pasar allí la noche porque se había puesto el sol; tomó una piedra de aquel lugar y, colocándosela como cabecera, se acostó allí mismo.",
+        "Entonces tuvo un sueño: una escala apoyada sobre la tierra tenía la cima tocando el cielo, y los ángeles de Dios subían y bajaban por ella.",
+        "El Señor estaba sobre ella y le dijo: —Yo soy el Señor, el Dios de tu padre Abrahán, el Dios de Isaac; voy a darte a ti y a tu descendencia la tierra sobre la que estás acostado.",
+        "Tu descendencia será como el polvo de la tierra, te extenderás al este y al oeste, al norte y al sur, y en ti y en tu descendencia serán bendecidos todos los pueblos de la tierra.",
+        "Yo estaré contigo y te guardaré donde quiera que vayas, haciéndote volver a esta tierra, pues no te abandonaré hasta que haya cumplido lo que te he dicho.",
+        "Cuando Jacob despertó del sueño, exclamó: —El Señor está realmente en este lugar y yo no lo sabía.",
+        "Y lleno de temor añadió: —¡Qué terrible es este lugar! Esto no es sino la casa de Dios y la puerta del cielo.",
+        "Se levantó Jacob muy de mañana y, tomando la piedra que había colocado de cabecera, la erigió como estela y derramó aceite sobre ella.",
+        "Y llamó a aquel lugar Betel (aunque al principio el nombre de la ciudad era Luz).",
+        "Entonces Jacob hizo un voto diciendo: —Si Dios está conmigo y me guarda en este viaje que hago, si me proporciona pan para comer y ropa para vestirme,",
+        "y vuelvo con bien a casa de mi padre, el Señor será mi Dios.",
+        "Esta piedra que he erigido como estela será una casa de Dios, y de todo lo que me concedas te ofreceré el diezmo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 91:1-4, 15",
+      "texto": [
+        "El que habita al amparo del Altísimo morará a la sombra del Omnipotente.",
+        "Dice al Señor: «Refugio mío, fortaleza mía, Dios mío en quien confío.",
+        "Él te librará de la red del cazador, de la peste destructora.",
+        "Te cubrirá con sus plumas, bajo sus alas encontrarás refugio: su fidelidad es escudo y coraza.",
+        "Porque se ha unido a Mí, lo libraré, porque reconoce mi Nombre, lo engrandeceré.",
+        "Me invocará y Yo le escucharé; con él estaré en la tribulación, lo libraré y lo glorificaré."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:18-26",
+      "texto": [
+        "Mientras les decía estas cosas, un hombre importante se acercó, se postró ante él y le dijo: —Mi hija se acaba de morir, pero ven, pon la mano sobre ella y vivirá.",
+        "Jesús se levantó y le siguió con sus discípulos.",
+        "En esto, una mujer que padecía flujo de sangre hacía doce años, acercándose por detrás, tocó el borde de su manto,",
+        "porque se decía a sí misma: «Con sólo tocar su manto me curaré.",
+        "Jesús se volvió y mirándola le dijo: —Ten confianza, hija, tu fe te ha salvado. Y desde ese mismo momento quedó curada la mujer.",
+        "Cuando llegó Jesús a la casa de aquel hombre y vio a los músicos fúnebres y a la gente alterada, comenzó a decir:",
+        "—Retiraos; la niña no ha muerto, sino que duerme. Pero se reían de él.",
+        "Y, cuando echaron de allí a la gente, entró, la tomó de la mano y la niña se levantó.",
+        "Y esta noticia corrió por toda aquella comarca."
+      ]
+    }
+  }
+}

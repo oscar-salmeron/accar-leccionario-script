@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-03-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 49:1-6",
+      "texto": [
+        "¡Escuchadme, islas! ¡Poned atención, pueblos lejanos! El Señor me llamó desde el seno materno, desde las entrañas de mi madre pronunció mi nombre.",
+        "Hizo de mi boca espada afilada, a la sombra de su mano me encubrió; hizo de mí una flecha aguzada, y me guardó en su aljaba.",
+        "Y me dijo: «Tú eres mi siervo, Israel, en quien me glorío.",
+        "Yo me decía: «En balde me he fatigado, inútilmente y en vano he gastado mi fuerza. Sin embargo, mi juicio pertenece al Señor, y mi recompensa está en mi Dios.",
+        "Ahora dice el Señor, el que me formó desde el seno materno para ser su siervo, para hacer que Jacob volviese a Él y para reunirle a Israel, pues soy estimado a los ojos del Señor y mi Dios ha venido a ser mi fortaleza:",
+        "«Muy poco es que seas siervo mío para restaurar las tribus de Jacob y hacer volver a los supervivientes de Israel. Te he puesto para ser luz de las naciones, para que mi salvación alcance hasta los extremos de la tierra."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 71:1-6, 15, 17",
+      "texto": [
+        "En Ti, Señor, espero, no quede yo avergonzado para siempre.",
+        "Por tu justicia, ven en mi auxilio, ponme a salvo, inclina tu oído hacia mí y sálvame.",
+        "Sé para mí la roca de refugio, donde acudir de continuo, pues has decretado salvarme, porque Tú eres mi peña, mi fortaleza.",
+        "Dios mío, ponme a salvo de la mano del impío, de la garra del perverso y opresor",
+        "Porque Tú eres mi esperanza, Señor, Dios mío, mi seguridad desde mi niñez.",
+        "En Ti me he apoyado desde el seno materno; desde las entrañas de mi madre Tú eres mi protector. Para Ti mi alabanza continua.",
+        "Mi boca proclamará tu justicia, tu salvación todo el día, aunque no sepa contarlas.",
+        "Dios mío, Tú me has instruido desde mi niñez, y yo he anunciado tus maravillas hasta hoy."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 13:21-33, 38",
+      "texto": [
+        "Cuando dijo esto Jesús se conmovió en su espíritu, y declaró: —En verdad, en verdad os digo que uno de vosotros me va a entregar.",
+        "Los discípulos se miraban unos a otros sin saber a quién se refería.",
+        "Estaba recostado en el pecho de Jesús uno de los discípulos, el que Jesús amaba.",
+        "Simón Pedro le hizo señas y le dijo: —Pregúntale quién es ése del que habla.",
+        "Él, que estaba recostado sobre el pecho de Jesús, le dice: —Señor, ¿quién es?",
+        "Jesús le responde: —Es aquel a quien dé el bocado que voy a mojar. Y después de mojar el bocado, se lo da a Judas, hijo de Simón Iscariote.",
+        "Entonces, tras el bocado, entró en él Satanás. Y Jesús le dijo: —Lo que vas a hacer, hazlo pronto.",
+        "Pero ninguno de los que estaban a la mesa entendió con qué fin le dijo esto,",
+        "pues algunos pensaban que, como Judas tenía la bolsa, Jesús le decía: «Compra lo que necesitamos para la fiesta, o «da algo a los pobres.",
+        "Aquél, después de tomar el bocado, salió enseguida. Era de noche.",
+        "Cuando salió, dijo Jesús: —Ahora es glorificado el Hijo del Hombre y Dios es glorificado en él.",
+        "Si Dios es glorificado en él, también Dios le glorificará a él en sí mismo; y pronto le glorificará.",
+        "Hijos, todavía estoy un poco con vosotros. Me buscaréis y como les dije a los judíos: «Adonde yo voy, vosotros no podéis venir, lo mismo os digo ahora a vosotros.",
+        "Le dijo Simón Pedro: —Señor, ¿adónde vas? Jesús respondió: —Adonde yo voy, tú no puedes seguirme ahora, me seguirás más tarde.",
+        "Pedro le dijo: —Señor, ¿por qué no puedo seguirte ahora? Yo daré mi vida por ti.",
+        "Respondió Jesús: —¿Tú darás la vida por mí? En verdad, en verdad te digo que no cantará el gallo sin que me hayas negado tres veces."
+      ]
+    }
+  }
+}

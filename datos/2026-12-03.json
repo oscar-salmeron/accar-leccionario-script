@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-03",
+  "fiesta": "San Francisco Xavier, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 26:1-6",
+      "texto": [
+        "Aquel día se cantará este cántico en la tierra de Judá: «Tenemos una ciudad fortificada; ha levantado como defensa murallas y antemurales.",
+        "¡Abrid las puertas, que va a entrar una nación justa, que guarda la fidelidad!",
+        "Al de ánimo firme le guardas la paz, la paz, porque en ti está seguro.",
+        "Confiad siempre en el Señor, porque el Señor es la Roca eterna;",
+        "porque ha doblegado a los que habitan en las alturas, ha humillado la plaza inaccesible, la ha humillado hasta el suelo, la ha abatido hasta el polvo.",
+        "La pisotearán pies, pies de pobre, pisadas de desvalidos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 118:1, 9, 21, 27",
+      "texto": [
+        "¡Aleluya! Dad gracias al Señor porque es bueno, porque es eterna su misericordia.",
+        "Mejor es refugiarse en el Señor que confiar en el hombre.",
+        "Mejor es refugiarse en el Señor que confiar en los príncipes.",
+        "Abridme las puertas de la justicia: entraré por ellas y daré gracias al Señor.",
+        "Ésta es la puerta del Señor: los justos entrarán por ella.",
+        "Te doy gracias, porque me has escuchado, y has sido mi salvación.",
+        "¡Señor, dame la salvación! ¡Señor, dame prosperidad!",
+        "Bendito el que viene en Nombre del Señor. Os bendecimos desde la Casa del Señor.",
+        "El Señor es Dios, Él nos ilumina. Disponed ceremonia solemne con ramos frondosos hasta los ángulos del altar."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 7:21, 27",
+      "texto": [
+        "No todo el que me dice: «Señor, Señor, entrará en el Reino de los Cielos, sino el que hace la voluntad de mi Padre, que está en los cielos.",
+        "Por lo tanto, todo el que oye estas palabras mías y las pone en práctica, es como un hombre prudente que edificó su casa sobre roca;",
+        "y cayó la lluvia y llegaron las riadas y soplaron los vientos: irrumpieron contra aquella casa, pero no se cayó porque estaba cimentada sobre roca.",
+        "Pero todo el que oye estas palabras mías y no las pone en práctica es como un hombre necio que edificó su casa sobre arena;",
+        "y cayó la lluvia y llegaron las riadas y soplaron los vientos: se precipitaron contra aquella casa, y se derrumbó y fue tremenda su ruina."
+      ]
+    }
+  }
+}

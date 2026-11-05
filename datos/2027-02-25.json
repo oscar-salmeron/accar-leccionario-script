@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-02-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jeremías 17:5-10",
+      "texto": [
+        "Esto dice el Señor: «Maldito el varón que confía en el hombre y pone en la carne su apoyo, mientras su corazón se aparta del Señor.",
+        "Será como matojo de la estepa, que no verá venir la dicha, pues habita en terrenos resecos del desierto, en tierra salobre e inhóspita.",
+        "Bendito el varón que confía en el Señor, y el Señor es su confianza.",
+        "Será como árbol plantado junto al agua, que extiende sus raíces a la corriente, no teme que llegue el calor, y sus hojas permanecerán lozanas, no se inquietará en año de sequía, ni dejará de dar frutos.",
+        "Lo más falaz de todo es el corazón, y lo más insanable. ¿Quién lo entiende?",
+        "Yo, el Señor, escudriño el corazón, examino las entrañas, para retribuir a cada uno según su conducta, según el fruto de sus obras."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 1:1-4, 6",
+      "texto": [
+        "Dichoso el hombre que no sigue el consejo de impíos, ni se detiene en el camino de pecadores, ni toma asiento con farsantes,",
+        "sino que se complace en la Ley del Señor, y noche y día medita en su Ley.",
+        "Será como un árbol plantado al borde de la acequia, que da fruto a su tiempo, y no se marchitan sus hojas: cuanto hace prospera.",
+        "No así los impíos, no así. Son como polvo que dispersa el viento.",
+        "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 16:19-31",
+      "texto": [
+        "Había un hombre rico que vestía de púrpura y lino finísimo, y todos los días celebraba espléndidos banquetes.",
+        "En cambio, un pobre llamado Lázaro yacía sentado a su puerta, cubierto de llagas,",
+        "deseando saciarse de lo que caía de la mesa del rico. Y hasta los perros venían a lamerle las llagas.",
+        "Sucedió, pues, que murió el pobre y fue llevado por los ángeles al seno de Abrahán; murió también el rico y fue sepultado.",
+        "Estando en los infiernos, en medio de los tormentos, levantando sus ojos vio a lo lejos a Abrahán y a Lázaro en su seno;",
+        "y gritando, dijo: «Padre Abrahán, ten piedad de mí y envía a Lázaro para que moje la punta de su dedo en agua y me refresque la lengua, porque estoy atormentado en estas llamas.",
+        "Contestó Abrahán: «Hijo, acuérdate de que tú recibiste bienes durante tu vida y Lázaro, en cambio, males; ahora aquí él es consolado y tú atormentado.",
+        "Además de todo esto, entre vosotros y nosotros se interpone un gran abismo, de modo que los que quieren atravesar de aquí hasta vosotros, no pueden; ni tampoco pueden pasar de ahí hasta nosotros.",
+        "Y él dijo: «Te ruego entonces, padre, que le envíes a casa de mi padre,",
+        "porque tengo cinco hermanos, para que les advierta y no vengan también a este lugar de tormentos.",
+        "Pero replicó Abrahán: «Tienen a Moisés y a los Profetas. ¡Que los oigan!",
+        "Él dijo: «No, padre Abrahán; pero si alguno de entre los muertos va a ellos, se convertirán.",
+        "Y le dijo: «Si no escuchan a Moisés y a los Profetas, tampoco se convencerán aunque uno resucite de entre los muertos."
+      ]
+    }
+  }
+}

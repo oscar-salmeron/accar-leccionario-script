@@ -1,0 +1,36 @@
+{
+  "fecha": "2027-09-04",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 1:21-23",
+      "texto": [
+        "Y a vosotros, que en otro tiempo erais extraños y enemigos por vuestros pensamientos y malas obras,",
+        "ahora sin embargo os reconcilió mediante la muerte sufrida en su cuerpo de carne, para presentaros santos, sin mancha e irreprochables delante de él,"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 6:1-5",
+      "texto": [
+        "Un sábado pasaba él por entre unos sembrados, y sus discípulos arrancaban espigas, las desgranaban con las manos y se las comían.",
+        "Algunos fariseos les dijeron: —¿Por qué hacéis en sábado lo que no es lícito?",
+        "Y Jesús respondiéndoles dijo: —¿No habéis leído lo que hizo David, cuando tuvieron hambre él y los que le acompañaban?",
+        "¿Cómo entró en la Casa de Dios, tomó los panes de la proposición y comió y dio a los que le acompañaban, a pesar de que sólo a los sacerdotes les es lícito comerlos?",
+        "Y les decía: —El Hijo del Hombre es señor del sábado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 54:3-4, 6, 8",
+      "texto": [
+        "Dios mío, sálvame por tu Nombre, hazme justicia con tu poder.",
+        "Dios mío, escucha mi oración, presta oídos a las palabras de mi boca.",
+        "Pero Dios es el que me ayuda, el Señor es el que sostiene mi vida.",
+        "Te ofreceré un sacrificio voluntario, daré gracias a tu Nombre, Señor; porque es bueno."
+      ]
+    }
+  }
+}

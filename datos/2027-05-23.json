@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-05-23",
+  "fiesta": "Santísima Trinidad (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Deuteronomio 4:32-34, 40",
+      "texto": [
+        "Interroga, pues, a los tiempos antiguos que te han precedido, desde el día en que Dios creó al hombre sobre la tierra: de un extremo al otro de los cielos ¿se ha producido alguna vez un acontecimiento tan imponente como éste, o se escuchó algo semejante?",
+        "¿Oyó pueblo alguno la voz de Dios hablándole desde el fuego, como tú le oíste, y quedó con vida?",
+        "O ¿intentó Dios jamás venir a elegirse un pueblo de en medio de otra nación, con pruebas y señales, con milagros y guerra, con mano fuerte y brazo extendido y causando enormes terrores, como hizo por vosotros el Señor, vuestro Dios, en Egipto, ante tus propios ojos?",
+        "Por tanto, reconoce hoy y medita en tu corazón que el Señor es el Dios arriba en los cielos y abajo en la tierra: no hay otro.",
+        "Guarda sus leyes y sus preceptos que yo te ordeno hoy, para que os vaya bien a ti y a los hijos que te sucedan, y para que tengáis larga vida en la tierra que el Señor, tu Dios, te da para siempre."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:4-6, 9, 20, 22",
+      "texto": [
+        "La palabra del Señor es recta, y hace con fidelidad todas sus obras.",
+        "Él ama la justicia y el derecho: la tierra está llena de su misericordia.",
+        "Por la palabra del Señor fueron hechos los cielos, y por el aliento de su boca todos sus ejércitos.",
+        "porque Él habló, y existió, Él lo ordenó, y se mantuvo.",
+        "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,",
+        "para librar sus almas de la muerte, y hacerlos subsistir en la penuria.",
+        "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;",
+        "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Romanos 8:14-17",
+      "texto": [
+        "Porque los que son guiados por el Espíritu de Dios, éstos son hijos de Dios.",
+        "Porque no recibisteis un espíritu de esclavitud para estar de nuevo bajo el temor, sino que recibisteis un Espíritu de hijos de adopción, en el que clamamos: «¡Abbá, Padre!",
+        "Pues el Espíritu mismo da testimonio junto con nuestro espíritu de que somos hijos de Dios.",
+        "Y si somos hijos, también herederos: herederos de Dios, coherederos de Cristo; con tal de que padezcamos con él, para ser con él también glorificados."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 28:16-20",
+      "texto": [
+        "Los once discípulos marcharon a Galilea, al monte que Jesús les había indicado.",
+        "Y en cuanto le vieron le adoraron; pero otros dudaron.",
+        "Y Jesús se acercó y les dijo: —Se me ha dado toda potestad en el cielo y en la tierra.",
+        "Id, pues, y haced discípulos a todos los pueblos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo;",
+        "y enseñándoles a guardar todo cuanto os he mandado. Y sabed que yo estoy con vosotros todos los días hasta el fin del mundo."
+      ]
+    }
+  }
+}

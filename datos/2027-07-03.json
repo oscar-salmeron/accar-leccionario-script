@@ -1,0 +1,37 @@
+{
+  "fecha": "2027-07-03",
+  "fiesta": "Santo Tomás, Apóstol (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Efesios 2:19-22",
+      "texto": [
+        "Por lo tanto, ya no sois extraños y advenedizos sino conciudadanos de los santos y miembros de la familia de Dios,",
+        "edificados sobre el cimiento de los apóstoles y los profetas, siendo piedra angular el mismo Cristo Jesús,",
+        "sobre quien toda la edificación se alza bien compacta para ser templo santo en el Señor,",
+        "en quien también vosotros entráis a formar parte del edificio para ser morada de Dios por el Espíritu."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 117:1-2",
+      "texto": [
+        "¡Aleluya! Alabad al Señor todas las naciones, aclamadlo todos los pueblos.",
+        "Porque firme es con nosotros su misericordia, la fidelidad del Señor permanece para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:24-29",
+      "texto": [
+        "Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando vino Jesús.",
+        "Los otros discípulos le dijeron: —¡Hemos visto al Señor! Pero él les respondió: —Si no le veo en las manos la marca de los clavos, y no meto mi dedo en esa marca de los clavos y meto mi mano en el costado, no creeré.",
+        "A los ocho días, estaban otra vez dentro sus discípulos y Tomás con ellos. Aunque estaban las puertas cerradas, vino Jesús, se presentó en medio y dijo: —La paz esté con vosotros.",
+        "Después le dijo a Tomás: —Trae aquí tu dedo y mira mis manos, y trae tu mano y métela en mi costado, y no seas incrédulo sino creyente.",
+        "Respondió Tomás y le dijo: —¡Señor mío y Dios mío!",
+        "Jesús contestó: —Porque me has visto has creído; bienaventurados los que sin haber visto hayan creído."
+      ]
+    }
+  }
+}

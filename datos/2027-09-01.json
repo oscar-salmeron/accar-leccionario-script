@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-09-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 1:1-8",
+      "texto": [
+        "Pablo, apóstol de Cristo Jesús por voluntad de Dios, y Timoteo, el hermano,",
+        "a los santos y fieles hermanos en Cristo que están en Colosas: la gracia y la paz de Dios, nuestro Padre, estén con vosotros.",
+        "Damos gracias a Dios, Padre de nuestro Señor Jesucristo, orando siempre por vosotros,",
+        "al llegarnos noticias de vuestra fe en Cristo Jesús y del amor que tenéis a todos los santos,"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 4:38-44",
+      "texto": [
+        "que os llegó y que da fruto y crece entre vosotros como en todo el mundo, desde el día en que oísteis y conocisteis de verdad la gracia de Dios.",
+        "Así lo aprendisteis de Epafras, nuestro amado compañero en el servicio, que hace las veces de nosotros como fiel ministro de Cristo",
+        "y que también nos manifestó vuestro amor en el Espíritu.",
+        "Saliendo Jesús de la sinagoga, entró en casa de Simón. La suegra de Simón tenía una fiebre muy alta, y le rogaron por ella.",
+        "E inclinándose hacia ella, conminó a la fiebre, y la fiebre desapareció. Y al instante, ella se levantó y se puso a servirles.",
+        "Al ponerse el sol, todos los que tenían enfermos con diversas dolencias se los traían. Y él, poniendo las manos sobre cada uno, los curaba.",
+        "De muchos salían demonios gritando y diciendo: —¡Tú eres el Hijo de Dios! Y él, increpándoles, no les dejaba hablar porque sabían que él era el Cristo.",
+        "Cuando se hizo de día, salió hacia un lugar solitario, y la multitud le buscaba. Llegaron hasta él, e intentaban detenerlo para que no se alejara de ellos.",
+        "E iba predicando por las sinagogas de Judea."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 52:10-11",
+      "texto": [
+        "Yo, como verde olivo en la Casa de Dios, espero en la misericordia de Dios, por siempre, sin fin.",
+        "Te daré gracias siempre por lo que has hecho. Espero en tu Nombre, porque eres bueno con tus fieles."
+      ]
+    }
+  }
+}

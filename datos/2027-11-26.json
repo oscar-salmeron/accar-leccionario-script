@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-11-26",
+  "fiesta": "San Leonardo de Puerto Mauricio, OFM, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 7:2-14",
+      "texto": [
+        "Tomó Daniel la palabra y dijo: —Estaba mirando en mi visión nocturna y he aquí que los cuatro vientos del cielo agitaban el Mar Grande.",
+        "Cuatro bestias gigantescas salieron del mar, distintas una de otra.",
+        "La primera era como un león y tenía alas de águila. La estaba mirando, cuando le arrancaron las alas; fue alzada del suelo y se levantó sobre sus pies como un hombre, y le dieron un corazón humano.",
+        "Apareció otra segunda bestia semejante a un oso; estaba erguida de una parte con tres costillas en la boca, entre los dientes. Le dijeron: «Levántate, come carne en abundancia.",
+        "Después de esto yo seguía mirando y apareció otra como un leopardo. Tenía cuatro alas de ave sobre el lomo y la bestia tenía cuatro cabezas. Y le dieron el dominio.",
+        "Después de esto seguí mirando en mi visión nocturna y apareció una cuarta bestia, terrible, espantosa, y extraordinariamente fuerte. Tenía grandes dientes de hierro, comía y descuartizaba, y las sobras las pisoteaba con sus pies. Era distinta de todas las bestias anteriores y tenía diez cuernos.",
+        "Yo miraba atentamente los cuernos, y he aquí que otro cuerno pequeño surgió de entre ellos, y tres de los cuernos anteriores fueron arrancados delante de él. Aparecieron ojos, como ojos humanos, en aquel cuerno, y una boca que profería insolencias.",
+        "Seguí mirando hasta que se levantaron unos tronos y un anciano en días se sentó. Su vestido era blanco como nieve, el cabello de su cabeza como lana pura; su trono, llamas de fuego; sus ruedas, fuego llameante.",
+        "Corría un río de fuego que surgía delante de él. Miles de millares le servían, miríadas y miríadas permanecían ante él. El tribunal se sentó y se abrieron los libros.",
+        "Yo seguía mirando, a la voz de las insolencias que profería el cuerno. Seguía mirando hasta que se le dio muerte a la bestia; su cuerpo fue descuartizado y arrojado a las llamas del fuego.",
+        "Al resto de las bestias les quitaron su dominio, pero se les concedió cierto espacio de vida, hasta un tiempo y una hora.",
+        "Seguí mirando en mi visión nocturna y he aquí que con las nubes del cielo venía como un hijo de hombre. Avanzó hasta el anciano venerable y fue llevado ante él.",
+        "A él se le dio dominio, honor y reino. Y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará; y su reino no será destruido."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Daniel 3:75-81",
+      "texto": [
+        "Bendecid, montes y cumbres, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendiga cuanto germina en la tierra al Señor, que lo alabe y ensalce por los siglos.",
+        "Bendecid, manantiales, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, mares y ríos, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, cetáceos y peces, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, aves del cielo, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, fieras y ganados, al Señor, alabadlo y ensalzadlo por los siglos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:29-33",
+      "texto": [
+        "Y les dijo una parábola: —Observad la higuera y todos los árboles:",
+        "cuando ya echan brotes, al verlos, sabéis por ellos que ya está cerca el verano.",
+        "Así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca el Reino de Dios.",
+        "En verdad os digo que no pasará esta generación sin que todo se cumpla.",
+        "El cielo y la tierra pasarán, pero mis palabras no pasarán."
+      ]
+    }
+  }
+}

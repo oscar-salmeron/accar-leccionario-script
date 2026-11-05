@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-02-04",
+  "fiesta": "San José de Leonessa, Capuchino, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 12:18-19, 24",
+      "texto": [
+        "Vosotros no os habéis acercado a un fuego tangible y ardiente, a oscuridad, a tinieblas, a tempestad,",
+        "a son de trompetas, y a ese clamor de palabras que cuantos lo oyeron suplicaron que no se les hablara más.",
+        "El espectáculo era tan sobrecogedor, que Moisés llegó a exclamar: Estoy aterrorizado y temblando.",
+        "En cambio, vosotros os habéis acercado al Monte Sión, a la ciudad del Dios vivo, la Jerusalén celestial, y a miríadas de ángeles, a la asamblea gozosa",
+        "y a la Iglesia de los primogénitos inscritos en los cielos, al Dios Juez de todos, a los espíritus de los justos que han alcanzado la perfección,",
+        "a Jesús mediador de la nueva alianza y a la sangre derramada, que habla mejor que la de Abel."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 48:2-4, 11",
+      "texto": [
+        "El Señor es grande y digno de toda alabanza en la ciudad de nuestro Dios, su monte santo.",
+        "La más bella cima, gozo de toda la tierra, monte Sión, arcano del Norte, ciudad del gran Rey.",
+        "Dios, en sus palacios, se muestra como defensa segura.",
+        "Como lo habíamos oído, así lo hemos visto en la ciudad del Señor de los ejércitos, en la ciudad de nuestro Dios. ¡Dios la ha fundado para siempre!",
+        "Meditamos, oh Dios, en tu misericordia en medio de tu Templo.",
+        "Como tu Nombre, oh Dios, así suena tu alabanza hasta los confines de la tierra. Tu diestra rebosa de justicia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:7-13",
+      "texto": [
+        "Y llamó a los doce y comenzó a enviarlos de dos en dos, dándoles potestad sobre los espíritus impuros.",
+        "Y les mandó que no llevasen nada para el camino, ni pan, ni alforja, ni dinero en la bolsa, sino solamente un bastón;",
+        "y que fueran calzados con sandalias y que no llevaran dos túnicas.",
+        "Y les decía: —Si entráis en una casa, quedaos allí hasta que salgáis de aquel lugar.",
+        "Y si en algún sitio no os acogen ni os escuchan, al salir de allí sacudíos el polvo de los pies en testimonio contra ellos.",
+        "Se marcharon y predicaron que se convirtieran.",
+        "Y expulsaban muchos demonios, y ungían con aceite a muchos enfermos y los curaban."
+      ]
+    }
+  }
+}

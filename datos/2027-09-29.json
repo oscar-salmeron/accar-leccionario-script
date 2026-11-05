@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-09-29",
+  "fiesta": "San Miguel, San Gabriel, y San Rafael, Arcángeles (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 7:9-10, 14",
+      "texto": [
+        "Seguí mirando hasta que se levantaron unos tronos y un anciano en días se sentó. Su vestido era blanco como nieve, el cabello de su cabeza como lana pura; su trono, llamas de fuego; sus ruedas, fuego llameante.",
+        "Corría un río de fuego que surgía delante de él. Miles de millares le servían, miríadas y miríadas permanecían ante él. El tribunal se sentó y se abrieron los libros.",
+        "Seguí mirando en mi visión nocturna y he aquí que con las nubes del cielo venía como un hijo de hombre. Avanzó hasta el anciano venerable y fue llevado ante él.",
+        "A él se le dio dominio, honor y reino. Y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará; y su reino no será destruido."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 138:1-5",
+      "texto": [
+        "De David. Te doy gracias, Señor, de todo corazón, porque has escuchado las palabras de mi boca. Delante de los ángeles entonaré salmos para Ti.",
+        "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre por tu misericordia y tu fidelidad, porque has engrandecido tu promesa por encima de todo nombre.",
+        "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma.",
+        "Te alabarán, Señor, todos los reyes de la tierra, cuando oigan las palabras de tu boca.",
+        "Y cantarán los caminos del Señor, porque grande es la gloria del Señor;"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:47-51",
+      "texto": [
+        "Vio Jesús a Natanael acercarse y dijo de él: —Aquí tenéis a un verdadero israelita en quien no hay doblez.",
+        "Le contestó Natanael: —¿De qué me conoces? Respondió Jesús y le dijo: —Antes de que Felipe te llamara, cuando estabas debajo de la higuera, te vi.",
+        "Respondió Natanael: —Rabbí, tú eres el Hijo de Dios, tú eres el Rey de Israel.",
+        "Contestó Jesús: —¿Porque te he dicho que te vi debajo de la higuera crees? Cosas mayores verás.",
+        "Y añadió: —En verdad, en verdad os digo que veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del Hombre."
+      ]
+    }
+  }
+}

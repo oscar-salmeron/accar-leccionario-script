@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-12-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 48:17-19",
+      "texto": [
+        "Esto dice el Señor, tu Redentor, el Santo de Israel: «Yo soy el Señor, tu Dios, que te enseña para tu bien, que te guía por el camino que has de seguir.",
+        "¡Si hubieras hecho caso de mis mandamientos! Sería tu paz como un río, y tu justicia como las olas del mar;",
+        "tu descendencia sería como la arena, y los vástagos de tus entrañas, como sus granos; su nombre no perecería, ni se borraría de mi presencia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 1:1-4, 6",
+      "texto": [
+        "Dichoso el hombre que no sigue el consejo de impíos, ni se detiene en el camino de pecadores, ni toma asiento con farsantes,",
+        "sino que se complace en la Ley del Señor, y noche y día medita en su Ley.",
+        "Será como un árbol plantado al borde de la acequia, que da fruto a su tiempo, y no se marchitan sus hojas: cuanto hace prospera.",
+        "No así los impíos, no así. Son como polvo que dispersa el viento.",
+        "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 11:16-19",
+      "texto": [
+        "¿Con quién voy a comparar esta generación? Se parece a unos niños que se sientan en las plazas y les reprochan a sus compañeros:",
+        "«Hemos tocado para vosotros la flauta y no habéis bailado; hemos cantado lamentaciones y no habéis hecho duelo.",
+        "Porque ha venido Juan, que no come ni bebe, y dicen: «Tiene un demonio.",
+        "Ha venido el Hijo del Hombre, que come y bebe, y dicen: «Mirad un hombre comilón y bebedor, amigo de publicanos y pecadores. Pero la sabiduría queda acreditada por sus propias obras."
+      ]
+    }
+  }
+}

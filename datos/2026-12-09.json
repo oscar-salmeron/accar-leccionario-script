@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-12-09",
+  "fiesta": "San Juan Diego Cuauhtlatoatzin, Ermitaño (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 40:25-31",
+      "texto": [
+        "«¿A quién me asemejaréis y me igualaréis? —dice el Santo—.",
+        "Alzad los ojos a lo alto y mirad: ¿quién creó esas cosas? El que hace salir por orden sus ejércitos, y a cada uno llama por su nombre; tan grande es su poder y tanta su fuerza, que ninguno falta.",
+        "¿Por qué dices tú, Jacob, y hablas tú, Israel: «Mi camino está oculto al Señor, a mi Dios no le importa mi derecho?",
+        "¿Es que no lo sabes? ¿O no lo has oído? El Señor es el Dios eterno, el creador de los confines de la tierra, que no se cansa ni se fatiga; su discernimiento es insondable.",
+        "Él da fuerzas al cansado, y robustece al que no tiene vigor.",
+        "Se cansan los muchachos y se fatigan, los jóvenes desfallecen y caen,",
+        "pero los que esperan en el Señor renuevan su fuerza, echan alas como las águilas, corren y no se fatigan, caminan y no se cansan."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:1-4, 8, 10",
+      "texto": [
+        "De David. Bendice, alma mía, al Señor, y todo mi ser a su Nombre santo.",
+        "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios.",
+        "Él es quien perdona tus culpas, quien sana tus enfermedades.",
+        "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión.",
+        "El Señor es compasivo y misericordioso, lento a la ira y rico en misericordia.",
+        "No nos trata según nuestros pecados, ni nos paga según nuestras culpas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 11:28-30",
+      "texto": [
+        "Venid a mí todos los fatigados y agobiados, y yo os aliviaré.",
+        "Llevad mi yugo sobre vosotros y aprended de mí que soy manso y humilde de corazón, y encontraréis descanso para vuestras almas:",
+        "porque mi yugo es suave y mi carga es ligera."
+      ]
+    }
+  }
+}

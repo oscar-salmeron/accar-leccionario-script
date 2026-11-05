@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-05",
+  "fiesta": "San Juan Neumann, Obispo (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 4:7-10",
+      "texto": [
+        "Queridísimos: amémonos unos a otros, porque el amor procede de Dios, y todo el que ama ha nacido de Dios, y conoce a Dios.",
+        "El que no ama no ha llegado a conocer a Dios, porque Dios es amor.",
+        "En esto se manifestó entre nosotros el amor de Dios: en que Dios envió a su Hijo Unigénito al mundo para que recibiéramos por él la vida.",
+        "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó y envió a su Hijo como víctima propiciatoria por nuestros pecados."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:1-4, 8",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Traigan los montes paz al pueblo y las colinas la justicia.",
+        "Haga justicia a los pobres del pueblo, salve a los hijos de los desvalidos y aplaste al opresor.",
+        "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna.",
+        "Domine de mar a mar, desde el Río hasta los confines de la tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:34-44",
+      "texto": [
+        "Al desembarcar vio una gran multitud y se llenó de compasión por ella, porque estaban como ovejas que no tienen pastor, y se puso a enseñarles muchas cosas.",
+        "Y cuando ya se hizo muy tarde, se acercaron sus discípulos y le dijeron: —Éste es un lugar apartado y ya es muy tarde;",
+        "despídelos para que vayan a las aldeas y pueblos de alrededor, y compren algo de comer.",
+        "Y les respondió: —Dadles vosotros de comer. Y le dicen: —¿Es que vamos a ir a comprar doscientos denarios de pan para darles de comer?",
+        "Él les dijo: —¿Cuántos panes tenéis? Id a verlo. Y después de averiguarlo dijeron: —Cinco, y dos peces.",
+        "Entonces les mandó que acomodaran a todos por grupos sobre la hierba verde.",
+        "Y se sentaron en grupos de cien y de cincuenta.",
+        "Tomando los cinco panes y los dos peces, levantó los ojos al cielo, pronunció la bendición, partió los panes y se puso a dárselos a sus discípulos para que los distribuyesen; también repartió los dos peces para todos.",
+        "Comieron todos hasta que quedaron satisfechos.",
+        "Y recogieron doce cestos llenos de los trozos de pan y de los peces.",
+        "Los que comieron los panes eran cinco mil hombres."
+      ]
+    }
+  }
+}

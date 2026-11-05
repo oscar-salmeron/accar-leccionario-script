@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-11-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Macabeos 4:36-37, 59",
+      "texto": [
+        "Judas y sus hermanos dijeron: —Mirad, nuestros enemigos han sido aplastados. Subamos a purificar y a dedicar el Santuario.",
+        "Después de reunir todo el ejército, subieron al monte Sión.",
+        "Al amanecer del día veinticinco del mes noveno, es decir, el mes de Kisleu del año ciento cuarenta y ocho, se levantaron",
+        "y ofrecieron, según la Ley, un sacrificio sobre el altar de los holocaustos que habían fabricado.",
+        "En el mismo momento y en el mismo día en que lo habían profanado los gentiles, fue dedicado de nuevo entre cánticos y sones de cítaras, arpas y címbalos.",
+        "Todo el pueblo se postró adorando y bendiciendo al cielo que les había sido propicio.",
+        "Durante ocho días celebraron la dedicación del altar, presentaron holocaustos con alegría y ofrecieron un sacrificio de comunión y de alabanza.",
+        "Adornaron la fachada del Templo con coronas de oro y con pequeños escudos; restauraron los portones y las dependencias, y les pusieron puertas.",
+        "La alegría del pueblo fue muy grande y el oprobio de los gentiles llegó a su fin.",
+        "Judas, sus hermanos y toda la asamblea de Israel decidieron que cada año, en ese mismo tiempo, durante ocho días a partir del veinticinco del mes de Kisleu, se celebraran los días de la dedicación del altar con alegría y alborozo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Crónicas 29:10-12",
+      "texto": [
+        "Después David bendijo al Señor en presencia de toda la asamblea diciendo: —¡Bendito seas, Señor, Dios de Israel, nuestro padre, desde siempre y para siempre!",
+        "Tuya es, Señor, la grandeza y el poder, la gloria, el esplendor y la majestad; pues tuyo es cuanto hay en el cielo y en la tierra. Tuyo es el reino, Señor. Tú te elevas por encima de todo.",
+        "De ti proceden la riqueza y la gloria. Tú gobiernas todo; en tu mano están la fuerza y el poder, el crecimiento y la firmeza."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 19:45-48",
+      "texto": [
+        "Entró en el Templo y comenzó a expulsar a los que vendían,",
+        "diciéndoles: —Está escrito: Mi casa será casa de oración, pero vosotros la habéis convertido en una cueva de ladrones.",
+        "Y enseñaba todos los días en el Templo. Pero los príncipes de los sacerdotes y los escribas buscaban acabar con él, lo mismo que los jefes del pueblo,",
+        "pero no encontraban cómo hacerlo, pues todo el pueblo estaba pendiente escuchándole."
+      ]
+    }
+  }
+}

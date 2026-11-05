@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-10-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 3:21-30",
+      "texto": [
+        "Ahora, en cambio, la justicia de Dios, atestiguada por la Ley y los Profetas, se ha manifestado con independencia de la Ley:",
+        "justicia de Dios por medio de la fe en Jesucristo, para todos los que creen. Porque no hay distinción,",
+        "ya que todos han pecado y están privados de la gloria de Dios",
+        "y son justificados gratuitamente por su gracia, mediante la redención que está en Cristo Jesús.",
+        "A él lo ha puesto Dios como propiciatorio en su sangre —mediante la fe— para mostrar su justicia tolerando los pecados precedentes,",
+        "en el tiempo de la paciencia de Dios, con el fin de mostrar su justicia en el tiempo presente, y así ser Él justo y justificar al que vive de la fe en Jesús.",
+        "Entonces, ¿en qué se fundamenta la jactancia? Ha quedado excluida. ¿Y por qué ley?, ¿la de las obras? No: por la ley de la fe.",
+        "Afirmamos, por tanto, que el hombre es justificado por la fe con independencia de las obras de la Ley.",
+        "¿Acaso Dios lo es sólo de los judíos? ¿No lo es también de los gentiles? Sí, también de los gentiles.",
+        "Porque un solo Dios es el mismo que justificará la circuncisión a partir de la fe y la falta de circuncisión mediante la fe."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 130:1-6",
+      "texto": [
+        "Canto de las subidas. Desde lo más profundo, Te invoco, Señor.",
+        "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica.",
+        "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?",
+        "Pero en Ti está el perdón, y así mantenemos tu temor.",
+        "Espero en Ti, Señor. Mi alma espera en su palabra;",
+        "mi alma espera en el Señor más que los centinelas la aurora."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:47-54",
+      "texto": [
+        "¡Ay de vosotros, que edificáis los sepulcros de los profetas, después que vuestros padres los mataron!",
+        "Así pues, sois testigos de las obras de vuestros padres y consentís en ellas, porque ellos los mataron, y vosotros edificáis sus sepulcros.",
+        "Por eso dijo la sabiduría de Dios: «Les enviaré profetas y apóstoles, y a algunos los matarán y perseguirán,",
+        "para que se pida cuentas a esta generación de la sangre de todos los profetas derramada desde la creación del mundo,",
+        "desde la sangre de Abel hasta la sangre de Zacarías, asesinado entre el altar y el Templo. Sí, os lo aseguro: se le pedirán cuentas a esta generación.",
+        "¡Ay de vosotros, doctores de la Ley, porque os habéis apoderado de la llave de la sabiduría! Vosotros no habéis entrado y a los que querían entrar se lo habéis impedido.",
+        "Cuando salió de allí, los escribas y fariseos comenzaron a atacarle con furia y a acosarle a preguntas sobre muchas cosas,",
+        "acechándole para cazarle en alguna palabra."
+      ]
+    }
+  }
+}

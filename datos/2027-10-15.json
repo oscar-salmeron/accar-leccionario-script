@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-10-15",
+  "fiesta": "Santa Teresa de Jesús, Virgen, Doctora de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 4:1-8",
+      "texto": [
+        "¿Qué diremos entonces que consiguió Abrahán, nuestro padre según la carne?",
+        "Porque si Abrahán fue justificado por las obras, tiene de qué gloriarse, pero no ante Dios.",
+        "Porque, ¿qué dice la Escritura? Creyó Abrahán a Dios, y se le contó como justicia.",
+        "Ahora bien, al que trabaja, el salario no se le cuenta como regalo sino como algo que se le debe;",
+        "en cambio, a quien no trabaja, pero cree en Aquel que justifica al impío, se le cuenta su fe como justicia.",
+        "En este sentido, David habla de la bienaventuranza del hombre a quien Dios atribuye la justicia con independencia de las obras:",
+        "Bienaventurados aquellos a quienes se les han perdonado los delitos y a quienes se les han cubierto los pecados;",
+        "bienaventurado el hombre a quien el Señor no le tenga en cuenta su pecado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 32:1-2, 5, 11",
+      "texto": [
+        "De David. Masquil. Dichoso el que es perdonado de la culpa, y le ha sido cubierto su pecado.",
+        "Dichoso el hombre a quien el Señor no le imputa delito y en cuyo espíritu no hay dolo.",
+        "Te declaré mi pecado, no te oculté mi delito. Dije: «Confesaré mis culpas al Señor. Y Tú perdonaste mi culpa y mi pecado.",
+        "Alegraos, justos, y regocijaos en el Señor, exultad todos los rectos de corazón."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:1-7",
+      "texto": [
+        "En esto, habiéndose reunido una muchedumbre de miles de personas, hasta atropellarse unos a otros, comenzó a decir sobre todo a sus discípulos: —Guardaos de la levadura de los fariseos, que es la hipocresía.",
+        "Nada hay oculto que no sea descubierto, ni secreto que no llegue a saberse.",
+        "Porque cuanto hayáis dicho en la oscuridad será escuchado a la luz; cuanto hayáis hablado al oído bajo techo será pregonado sobre los terrados.",
+        "A vosotros, amigos míos, os digo: no tengáis miedo a los que matan el cuerpo y después de esto no pueden hacer nada más.",
+        "Os enseñaré a quién tenéis que temer: temed al que después de dar muerte tiene potestad para arrojar en el infierno. Sí, os digo: temed a éste.",
+        "¿No se venden cinco pajarillos por dos ases? Pues bien, ni uno solo de ellos queda olvidado ante Dios.",
+        "Aún más, hasta los cabellos de vuestra cabeza están todos contados. No tengáis miedo: valéis más que muchos pajarillos."
+      ]
+    }
+  }
+}

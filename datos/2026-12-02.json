@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 25:6-10",
+      "texto": [
+        "El Señor de los ejércitos ofrecerá a todos los pueblos, en este monte, un banquete de sabrosos manjares, un banquete de vinos añejos, manjares suculentos, y vinos exquisitos.",
+        "Y eliminará en este monte el velo que cubre el rostro de todos los pueblos, y el manto que recubre todas las naciones.",
+        "Eliminará para siempre la muerte. El Señor Dios enjugará las lágrimas de todos los rostros, y apartará el oprobio de su pueblo en toda la tierra, porque ha hablado el Señor.",
+        "Aquel día se dirá: «Aquí está nuestro Dios. En Él esperábamos para que nos salvara; es el Señor, en quien esperábamos: exultemos y gocémonos de su salvación.",
+        "Porque la mano del Señor descansará en este monte. Pero Moab será pisado allá donde está, como se pisa la paja en el estercolero."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo; tu vara y tu cayado me sosiegan.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 15:29-37",
+      "texto": [
+        "Y cuando Jesús se marchó de aquel lugar, vino junto al mar de Galilea, subió al monte y se sentó allí.",
+        "Acudió a él mucha gente que traía consigo cojos, ciegos, lisiados, mudos y otros muchos enfermos, y los pusieron a sus pies, y él los curó;",
+        "de tal modo que se maravillaba la multitud viendo hablar a los mudos y restablecerse a los lisiados, andar a los cojos y ver a los ciegos. Y glorificaban al Dios de Israel.",
+        "Jesús llamó a sus discípulos y dijo: —Me da mucha pena la muchedumbre, porque ya llevan tres días conmigo y no tienen qué comer, y no quiero despedirlos en ayunas, no vaya a ser que desfallezcan en el camino.",
+        "Pero le decían los discípulos: —¿De dónde vamos a sacar en un desierto panes suficientes para alimentar a tan gran muchedumbre?",
+        "Jesús les dijo: —¿Cuántos panes tenéis? —Siete y unos pocos pececillos —respondieron ellos.",
+        "Entonces ordenó a la multitud que se acomodase en el suelo.",
+        "Tomó los siete panes y los peces y, después de dar gracias, los partió y los fue dando a los discípulos, y los discípulos a la multitud.",
+        "Y comieron todos y quedaron satisfechos. Con los trozos sobrantes recogieron siete espuertas llenas."
+      ]
+    }
+  }
+}

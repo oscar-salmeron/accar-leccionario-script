@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-11-27",
+  "fiesta": "San Francisco Antonio Fasani, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 7:15-27",
+      "texto": [
+        "A mí, Daniel, se me turbó mi espíritu a causa de esto, y las visiones de mi cabeza me asustaron.",
+        "Me acerqué a uno de los que estaban en pie y le pedí la verdad sobre todo aquello. Él me habló y me hizo conocer la interpretación de aquellas cosas:",
+        "—Esas bestias gigantescas, que son cuatro, son cuatro reyes que surgirán de la tierra.",
+        "Pero recibirán el reino los santos del Altísimo y poseerán el reino por siempre, por los siglos de los siglos.",
+        "Entonces quise saber la verdad sobre la cuarta bestia —que era distinta de todas las demás, extraordinariamente terrible, con dientes de hierro y garras de bronce, que devoraba y trituraba, y pisoteaba las sobras con sus pies—,",
+        "y sobre los diez cuernos que había en su cabeza y el otro que surgía y ante el que caían tres —el cuerno aquel con ojos y una boca que profería insolencias y cuyo aspecto era mayor que el de sus compañeros—.",
+        "Yo seguía mirando, y aquel cuerno hizo la guerra a los santos y los venció.",
+        "Hasta que llegó el anciano en días e hizo justicia a los santos del Altísimo, se cumplió el tiempo y los santos tomaron posesión del reino.",
+        "Respondió así: —La cuarta bestia es un cuarto reino que habrá en la tierra, y que será distinto de todos los reinos: devorará toda la tierra, la aplastará y la triturará.",
+        "Los diez cuernos son diez reyes que surgirán de su reino, y otro surgirá después de ellos. Ése será distinto de los anteriores y destronará a tres reyes:",
+        "pronunciará palabras contra el Altísimo, someterá a prueba a los santos del Altísimo y pretenderá cambiar los tiempos y la Ley. Serán entregados en su mano durante un tiempo, dos tiempos y medio tiempo.",
+        "Pero se sentará el tribunal y le quitará su dominio, destruyéndolo y aniquilándolo definitivamente.",
+        "El reinado, el dominio y la grandeza de los reinos que hay bajo todo el cielo serán entregados al pueblo de los santos del Altísimo. Su reino será un reino eterno, al que todos los soberanos temerán y se someterán."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Daniel 3:82-87",
+      "texto": [
+        "Bendecid, hijos de los hombres, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendiga Israel al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, sacerdotes del Señor, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, siervos del Señor, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, almas y espíritus justos, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, santos y humildes de corazón, al Señor, alabadlo y ensalzadlo por los siglos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:34-36",
+      "texto": [
+        "Vigilaos a vosotros mismos, para que vuestros corazones no estén ofuscados por la crápula, la embriaguez y los afanes de esta vida, y aquel día no sobrevenga de improviso sobre vosotros,",
+        "porque caerá como un lazo sobre todos aquellos que habitan en la faz de toda la tierra.",
+        "Vigilad orando en todo tiempo, a fin de que podáis evitar todos estos males que van a suceder, y estar en pie delante del Hijo del Hombre."
+      ]
+    }
+  }
+}

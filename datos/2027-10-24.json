@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-10-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jeremías 31:7-9",
+      "texto": [
+        "Porque esto dice el Señor: «Lanzad gritos de alegría por Jacob, cantad himnos de gozo a la capital de las naciones. Anunciad, alabad y pregonad: “¡El Señor salva a su pueblo, al resto de Israel!”.",
+        "Mirad que los traigo de la tierra del norte, de los confines de la tierra los reúno. Con ellos vienen ciegos y cojos, embarazadas y paridas juntas, una enorme comunidad vuelve acá.",
+        "Vendrán con llantos, los guiaré entre súplicas, los conduciré a corrientes de agua, por camino llano, sin tropiezo, porque Yo soy padre para Israel, y Efraím es mi primogénito."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 126:1-6",
+      "texto": [
+        "Canto de las subidas. Cuando el Señor hizo volver a los cautivos de Sión, nos parecía soñar.",
+        "Se nos llenaba de risas la boca, la lengua, de cantares de alegría. Entonces se decía entre las naciones: «El Señor ha hecho con ellos cosas grandes.",
+        "El Señor ha hecho con nosotros cosas grandes: estamos llenos de alegría.",
+        "Haz volver, Señor, a nuestros cautivos como los torrentes del Négueb.",
+        "Los que siembran con lágrimas cosechan entre cantares de alegría.",
+        "Al marchar iban llorando, llevando las semillas. Al volver vienen cantando, trayendo sus gavillas."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 5:1-6",
+      "texto": [
+        "Porque todo sumo sacerdote, escogido entre los hombres, está constituido en favor de los hombres en lo que se refiere a Dios, para ofrecer dones y sacrificios por los pecados;",
+        "y puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad,",
+        "y a causa de ella debe ofrecer expiación por los pecados, tanto por los del pueblo como por los suyos.",
+        "Y nadie se atribuye este honor, sino el que es llamado por Dios, como Aarón.",
+        "De igual modo, Cristo no se apropió la gloria de ser Sumo Sacerdote, sino que se la otorgó el que le dijo: Tú eres mi hijo, yo te he engendrado hoy.",
+        "Asimismo, en otro lugar, dice también: Tú eres sacerdote para siempre, según el orden de Melquisedec."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:46-52",
+      "texto": [
+        "Llegan a Jericó. Y cuando salía él de Jericó con sus discípulos y una gran multitud, el hijo de Timeo, Bartimeo, un mendigo ciego, estaba sentado al lado del camino.",
+        "Y al oír que era Jesús Nazareno, comenzó a decir a gritos: —¡Jesús, Hijo de David, ten piedad de mí!",
+        "Y muchos le reprendían para que se callara. Pero él gritaba mucho más: —¡Hijo de David, ten piedad de mí!",
+        "Se paró Jesús y dijo: —Llamadle. Llamaron al ciego diciéndole: —¡Ánimo!, levántate, te llama.",
+        "Él, arrojando su manto, dio un salto y se acercó a Jesús.",
+        "Jesús le preguntó: —¿Qué quieres que te haga? —Rabboni, que vea —le respondió el ciego.",
+        "Entonces Jesús le dijo: —Anda, tu fe te ha salvado. Y al instante recobró la vista. Y le seguía por el camino."
+      ]
+    }
+  }
+}

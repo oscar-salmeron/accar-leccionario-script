@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-10-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Joel 1:13-15; 2:1-2",
+      "texto": [
+        "Ceñíos de sayal y haced duelo, sacerdotes; lamentaos, ministros del altar; entrad, pasad la noche vestidos de saco, ministros de mi Dios, que desapareció del Templo de vuestro Dios ofrenda y libación.",
+        "Promulgad el santo ayuno, convocad a asamblea, reunid a los ancianos, a todos los habitantes del país, en el Templo del Señor, vuestro Dios, y clamad al Señor:",
+        "«¡Ay de aquel día! Porque el día del Señor está cerca, y va a venir como azote del Omnipotente.",
+        "¡Tocad la trompeta en Sión! Dad gritos en mi monte santo, tiemblen cuantos habitan el país; porque está al llegar el día del Señor, ya está cerca.",
+        "Día de tinieblas y oscuridad, día de nubes y niebla. Como la aurora sobre los montes, así se despliega un pueblo numeroso y fuerte como no lo ha habido nunca, ni lo habrá después de él por generaciones y generaciones."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 9:2-3, 6, 16, 9",
+      "texto": [
+        "(Alef) Te alabo, ¡Señor!, con todo mi corazón; contaré todas tus maravillas.",
+        "Me alegro, me regocijo en Ti, y canto salmos a tu Nombre, ¡oh Altísimo!",
+        "(Guímel) Has reprobado a los gentiles, has hecho perecer a los impíos, has borrado su nombre para siempre.",
+        "(He) El Señor está sentado eternamente, tiene preparado su trono para el juicio;",
+        "Él rige el orbe con justicia, y juzga a los pueblos con rectitud.",
+        "(Tet) Las naciones se hunden en la fosa que cavaron, su pie queda preso en el cepo que escondieron."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:15-26",
+      "texto": [
+        "pero algunos de ellos dijeron: —Expulsa los demonios por Beelzebul, el príncipe de los demonios.",
+        "Y otros, para tentarle, le pedían una señal del cielo.",
+        "Pero él, que conocía sus pensamientos, les replicó: —Todo reino dividido contra sí mismo queda desolado y cae casa contra casa.",
+        "Si también Satanás está dividido contra sí mismo, ¿cómo se sostendrá su reino? Puesto que decís que expulso los demonios por Beelzebul.",
+        "Si yo expulso los demonios por Beelzebul, vuestros hijos ¿por quién los expulsan? Por eso, ellos mismos serán vuestros jueces.",
+        "Pero si yo expulso los demonios por el dedo de Dios, es que el Reino de Dios ha llegado a vosotros.",
+        "Cuando uno que es fuerte y está bien armado custodia su palacio, sus bienes están seguros;",
+        "pero si llega otro más fuerte y le vence, le quita las armas en las que confiaba y reparte su botín.",
+        "El que no está conmigo está contra mí, y el que no recoge conmigo, desparrama.",
+        "Cuando el espíritu impuro ha salido de un hombre, vaga por lugares áridos en busca de descanso, pero al no encontrarlo dice: «Me volveré a mi casa, de donde salí.",
+        "Y al llegar la encuentra bien barrida y en orden.",
+        "Entonces va, toma otros siete espíritus peores que él, y entrando se instalan allí, con lo que la situación última de aquel hombre resulta peor que la primera."
+      ]
+    }
+  }
+}

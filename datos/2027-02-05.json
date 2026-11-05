@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-02-05",
+  "fiesta": "Santa Ágata, Virgen, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 13:1-8",
+      "texto": [
+        "Mantened el amor fraterno.",
+        "No olvidéis la hospitalidad, gracias a la cual algunos, sin saberlo, hospedaron a ángeles.",
+        "Acordaos de los encarcelados, como si estuvierais en prisión con ellos, y de los que sufren, pues también vosotros vivís en un cuerpo.",
+        "Que todos honren el matrimonio y guarden inmaculado el lecho conyugal, porque Dios juzgará a fornicarios y adúlteros.",
+        "Que vuestra conducta esté libre de avaricia; contentaos con lo que tengáis, porque Él ha dicho: No te dejaré ni abandonaré,",
+        "de modo que podamos decir confiadamente: El Señor es mi auxilio y no temeré; ¿qué podrá hacerme el hombre?",
+        "Acordaos de vuestros pastores, que os proclamaron la palabra de Dios, e imitad su fe, considerando el buen final de su conducta.",
+        "Jesucristo es el mismo ayer y hoy, y por los siglos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 3, 5, 9",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Aunque acampe contra mí un ejército, mi corazón no teme. Aunque se levante contra mí la guerra, me siento seguro.",
+        "Él me ocultará en su tienda en los días aciagos; me esconderá en lo secreto de su morada, me subirá a lo alto de una roca.",
+        "De ti piensa mi corazón: «Busca su rostro. Tu rostro, Señor, buscaré.",
+        "No me escondas tu rostro. No rechaces con ira a tu siervo. Tú eres mi auxilio: no me rechaces, no me abandones, Dios de mi salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:14-29",
+      "texto": [
+        "Llegó esto a oídos del rey Herodes, pues su nombre se había hecho famoso, y decía: —Juan el Bautista ha resucitado de entre los muertos, y por eso actúan en él unos poderes.",
+        "Otros decían: —Es Elías. Otros, en fin, decían: —Es un profeta, igual que los demás profetas.",
+        "Pero cuando lo oyó Herodes decía: —Éste es Juan, a quien yo decapité, que ha resucitado.",
+        "En efecto, el propio Herodes había mandado apresar a Juan y le había encadenado en la cárcel a causa de Herodías, la mujer de su hermano Filipo; porque se había casado con ella",
+        "y Juan le decía a Herodes: «No te es lícito tener a la mujer de tu hermano.",
+        "Herodías le odiaba y quería matarlo, pero no podía:",
+        "porque Herodes tenía miedo de Juan, ya que se daba cuenta de que era un hombre justo y santo. Y le protegía y al oírlo le entraban muchas dudas; y le escuchaba con gusto.",
+        "Cuando llegó un día propicio, en el que Herodes por su cumpleaños dio un banquete a sus magnates, a los tribunos y a los principales de Galilea,",
+        "entró la hija de la propia Herodías, bailó y gustó a Herodes y a los que con él estaban a la mesa. Le dijo el rey a la muchacha: —Pídeme lo que quieras y te lo daré.",
+        "Y le juró varias veces: —Cualquier cosa que me pidas te daré, aunque sea la mitad de mi reino.",
+        "Y, saliendo, le dijo a su madre: —¿Qué le pido? —La cabeza de Juan el Bautista —contestó ella.",
+        "Y al instante, entrando deprisa donde estaba el rey, le pidió: —Quiero que enseguida me des en una bandeja la cabeza de Juan el Bautista.",
+        "El rey se entristeció, pero por el juramento y por los comensales no quiso contrariarla.",
+        "Y enseguida el rey envió a un verdugo con la orden de traer su cabeza. Éste se marchó, lo decapitó en la cárcel",
+        "y trajo su cabeza en una bandeja, y se la dio a la muchacha y la muchacha la entregó a su madre.",
+        "Cuando se enteraron sus discípulos, vinieron, tomaron su cuerpo muerto y lo pusieron en un sepulcro."
+      ]
+    }
+  }
+}

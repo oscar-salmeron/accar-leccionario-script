@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-09-27",
+  "fiesta": "San Vicente de Paúl, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Zacarías 8:1-8",
+      "texto": [
+        "Fue dirigida esta palabra del Señor de los ejércitos:",
+        "—Esto dice el Señor de los ejércitos: «Siento celos por Sión, celo terrible, pasión tremenda siento por ella.",
+        "Esto dice el Señor: «Volveré a Sión, habitaré en medio de Jerusalén. Jerusalén será llamada Ciudad Fiel, y el monte del Señor de los ejércitos, Monte Santo.",
+        "Esto dice el Señor de los ejércitos: «Otra vez se sentarán ancianos y ancianas en las plazas de Jerusalén, cada cual bastón en mano por los muchos años que tendrán;",
+        "y las plazas de la ciudad se llenarán de niños y niñas jugando en ellas.",
+        "Esto dice el Señor de los ejércitos: «Si en aquellos días parece fantástico a los ojos de este pueblo, ¿será también fantástico a mis ojos? —oráculo del Señor de los ejércitos—.",
+        "Esto dice el Señor de los ejércitos: «Voy a salvar a mi pueblo de la tierra de levante y de la tierra donde se pone el sol.",
+        "Yo los traeré para que habiten en Jerusalén, para que ellos sean mi pueblo y Yo sea su Dios, en fidelidad y en justicia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 102:16-21, 29, 23",
+      "texto": [
+        "Las gentes temerán tu Nombre, Señor, y todos los reyes de la tierra, tu gloria,",
+        "cuando el Señor reconstruya Sión, y aparezca en su gloria,",
+        "y atienda la plegaria del necesitado y no desdeñe su oración.",
+        "Que se escriban estas cosas para la generación futura, y el pueblo que será creado alabará al Señor.",
+        "Pues el Señor observa desde lo alto de su santuario, mira desde el cielo hacia la tierra,",
+        "para escuchar el lamento de los cautivos, y librar a los condenados a muerte;",
+        "para pregonar en Sión el Nombre del Señor, y su alabanza en Jerusalén,",
+        "cuando se congreguen juntos los pueblos y los reinos a rendir culto al Señor.",
+        "Los hijos de tus siervos tendrán su morada, y su descendencia estará firme en tu presencia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:46-50",
+      "texto": [
+        "Les vino al pensamiento cuál de ellos sería el mayor.",
+        "Pero Jesús, conociendo los pensamientos de sus corazones, acercó a un niño, lo puso a su lado",
+        "y les dijo: —El que reciba a este niño en mi nombre, a mí me recibe; y quien me recibe a mí, recibe al que me ha enviado: pues el menor entre todos vosotros, ése es el mayor.",
+        "Entonces dijo Juan: —Maestro, hemos visto a uno que expulsaba demonios en tu nombre, y se lo hemos prohibido, porque no viene con nosotros.",
+        "Y Jesús le dijo: —No se lo prohibáis, pues el que no está contra vosotros con vosotros está."
+      ]
+    }
+  }
+}

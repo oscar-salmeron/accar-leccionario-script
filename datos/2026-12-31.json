@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-12-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 2:18-21",
+      "texto": [
+        "Hijitos, es la última hora. Habéis oído que tiene que venir el Anticristo: pues bien, ya han aparecido muchos anticristos. Por eso sabemos que es la última hora.",
+        "Salieron de entre nosotros, pero no eran de los nuestros. Porque si hubieran sido de los nuestros, habrían permanecido con nosotros. Pero sucedió así para poner de manifiesto que ninguno de ellos es de los nuestros.",
+        "En cuanto a vosotros, tenéis la unción del Santo; y todos estáis instruidos.",
+        "No os escribo porque ignoréis la verdad, sino porque la conocéis y sabéis que ninguna mentira proviene de la verdad."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:1-2, 13",
+      "texto": [
+        "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera.",
+        "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación.",
+        "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;",
+        "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque",
+        "ante el Señor, que ya viene, que viene a juzgar la tierra: juzgará al mundo con justicia y a los pueblos con rectitud."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:1-18",
+      "texto": [
+        "En el principio existía el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios.",
+        "Él estaba en el principio junto a Dios.",
+        "Todo se hizo por él, y sin él no se hizo nada de cuanto ha sido hecho.",
+        "En él estaba la vida, y la vida era la luz de los hombres.",
+        "Y la luz brilla en las tinieblas, y las tinieblas no la recibieron.",
+        "Hubo un hombre enviado por Dios, que se llamaba Juan.",
+        "Éste vino como testigo, para dar testimonio de la luz, para que por él todos creyeran.",
+        "No era él la luz, sino el que debía dar testimonio de la luz.",
+        "El Verbo era la luz verdadera, que ilumina a todo hombre, que viene a este mundo.",
+        "En el mundo estaba, y el mundo se hizo por él, y el mundo no le conoció.",
+        "Vino a los suyos, y los suyos no le recibieron.",
+        "Pero a cuantos le recibieron les dio la potestad de ser hijos de Dios, a los que creen en su nombre,",
+        "que no han nacido de la sangre, ni de la voluntad de la carne, ni del querer del hombre, sino de Dios.",
+        "Y el Verbo se hizo carne, y habitó entre nosotros, y hemos visto su gloria, gloria como de Unigénito del Padre, lleno de gracia y de verdad.",
+        "Juan da testimonio de él y clama: «Éste era de quien yo dije: “El que viene después de mí ha sido antepuesto a mí, porque existía antes que yo”.",
+        "Pues de su plenitud todos hemos recibido, y gracia por gracia.",
+        "Porque la Ley fue dada por Moisés; la gracia y la verdad vinieron por Jesucristo.",
+        "A Dios nadie lo ha visto jamás; el Unigénito, Dios, el que está en el seno del Padre, él mismo lo dio a conocer."
+      ]
+    }
+  }
+}

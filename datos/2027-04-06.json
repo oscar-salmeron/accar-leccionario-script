@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-04-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 4:32-37",
+      "texto": [
+        "La multitud de los creyentes tenía un solo corazón y una sola alma, y nadie consideraba como suyo lo que poseía, sino que compartían todas las cosas.",
+        "Con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús; y en todos ellos había abundancia de gracia.",
+        "No había entre ellos ningún necesitado, porque los que eran dueños de campos o casas los vendían, llevaban el precio de la venta",
+        "y lo ponían a los pies de los apóstoles; luego se repartía a cada uno según sus necesidades.",
+        "Así, José, a quien los apóstoles dieron el sobrenombre de Bernabé —que significa «Hijo de la consolación—, levita y chipriota de nacimiento,",
+        "tenía un campo, lo vendió, trajo el dinero y lo puso a los pies de los apóstoles."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 93:1-2, 5",
+      "texto": [
+        "El Señor reina. Vestido está de majestad. El Señor está vestido, ceñido de poder. Por eso el orbe se mantiene firme; no vacilará.",
+        "Tu trono está firme desde antiguo. Tú eres desde siempre.",
+        "Tus preceptos son firmes. Tu Casa, Señor, exige la santidad, por días sin término."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 3:7-15",
+      "texto": [
+        "No te sorprendas de que te haya dicho que debéis nacer de nuevo.",
+        "El viento sopla donde quiere y oyes su voz pero no sabes de dónde viene ni adónde va. Así es todo el que ha nacido del Espíritu.",
+        "Respondió Nicodemo y le dijo: —¿Y eso cómo puede ser?",
+        "Contestó Jesús: —¿Tú eres maestro en Israel y lo ignoras?",
+        "En verdad, en verdad te digo que hablamos de lo que sabemos, y damos testimonio de lo que hemos visto, pero no recibís nuestro testimonio.",
+        "Si os he hablado de cosas terrenas y no creéis, ¿cómo ibais a creer si os hablara de cosas celestiales?",
+        "Pues nadie ha subido al cielo, sino el que bajó del cielo, el Hijo del Hombre.",
+        "Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre,",
+        "para que todo el que crea tenga vida eterna en él."
+      ]
+    }
+  }
+}

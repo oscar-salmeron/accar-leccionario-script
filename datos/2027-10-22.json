@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-10-22",
+  "fiesta": "San Juan Pablo II, Papa (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 7:18-25",
+      "texto": [
+        "Porque sé que en mí, es decir, en mi carne, no habita el bien; pues querer el bien está a mi alcance, pero ponerlo por obra no.",
+        "Porque no hago el bien que quiero, sino el mal que no quiero.",
+        "Y si yo hago lo que no quiero, no soy yo quien lo realiza, sino el pecado que habita en mí.",
+        "Así pues, al querer yo hacer el bien encuentro esta ley: que el mal está en mí;",
+        "pues me complazco en la ley de Dios según el hombre interior,",
+        "pero veo otra ley en mis miembros que lucha contra la ley de mi espíritu y me esclaviza bajo la ley del pecado que está en mis miembros.",
+        "¡Infeliz de mí! ¿Quién me librará de este cuerpo de muerte…?",
+        "Gracias sean dadas a Dios por Jesucristo Señor nuestro… Así pues, yo mismo sirvo con el espíritu a la ley de Dios, pero con la carne a la ley del pecado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:66, 68, 77, 94",
+      "texto": [
+        "Enséñame el buen sentido y la inteligencia, pues creo en tus mandamientos.",
+        "Tú eres bueno y benigno: instrúyeme en tus decretos.",
+        "Que tu misericordia me consuele, según la promesa que hiciste a tu siervo.",
+        "Que me alcance tu compasión, y viviré, porque tu Ley es mi deleite.",
+        "Jamás olvidaré tus mandatos, pues con ellos me das la vida.",
+        "Yo soy tuyo: sálvame, que voy buscando tus mandatos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:54-59",
+      "texto": [
+        "Decía a las multitudes: —Cuando veis que sale una nube por el poniente, enseguida decís: «Va a llover, y así sucede.",
+        "Y cuando sopla el sur, decís: «Viene bochorno, y también sucede.",
+        "¡Hipócritas! Sabéis interpretar el aspecto del cielo y de la tierra: entonces, ¿cómo es que no sabéis interpretar este tiempo?",
+        "¿Por qué no sabéis descubrir por vosotros mismos lo que es justo?",
+        "Cuando vayas con tu adversario al magistrado, procura ponerte de acuerdo con él en el camino, no sea que te obligue a ir al juez, y el juez te entregue al alguacil, y el alguacil te meta en la cárcel.",
+        "Te aseguro que no saldrás de allí hasta que pagues el último céntimo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-04-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 13:26-33",
+      "texto": [
+        "Hermanos, hijos de Abrahán y los que entre vosotros sois temerosos de Dios: a nosotros se nos ha enviado esta palabra de Salvación.",
+        "Los habitantes de Jerusalén y sus jefes le ignoraron y, al condenarle, cumplieron las palabras de los Profetas que se leen todos los sábados.",
+        "Y sin haber encontrado causa alguna de muerte, pidieron a Pilato que le hiciera morir.",
+        "Cuando cumplieron todo lo que sobre él estaba escrito, le bajaron del madero y lo pusieron en el sepulcro.",
+        "Pero Dios le resucitó de entre los muertos:",
+        "se apareció muchos días a los que habían subido con él de Galilea a Jerusalén, los mismos que ahora son sus testigos ante el pueblo.",
+        "También nosotros os anunciamos la buena nueva de que la promesa hecha a nuestros padres",
+        "la ha cumplido Dios en nosotros, sus hijos, al resucitar a Jesús, como estaba escrito en el Salmo segundo: Tú eres mi Hijo, yo te he engendrado hoy."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 2:6-11",
+      "texto": [
+        "«Yo mismo he ungido a mi Rey en Sión, mi monte santo.",
+        "Proclamaré el decreto del Señor. Él me ha dicho: «Tú eres mi hijo. Yo te he engendrado hoy.",
+        "Pídeme y te daré en herencia las naciones, los confines de la tierra en propiedad.",
+        "Los quebrantarás con barra de hierro; los romperás como vaso de alfarero.",
+        "Ahora, reyes, sed juiciosos. Escarmentad los que gobernáis la tierra.",
+        "Servid al Señor con temor y aclamadle con temblor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 14:1-6",
+      "texto": [
+        "No se turbe vuestro corazón. Creéis en Dios, creed también en mí.",
+        "En la casa de mi Padre hay muchas moradas. De lo contrario, ¿os hubiera dicho que voy a prepararos un lugar?",
+        "Cuando me haya marchado y os haya preparado un lugar, de nuevo vendré y os llevaré junto a mí, para que, donde yo estoy, estéis también vosotros.",
+        "Y adonde yo voy, ya sabéis el camino.",
+        "Tomás le dijo: —Señor, no sabemos adónde vas, ¿cómo podremos saber el camino?",
+        "—Yo soy el Camino, la Verdad y la Vida —le respondió Jesús—; nadie va al Padre si no es a través de mí."
+      ]
+    }
+  }
+}

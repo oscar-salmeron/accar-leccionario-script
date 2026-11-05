@@ -1,0 +1,56 @@
+{
+  "fecha": "2027-06-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tobías 3:1-11, 17",
+      "texto": [
+        "Yo me puse triste, supliqué con lágrimas y comencé a orar con pena:",
+        "—Tú eres justo, Señor, y justas son todas tus obras. Misericordia y verdad son todos tus caminos; y juzgas el universo.",
+        "Ahora, Señor, acuérdate de mí y mírame. No me castigues por mis pecados y negligencias, ni tampoco por los de mis padres, los que cometieron en tu presencia.",
+        "Yo también desobedecí tus mandamientos, y nos has entregado al saqueo, a la cautividad, a la muerte, a la burla, a la crítica y al escarnio entre todas las naciones en las que nos has dispersado.",
+        "Ahora tus muchos juicios resultan verdaderos al tratarme como merecen mis pecados y los de mis padres, porque no hemos cumplido tus preceptos ni hemos caminado con sinceridad en tu presencia.",
+        "Haz ahora conmigo lo que quieras y ordena que me sea retirado mi espíritu, de manera que yo desaparezca de la faz de la tierra y me convierta en polvo; porque prefiero la muerte antes que la vida, puesto que he oído reproches injustos y se ha apoderado de mí una enorme tristeza. Manda, Señor, que me libre de este sufrimiento y envíame al lugar eterno, pero no apartes de mí tu rostro, Señor, porque prefiero morir a ver tanto sufrimiento en mi vida y escuchar tales improperios.",
+        "Aquel mismo día sucedió que Sara, hija de Ragüel, el de Ecbatana de Media, escuchó injurias por parte de una criada de su padre,",
+        "porque había sido dada en matrimonio a siete maridos y Asmodeo, el perverso demonio, los había matado antes de que se hubieran unido a ella como se suele hacer con una esposa. La criada le dijo: —¡Eres tú la que matas a tus maridos! Has sido entregada a siete maridos, pero de ninguno de ellos has tomado nombre.",
+        "¿Por qué nos castigas por culpa de que hayan muerto tus maridos? ¡Vete tras ellos, y que no veamos nunca un hijo o una hija tuyos!",
+        "Aquel día su alma se entristeció y, llorando, subió al aposento de su padre con la intención de ahorcarse. Pero lo pensó de nuevo, y se dijo: «Puede que injurien a mi padre y le digan: “La única hija que has tenido, para ti muy querida, se ha ahorcado por los disgustos”. Entonces arrastraré la ancianidad de mi padre hasta el sepulcro a causa de la tristeza. Es preferible que no me ahorque, sino que suplique al Señor que me conceda la muerte; así, ya no volveré a escuchar injurias en mi vida.",
+        "En ese momento, extendió las manos ante la ventana y rezó de esta manera: —Bendito seas, Dios misericordioso, y bendito sea tu nombre por siempre. Que te bendigan todas tus obras por los siglos.",
+        "La oración de ambos fue escuchada en ese preciso momento delante de la gloria de Dios,",
+        "y fue enviado Rafael para curar a los dos: a Tobit, para quitarle las manchas blancas de sus ojos, y que viera con sus ojos la luz de Dios; y a Sara, la hija de Ragüel, para darla en matrimonio a Tobías, hijo de Tobit, y liberarla del perverso demonio Asmodeo, puesto que a Tobías le correspondía recibirla más que a todos los otros pretendientes. En ese mismo momento Tobit entró desde el patio a su casa, y Sara, la hija de Ragüel, bajó del piso superior."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 25:2-9",
+      "texto": [
+        "(Bet) Dios mío, en Ti confío. No quede yo avergonzado, no se alegren mis enemigos a mi costa.",
+        "(Guímel) Nadie que espera en Ti queda avergonzado; queden avergonzados los traidores sin motivo.",
+        "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas.",
+        "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador, (Vav) y en Ti espero todo el día.",
+        "(Záin) Acuérdate, Señor, de tu misericordia y de tu amor, que son eternos.",
+        "(Het) No recuerdes los pecados y delitos de mi juventud. Acuérdate de mí según tu misericordia, por tu bondad, ¡Señor!",
+        "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,",
+        "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 12:18-27",
+      "texto": [
+        "Después se le acercan unos saduceos —que niegan la resurrección— y comenzaron a preguntarle:",
+        "—Maestro, Moisés nos dejó escrito: Si muere el hermano de alguien y deja mujer pero no deja hijos, su hermano la tomará por mujer y dará descendencia a su hermano.",
+        "Eran siete hermanos. El primero tomó mujer y murió sin dejar descendencia.",
+        "Lo mismo el segundo: la tomó por mujer y murió sin dejar descendencia. De igual manera el tercero.",
+        "Los siete no dejaron descendencia. Después de todos murió también la mujer.",
+        "En la resurrección, cuando resuciten, ¿de cuál de ellos será esposa?, porque los siete la tuvieron por esposa.",
+        "Y Jesús les contestó: —¿No estáis equivocados precisamente por no entender las Escrituras ni el poder de Dios?",
+        "Cuando resuciten de entre los muertos, ni ellos se casarán ni ellas serán dadas en matrimonio, sino que serán como los ángeles en el cielo.",
+        "Y sobre que los muertos resucitan, ¿no habéis leído en el libro de Moisés, en el pasaje de la zarza, cómo le habló Dios diciendo: Yo soy el Dios de Abrahán, el Dios de Isaac y el Dios de Jacob?",
+        "No es Dios de muertos, sino de vivos. Estáis muy equivocados."
+      ]
+    }
+  }
+}

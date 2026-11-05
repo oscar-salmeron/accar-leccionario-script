@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-02-06",
+  "fiesta": "San Pedro Bautista, OFM, Pablo Miki y Compañeros, Mártires (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 13:15-17, 21",
+      "texto": [
+        "Ofrezcamos continuamente a Dios por medio de él un sacrificio de alabanza, es decir, el fruto de los labios que confiesan su nombre.",
+        "No os olvidéis de hacer el bien y de compartir lo vuestro, porque Dios se complace en esa clase de sacrificios.",
+        "Obedeced a vuestros pastores y someteos a ellos —porque velan por vuestras almas como quienes han de rendir cuentas— para que hagan estas cosas con alegría y sin quejarse, pues esto no os convendría.",
+        "El Dios de la paz, que por la sangre de una alianza eterna resucitó de entre los muertos a nuestro Señor Jesús, el gran Pastor de las ovejas,",
+        "os disponga con todo bien para que cumpláis su voluntad y obre en nosotros lo que es agradable en su presencia, por medio de Jesucristo, a quien sea la gloria por los siglos de los siglos. Amén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo; tu vara y tu cayado me sosiegan.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:30-34",
+      "texto": [
+        "Reunidos los apóstoles con Jesús, le explicaron todo lo que habían hecho y enseñado.",
+        "Y les dice: —Venid vosotros solos a un lugar apartado, y descansad un poco. Porque eran muchos los que iban y venían, y ni siquiera tenían tiempo para comer.",
+        "Y se marcharon en la barca a un lugar apartado ellos solos.",
+        "Pero los vieron marchar, y muchos los reconocieron. Y desde todas las ciudades, salieron deprisa hacia allí por tierra y llegaron antes que ellos.",
+        "Al desembarcar vio una gran multitud y se llenó de compasión por ella, porque estaban como ovejas que no tienen pastor, y se puso a enseñarles muchas cosas."
+      ]
+    }
+  }
+}

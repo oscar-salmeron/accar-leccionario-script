@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-06-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 3:4-11",
+      "texto": [
+        "Y esta confianza la tenemos por Cristo ante Dios.",
+        "No es que por nosotros seamos capaces de pensar algo como propio nuestro, sino que nuestra capacidad viene de Dios,",
+        "el cual también nos hizo idóneos para ser ministros de una nueva alianza, no de la letra, sino del Espíritu; porque la letra mata, pero el Espíritu da vida.",
+        "Pues si el ministerio de muerte, grabado con letras sobre piedras, resultó glorioso, hasta el punto de que los hijos de Israel no podían fijar su vista en el rostro de Moisés a causa de la gloria de su rostro, que era perecedera,",
+        "¿con cuánta mayor razón será más glorioso el ministerio del Espíritu?",
+        "Porque si el ministerio de la condenación fue glorioso, mucho más abunda en gloria el ministerio de la justicia.",
+        "Y verdaderamente, aquella glorificación deja de ser gloriosa en comparación con esta gloria eminente.",
+        "Porque si lo perecedero pasó por un momento de gloria, con mucha más razón lo duradero permanece en gloria."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 99:5-9",
+      "texto": [
+        "Ensalzad al Señor, nuestro Dios, postraos ante el estrado de sus pies: Él es Santo.",
+        "Moisés y Aarón están entre sus sacerdotes, Samuel entre los que invocan su Nombre: invocaban al Señor, y Él les escuchaba.",
+        "Desde la columna de nube les hablaba: ellos guardaron sus preceptos y la Ley que les había dado.",
+        "Señor, Dios nuestro, Tú les escuchaste. Tú fuiste para ellos un Dios propicio, aunque castigabas sus delitos.",
+        "Ensalzad al Señor, nuestro Dios, postraos en su santo monte, porque Santo es el Señor, nuestro Dios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:17-19",
+      "texto": [
+        "No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud.",
+        "En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla.",
+        "Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+      ]
+    }
+  }
+}

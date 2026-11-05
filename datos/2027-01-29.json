@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-01-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 10:32-39",
+      "texto": [
+        "Acordaos de los días primeros, cuando, recién iluminados, tuvisteis que sostener una lucha grande y dolorosa:",
+        "unas veces sometidos públicamente a calumnias y vejaciones, otras estrechamente unidos a los que así eran tratados,",
+        "porque compartisteis los sufrimientos de los encarcelados y recibisteis con alegría el robo de vuestros bienes, sabiendo que poseéis un patrimonio mejor y más duradero.",
+        "No perdáis, por tanto, vuestra confianza, que tiene una gran recompensa:",
+        "porque necesitáis paciencia para conseguir los bienes prometidos cumpliendo la voluntad de Dios.",
+        "En efecto, todavía un poco de tiempo, muy poco, y el que va a venir llegará y no tardará;",
+        "pero mi justo vivirá de fe; y si se volviera atrás, mi alma no se complacerá en él.",
+        "Pero nosotros no somos de los que se vuelven atrás para su perdición, sino de los que tienen fe para la salvación del alma."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 37:3-6, 24, 40",
+      "texto": [
+        "(Bet) Confía en el Señor y haz el bien; habita tu tierra y guarda la fidelidad.",
+        "Pon tu delicia en el Señor, y te concederá los deseos de tu corazón.",
+        "(Guímel) Encomienda al Señor tu camino, confía en Él, que Él actuará",
+        "y hará despuntar tu justicia como la aurora, y tu derecho como luz del mediodía.",
+        "(Mem) El Señor afianza los pasos del hombre y se complace en su conducta.",
+        "Aunque tropiece no cae, porque el Señor sostiene su mano.",
+        "(Tav) El Señor salva a los justos, Él es su refugio en tiempo de angustia.",
+        "El Señor los socorre y los libra, los libra de los impíos y los salva, porque en Él buscan refugio."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:26-34",
+      "texto": [
+        "Y decía: —El Reino de Dios es como un hombre que echa la semilla sobre la tierra,",
+        "y, duerma o vele, noche y día, la semilla brota y crece, sin que él sepa cómo.",
+        "Porque la tierra produce fruto ella sola: primero hierba, después espiga y por fin trigo maduro en la espiga.",
+        "Y en cuanto está a punto el fruto, enseguida mete la hoz, porque ha llegado la siega.",
+        "Y decía: —¿A qué se parecerá el Reino de Dios?, o ¿con qué parábola lo compararemos?",
+        "Es como un grano de mostaza que, cuando se siembra en la tierra, es la más pequeña de todas las semillas que hay en la tierra;",
+        "pero, una vez sembrado, crece y llega a hacerse mayor que todas las hortalizas, y echa ramas grandes, hasta el punto de que los pájaros del cielo pueden anidar bajo su sombra.",
+        "Y con muchas parábolas semejantes les anunciaba la palabra, conforme a lo que podían entender;",
+        "y no les solía hablar nada sin parábolas. Pero a solas, les explicaba todo a sus discípulos."
+      ]
+    }
+  }
+}

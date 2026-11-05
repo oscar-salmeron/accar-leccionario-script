@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-09-25",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Zacarías 2:5-9, 15",
+      "texto": [
+        "Alcé los ojos y tuve una visión: era un hombre con una cuerda de medir en su mano.",
+        "Le pregunté: —¿Adónde vas? Me contestó: —A medir Jerusalén para ver cuál es su anchura y su longitud.",
+        "En esto se adelantó el ángel que hablaba conmigo, mientras otro ángel salió a su encuentro",
+        "y le dijo: —Corre a decirle a ese joven: «Jerusalén será habitada sin murallas, por los muchos hombres y animales que alojará.",
+        "Yo le serviré —oráculo del Señor— de muralla de fuego a su alrededor, y de gloria en su interior.",
+        "Grita de gozo y alégrate, hija de Sión, porque vengo a habitar dentro de ti —oráculo del Señor—.",
+        "Aquel día seguirán al Señor muchas naciones y serán pueblo mío. Yo habitaré en medio de ti, y sabrás que el Señor de los ejércitos a ti me envió."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Jeremías 31:10-13",
+      "texto": [
+        "¡Naciones! Escuchad la palabra del Señor. Anunciadla en las islas remotas, diciendo: “El que dispersó a Israel lo reunirá, y lo guardará como pastor a su rebaño,",
+        "pues el Señor redimió a Jacob, lo rescató de una mano más fuerte”.",
+        "Vendrán y gritarán de júbilo en lo alto de Sión, correrán hacia los bienes del Señor: el trigo, el vino y el aceite, los corderos y terneros. Sus almas serán como huertos regados, y nunca más desfallecerán.",
+        "Entonces reirá la doncella en el baile, jóvenes y viejos unidos, trocaré su duelo en gozo, los consolaré y alegraré su pena."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:43-45",
+      "texto": [
+        "Todos quedaron asombrados de la grandeza de Dios. Y estando todos admirados por cuantas cosas hacía, les dijo a sus discípulos:",
+        "—Grabad en vuestros oídos estas palabras: el Hijo del Hombre va a ser entregado en manos de los hombres.",
+        "Pero ellos no entendían este lenguaje, y les resultaba tan oscuro, que no lo comprendían; y temían preguntarle sobre este asunto."
+      ]
+    }
+  }
+}

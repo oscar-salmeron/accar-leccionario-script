@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-12-10",
+  "fiesta": "Bienaventurada Virgen María de Loreto (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 41:13-20",
+      "texto": [
+        "Porque Yo soy el Señor, tu Dios, que sostengo tu diestra, y te digo: «No temas, Yo te ayudaré.",
+        "No temas, gusano de Jacob, los débiles de Israel, Yo te ayudaré —oráculo de tu Señor y Redentor, el Santo de Israel—.",
+        "Mira: te he puesto como trillo cortante, nuevo, con muchos dientes; triturarás y desmenuzarás los montes, reducirás a polvo las colinas.",
+        "Los aventarás, el viento se los llevará, y el vendaval los dispersará. Pero tú te regocijarás en el Señor, te enorgullecerás en el Santo de Israel.",
+        "A los indigentes y pobres que buscan agua sin encontrarla, cuya lengua se reseca de sed, Yo, el Señor, los atenderé, Yo, el Dios de Israel, no los abandonaré.",
+        "Abriré ríos en las dunas, fuentes en medio de las vegas; convertiré el desierto en estanques de agua, y la estepa en manantiales de agua.",
+        "Plantaré cedros en el desierto, acacias, arrayanes y olivos. Pondré cipreses en la estepa, junto con olmos y alerces,",
+        "para que miren y sepan, estimen y aprendan de una vez que la mano del Señor hizo esto y el Santo de Israel lo creó."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:1, 13",
+      "texto": [
+        "Laude. De David. (Alef) Te ensalzaré, Dios mío, mi Rey, bendeciré tu Nombre por siempre sin fin.",
+        "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras.",
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder.",
+        "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino.",
+        "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones. (Nun) El Señor es fiel en todas sus palabras y piadoso en todas sus obras."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 11:11-15",
+      "texto": [
+        "En verdad os digo que no ha surgido entre los nacidos de mujer nadie mayor que Juan el Bautista; pero el más pequeño en el Reino de los Cielos es mayor que él.",
+        "Desde los días de Juan el Bautista hasta ahora, el Reino de los Cielos padece violencia, y los esforzados lo conquistan.",
+        "Porque todos los Profetas y la Ley profetizaron hasta Juan.",
+        "Y si queréis comprenderlo, él es Elías, el que iba venir.",
+        "El que tenga oídos, que oiga."
+      ]
+    }
+  }
+}

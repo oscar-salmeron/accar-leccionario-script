@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-04-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 6:8-15",
+      "texto": [
+        "Esteban, lleno de gracia y de poder, hacía grandes prodigios y señales entre el pueblo.",
+        "Se levantaron a discutir con Esteban algunos de la sinagoga llamada de los libertos, de los cirenenses y alejandrinos, con otros de Cilicia y Asia.",
+        "Pero no podían resistir la sabiduría y el Espíritu con que hablaba.",
+        "Sobornaron entonces a unos hombres que dijeron: —Nosotros le hemos oído proferir palabras blasfemas contra Moisés y contra Dios.",
+        "Amotinaron al pueblo, a los ancianos y a los escribas, y llegaron de improviso para prenderle y llevarlo ante el Sanedrín.",
+        "Presentaron testigos falsos que decían: —Este hombre no deja de proferir palabras contra este lugar santo y contra la Ley.",
+        "Porque le hemos oído decir que ese Jesús, el Nazareno, destruirá este lugar y cambiará las costumbres que nos ha transmitido Moisés.",
+        "Y al fijarse en él todos los que estaban sentados en el Sanedrín vieron que su rostro era como el de un ángel."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:23-24, 27, 30",
+      "texto": [
+        "Aunque los príncipes se sienten para calumniarme, tu siervo medita en tus estatutos.",
+        "Pues tus preceptos son mi gozo, y tus decretos, mis consejeros.",
+        "Conté mis andanzas, y me has escuchado. Enséñame tus decretos.",
+        "Hazme entender el camino de tus mandatos, y meditaré en tus maravillas.",
+        "Aparta de mí el camino falso, y dame la gracia de tu Ley.",
+        "He elegido el camino de la verdad, me he ajustado a tus normas;"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:22-29",
+      "texto": [
+        "Al día siguiente, la multitud que estaba al otro lado del mar vio que no había allí más que una sola barca, y que Jesús no había subido a ella con sus discípulos, sino que éstos se habían marchado solos.",
+        "De Tiberíades otras barcas llegaron cerca del lugar donde habían comido el pan después de que el Señor diera gracias.",
+        "Cuando la multitud vio que ni Jesús ni sus discípulos estaban allí, subieron a las barcas y fueron a Cafarnaún buscando a Jesús.",
+        "Y al encontrarle en la otra orilla del mar, le preguntaron: —Maestro, ¿cuándo has llegado aquí?",
+        "Jesús les respondió: —En verdad, en verdad os digo que vosotros me buscáis no por haber visto los signos, sino porque habéis comido los panes y os habéis saciado.",
+        "Obrad no por el alimento que se consume sino por el que perdura hasta la vida eterna, el que os dará el Hijo del Hombre, pues a éste lo confirmó Dios Padre con su sello.",
+        "Ellos le preguntaron: —¿Qué debemos hacer para realizar las obras de Dios?",
+        "Jesús les respondió: —Ésta es la obra de Dios: que creáis en quien Él ha enviado."
+      ]
+    }
+  }
+}

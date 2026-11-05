@@ -1,0 +1,38 @@
+{
+  "fecha": "2027-10-28",
+  "fiesta": "San Simón y San Judas Tadeo, Apóstoles (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Efesios 2:19-22",
+      "texto": [
+        "Por lo tanto, ya no sois extraños y advenedizos sino conciudadanos de los santos y miembros de la familia de Dios,",
+        "edificados sobre el cimiento de los apóstoles y los profetas, siendo piedra angular el mismo Cristo Jesús,",
+        "sobre quien toda la edificación se alza bien compacta para ser templo santo en el Señor,",
+        "en quien también vosotros entráis a formar parte del edificio para ser morada de Dios por el Espíritu."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:2-5",
+      "texto": [
+        "Los cielos pregonan la gloria de Dios y el firmamento anuncia la obra de sus manos.",
+        "Un día le anuncia el mensaje al otro día y una noche le da la noticia a la otra noche.",
+        "Sin discurso, sin palabras sin que se oiga su voz,",
+        "se esparce su rumor por toda la tierra, y su pregón hasta los confines del orbe. En éstos ha puesto una tienda para el sol."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 6:12-16",
+      "texto": [
+        "En aquellos días salió al monte a orar y pasó toda la noche en oración a Dios.",
+        "Cuando se hizo de día, llamó a sus discípulos y de entre ellos eligió a doce, a los que denominó apóstoles:",
+        "a Simón, a quien también llamó Pedro, y a su hermano Andrés, a Santiago, a Juan, a Felipe, a Bartolomé,",
+        "a Mateo, a Tomás, a Santiago de Alfeo, a Simón, llamado Zelotes,",
+        "a Judas de Santiago y a Judas Iscariote, que fue el traidor."
+      ]
+    }
+  }
+}

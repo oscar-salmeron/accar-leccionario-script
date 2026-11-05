@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-04-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 4:13-21",
+      "texto": [
+        "Al ver la libertad con que hablaban Pedro y Juan, como sabían que eran hombres sin letras y sin cultura, estaban admirados, puesto que los reconocían como los que habían estado con Jesús;",
+        "y viendo de pie con ellos al hombre que había sido curado, nada podían oponer.",
+        "Les mandaron salir fuera del Sanedrín, y deliberaban entre sí:",
+        "—¿Qué vamos a hacer con estos hombres? Porque es público entre todos los habitantes de Jerusalén que por medio de ellos se ha realizado un signo evidente, y no podemos negarlo.",
+        "Pero para que no se divulgue más entre el pueblo, vamos a amenazarles para que no hablen más a nadie en este nombre.",
+        "Y les hicieron llamar y les ordenaron que de ningún modo hablaran ni enseñaran en el nombre de Jesús.",
+        "Pedro y Juan, sin embargo, les respondieron: —Juzgad si es justo delante de Dios obedeceros a vosotros más que a Dios;",
+        "porque nosotros no podemos dejar de hablar de lo que hemos visto y oído.",
+        "Ellos, después de amenazarles de nuevo, los soltaron, sin saber cómo castigarlos a causa del pueblo, porque todos glorificaban a Dios por lo ocurrido;"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 118:1, 21",
+      "texto": [
+        "¡Aleluya! Dad gracias al Señor porque es bueno, porque es eterna su misericordia.",
+        "El Señor es mi fuerza y mi vigor, Él es mi salvación.",
+        "Gritos de júbilo y de victoria hay en las tiendas de los justos: «La diestra del Señor hace proezas;",
+        "la diestra del Señor se ha alzado, la diestra del Señor hace proezas.",
+        "No he de morir, viviré para anunciar las obras del Señor.",
+        "El Señor me ha castigado duramente, pero no me ha entregado a la muerte.",
+        "Abridme las puertas de la justicia: entraré por ellas y daré gracias al Señor.",
+        "Ésta es la puerta del Señor: los justos entrarán por ella.",
+        "Te doy gracias, porque me has escuchado, y has sido mi salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 16:9-15",
+      "texto": [
+        "Después de resucitar al amanecer del primer día de la semana, se apareció en primer lugar a María Magdalena, de la que había expulsado siete demonios.",
+        "Ella fue a anunciarlo a los que habían estado con él, que se encontraban tristes y llorosos.",
+        "Pero ellos, al oír que estaba vivo y que ella lo había visto, no lo creyeron.",
+        "Después de esto se apareció, bajo distinta figura, a dos de ellos que iban de camino a una aldea;",
+        "también ellos regresaron y lo comunicaron a los demás, pero tampoco les creyeron.",
+        "Por último, se apareció a los once cuando estaban a la mesa y les reprochó su incredulidad y dureza de corazón, porque no creyeron a los que lo habían visto resucitado."
+      ]
+    }
+  }
+}

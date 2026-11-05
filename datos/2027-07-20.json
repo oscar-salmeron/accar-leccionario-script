@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-07-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 14:21--15:1",
+      "texto": [
+        "Moisés extendió su mano sobre el mar, y el Señor, mediante un viento solano que sopló toda la noche, empujó el mar hasta que se secó, y se dividieron las aguas.",
+        "Los hijos de Israel entraron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda.",
+        "Los egipcios los persiguieron con todos los caballos del Faraón, los carros y los guerreros, entrando tras ellos hasta el medio del mar.",
+        "Al romper el alba el Señor observó desde la columna de nube y fuego los campamentos de los egipcios y los desbarató.",
+        "Hizo que se trabaran las ruedas de sus carros, de modo que avanzaran con dificultad. Entonces los egipcios se dijeron: —Huyamos de delante de Israel porque el Señor combate a su favor en contra de los egipcios.",
+        "El Señor dijo a Moisés: —Extiende tu mano sobre el mar y las aguas se volverán sobre los egipcios, sobre sus carros y sus guerreros.",
+        "Extendió Moisés su mano sobre el mar y éste volvió a su estado habitual al rayar el día. Los egipcios al huir, se encontraron con las aguas y así el Señor precipitó a los egipcios al medio del mar.",
+        "Las aguas volvieron, y cubrieron los carros y los guerreros de todo el ejército del Faraón, que había entrado tras ellos en el mar. No escapó ni uno solo.",
+        "Los hijos de Israel pasaron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda.",
+        "Así el Señor salvó aquel día a Israel de la mano de los egipcios, e Israel pudo ver a los egipcios muertos a la orilla del mar.",
+        "Israel vio la mano poderosa con la que el Señor trató a Egipto, y el pueblo temió al Señor y creyó en el Señor y en Moisés, su siervo.",
+        "Entonces Moisés y los hijos de Israel entonaron este cántico al Señor. Y decían: —Quiero cantar al Señor, vencedor excelso: caballos y caballeros al mar ha precipitado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Éxodo 15:8-10, 12, 17",
+      "texto": [
+        "Al soplo de tu ira se amontonaron las aguas; las olas como un dique se elevaron; y en el fondo del mar se cuajaron los abismos.",
+        "Decíase el enemigo: «Los perseguiré, les daré alcance; repartiré el botín, quedará saciada mi codicia; voy a desenvainar la espada, los exterminará mi mano.",
+        "Pero soplaste con tu aliento y el mar los cubrió; como plomo se hundieron en las profundas aguas.",
+        "Extendiste tu diestra y la tierra los tragó.",
+        "Los llevarás y los plantarás en el monte de tu heredad, el lugar que tú, Señor, te has preparado como trono, en el Santuario que han fundado tus manos, Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 12:46-50",
+      "texto": [
+        "Aún estaba él hablando a las multitudes, cuando su madre y sus hermanos se hallaban fuera intentando hablar con él.",
+        "Alguien le dijo entonces: —Mira, tu madre y tus hermanos están ahí fuera intentando hablar contigo.",
+        "Pero él respondió al que se lo decía: —¿Quién es mi madre y quiénes son mis hermanos?",
+        "Y extendiendo su mano hacia sus discípulos, dijo: —Éstos son mi madre y mis hermanos.",
+        "Porque todo el que hace la voluntad de mi Padre que está en los cielos, ése es mi hermano y mi hermana y mi madre."
+      ]
+    }
+  }
+}

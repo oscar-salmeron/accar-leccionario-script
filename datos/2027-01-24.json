@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-01-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jonás 3:1-5, 10",
+      "texto": [
+        "La palabra del Señor fue dirigida a Jonás por segunda vez, diciéndole:",
+        "—Levántate, vete a Nínive, la gran ciudad, y pregona en ella el mensaje que voy a decirte.",
+        "Jonás se levantó y se encaminó a Nínive, con arreglo a la orden del Señor. Nínive era una gran ciudad ante Dios. Tres días hacían falta para recorrerla.",
+        "Estuvo Jonás deambulando un día entero por la ciudad, predicando y diciendo: —Dentro de cuarenta días Nínive será destruida.",
+        "Las gentes de Nínive creyeron en Dios. Convocaron a un ayuno y se vistieron de saco del mayor al más pequeño.",
+        "Dios miró sus obras, cómo se convertían de su mala conducta, y se arrepintió Dios del mal que había dicho que les iba a hacer, y no lo hizo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 25:4-9",
+      "texto": [
+        "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas.",
+        "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador, (Vav) y en Ti espero todo el día.",
+        "(Záin) Acuérdate, Señor, de tu misericordia y de tu amor, que son eternos.",
+        "(Het) No recuerdes los pecados y delitos de mi juventud. Acuérdate de mí según tu misericordia, por tu bondad, ¡Señor!",
+        "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,",
+        "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 7:29-31",
+      "texto": [
+        "Hermanos, os digo esto: el tiempo es corto. Por tanto, en lo que queda, los que tienen mujer, vivan como si no la tuviesen;",
+        "y los que lloran, como si no llorasen; y los que se alegran, como si no se alegrasen; y los que compran, como si no poseyesen;",
+        "y los que disfrutan de este mundo, como si no disfrutasen. Porque la apariencia de este mundo pasa."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:14-20",
+      "texto": [
+        "Y, mientras pasaba junto al mar de Galilea, vio a Simón y a Andrés, el hermano de Simón, que echaban las redes en el mar, pues eran pescadores.",
+        "Y les dijo Jesús: —Seguidme y haré que seáis pescadores de hombres.",
+        "Y, al momento, dejaron las redes y le siguieron.",
+        "Y pasando un poco más adelante, vio a Santiago el de Zebedeo y a Juan, su hermano, que estaban en la barca remendando las redes;",
+        "y enseguida los llamó. Y dejaron a su padre Zebedeo en la barca con los jornaleros y se fueron tras él."
+      ]
+    }
+  }
+}

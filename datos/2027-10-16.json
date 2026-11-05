@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-10-16",
+  "fiesta": "Santa Margarita María Alacoque, Virgen (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 4:13, 18",
+      "texto": [
+        "En efecto, la promesa de ser heredero del mundo no se hizo a Abrahán o a su descendencia por medio de la Ley, sino por medio de la justicia de la fe.",
+        "Y por tanto, la promesa viene de la fe, para que, en virtud de la gracia, sea firme la promesa para toda la descendencia: no sólo para los que proceden de la Ley, sino también para los que proceden de la fe de Abrahán, que es padre de todos nosotros",
+        "—conforme está escrito: Te he constituido padre de muchos pueblos—, delante de Aquel a quien creyó, Dios, que da la vida a los muertos y llama a las cosas que no existen como si ya existieran.",
+        "Él, esperando contra toda esperanza, creyó que llegaría a ser padre de muchos pueblos conforme está dicho: Así será tu descendencia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 105:6-9, 43",
+      "texto": [
+        "linaje de Abrahán, su siervo, hijos de Jacob, su elegido!",
+        "Él es el Señor, nuestro Dios; sus juicios alcanzan toda la tierra.",
+        "Él recuerda siempre su alianza, la palabra que ordenó por mil generaciones,",
+        "que selló con Abrahán; el juramento hecho a Isaac,",
+        "Pues se acordó de su palabra santa, que había dado a Abrahán, su siervo.",
+        "Y sacó a su pueblo con gozo, a sus elegidos con gritos de júbilo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:8-12",
+      "texto": [
+        "Os digo, pues: a todo el que me confiese delante de los hombres, también el Hijo del Hombre le confesará delante de los ángeles de Dios.",
+        "Pero el que me niegue ante los hombres, será negado ante los ángeles de Dios.",
+        "A todo el que diga una palabra contra el Hijo del Hombre se le perdonará; pero al que blasfeme contra el Espíritu Santo no se le perdonará.",
+        "Cuando os lleven a las sinagogas, y ante los magistrados y las autoridades, no os preocupéis de cómo defenderos, o qué tenéis que decir,",
+        "porque el Espíritu Santo os enseñará en aquella hora qué es lo que hay que decir."
+      ]
+    }
+  }
+}

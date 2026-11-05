@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-09-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 1:1-2, 14",
+      "texto": [
+        "Pablo, apóstol de Cristo Jesús por disposición de Dios, nuestro Salvador, y de Cristo Jesús, nuestra esperanza,",
+        "a Timoteo, verdadero hijo en la fe: gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús, Señor nuestro.",
+        "Doy gracias a aquel que me ha llenado de fortaleza, a Jesucristo nuestro Señor, porque me ha considerado digno de su confianza al conferirme el ministerio,",
+        "a mí, que antes era blasfemo, perseguidor e insolente. Pero alcancé misericordia porque actué por ignorancia cuando no tenía fe.",
+        "Y sobreabundó en mí la gracia de nuestro Señor, junto con la fe y la caridad, en Cristo Jesús."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 16:1-2, 5, 8, 11",
+      "texto": [
+        "Mictam. De David. Guárdame, Dios mío, que me refugio en Ti.",
+        "Yo digo al Señor: «Tú eres mi Señor. No tengo otro bien que Tú.",
+        "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte.",
+        "Yo bendigo al Señor, que me aconseja; hasta de noche mi corazón me instruye.",
+        "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo.",
+        "Me enseñas la senda de la vida, saciedad de gozo en tu presencia, dicha perpetua a tu derecha."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 6:39-42",
+      "texto": [
+        "Les dijo también una parábola: —¿Acaso puede un ciego guiar a otro ciego? ¿No caerán los dos en el hoyo?",
+        "No está el discípulo por encima del maestro; todo aquel que esté bien instruido podrá ser como su maestro.",
+        "¿Por qué te fijas en la mota del ojo de tu hermano y no reparas en la viga que hay en tu propio ojo?",
+        "¿Cómo puedes decir a tu hermano: «Hermano, deja que saque la mota que hay en tu ojo, no viendo tú mismo la viga que hay en el tuyo? Hipócrita: saca primero la viga de tu ojo, y entonces verás con claridad cómo sacar la mota del ojo de tu hermano."
+      ]
+    }
+  }
+}

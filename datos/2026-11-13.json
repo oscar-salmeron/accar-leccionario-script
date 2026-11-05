@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-11-13",
+  "fiesta": "Santa Francisca Xavier Cabrini, Virgen (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "",
+      "texto": [
+        "Me alegré mucho al haber encontrado entre tus hijos a quienes caminan en la verdad, conforme al mandamiento que recibimos del Padre.",
+        "Y ahora te ruego, Señora, no como escribiéndote un mandamiento nuevo, sino el que tenemos desde el principio: que nos amemos unos a otros.",
+        "Y en esto consiste el amor: en que caminemos conforme a sus mandamientos. Éste es el mandamiento, tal y como habéis oído desde el principio: que caminéis en el amor.",
+        "Porque han aparecido en el mundo muchos seductores, que no confiesan a Jesucristo venido en carne. Ése es el seductor y el Anticristo.",
+        "Mirad por vosotros, para que no perdáis el fruto de vuestro trabajo, sino que recibáis la recompensa plena.",
+        "Todo el que se sale de la doctrina de Cristo, y no permanece en ella, no posee a Dios; quien permanece en la doctrina, ése posee al Padre y al Hijo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:1-2, 11, 18",
+      "texto": [
+        "(Alef) Dichosos los de conducta íntegra, los que caminan en la Ley del Señor.",
+        "Dichosos los que guardan sus preceptos y le buscan de todo corazón;",
+        "Con todo el corazón te busco; no permitas que me desvíe de tus mandamientos.",
+        "En mi corazón he guardado tus palabras para no pecar contra ti.",
+        "(Guímel) Favorece a tu siervo para vivir y guardar tu palabra.",
+        "Abre mis ojos para contemplar las maravillas de tu Ley."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:26-37",
+      "texto": [
+        "Y como ocurrió en los días de Noé, así será también en los días del Hijo del Hombre.",
+        "Comían y bebían, tomaban mujer o marido, hasta el día en que Noé entró en el arca, y vino el diluvio e hizo perecer a todos.",
+        "Lo mismo sucedió en los días de Lot: comían y bebían, compraban y vendían, plantaban y edificaban;",
+        "pero el día en que salió Lot de Sodoma, llovió del cielo fuego y azufre y los hizo perecer a todos.",
+        "Del mismo modo sucederá el día en que se manifieste el Hijo del Hombre.",
+        "Ese día, quien esté en el terrado y tenga sus cosas en la casa, que no baje por ellas; y lo mismo quien esté en el campo, que no vuelva atrás.",
+        "Acordaos de la mujer de Lot.",
+        "Quien pretenda guardar su vida la perderá; y quien la pierda la conservará viva.",
+        "Yo os digo que esa noche estarán dos en el mismo lecho: uno será tomado y el otro dejado.",
+        "Estarán dos moliendo juntas: una será tomada y la otra dejada.",
+        "Y a esto le dijeron: —¿Dónde, Señor? Él les respondió: —Dondequiera que esté el cuerpo, allí se reunirán los buitres."
+      ]
+    }
+  }
+}

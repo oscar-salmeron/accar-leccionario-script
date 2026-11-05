@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-08-11",
+  "fiesta": "Santa Clara de Asís, Virgen, Fundadora de la Segunda Orden (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Oseas 2:16, 17, 22",
+      "texto": [
+        "Por eso, Yo mismo la seduciré, la conduciré al desierto y le hablaré al corazón.",
+        "Y desde allí le daré sus viñas y el valle de Acor será puerta de esperanza; allí me responderá como en los días de su juventud, como el día que subió de la tierra de Egipto.",
+        "Te desposaré conmigo para siempre, te desposaré conmigo en justicia y derecho, en amor y misericordia.",
+        "Te desposaré conmigo en fidelidad, y conocerás al Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 45:11-12, 16",
+      "texto": [
+        "Escucha, hija, y mira, presta tu oído, olvida tu pueblo y la casa de tu padre:",
+        "y el rey se prendará de tu belleza; él es tu señor, inclínate ante él.",
+        "Radiante de gloria, la hija del rey enjoyada —de brocados de oro es su vestido,",
+        "con bordados de colores—, es conducida ante el rey. Vírgenes, sus damas, forman su séquito, son conducidas ante ti;",
+        "son conducidas en medio de alegría y regocijo; entran en el palacio del rey."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:4-10",
+      "texto": [
+        "Permaneced en mí y yo en vosotros. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco vosotros si no permanecéis en mí.",
+        "Yo soy la vid, vosotros los sarmientos. El que permanece en mí y yo en él, ése da mucho fruto, porque sin mí no podéis hacer nada.",
+        "Si alguno no permanece en mí es arrojado fuera, como los sarmientos, y se seca; luego los recogen, los arrojan al fuego y arden.",
+        "Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que queráis y se os concederá.",
+        "En esto es glorificado mi Padre, en que deis mucho fruto y seáis discípulos míos.",
+        "Como el Padre me amó, así os he amado yo. Permaneced en mi amor.",
+        "Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor."
+      ]
+    }
+  }
+}

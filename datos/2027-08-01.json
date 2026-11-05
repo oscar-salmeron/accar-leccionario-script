@@ -1,0 +1,62 @@
+{
+  "fecha": "2027-08-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 16:2-4, 15",
+      "texto": [
+        "La comunidad de los hijos de Israel murmuraba contra Moisés y contra Aarón en el desierto.",
+        "Los hijos de Israel les decían: —¿Quién nos hubiera dado morir a manos del Señor en el país de Egipto, cuando nos sentábamos junto a la olla de carne y comíamos pan hasta saciarnos? Porque vosotros nos habéis sacado a este desierto para matar de hambre a toda esta asamblea.",
+        "El Señor dijo a Moisés: —He aquí que voy a hacer llover para vosotros pan desde el cielo; el pueblo saldrá a recoger cada día la porción cotidiana; así les pondré a prueba y veré si se comporta según mi ley o no.",
+        "—He escuchado las murmuraciones de los hijos de Israel. Diles: «Al atardecer comeréis carne y por la mañana os saciaréis de pan. Así conoceréis que yo soy el Señor, vuestro Dios.",
+        "Aquella tarde, en efecto, subieron las codornices y cubrieron el campamento; y por la mañana, hubo una capa de rocío alrededor del campamento.",
+        "Al evaporarse la capa de rocío quedó sobre la superficie del desierto una cosa blanca delgada, como escarcha sobre la tierra.",
+        "Al verlo los hijos de Israel se dijeron entre sí: —¿Man–hu? (que significa: «¿Qué es esto?) Pues no sabían lo que era. Moisés les dijo: —Esto es el pan que el Señor os da como alimento."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 78:3-4, 25, 54",
+      "texto": [
+        "Cuanto oímos y aprendimos, lo que nuestros padres nos contaron,",
+        "no lo ocultaremos a sus hijos; sino que contaremos a la generación venidera las alabanzas del Señor, su poder, y las maravillas que ha obrado.",
+        "Entonces dio órdenes a las nubes de lo alto, y abrió las compuertas de los cielos;",
+        "hizo que les lloviese maná para comer, y les dio trigo del cielo:",
+        "pan de ángeles comió el hombre, les envió alimento hasta saciarse.",
+        "Los hizo entrar en confines sagrados, en este monte que adquirió su diestra."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 4:17, 24",
+      "texto": [
+        "Por lo tanto, digo y testifico esto en el Señor: que ya no viváis como viven los gentiles, en sus vanos pensamientos,",
+        "No es esto, en cambio, lo que vosotros aprendisteis de Cristo",
+        "—si es que en efecto le habéis escuchado y habéis sido enseñados conforme a la verdad de Jesús—",
+        "para abandonar la antigua conducta del hombre viejo, que se corrompe conforme a su concupiscencia seductora,",
+        "para renovaros en el espíritu de vuestra mente",
+        "y revestiros del hombre nuevo, que ha sido creado conforme a Dios en justicia y santidad verdaderas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:24-35",
+      "texto": [
+        "Cuando la multitud vio que ni Jesús ni sus discípulos estaban allí, subieron a las barcas y fueron a Cafarnaún buscando a Jesús.",
+        "Y al encontrarle en la otra orilla del mar, le preguntaron: —Maestro, ¿cuándo has llegado aquí?",
+        "Jesús les respondió: —En verdad, en verdad os digo que vosotros me buscáis no por haber visto los signos, sino porque habéis comido los panes y os habéis saciado.",
+        "Obrad no por el alimento que se consume sino por el que perdura hasta la vida eterna, el que os dará el Hijo del Hombre, pues a éste lo confirmó Dios Padre con su sello.",
+        "Ellos le preguntaron: —¿Qué debemos hacer para realizar las obras de Dios?",
+        "Jesús les respondió: —Ésta es la obra de Dios: que creáis en quien Él ha enviado.",
+        "Le dijeron: —¿Y qué signo haces tú, para que lo veamos y te creamos? ¿Qué obras realizas tú?",
+        "Nuestros padres comieron en el desierto el maná, como está escrito: Les dio a comer pan del cielo.",
+        "Les respondió Jesús: —En verdad, en verdad os digo que Moisés no os dio el pan del cielo, sino que mi Padre os da el verdadero pan del cielo.",
+        "Porque el pan de Dios es el que ha bajado del cielo y da la vida al mundo.",
+        "—Señor, danos siempre de este pan —le dijeron ellos.",
+        "Jesús les respondió: —Yo soy el pan de vida; el que viene a mí no tendrá hambre, y el que cree en mí no tendrá nunca sed."
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-05-29",
+  "fiesta": "San Pablo VI, Papa (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 51:12-20",
+      "texto": [
+        "Por eso te daré gracias y te alabaré, bendeciré el Nombre del Señor.",
+        "Cuando aún era joven, antes de andar errante, busqué con sinceridad la sabiduría en mi oración.",
+        "Ante el Templo la pedía y hasta el final la buscaré. Ella floreció, como uva temprana.",
+        "Mi corazón se alegró con ella; mis pies anduvieron por el camino recto; desde mi juventud he seguido sus huellas.",
+        "Incliné un poco mi oído y la recibí,",
+        "me encontré con una gran enseñanza. En ella hice progresos:",
+        "Al que me dio sabiduría yo daré gloria.",
+        "Pues decidí ponerla en práctica, intentaré hacer el bien y no me avergonzaré.",
+        "Por ella luchó mi alma, y fui diligente en practicar la Ley.",
+        "Extendí mis manos a lo alto y reconocí mis ignorancias acerca de ella.",
+        "A ella dirigí mi alma y la hallé en la purificación.",
+        "Con ella adquirí cordura desde el principio; por eso no la abandonaré."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:8-11",
+      "texto": [
+        "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme, instruye al sencillo.",
+        "Los preceptos del Señor son rectos, alegran el corazón. Los mandamientos del Señor son puros, dan luz a los ojos.",
+        "El temor del Señor es limpio, dura por siempre. Los juicios del Señor son veraces, son enteramente justos,",
+        "más preciosos que el oro, que el oro más fino, más dulces que la miel que destila el panal."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 11:27-33",
+      "texto": [
+        "Llegaron de nuevo a Jerusalén. Y mientras paseaba por el Templo, se le acercaron los príncipes de los sacerdotes, los escribas y los ancianos,",
+        "y le dijeron: —¿Con qué potestad haces estas cosas? ¿O quién te ha dado tal potestad para hacerlas?",
+        "Jesús les contestó: —Os voy a hacer una pregunta. Respondedme, y os diré con qué potestad hago estas cosas:",
+        "el bautismo de Juan ¿era del cielo o de los hombres? Respondedme.",
+        "Y deliberaban entre sí: «Si decimos que del cielo, replicará: “¿Por qué, pues, no le creísteis?”",
+        "Pero ¿vamos a decir que de los hombres? Temían a la gente; pues todos tenían a Juan como a un verdadero profeta.",
+        "Y respondieron a Jesús: —No lo sabemos. Entonces Jesús les dijo: —Pues tampoco yo os digo con qué potestad hago estas cosas."
+      ]
+    }
+  }
+}

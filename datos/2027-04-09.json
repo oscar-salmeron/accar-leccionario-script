@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-04-09",
+  "fiesta": "Pronto iba a ser la Pascua, la fiesta de los judíos.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 5:34-42",
+      "texto": [
+        "Pero un fariseo llamado Gamaliel, maestro de la Ley y estimado por todo el pueblo, se levantó en el Sanedrín y mandó hacer salir un momento a aquellos hombres.",
+        "Y les dijo: —Israelitas, tened cuidado de lo que vais a hacer con estos hombres.",
+        "Porque hace poco se levantó Teudas, que decía ser alguien, y se le unieron unos cuatrocientos hombres; lo mataron y todos sus seguidores se disgregaron y quedaron en nada.",
+        "Después de él se levantó Judas el Galileo en los días del empadronamiento, y arrastró al pueblo tras de sí; murió también y todos sus seguidores se dispersaron.",
+        "Así pues, os digo ahora: desentendeos de estos hombres y dejadlos, porque si este designio o esta obra procede de hombres se disolverá;",
+        "pero si procede de Dios no podréis acabar con ellos; no sea que os vayáis a encontrar combatiendo contra Dios. Ellos se mostraron de acuerdo con él.",
+        "Entonces llamaron a los apóstoles, los azotaron, les ordenaron no hablar en el nombre de Jesús y los soltaron.",
+        "Ellos salían gozosos de la presencia del Sanedrín, porque habían sido dignos de ser ultrajados a causa del Nombre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:1-15",
+      "texto": [
+        "Después de esto partió Jesús a la otra orilla del mar de Galilea, el de Tiberíades.",
+        "Le seguía una gran muchedumbre porque veían los signos que hacía con los enfermos.",
+        "Jesús subió al monte y se sentó allí con sus discípulos.",
+        "Pronto iba a ser la Pascua, la fiesta de los judíos.",
+        "Jesús, al levantar la mirada y ver que venía hacia él una gran muchedumbre, le dijo a Felipe: —¿Dónde vamos a comprar pan para que coman éstos?",
+        "—lo decía para probarle, pues él sabía lo que iba a hacer.",
+        "Felipe le respondió: —Doscientos denarios de pan no bastan ni para que cada uno coma un poco.",
+        "Uno de sus discípulos, Andrés, el hermano de Simón Pedro, le dijo:",
+        "—Aquí hay un muchacho que tiene cinco panes de cebada y dos peces; pero, ¿qué es esto para tantos?",
+        "Jesús dijo: —Mandad a la gente que se siente —había en aquel lugar hierba abundante. Y se sentaron un total de unos cinco mil hombres.",
+        "Jesús tomó los panes y, después de dar gracias, los repartió a los que estaban sentados, e igualmente les dio cuantos peces quisieron.",
+        "Cuando quedaron saciados, les dijo a sus discípulos: —Recoged los trozos que han sobrado para que no se pierda nada.",
+        "Y los recogieron, y llenaron doce cestos con los trozos de los cinco panes de cebada que sobraron a los que habían comido.",
+        "Aquellos hombres, viendo el signo que Jesús había hecho, decían: —Éste es verdaderamente el Profeta que viene al mundo.",
+        "Jesús, conociendo que estaban dispuestos a llevárselo para hacerle rey, se retiró otra vez al monte él solo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    }
+  }
+}

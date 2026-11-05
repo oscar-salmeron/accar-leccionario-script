@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-10-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 7:7-11",
+      "texto": [
+        "Por eso, rogué prudencia y se me concedió; invoqué un espíritu de sabiduría y vino a mí.",
+        "La antepuse a cetros y tronos y, comparada con ella, tuve en nada la riqueza.",
+        "La piedra más preciosa no la iguala, porque, a la vista de ella, todo el oro es un poco de arena y, ante ella, la plata vale lo que el barro.",
+        "La quise más que la salud y la belleza y preferí tenerla como luz, porque su resplandor no tiene ocaso.",
+        "Con ella me vinieron a la vez todos los bienes, pues en sus manos hay riqueza incalculable."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 90:12-17",
+      "texto": [
+        "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio.",
+        "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos.",
+        "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días.",
+        "Haznos gozar por los días en que nos afligiste, por los años en que vimos la desgracia.",
+        "Que se muestre a tus siervos tu obra, y a tus hijos tu majestad.",
+        "El esplendor del Señor, nuestro Dios, esté con nosotros. Haz prósperas las obras de nuestras manos, las obras de nuestras manos hazlas prósperas."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 4:12-13",
+      "texto": [
+        "Ciertamente, la palabra de Dios es viva y eficaz, y más cortante que una espada de doble filo: entra hasta la división del alma y del espíritu, de las articulaciones y de la médula, y descubre los sentimientos y pensamientos del corazón.",
+        "No hay ante ella criatura invisible, sino que todo está desnudo y patente a los ojos de Aquel a quien hemos de rendir cuenta."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:17-30",
+      "texto": [
+        "Cuando salía para ponerse en camino, vino uno corriendo y, arrodillado ante él, le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?",
+        "Jesús le dijo: —¿Por qué me llamas bueno? Nadie es bueno sino uno solo: Dios.",
+        "Ya conoces los mandamientos: no matarás, no cometerás adulterio, no robarás, no dirás falso testimonio, no defraudarás a nadie, honra a tu padre y a tu madre.",
+        "—Maestro, todo esto lo he guardado desde mi juventud —respondió él.",
+        "Y Jesús fijó en él su mirada y lo amó. Y le dijo: —Una cosa te falta: anda, vende todo lo que tienes y dáselo a los pobres, y tendrás un tesoro en el cielo. Luego, ven y sígueme.",
+        "Pero él, afligido por estas palabras, se marchó triste, porque tenía muchas posesiones.",
+        "Jesús, mirando a su alrededor, les dijo a sus discípulos: —¡Qué difícilmente entrarán en el Reino de Dios los que tienen riquezas!",
+        "Los discípulos se quedaron impresionados por sus palabras. Y hablándoles de nuevo, dijo: —Hijos, ¡qué difícil es entrar en el Reino de Dios!",
+        "Es más fácil a un camello pasar por el ojo de una aguja que a un rico entrar en el Reino de Dios.",
+        "Y ellos se quedaron aún más asombrados diciéndose unos a otros: —Entonces, ¿quién puede salvarse?",
+        "Jesús, con la mirada fija en ellos, les dijo: —Para los hombres es imposible, pero para Dios no; porque para Dios todo es posible.",
+        "Comenzó Pedro a decirle: —Ya ves que nosotros lo hemos dejado todo y te hemos seguido.",
+        "que no reciba en este mundo cien veces más en casas, hermanos, hermanas, madres, hijos y campos, con persecuciones; y, en el siglo venidero, la vida eterna."
+      ]
+    }
+  }
+}

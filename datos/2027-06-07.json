@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-06-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 1:1-7",
+      "texto": [
+        "Pablo, apóstol de Cristo Jesús por voluntad de Dios, y Timoteo, nuestro hermano, a la iglesia de Dios que está en Corinto y a todos los santos que están por toda Acaya:",
+        "a vosotros la gracia y la paz de parte de Dios, nuestro Padre, y del Señor Jesucristo.",
+        "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, el Padre de las misericordias y Dios de toda consolación,",
+        "que nos consuela en todas nuestras tribulaciones, para que también nosotros seamos capaces de consolar a los que se encuentran en cualquier tribulación, mediante el consuelo con que nosotros mismos somos consolados por Dios.",
+        "Porque, así como abundan en nosotros los padecimientos de Cristo, así abunda también nuestra consolación por medio de Cristo.",
+        "Pues, si somos atribulados, es para consuelo y salvación vuestra; si somos consolados, es para vuestro consuelo, que muestra su eficacia en la paciencia con que soportáis los mismos sufrimientos que nosotros.",
+        "Y es firme nuestra esperanza acerca de vosotros, porque sabemos que así como sois solidarios en los padecimientos, también lo seréis en la consolación."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-9",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(Guímel) Engrandeced conmigo al Señor; ensalcemos juntos su Nombre.",
+        "(Dálet) Busqué al Señor y me ha escuchado, me ha librado de todos mis temores.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Het) El ángel del Señor se sitúa alrededor de los que le temen para librarlos.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:1-12",
+      "texto": [
+        "Al ver Jesús a las multitudes, subió al monte; se sentó y se le acercaron sus discípulos;",
+        "y abriendo su boca les enseñaba diciendo:",
+        "—Bienaventurados los pobres de espíritu, porque suyo es el Reino de los Cielos.",
+        "Bienaventurados los que lloran, porque serán consolados.",
+        "Bienaventurados los mansos, porque heredarán la tierra.",
+        "Bienaventurados los que tienen hambre y sed de justicia, porque quedarán saciados.",
+        "Bienaventurados los misericordiosos, porque alcanzarán misericordia.",
+        "Bienaventurados los limpios de corazón, porque verán a Dios.",
+        "Bienaventurados los pacíficos, porque serán llamados hijos de Dios.",
+        "Bienaventurados los que padecen persecución por causa de la justicia, porque suyo es el Reino de los Cielos.",
+        "Bienaventurados cuando os injurien, os persigan y, mintiendo, digan contra vosotros todo tipo de maldad por mi causa.",
+        "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo: de la misma manera persiguieron a los profetas de antes de vosotros."
+      ]
+    }
+  }
+}

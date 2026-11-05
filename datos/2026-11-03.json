@@ -1,0 +1,49 @@
+{
+  "fecha": "2026-11-03",
+  "fiesta": "San Martín de Porres, Religioso (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Filipenses 2:5-11",
+      "texto": [
+        "Tened entre vosotros los mismos sentimientos que tuvo Cristo Jesús,",
+        "el cual, siendo de condición divina, no consideró como presa codiciable el ser igual a Dios,",
+        "sino que se anonadó a sí mismo tomando la forma de siervo, hecho semejante a los hombres; y, mostrándose igual que los demás hombres,",
+        "se humilló a sí mismo haciéndose obediente hasta la muerte, y muerte de cruz.",
+        "Y por eso Dios lo exaltó y le otorgó el nombre que está sobre todo nombre;",
+        "para que al nombre de Jesús toda rodilla se doble en los cielos, en la tierra y en los abismos,",
+        "y toda lengua confiese: «¡Jesucristo es el Señor!, para gloria de Dios Padre."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 22:26-32",
+      "texto": [
+        "Te alabaré ante la gran asamblea. Cumpliré mis votos delante de quienes le temen.",
+        "Los pobres comerán hasta saciarse, alabarán al Señor los que le buscan. ¡Que vuestro corazón viva por siempre!",
+        "Se acordarán y se convertirán al Señor los enteros confines de la tierra; se postrarán en su presencia todas las familias de las naciones,",
+        "porque del Señor es el Reino, Él domina a las naciones.",
+        "Ante Él solo se postrarán los que duermen en la tierra, ante Él doblarán la rodilla cuantos bajan al polvo. Pero mi alma vivirá para Él.",
+        "Mi descendencia le servirá, hablará del Señor a la generación venidera,",
+        "y proclamarán su justicia al pueblo que ha de nacer: «Así lo hará el Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 14:15-24",
+      "texto": [
+        "Cuando oyó esto uno de los comensales, le dijo: —Bienaventurado el que coma el pan en el Reino de Dios.",
+        "Pero él le dijo: —Un hombre daba una gran cena e invitó a muchos.",
+        "Y envió a su siervo a la hora de la cena para decir a los invitados: «Venid, que ya está todo preparado.",
+        "Y todos a una comenzaron a excusarse. El primero le dijo: «He comprado un campo y tengo necesidad de ir a verlo; te ruego que me des por excusado.",
+        "Y otro dijo: «Compré cinco yuntas de bueyes, y voy a probarlas; te ruego que me des por excusado.",
+        "Otro dijo: «Acabo de casarme, y por eso no puedo ir.",
+        "Regresó el siervo y contó esto a su señor. Entonces, irritado el amo de la casa, le dijo a su siervo: «Sal ahora mismo a las plazas y calles de la ciudad y trae aquí a los pobres, a los tullidos, a los ciegos y a los cojos.",
+        "Y el siervo dijo: «Señor, se ha hecho lo que mandaste, y todavía hay sitio.",
+        "Entonces dijo el señor a su siervo: «Sal a los caminos y a los cercados y obliga a entrar, para que se llene mi casa.",
+        "Porque os aseguro que ninguno de aquellos hombres invitados gustará mi cena."
+      ]
+    }
+  }
+}

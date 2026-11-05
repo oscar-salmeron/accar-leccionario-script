@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 4:19--5:4",
+      "texto": [
+        "Nosotros amamos, porque Él nos amó primero.",
+        "Si alguno dice: «Amo a Dios, y aborrece a su hermano, es un mentiroso; pues el que no ama a su hermano, a quien ve, no puede amar a Dios, a quien no ve.",
+        "Y hemos recibido de él este mandamiento: quien ama a Dios, que ame también a su hermano.",
+        "Todo el que cree que Jesús es el Cristo, ése ha nacido de Dios; y todo el que ama a quien le engendró, ama también a quien ha sido engendrado por Él.",
+        "En esto conocemos que amamos a los hijos de Dios: en que amamos a Dios y cumplimos sus mandamientos.",
+        "Porque el amor de Dios consiste precisamente en que guardemos sus mandamientos; y sus mandamientos no son costosos,",
+        "porque todo el que ha nacido de Dios, vence al mundo. Y ésta es la victoria que ha vencido al mundo: nuestra fe."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:2, 15, 17",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Salvará sus almas de la opresión y la violencia, pues su sangre será preciosa a sus ojos.",
+        "Vivirá y se le dará el oro de Sebá; rogarán por él de continuo, todo el día lo bendecirán.",
+        "Su nombre subsistirá por siempre, su nombre se perpetuará mientras dure el sol. En él serán benditas todas las tribus de la tierra; todas las naciones lo proclamarán dichoso."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 4:14-22",
+      "texto": [
+        "Entonces, por impulso del Espíritu, volvió Jesús a Galilea y se extendió su fama por toda la región.",
+        "Y enseñaba en sus sinagogas y era honrado por todos.",
+        "Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el sábado y se levantó para leer.",
+        "Entonces le entregaron el libro del profeta Isaías y, abriendo el libro, encontró el lugar donde estaba escrito:",
+        "El Espíritu del Señor está sobre mí, por lo cual me ha ungido para evangelizar a los pobres, me ha enviado para anunciar la redención a los cautivos y devolver la vista a los ciegos, para poner en libertad a los oprimidos",
+        "y para promulgar el año de gracia del Señor.",
+        "Y enrollando el libro se lo devolvió al ministro y se sentó. Todos en la sinagoga tenían los ojos fijos en él.",
+        "Y comenzó a decirles: —Hoy se ha cumplido esta Escritura que acabáis de oír.",
+        "Todos daban testimonio en favor de él y se maravillaban de las palabras de gracia que procedían de su boca, y decían: —¿No es éste el hijo de José?"
+      ]
+    }
+  }
+}

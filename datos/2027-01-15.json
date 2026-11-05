@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-01-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 4:1-5, 11",
+      "texto": [
+        "Puesto que la promesa de entrar en su descanso permanece en vigor, tengamos cuidado: no vaya a ser que alguno de vosotros piense que queda excluido."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 2:1-12",
+      "texto": [
+        "Porque los que hemos creído hemos entrado en el descanso, según está dicho: Por eso juré en mi ira: «¡No entrarán en mi descanso!, aunque las obras divinas estaban ya hechas desde la creación del mundo.",
+        "Porque en un lugar se dice sobre el día séptimo: Y descansó Dios el día séptimo de todas sus obras.",
+        "Y en este lugar repite: ¡No entrarán en mi descanso!",
+        "Apresurémonos a entrar en ese descanso, a fin de que ninguno caiga en la misma clase de desobediencia.",
+        "Y, al cabo de unos días, entró de nuevo en Cafarnaún. Se supo que estaba en casa",
+        "y se juntaron tantos, que ni siquiera ante la puerta había ya sitio. Y les predicaba la palabra.",
+        "Entonces vinieron trayéndole un paralítico, llevado entre cuatro.",
+        "Y como no podían acercarlo hasta él a causa del gentío, levantaron la techumbre por el sitio en donde se encontraba y, después de abrir un hueco, descolgaron la camilla en la que yacía el paralítico.",
+        "Al ver Jesús la fe de ellos, le dijo al paralítico: —Hijo, tus pecados te son perdonados.",
+        "Estaban allí sentados algunos de los escribas, y pensaban en sus corazones:",
+        "«¿Por qué habla éste así? Blasfema. ¿Quién puede perdonar los pecados sino sólo Dios?",
+        "Y enseguida, conociendo Jesús en su espíritu que pensaban para sus adentros de este modo, les dijo: —¿Por qué pensáis estas cosas en vuestros corazones?",
+        "¿Qué es más fácil, decirle al paralítico: «Tus pecados te son perdonados, o decirle: «Levántate, toma tu camilla y anda?",
+        "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar los pecados —se dirigió al paralítico—,",
+        "a ti te digo: levántate, toma tu camilla y vete a tu casa.",
+        "Y se levantó, y al instante tomó la camilla y salió en presencia de todos, de manera que todos quedaron admirados y glorificaron a Dios diciendo: —Nunca hemos visto nada parecido."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 78:3, 4, 8",
+      "texto": [
+        "Cuanto oímos y aprendimos, lo que nuestros padres nos contaron,",
+        "no lo ocultaremos a sus hijos; sino que contaremos a la generación venidera las alabanzas del Señor, su poder, y las maravillas que ha obrado.",
+        "para que la supieran las generaciones futuras, los hijos que habían de nacer, y la mantengan, y la anuncien a sus hijos.",
+        "A fin de que pongan en Dios su esperanza, y no olviden las obras de Dios, sino que observen sus mandamientos.",
+        "Y no sean, como sus padres, una generación rebelde y contumaz, una generación de corazón voluble, de espíritu infiel a Dios."
+      ]
+    }
+  }
+}

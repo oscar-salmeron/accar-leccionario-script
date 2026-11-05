@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-04-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 14:19-28",
+      "texto": [
+        "Vinieron entonces de Antioquía y de Iconio unos judíos que sedujeron a la muchedumbre, de modo que apedrearon a Pablo y lo arrastraron fuera de la ciudad creyéndole muerto.",
+        "Pero rodeado de los discípulos se levantó y entró en la ciudad. Y al día siguiente marchó con Bernabé a Derbe."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 14:27-31",
+      "texto": [
+        "confortando los ánimos de los discípulos y exhortándoles a perseverar en la fe, diciéndoles que es preciso que entremos en el Reino de Dios a través de muchas tribulaciones.",
+        "Tras designar presbíteros en cada iglesia, haciendo oración y ayunando, les encomendaron al Señor, en quien habían creído.",
+        "Atravesaron Pisidia y llegaron a Panfilia;",
+        "y después de predicar la palabra en Perge bajaron hasta Atalía.",
+        "Desde allí navegaron hasta Antioquía, de donde habían salido encomendados a la gracia de Dios para la obra que habían realizado.",
+        "Al llegar, reunieron a la iglesia y contaron todo lo que el Señor había hecho por mediación de ellos y cómo había abierto a los gentiles la puerta de la fe.",
+        "Se quedaron bastante tiempo con los discípulos.",
+        "La paz os dejo, mi paz os doy; no os la doy como la da el mundo. No se turbe vuestro corazón ni se acobarde.",
+        "Habéis escuchado que os he dicho: «Me voy y vuelvo a vosotros. Si me amarais os alegraríais de que vaya al Padre, porque el Padre es mayor que yo.",
+        "Os lo he dicho ahora antes de que suceda, para que cuando ocurra creáis.",
+        "Ya no hablaré mucho con vosotros, porque viene el príncipe del mundo; contra mí no puede nada,",
+        "pero el mundo debe conocer que amo al Padre y que obro tal y como me ordenó. ¡Levantaos, vámonos de aquí!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:10-13, 21",
+      "texto": [
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder.",
+        "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino.",
+        "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones. (Nun) El Señor es fiel en todas sus palabras y piadoso en todas sus obras.",
+        "(Tav) Pronuncie mi boca la alabanza del Señor. Toda carne bendiga su Nombre Santo por siempre sin fin."
+      ]
+    }
+  }
+}

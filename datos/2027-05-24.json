@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-05-24",
+  "fiesta": "Dedicación de la Basílica de San Francisco de Asís (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 21:1-5",
+      "texto": [
+        "Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron, y el mar ya no existe.",
+        "Vi también la ciudad santa, la nueva Jerusalén, que bajaba del cielo de parte de Dios, ataviada como una novia que se engalana para su esposo.",
+        "Y oí una fuerte voz procedente del trono que decía: —Ésta es la morada de Dios con los hombres: Habitará con ellos y ellos serán su pueblo, y Dios, habitando realmente en medio de ellos, será su Dios.",
+        "Y enjugará toda lágrima de sus ojos; y no habrá ya muerte, ni llanto, ni lamento, ni dolor, porque todo lo anterior ya pasó.",
+        "El que estaba sentado en el trono dijo: —Mira, hago nuevas todas las cosas. Y añadió: —Escribe: «Estas palabras son fidedignas y veraces."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:1-7",
+      "texto": [
+        "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación.",
+        "Vayamos a su presencia con acción de gracias, aclamémosle con salmos.",
+        "Porque el Señor es Dios Grande, el Gran Rey sobre todos los dioses.",
+        "En su mano están las simas de la tierra, suyas son las cumbres de los montes.",
+        "Suyo es el mar, pues Él lo hizo, y la tierra firme que modelaron sus manos.",
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 10:22-30",
+      "texto": [
+        "Se celebraba por aquel tiempo en Jerusalén la fiesta de la Dedicación. Era invierno.",
+        "Paseaba Jesús por el Templo, en el pórtico de Salomón.",
+        "Entonces le rodearon los judíos y comenzaron a decirle: —¿Hasta cuándo nos vas a tener en vilo? Si tú eres el Cristo, dínoslo claramente.",
+        "Les respondió Jesús: —Os lo he dicho y no lo creéis; las obras que hago en nombre de mi Padre son las que dan testimonio de mí.",
+        "Pero vosotros no creéis porque no sois de mis ovejas.",
+        "Mis ovejas escuchan mi voz, yo las conozco y me siguen.",
+        "Yo les doy vida eterna; no perecerán jamás y nadie las arrebatará de mi mano.",
+        "Mi Padre, que me las dio, es mayor que todos; y nadie puede arrebatarlas de la mano del Padre.",
+        "Yo y el Padre somos uno."
+      ]
+    }
+  }
+}

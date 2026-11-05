@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-04-20",
+  "fiesta": "Se celebraba por aquel tiempo en Jerusalén la fiesta de la Dedicación. Era invierno.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 11:19-26",
+      "texto": [
+        "Los que se habían dispersado por la tribulación surgida por lo de Esteban llegaron hasta Fenicia, Chipre y Antioquía, predicando la palabra sólo a los judíos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 10:22-30",
+      "texto": [
+        "La mano del Señor estaba con ellos y un gran número creyó y se convirtió al Señor.",
+        "Llegó esta noticia a oídos de la iglesia que había en Jerusalén, y enviaron a Bernabé a Antioquía.",
+        "Cuando llegó y vio la gracia de Dios se alegró, y a todos les exhortaba a permanecer en el Señor con un corazón firme,",
+        "porque era un hombre bueno y lleno del Espíritu Santo y de fe. Y una gran muchedumbre se adhirió al Señor.",
+        "Marchó Bernabé a Tarso para buscar a Saulo,",
+        "lo encontró y lo condujo a Antioquía. Estuvieron juntos en aquella iglesia un año entero y adoctrinaron a una gran muchedumbre. Fue en Antioquía donde los discípulos recibieron por primera vez el nombre de cristianos.",
+        "Se celebraba por aquel tiempo en Jerusalén la fiesta de la Dedicación. Era invierno.",
+        "Paseaba Jesús por el Templo, en el pórtico de Salomón.",
+        "Entonces le rodearon los judíos y comenzaron a decirle: —¿Hasta cuándo nos vas a tener en vilo? Si tú eres el Cristo, dínoslo claramente.",
+        "Les respondió Jesús: —Os lo he dicho y no lo creéis; las obras que hago en nombre de mi Padre son las que dan testimonio de mí.",
+        "Pero vosotros no creéis porque no sois de mis ovejas.",
+        "Mis ovejas escuchan mi voz, yo las conozco y me siguen.",
+        "Yo les doy vida eterna; no perecerán jamás y nadie las arrebatará de mi mano.",
+        "Mi Padre, que me las dio, es mayor que todos; y nadie puede arrebatarlas de la mano del Padre.",
+        "Yo y el Padre somos uno."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 87:1-7",
+      "texto": [
+        "De los hijos de Coré. Salmo. Cántico. En los montes santos están sus cimientos.",
+        "El Señor ama las puertas de Sión más que todas las moradas de Jacob.",
+        "¡Grandezas se dicen de ti, ciudad de Dios!",
+        "Contaré a Rahab y Babilonia entre los que me reconocen. Filistea, Tiro y Etiopía han nacido allí.",
+        "Y de Sión se dirá: «Éste hombre y aquél han nacido en ella. El propio Altísimo la erigió.",
+        "El Señor escribirá en el registro de los pueblos: «Éste ha nacido allí.",
+        "Cantores y músicos entonarán: «En ti están todas mis fuentes."
+      ]
+    }
+  }
+}

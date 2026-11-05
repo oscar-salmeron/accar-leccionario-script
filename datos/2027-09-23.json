@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-09-23",
+  "fiesta": "San Pío de Pietrelcina, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ageo 1:1-8",
+      "texto": [
+        "El año segundo del rey Darío, el día primero del sexto mes, la palabra del Señor fue dirigida, por medio del profeta Ageo, a Zorobabel, hijo de Sealtiel, gobernador de Judá, y a Josué, hijo de Yosadac, sumo sacerdote, diciéndoles:",
+        "—Así dice el Señor de los ejércitos: «Este pueblo va diciendo: “Aún no ha llegado el momento de reconstruir el Templo del Señor”.",
+        "Entonces, la palabra del Señor fue dirigida, por medio del profeta Ageo, diciendo:",
+        "—¿Acaso os ha llegado a vosotros el momento de habitar en vuestras casas artesonadas mientras este Templo sigue en ruinas?",
+        "Ahora, así dice el Señor de los ejércitos: «Reflexionad bien sobre vuestra conducta:",
+        "Sembrasteis mucho y habéis cosechado poco; comisteis y no os habéis saciado, bebisteis y no os habéis embriagado, os vestisteis y no os habéis calentado; y el jornalero ha echado su paga en saco roto.",
+        "Así dice el Señor de los ejércitos: «Reflexionad bien sobre vuestra conducta:",
+        "Subid al monte, traed madera, reconstruid el Templo, que Yo me complaceré en él y seré glorificado —dice el Señor—."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 149:1-6, 9",
+      "texto": [
+        "¡Aleluya! Cantad al Señor un cántico nuevo, esté su alabanza en la asamblea de los fieles.",
+        "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión.",
+        "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras.",
+        "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación.",
+        "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,",
+        "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos.",
+        "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:7-9",
+      "texto": [
+        "El tetrarca Herodes oyó todo lo que ocurría y estaba perplejo, porque unos decían que Juan había resucitado de entre los muertos,",
+        "otros que Elías había aparecido, otros que había resucitado alguno de los antiguos profetas.",
+        "Y dijo Herodes: —A Juan lo he decapitado yo, ¿quién es, entonces, éste del que oigo tales cosas? Y deseaba verlo."
+      ]
+    }
+  }
+}

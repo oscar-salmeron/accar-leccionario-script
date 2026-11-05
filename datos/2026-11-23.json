@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-11-23",
+  "fiesta": "Beato Miguel Agustin Pro, Presbítero, Mártir (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 14:1-5",
+      "texto": [
+        "Entonces, en la visión, el Cordero estaba en pie sobre el monte Sión y con él ciento cuarenta y cuatro mil, que llevaban escrito en la frente el nombre de él y el nombre de su Padre.",
+        "Y oí una voz del cielo, semejante al ruido de muchas aguas y al estruendo de un gran trueno. La voz que oí era como el canto de citaristas que tañían sus cítaras,",
+        "cantando un cántico nuevo delante del trono y delante de los cuatro seres y de los ancianos. Y ninguno podía aprender el cántico más que aquellos ciento cuarenta y cuatro mil, que fueron rescatados de la tierra.",
+        "Éstos son los que no se mancillaron con mujeres, porque son vírgenes. Éstos son los que siguen al Cordero dondequiera que vaya. Éstos han sido rescatados de entre los hombres como primicias para Dios y para el Cordero;",
+        "y no se halló mentira en su boca: no tienen mancha."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 24:1-6",
+      "texto": [
+        "De David. Salmo. Del Señor es la tierra y cuanto hay en ella, el orbe y los que lo habitan.",
+        "Él la cimentó sobre los mares y la asentó sobre los ríos.",
+        "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?",
+        "El de manos inocentes y de corazón puro, el que no dirige su alma a la vanidad, ni jura en falso.",
+        "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador.",
+        "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:1-4",
+      "texto": [
+        "Al levantar la vista, vio a unos ricos que echaban sus ofrendas en el gazofilacio.",
+        "Vio también a una viuda pobre que echaba allí dos monedas pequeñas,",
+        "y dijo: —En verdad os digo que esta viuda pobre ha echado más que todos;",
+        "pues todos estos han echado como ofrenda algo de lo que les sobra, ella, en cambio, en su necesidad ha echado todo lo que tenía para su sustento."
+      ]
+    }
+  }
+}

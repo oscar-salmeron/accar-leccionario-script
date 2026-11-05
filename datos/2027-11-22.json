@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-11-22",
+  "fiesta": "Santa Cecilia, Virgen, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 1:1-6, 20",
+      "texto": [
+        "El año tercero del reinado de Yoyaquim, rey de Judá, Nabucodonosor, rey de Babilonia, llegó a Jerusalén y la sitió.",
+        "El Señor puso en sus manos a Yoyaquim, rey de Judá, y parte de los objetos del Templo. Nabucodonosor los llevó a Sinar, al templo de su dios, y depositó los objetos en la cámara del tesoro de su dios.",
+        "El rey ordenó a Aspenaz, capitán de sus guardias, traer a algunos israelitas de estirpe real y de familias nobles,",
+        "jóvenes que no tuviesen ningún defecto físico, de buen parecer, instruidos en toda clase de sabiduría, prudentes e inteligentes, que fuesen aptos para vivir en el palacio real, y que se les enseñase la escritura y la lengua de los caldeos.",
+        "El rey les asignó una ración diaria de la comida real y del vino que él bebía, para que fueran educados durante tres años y después estuvieran al servicio del rey.",
+        "Entre ellos había algunos judíos: Daniel, Ananías, Misael y Azarías.",
+        "Daniel se propuso en su corazón que no se iba a contaminar con la comida del rey ni con el vino que bebía, y pidió al capitán de los guardias no contaminarse.",
+        "Dios concedió a Daniel gracia y misericordia ante el capitán de los guardias.",
+        "El capitán de los guardias le dijo a Daniel: —Tengo miedo a mi señor, el rey, que ha asignado vuestra comida y vuestra bebida, porque, si ve vuestros rostros más macilentos que los de los jóvenes de vuestra edad, ponéis en peligro mi cabeza delante del rey.",
+        "Daniel le propuso al encargado que el capitán de los guardias había designado para Daniel, Ananías, Misael y Azarías:",
+        "—Por favor, pon a prueba a tus siervos durante diez días y que nos den legumbres para comer y agua para beber.",
+        "Que después examinen ante ti nuestro aspecto y el de los jóvenes que comen de la comida real, y según lo que veas actúa con tus siervos.",
+        "Él les aceptó esta propuesta y los puso a prueba durante diez días.",
+        "Al cabo de diez días ellos presentaban mejor aspecto y estaban más robustos que todos los jóvenes que comían la comida real.",
+        "Entonces el encargado se llevaba la comida y el vino que habían de beber, y les daba legumbres.",
+        "A aquellos cuatro jóvenes Dios les concedió inteligencia, comprensión de cualquier escritura y sabiduría; y Daniel entendía todas las visiones y sueños.",
+        "Pasados los días que había fijado el rey para que se los presentaran, el capitán de los guardias los llevó ante Nabucodonosor.",
+        "El rey habló con ellos y, de entre todos, no se encontró ninguno como Daniel, Ananías, Misael y Azarías, por lo que quedaron al servicio del rey.",
+        "En cuantos asuntos de sabiduría e inteligencia les consultó el rey, los encontró diez veces superiores a todos los magos y adivinos que había en su reino."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Daniel 3:52-56",
+      "texto": [
+        "—Bendito eres, Señor, Dios de nuestros padres, digno de alabanza y ensalzado por los siglos. Bendito el santo Nombre de tu gloria, muy digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres en el Templo de tu santa gloria, muy digno de alabanza y glorioso por los siglos.",
+        "Bendito eres sobre el trono de tu reino: muy digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres Tú, que sondeas los abismos sentado sobre querubines, digno de alabanza y ensalzado por los siglos.",
+        "Bendito eres en la bóveda del cielo, digno de alabanza y glorioso por los siglos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:1-4",
+      "texto": [
+        "Al levantar la vista, vio a unos ricos que echaban sus ofrendas en el gazofilacio.",
+        "Vio también a una viuda pobre que echaba allí dos monedas pequeñas,",
+        "y dijo: —En verdad os digo que esta viuda pobre ha echado más que todos;",
+        "pues todos estos han echado como ofrenda algo de lo que les sobra, ella, en cambio, en su necesidad ha echado todo lo que tenía para su sustento."
+      ]
+    }
+  }
+}

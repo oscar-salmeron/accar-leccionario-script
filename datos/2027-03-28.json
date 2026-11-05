@@ -1,0 +1,58 @@
+{
+  "fecha": "2027-03-28",
+  "fiesta": "Domingo de Pascua de la Resurrección del Señor (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 10:34, 43",
+      "texto": [
+        "Pedro comenzó a hablar: —En verdad comprendo que Dios no hace acepción de personas,",
+        "Vosotros sabéis lo ocurrido por toda Judea, comenzando por Galilea, después del bautismo que predicó Juan:",
+        "cómo a Jesús de Nazaret le ungió Dios con el Espíritu Santo y poder, y cómo pasó haciendo el bien y sanando a todos los oprimidos por el diablo, porque Dios estaba con él.",
+        "Y nosotros somos testigos de todo lo que hizo en la región de los judíos y en Jerusalén; de cómo le dieron muerte colgándolo de un madero.",
+        "Pero Dios le resucitó al tercer día y le concedió manifestarse,",
+        "no a todo el pueblo, sino a testigos elegidos de antemano por Dios, a nosotros, que comimos y bebimos con él después que resucitó de entre los muertos;",
+        "y nos mandó predicar al pueblo y atestiguar que a él es a quien Dios ha constituido juez de vivos y muertos.",
+        "Acerca de él testimonian todos los profetas que todo el que cree en él recibe por su nombre el perdón de los pecados."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 118:1-2, 17, 23",
+      "texto": [
+        "¡Aleluya! Dad gracias al Señor porque es bueno, porque es eterna su misericordia.",
+        "Diga Israel: «El Señor es bueno. Eterna es su misericordia.",
+        "la diestra del Señor se ha alzado, la diestra del Señor hace proezas.",
+        "No he de morir, viviré para anunciar las obras del Señor.",
+        "La piedra que desecharon los constructores ésta ha llegado a ser la piedra angular.",
+        "Es el Señor quien ha hecho esto y es admirable a nuestros ojos."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Colosenses 3:1-4",
+      "texto": [
+        "Así pues, si habéis resucitado con Cristo, buscad las cosas de arriba, donde Cristo está sentado a la derecha de Dios;",
+        "sentid las cosas de arriba, no las de la tierra.",
+        "Pues habéis muerto, y vuestra vida está escondida con Cristo en Dios.",
+        "Cuando Cristo, vuestra vida, se manifieste, entonces también vosotros apareceréis gloriosos con él."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:1-9",
+      "texto": [
+        "El día siguiente al sábado, muy temprano, cuando todavía estaba oscuro, fue María Magdalena al sepulcro y vio quitada la piedra del sepulcro.",
+        "Entonces echó a correr, llegó hasta donde estaban Simón Pedro y el otro discípulo, el que Jesús amaba, y les dijo: —Se han llevado al Señor del sepulcro y no sabemos dónde lo han puesto.",
+        "Salió Pedro con el otro discípulo y fueron al sepulcro.",
+        "Los dos corrían juntos, pero el otro discípulo corrió más aprisa que Pedro y llegó antes al sepulcro.",
+        "Se inclinó y vio allí los lienzos plegados, pero no entró.",
+        "Llegó tras él Simón Pedro, entró en el sepulcro y vio los lienzos plegados,",
+        "y el sudario que había sido puesto en su cabeza, no plegado junto con los lienzos, sino aparte, todavía enrollado, en un sitio.",
+        "Entonces entró también el otro discípulo que había llegado antes al sepulcro, vio y creyó.",
+        "No entendían aún la Escritura según la cual era preciso que resucitara de entre los muertos."
+      ]
+    }
+  }
+}

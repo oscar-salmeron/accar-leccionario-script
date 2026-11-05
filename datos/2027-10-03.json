@@ -1,0 +1,62 @@
+{
+  "fecha": "2027-10-03",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 2:18-24",
+      "texto": [
+        "Entonces dijo el Señor Dios: —No es bueno que el hombre esté solo; voy a hacerle una ayuda adecuada para él.",
+        "El Señor Dios formó de la tierra todos los animales del campo y todas las aves del cielo, y los llevó ante el hombre para ver cómo los llamaba, de modo que cada ser vivo tuviera el nombre que él le hubiera impuesto.",
+        "Y el hombre puso nombre a todos los ganados, a las aves del cielo y a todas las fieras del campo; pero para él no encontró una ayuda adecuada.",
+        "Entonces el Señor Dios infundió un profundo sueño al hombre y éste se durmió; tomó luego una de sus costillas y cerró el hueco con carne.",
+        "Y el Señor Dios, de la costilla que había tomado del hombre, formó una mujer y la presentó al hombre.",
+        "Entonces dijo el hombre: —Ésta sí es hueso de mis huesos, y carne de mi carne. Se la llamará mujer, porque del varón fue hecha.",
+        "Por eso, dejará el hombre a su padre y a su madre y se unirá a su mujer y serán una sola carne."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 128:1-6",
+      "texto": [
+        "Canto de las subidas. Dichoso el que teme al Señor y anda por sus caminos.",
+        "Del trabajo de tus manos comerás; serás dichoso, y te irá bien.",
+        "Tu mujer será como viña fecunda paredes adentro de tu casa. Tus hijos, como brotes de olivos, en torno a tu mesa.",
+        "Pues así es bendecido el hombre que teme al Señor.",
+        "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén todos los días de tu vida.",
+        "Que veas los hijos de tus hijos. ¡Paz a Israel!"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 2:9-11",
+      "texto": [
+        "En cambio, a aquel que fue hecho por un momento inferior a los ángeles, a Jesús, le vemos coronado de gloria y honor a causa de la muerte padecida. De modo que, por gracia de Dios, experimentó la muerte en beneficio de todos.",
+        "Porque convenía que Aquel para quien y por quien son todas las cosas, habiéndose propuesto llevar muchos hijos a la gloria, perfeccionase mediante los sufrimientos al que iba a llevarlos a la salvación.",
+        "Porque quien santifica y quienes son santificados vienen todos de uno solo; por eso no se avergüenza de llamarlos hermanos,"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:2-16",
+      "texto": [
+        "Se acercaron entonces unos fariseos que le preguntaban, para tentarle, si le es lícito al marido repudiar a la mujer.",
+        "Él les respondió: —¿Qué os mandó Moisés?",
+        "—Moisés permitió escribir el libelo de repudio y despedirla —dijeron ellos.",
+        "Pero Jesús les dijo: —Por la dureza de vuestro corazón os escribió este precepto.",
+        "Pero en el principio de la creación los hizo hombre y mujer.",
+        "Por eso dejará el hombre a su padre y a su madre y se unirá a su mujer,",
+        "y serán los dos una sola carne. De modo que ya no son dos, sino una sola carne.",
+        "Por tanto, lo que Dios ha unido, que no lo separe el hombre.",
+        "Una vez en la casa, sus discípulos volvieron a preguntarle sobre esto.",
+        "Y les dijo: —Cualquiera que repudie a su mujer y se case con otra, comete adulterio contra aquélla;",
+        "y si la mujer repudia a su marido y se casa con otro, comete adulterio.",
+        "Le presentaban unos niños para que los tomara en sus brazos; pero los discípulos les reñían.",
+        "Al verlo Jesús se enfadó y les dijo: —Dejad que los niños vengan a mí, y no se lo impidáis, porque de los que son como ellos es el Reino de Dios.",
+        "En verdad os digo: quien no reciba el Reino de Dios como un niño no entrará en él.",
+        "Y abrazándolos, los bendecía imponiéndoles las manos."
+      ]
+    }
+  }
+}

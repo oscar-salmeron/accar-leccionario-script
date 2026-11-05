@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-09-09",
+  "fiesta": "San Pedro Claver, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Colosenses 3:12-17",
+      "texto": [
+        "Por tanto, como elegidos de Dios, santos y amados, revestíos de entrañas de misericordia, de bondad, de humildad, de mansedumbre, de paciencia.",
+        "Sobrellevaos mutuamente y perdonaos cuando alguno tenga queja contra otro; como el Señor os ha perdonado, hacedlo así también vosotros.",
+        "Sobre todo, revestíos con la caridad, que es el vínculo de la perfección.",
+        "Y que la paz de Cristo se adueñe de vuestros corazones: a ella habéis sido llamados en un solo cuerpo. Y sed agradecidos.",
+        "Que la palabra de Cristo habite en vosotros abundantemente. Enseñaos con la verdadera sabiduría, animaos unos a otros con salmos, himnos y cánticos espirituales, cantando agradecidos a Dios en vuestros corazones.",
+        "Y todo cuanto hagáis de palabra o de obra, hacedlo todo en nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 150:1-6",
+      "texto": [
+        "¡Aleluya! Alabad a Dios en su Santuario, alabadle en el firmamento de su poder.",
+        "Alabadle por sus proezas, alabadle por su inmensa grandeza.",
+        "Alabadle con el sonido del cuerno, alabadle con arpas y cítaras.",
+        "Alabadle con panderos y danzas, alabadle con laúdes y flautas.",
+        "Alabadle con címbalos sonoros, alabadle con címbalos de júbilo.",
+        "Todo ser que respira alabe al Señor. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 6:27-38",
+      "texto": [
+        "Pero a vosotros que me escucháis os digo: amad a vuestros enemigos, haced bien a los que os odian;",
+        "bendecid a los que os maldicen y rogad por los que os calumnian.",
+        "Al que te pegue en una mejilla ofrécele también la otra, y al que te quite el manto no le niegues tampoco la túnica.",
+        "Da a todo el que te pida, y al que tome lo tuyo no se lo reclames.",
+        "Como queráis que hagan los hombres con vosotros, hacedlo de igual manera con ellos.",
+        "Si amáis a los que os aman, ¿qué mérito tendréis?, pues también los pecadores aman a quienes les aman.",
+        "Y si hacéis el bien a quienes os hacen el bien, ¿qué mérito tendréis?, pues también los pecadores hacen lo mismo.",
+        "Y si prestáis a aquellos de quienes esperáis recibir, ¿qué mérito tendréis?, pues también los pecadores prestan a los pecadores para recibir otro tanto.",
+        "Por el contrario, amad a vuestros enemigos, haced el bien y prestad sin esperar nada por ello; y será grande vuestra recompensa, y seréis hijos del Altísimo, porque Él es bueno con los ingratos y con los malos.",
+        "Sed misericordiosos como vuestro Padre es misericordioso.",
+        "No juzguéis y no seréis juzgados; no condenéis y no seréis condenados. Perdonad y seréis perdonados;",
+        "dad y se os dará; echarán en vuestro regazo una buena medida, apretada, colmada, rebosante: porque con la misma medida con que midáis se os medirá."
+      ]
+    }
+  }
+}

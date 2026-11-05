@@ -1,0 +1,48 @@
+{
+  "fecha": "2026-11-12",
+  "fiesta": "San Josafat, Obispo, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "",
+      "texto": [
+        "Pues, en verdad, he tenido gran alegría y consuelo por tu caridad, porque, gracias a ti, hermano, los corazones de los santos han encontrado alivio.",
+        "Por ello, aun teniendo plena libertad en Cristo para mandarte lo que conviene,",
+        "prefiero rogar en nombre de la caridad —y eso que soy Pablo, ya anciano y ahora además prisionero de Cristo Jesús—.",
+        "Te ruego en favor de mi hijo Onésimo, a quien engendré entre cadenas,",
+        "en otro tiempo inútil para ti pero ahora útil para ti y para mí:",
+        "a éste te lo devuelvo como si fuera mi corazón."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:20-25",
+      "texto": [
+        "Pero no he querido hacer nada sin tu consentimiento, para que tu buena acción no sea forzada, sino voluntaria.",
+        "Quizá por eso se alejó algún tiempo, para que ahora lo recuperes para siempre,",
+        "no ya como siervo, sino más que siervo, como hermano muy amado, en primer lugar para mí, pero ¡cuánto más para ti!, no sólo en lo humano, sino también en el Señor.",
+        "Por tanto, si me consideras hermano en la fe, acógelo como si fuera yo mismo.",
+        "Si te perjudicó o te debe algo, cárgalo a mi cuenta.",
+        "Yo, Pablo, lo he escrito de mi puño y letra; yo te pagaré, por no decirte que tú mismo te me debes.",
+        "Sí, hermano, que yo reciba de ti este gozo en el Señor. Consuela en Cristo mi corazón.",
+        "Interrogado por los fariseos sobre cuándo llegaría el Reino de Dios, él les respondió: —El Reino de Dios no viene con espectáculo;",
+        "ni se podrá decir: «Mirad, está aquí, o «está allí; porque daos cuenta de que el Reino de Dios está ya en medio de vosotros.",
+        "Y les dijo a los discípulos: —Vendrá un tiempo en que desearéis ver uno solo de los días del Hijo del Hombre, y no lo veréis.",
+        "Entonces os dirán: «Mirad, está aquí, o «mirad, está allí. No vayáis ni corráis detrás.",
+        "Porque, como el relámpago fulgurante brilla de un extremo a otro del cielo, así será en su día el Hijo del Hombre.",
+        "Pero es necesario que antes padezca mucho y sea reprobado por esta generación."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 146:7-10",
+      "texto": [
+        "que hace justicia a los oprimidos, da pan a los hambrientos. El Señor libera a los cautivos;",
+        "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan; el Señor ama a los justos.",
+        "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda, pero tuerce el camino de los impíos.",
+        "El Señor reina eternamente, tu Dios, Sión, de generación en generación."
+      ]
+    }
+  }
+}

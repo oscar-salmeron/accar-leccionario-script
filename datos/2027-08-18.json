@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-08-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jueces 9:6-15",
+      "texto": [
+        "Se reunieron todos los habitantes de Siquem y todo Bet–Miló y fueron a proclamar rey a Abimélec junto a la encina de la estela que hay en Siquem.",
+        "Cuando se lo contaron a Jotam, éste fue y se plantó en la cumbre del monte Garizim, y les dijo a grandes voces: —Escuchadme, habitantes de Siquem, y Dios os escuchará:",
+        "«Los árboles fueron a ungir un rey sobre ellos y dijeron al olivo: “Reina sobre nosotros”.",
+        "Y el olivo les respondió: “¿Cómo voy a dejar el aceite por el que me ensalzan los dioses y los hombres para ir a mecerme sobre los árboles?”.",
+        "Entonces los árboles se dirigieron a la higuera: “Ven tú y reina sobre nosotros”.",
+        "Y ésta les contestó: “¿Cómo voy a dejar mi dulzura y mi buen fruto para ir a mecerme sobre los árboles?”.",
+        "Los árboles se dirigieron entonces a la vid: “Ven tú y reina sobre nosotros”.",
+        "La vid les respondió: “¿Cómo voy a dejar mi mosto que alegra a los dioses y a los hombres para ir a mecerme sobre los árboles?”.",
+        "Dijeron, pues, todos los árboles al espino: “Ven tú y reina sobre nosotros”.",
+        "Y el espino respondió a los árboles: “Si me ungís de verdad como rey vuestro, venid a cobijaros bajo mi sombra, pero si no, saldrá un fuego del espino que devorará los cedros del Líbano”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 21:2-7",
+      "texto": [
+        "Señor, el rey se alegra por tu fuerza, ¡cuánto se goza por tu salvación!",
+        "Le has concedido el deseo de su corazón, no has rechazado la petición de sus labios.",
+        "Te has adelantado con bendiciones propicias: has puesto en su cabeza una corona de oro fino.",
+        "Te pidió vida y se la has dado, largos días duraderos, sin fin.",
+        "Grande es su gloria por tu salvación, le concedes honor y majestad.",
+        "Le otorgas continuas bendiciones, lo colmas de gozo en tu presencia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 20:1-16",
+      "texto": [
+        "El Reino de los Cielos es como un hombre, dueño de una propiedad, que salió al amanecer a contratar obreros para su viña.",
+        "Después de haber convenido con los obreros en un denario al día, los envió a su viña.",
+        "Salió también hacia la hora tercia y vio a otros que estaban en la plaza parados,",
+        "y les dijo: «Id también vosotros a mi viña y os daré lo que sea justo.",
+        "Ellos marcharon. De nuevo salió hacia la hora sexta y de nona e hizo lo mismo.",
+        "Hacia la hora undécima volvió a salir y todavía encontró a otros parados, y les dijo: «¿Cómo es que estáis aquí todo el día ociosos?",
+        "Le contestaron: «Porque nadie nos ha contratado. Les dijo: «Id también vosotros a mi viña.",
+        "A la caída de la tarde le dijo el amo de la viña a su administrador: «Llama a los obreros y dales el jornal, empezando por los últimos hasta llegar a los primeros.",
+        "Vinieron los de la hora undécima y percibieron un denario cada uno.",
+        "Y cuando llegaron los primeros pensaron que cobrarían más, pero también ellos recibieron un denario cada uno.",
+        "Al recibirlo, se pusieron a murmurar contra el dueño:",
+        "«A estos últimos que han trabajado sólo una hora los has hecho iguales a nosotros, que hemos soportado el peso del día y del calor.",
+        "Él le respondió a uno de ellos: «Amigo, no te hago ninguna injusticia; ¿acaso no conviniste conmigo en un denario?",
+        "Toma lo tuyo y vete; quiero dar a este último lo mismo que a ti.",
+        "¿No puedo yo hacer con lo mío lo que quiero? ¿O es que vas a ver con malos ojos que yo sea bueno?",
+        "Así los últimos serán primeros y los primeros últimos."
+      ]
+    }
+  }
+}

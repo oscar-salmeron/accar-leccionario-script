@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-01-25",
+  "fiesta": "Conversión de San Pablo, Apóstol (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 22:3-16",
+      "texto": [
+        "—Yo soy judío, nacido en Tarso de Cilicia, educado en esta ciudad e instruido a los pies de Gamaliel según la observancia de la Ley patria, y estoy lleno de celo de Dios como lo estáis vosotros en el día de hoy.",
+        "Yo perseguí a muerte este Camino, encadenando y encarcelando a hombres y mujeres,",
+        "como me lo puede atestiguar el sumo sacerdote y todo el Sanedrín. De ellos recibí cartas para los hermanos y me encaminé a Damasco para traer aherrojados a Jerusalén a quienes allí hubiera, con el fin de castigarlos.",
+        "Pero cuando iba de camino, cerca de Damasco, hacia el mediodía, me envolvió de repente una gran luz venida del cielo,",
+        "caí al suelo y oí una voz que me decía: «Saulo, Saulo, ¿por qué me persigues?",
+        "Yo respondí: «¿Quién eres, Señor? Y me contestó: «Yo soy Jesús Nazareno, a quien tú persigues.",
+        "Los que estaban conmigo vieron la luz, pero no oyeron la voz del que me hablaba.",
+        "Yo dije: «¿Qué tengo que hacer, Señor? Y el Señor me respondió: «Levántate y entra en Damasco: allí se te dirá todo lo que debes hacer.",
+        "Como yo no veía a causa del resplandor de aquella luz, tuve que entrar en Damasco conducido de la mano de mis acompañantes.",
+        "Ananías, un varón piadoso según la Ley y acreditado por todos los judíos que allí vivían,",
+        "vino y de pie delante de mí me dijo: «Saulo, hermano, recobra tu vista. Y en el mismo instante le pude ver.",
+        "Él me dijo: «El Dios de nuestros padres te ha elegido para que conocieras su voluntad, vieras al Justo y oyeras la voz de su boca,",
+        "porque serás su testigo ante todos los hombres de lo que has visto y oído.",
+        "Ahora, ¿qué esperas? Levántate y recibe el bautismo y lava tus pecados, invocando su nombre."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 117:1-2",
+      "texto": [
+        "¡Aleluya! Alabad al Señor todas las naciones, aclamadlo todos los pueblos.",
+        "Porque firme es con nosotros su misericordia, la fidelidad del Señor permanece para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 16:15-18",
+      "texto": [
+        "El que crea y sea bautizado será salvado; pero el que no crea será condenado.",
+        "A los que crean acompañarán estos signos: en mi nombre expulsarán demonios, hablarán lenguas nuevas,",
+        "agarrarán serpientes con las manos y, si bebieran algún veneno, no les dañará; impondrán las manos sobre los enfermos y quedarán curados."
+      ]
+    }
+  }
+}

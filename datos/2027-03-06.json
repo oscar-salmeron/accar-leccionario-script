@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-03-06",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Oseas 6:1-6",
+      "texto": [
+        "«Andad, volvamos al Señor, porque Él nos desgarró, y Él nos sanará, Él nos hirió, Él nos curará.",
+        "En dos días nos hará revivir, y al tercero nos levantará para que vivamos en su presencia.",
+        "Conozcamos, apresurémonos a conocer al Señor. Cierta como la aurora es su salida, y vendrá a nosotros como lluvia de otoño, como lluvia de primavera que empapa la tierra.",
+        "¿Qué haré contigo, Efraím? ¿Qué haré contigo, Judá? Vuestro amor es como bruma matinal, como rocío pasajero del amanecer.",
+        "Por eso los tallo con los profetas, los mato con las palabras de mi boca, y mis juicios despuntan como la luz.",
+        "Porque misericordia quiero y no sacrificio, y conocimiento de Dios, más que holocaustos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 51:3-4, 21",
+      "texto": [
+        "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión borra mi delito.",
+        "Lávame por completo de mi culpa, y purifícame de mi pecado.",
+        "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría.",
+        "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado, Dios mío, no lo desprecias.",
+        "Por tu benevolencia, favorece a Sión, reconstruye los muros de Jerusalén.",
+        "Entonces te complacerán los sacrificios legítimos, holocaustos y oblaciones; entonces, sobre tu altar, se ofrecerán novillos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 18:9-14",
+      "texto": [
+        "Dijo también esta parábola a algunos que confiaban en sí mismos teniéndose por justos y despreciaban a los demás:",
+        "—Dos hombres subieron al Templo a orar: uno era fariseo y el otro publicano.",
+        "El fariseo, quedándose de pie, oraba para sus adentros: «Oh Dios, te doy gracias porque no soy como los demás hombres, ladrones, injustos, adúlteros, ni como ese publicano.",
+        "Ayuno dos veces por semana, pago el diezmo de todo lo que poseo.",
+        "Pero el publicano, quedándose lejos, ni siquiera se atrevía a levantar los ojos al cielo, sino que se golpeaba el pecho diciendo: «Oh Dios, ten compasión de mí, que soy un pecador.",
+        "Os digo que éste bajó justificado a su casa, y aquél no. Porque todo el que se ensalza será humillado, y todo el que se humilla será ensalzado."
+      ]
+    }
+  }
+}

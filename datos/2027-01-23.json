@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-01-23",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 9:2-3, 14",
+      "texto": [
+        "porque se había construido un Tabernáculo con una primera estancia llamada «El Santo, donde se encontraban el candelabro, la mesa y los panes de la proposición.",
+        "Detrás del segundo velo estaba la segunda estancia, llamada «El Santo de los Santos,",
+        "Pero Cristo, al presentarse como Sumo Sacerdote de los bienes futuros a través de un Tabernáculo más excelente y perfecto —no hecho por mano de hombre, es decir, no de este mundo creado—",
+        "y a través de su propia sangre —no de la sangre de machos cabríos y becerros—, entró de una vez para siempre en el Santuario y consiguió así una redención eterna.",
+        "Porque si la sangre de machos cabríos y toros y la aspersión de la ceniza de una vaca pueden santificar a los impuros para la purificación de la carne,",
+        "¡cuánto más la sangre de Cristo, que por el Espíritu eterno se ofreció a sí mismo como víctima inmaculada a Dios, limpiará de las obras muertas nuestra conciencia para dar culto al Dios vivo!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 47:2-3, 9",
+      "texto": [
+        "Pueblos todos, batid palmas, aclamad a Dios con voces de júbilo.",
+        "Porque el Señor es el Altísimo, temible, el gran Rey en toda la tierra.",
+        "Dios sube entre aclamaciones, el Señor, al sonar de trompetas.",
+        "Cantad himnos a Dios, cantad, cantad himnos a nuestro rey, cantad.",
+        "Que Dios es el rey de toda la tierra, cantadle el himno más bello.",
+        "Dios reina sobre las naciones; Dios está sentado en su santo trono."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:20-21",
+      "texto": [
+        "Entonces llegó a casa; y se volvió a juntar la muchedumbre, de manera que no podían ni siquiera comer.",
+        "Se enteraron sus parientes y fueron a llevárselo porque decían que había perdido el juicio."
+      ]
+    }
+  }
+}

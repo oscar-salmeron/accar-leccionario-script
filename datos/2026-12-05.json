@@ -1,0 +1,46 @@
+{
+  "fecha": "2026-12-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 30:19-21, 26",
+      "texto": [
+        "Pueblo de Sión, que habitas en Jerusalén: no tendrás que llorar más. Él te concederá gracia a la voz de tu súplica. Tan pronto la oiga, te responderá.",
+        "El Señor te dará pan tasado y agua escasa, pero tu maestro no se ocultará más, sino que tus ojos verán a tu maestro",
+        "y tus oídos oirán a tus espaldas estas palabras: «Éste es el camino, marchad por él. No os desviéis a la derecha ni a la izquierda.",
+        "Entonces te dará lluvia para la semilla que hayas sembrado en la tierra, y será abundante y sustancioso el pan que te produzca la tierra. Aquel día tu ganado pastará en anchas praderas,",
+        "los bueyes y asnos que labran tu tierra comerán forraje salado, aventado con bieldo y criba.",
+        "En todo monte alto y toda colina elevada habrá arroyos y corrientes de agua el día de la gran matanza, cuando caigan las torres.",
+        "La luz de la luna será como la luz del sol de mediodía, y la luz del sol de mediodía será multiplicada por siete, como la luz de siete días, el día en que el Señor vende la herida de su pueblo y cure la fractura que le hizo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 147:1-6",
+      "texto": [
+        "¡Aleluya! Alabad al Señor: es bueno entonar salmos a nuestro Dios, es bella y dulce la alabanza.",
+        "El Señor edifica Jerusalén, Él reúne a los dispersos de Israel.",
+        "Sana a los contritos de corazón, venda sus heridas.",
+        "Él lleva la cuenta de las estrellas y llama a cada una por su nombre.",
+        "Grande es nuestro Señor, de inmenso poder, su inteligencia no tiene límite.",
+        "El Señor sustenta a los humildes, y humilla hasta el suelo a los impíos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:35--10:1, 5, 8",
+      "texto": [
+        "Al ver a las multitudes se llenó de compasión por ellas, porque estaban maltratadas y abatidas como ovejas que no tienen pastor.",
+        "Entonces les dijo a sus discípulos: —La mies es mucha, pero los obreros pocos.",
+        "Rogad, por tanto, al señor de la mies que envíe obreros a su mies.",
+        "Habiendo llamado a sus doce discípulos, les dio potestad para expulsar a los espíritus impuros y para curar todas las enfermedades y dolencias.",
+        "A estos doce los envió Jesús, después de darles estas instrucciones: —No vayáis a tierra de gentiles ni entréis en ciudad de samaritanos;",
+        "sino id primero a las ovejas perdidas de la casa de Israel.",
+        "Id y predicad: «El Reino de los Cielos está al llegar.",
+        "Curad a los enfermos, resucitad a los muertos, sanad a los leprosos, expulsad los demonios. Gratuitamente lo recibisteis, dadlo gratuitamente."
+      ]
+    }
+  }
+}

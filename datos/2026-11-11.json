@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-11-11",
+  "fiesta": "San Martín de Tours, Obispo (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tito 3:1-7",
+      "texto": [
+        "Recuérdales que estén sujetos a los gobernantes y a las autoridades: que les obedezcan, que estén dispuestos a hacer el bien,",
+        "sin injuriar a nadie ni darse a las discordias, sino que sean modestos, dando muestras de comprensión con todos los hombres.",
+        "Pues también nosotros éramos en otro tiempo insensatos, desobedientes, extraviados, esclavos de las concupiscencias y diversos placeres, viviendo inmersos en la malicia y en la envidia, aborrecibles y odiándonos unos a otros.",
+        "Pero cuando se manifestó la bondad de Dios, nuestro Salvador, y su amor a los hombres,",
+        "nos salvó, no por las obras justas que hubiéramos hecho nosotros, sino por su misericordia, mediante el baño de la regeneración y de la renovación en el Espíritu Santo,",
+        "que derramó copiosamente sobre nosotros por medio de Jesucristo nuestro Salvador,",
+        "para que, justificados por su gracia, fuéramos herederos de la vida eterna que esperamos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo; tu vara y tu cayado me sosiegan.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 17:11-19",
+      "texto": [
+        "Al ir de camino a Jerusalén, atravesaba los confines de Samaría y Galilea;",
+        "y, cuando iba a entrar en un pueblo, le salieron al paso diez leprosos, que se detuvieron a distancia",
+        "y le dijeron gritando: —¡Jesús, Maestro, ten piedad de nosotros!",
+        "Al verlos, les dijo: —Id y presentaos a los sacerdotes. Y mientras iban quedaron limpios.",
+        "Uno de ellos, al verse curado, se volvió glorificando a Dios a gritos,",
+        "y fue a postrarse a sus pies dándole gracias. Y éste era samaritano.",
+        "Ante lo cual dijo Jesús: —¿No son diez los que han quedado limpios? Los otros nueve, ¿dónde están?",
+        "¿No ha habido quien volviera a dar gloria a Dios más que este extranjero?",
+        "Y le dijo: —Levántate y vete; tu fe te ha salvado."
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-10-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 53:10-11",
+      "texto": [
+        "Dispuso el Señor quebrantarlo con dolencias. Puesto que dio su vida en expiación, verá descendencia, alargará los días, y, por su mano, el designio del Señor prosperará.",
+        "Por el esfuerzo de su alma verá la luz, se saciará de su conocimiento. El justo, mi siervo, justificará a muchos y cargará con sus culpas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:4-5, 20, 22",
+      "texto": [
+        "La palabra del Señor es recta, y hace con fidelidad todas sus obras.",
+        "Él ama la justicia y el derecho: la tierra está llena de su misericordia.",
+        "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,",
+        "para librar sus almas de la muerte, y hacerlos subsistir en la penuria.",
+        "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;",
+        "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 4:14-16",
+      "texto": [
+        "Ya que tenemos un Sumo Sacerdote que ha entrado en los cielos —Jesús, el Hijo de Dios—, mantengamos firme nuestra confesión de fe.",
+        "Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino que, de manera semejante a nosotros, ha sido probado en todo, excepto en el pecado.",
+        "Por lo tanto, acerquémonos confiadamente al trono de la gracia, para que alcancemos misericordia y encontremos la gracia que nos ayude en el momento oportuno."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:35-45",
+      "texto": [
+        "Entonces se acercan a él Santiago y Juan, los hijos de Zebedeo, diciéndole: —Maestro, queremos que nos concedas lo que te vamos a pedir.",
+        "Él les dijo: —¿Qué queréis que os haga?",
+        "Y ellos le contestaron: —Concédenos sentarnos uno a tu derecha y otro a tu izquierda en tu gloria.",
+        "Y Jesús les dijo: —No sabéis lo que pedís. ¿Podéis beber el cáliz que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?",
+        "—Podemos —le dijeron ellos. Jesús les dijo: —Beberéis el cáliz que yo bebo y seréis bautizados con el bautismo con que yo soy bautizado;",
+        "pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto.",
+        "Al oír esto los diez comenzaron a indignarse contra Santiago y Juan.",
+        "Entonces Jesús les llamó y les dijo: —Sabéis que los que figuran como jefes de las naciones las oprimen, y los poderosos las avasallan.",
+        "No tiene que ser así entre vosotros; al contrario: quien quiera llegar a ser grande entre vosotros, que sea vuestro servidor;",
+        "y quien entre vosotros quiera ser el primero, que sea esclavo de todos:",
+        "porque el Hijo del Hombre no ha venido a ser servido, sino a servir y a dar su vida en redención de muchos."
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "fecha": "2027-10-12",
+  "fiesta": "San Serafín de Montegranaro, Religioso (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 11:37-41",
+      "texto": [
+        "Pues en él se revela la justicia de Dios de la fe hacia la fe, como está escrito: El justo vivirá de la fe.",
+        "En efecto, la ira de Dios se revela desde el cielo sobre toda impiedad e injusticia de los hombres que tienen aprisionada la verdad en la injusticia.",
+        "Porque lo que se puede conocer de Dios es manifiesto en ellos, ya que Dios se lo ha mostrado.",
+        "Pues desde la creación del mundo las perfecciones invisibles de Dios —su eterno poder y su divinidad— se han hecho visibles a la inteligencia a través de las cosas creadas. De modo que son inexcusables,",
+        "porque habiendo conocido a Dios no le glorificaron como Dios ni le dieron gracias, sino que se envanecieron en sus razonamientos y se oscureció su insensato corazón:",
+        "presumiendo de sabios se hicieron necios",
+        "y llegaron a transferir la gloria del Dios incorruptible a imágenes que representan al hombre corruptible, y a aves, a cuadrúpedos y a reptiles.",
+        "Por eso Dios los abandonó a los malos deseos de sus corazones, a la impureza con que deshonran entre ellos sus propios cuerpos:",
+        "cambiaron la verdad de Dios por la mentira y dieron culto y adoraron a la criatura en lugar del Creador, que es bendito por los siglos. Amén.",
+        "Cuando terminó de hablar, cierto fariseo le rogó que comiera en su casa. Entró y se puso a la mesa.",
+        "El fariseo se quedó extrañado al ver que Jesús no se había lavado antes de la comida.",
+        "Pero el Señor le dijo: —Así que vosotros, los fariseos, limpiáis por fuera la copa y el plato, pero por dentro estáis llenos de rapiña y de maldad.",
+        "¡Insensatos! ¿Acaso quien hizo lo de fuera no ha hecho también lo de dentro?",
+        "Dad, más bien, limosna de lo que guardáis dentro, y así todo será límpio para vosotros."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:2-5",
+      "texto": [
+        "Los cielos pregonan la gloria de Dios y el firmamento anuncia la obra de sus manos.",
+        "Un día le anuncia el mensaje al otro día y una noche le da la noticia a la otra noche.",
+        "Sin discurso, sin palabras sin que se oiga su voz,",
+        "se esparce su rumor por toda la tierra, y su pregón hasta los confines del orbe. En éstos ha puesto una tienda para el sol."
+      ]
+    }
+  }
+}

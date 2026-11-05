@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-10-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 9:1-5",
+      "texto": [
+        "Os digo la verdad en Cristo, no miento, y mi conciencia me lo atestigua en el Espíritu Santo:",
+        "siento una pena muy grande y un continuo dolor en mi corazón.",
+        "Pues le pediría a Dios ser yo mismo anatema de Cristo en favor de mis hermanos, los que son de mi mismo linaje según la carne.",
+        "Ésos son los israelitas: a ellos pertenece la adopción de hijos y la gloria y la alianza y la legislación y el culto y las promesas;",
+        "de ellos son los patriarcas y de ellos según la carne desciende Cristo, el cual es sobre todas las cosas Dios bendito por los siglos. Amén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 147:12-15, 20",
+      "texto": [
+        "Glorifica al Señor, Jerusalén, alaba a tu Dios, Sión.",
+        "Porque ha reforzado los cerrojos de tus puertas, ha bendecido a tus hijos dentro de ti.",
+        "Él ha puesto paz en tus fronteras, te sacia con la flor del trigo.",
+        "Él envía su orden a la tierra, su palabra corre veloz.",
+        "Él anuncia su palabra a Jacob, sus decretos y sus preceptos a Israel.",
+        "No ha obrado así con ninguna otra nación, ni les ha dado a conocer sus preceptos. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 14:1-6",
+      "texto": [
+        "Un sábado, entró él a comer en casa de uno de los principales fariseos y ellos le estaban observando.",
+        "Y resultó que delante de él había un hombre hidrópico.",
+        "Y tomando la palabra, les dijo Jesús a los doctores de la Ley y a los fariseos: —¿Es lícito curar en sábado o no?",
+        "Pero ellos callaron. Y tomándolo, lo curó y lo despidió.",
+        "Y les dijo: —¿Quién de vosotros, si se le cae al pozo un hijo o un buey, no lo saca enseguida un día de sábado?",
+        "Y no pudieron responderle a esto."
+      ]
+    }
+  }
+}

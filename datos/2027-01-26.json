@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-01-26",
+  "fiesta": "San Timoteo y San Tito, Obispos (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 1:1-8",
+      "texto": [
+        "Pablo, apóstol de Cristo Jesús por voluntad de Dios para anunciar la vida prometida que hay en Cristo Jesús,",
+        "a Timoteo, mi querido hijo: gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús, Señor nuestro.",
+        "Doy gracias a Dios, a quien sirvo, como mis antepasados, con una conciencia pura, porque continuamente te tengo presente en mis oraciones noche y día.",
+        "Al acordarme de tus lágrimas estoy deseando verte para llenarme de alegría.",
+        "Me viene a la memoria tu fe sincera, que arraigó primero en tu abuela Loide y en tu madre Eunice, y estoy seguro de que también en ti.",
+        "Por esta razón, te recuerdo que tienes que reavivar el don de Dios que recibiste por la imposición de mis manos,",
+        "porque Dios no nos dio un espíritu de timidez, sino de fortaleza, caridad y templanza."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 3:31-35",
+      "texto": [
+        "Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo.",
+        "Y estaba sentada a su alrededor una muchedumbre, y le dicen: —Mira, tu madre, tus hermanos y tus hermanas te buscan fuera.",
+        "Y, en respuesta, les dice: —¿Quién es mi madre y quiénes mis hermanos?",
+        "Y mirando a los que estaban sentados a su alrededor, dice: —Éstos son mi madre y mis hermanos:",
+        "quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:1-3, 8, 10",
+      "texto": [
+        "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera.",
+        "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación.",
+        "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos.",
+        "Rendid al Señor, familias de los pueblos, rendid al Señor gloria y poder.",
+        "Rendid al Señor la gloria de su Nombre. Llevad ofrendas, entrad en sus atrios.",
+        "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará. Él juzga a los pueblos con rectitud."
+      ]
+    }
+  }
+}

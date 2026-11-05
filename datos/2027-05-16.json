@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-05-16",
+  "fiesta": "Domingo de Pentecostés (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 2:1-11",
+      "texto": [
+        "Al cumplirse el día de Pentecostés, estaban todos juntos en un mismo lugar.",
+        "Y de repente sobrevino del cielo un ruido, como de un viento que irrumpe impetuosamente, y llenó toda la casa en la que se hallaban.",
+        "Entonces se les aparecieron unas lenguas como de fuego, que se dividían y se posaban sobre cada uno de ellos.",
+        "Quedaron todos llenos del Espíritu Santo y comenzaron a hablar en otras lenguas, según el Espíritu les hacía expresarse.",
+        "Habitaban en Jerusalén judíos, hombres piadosos venidos de todas las naciones que hay bajo el cielo.",
+        "Al producirse aquel ruido se reunió la multitud y quedó perpleja, porque cada uno les oía hablar en su propia lengua.",
+        "Estaban asombrados y se admiraban diciendo: —¿Es que no son galileos todos estos que están hablando?",
+        "¿Cómo es, pues, que nosotros les oímos cada uno en nuestra propia lengua materna?",
+        "Partos, medos, elamitas, habitantes de Mesopotamia, de Judea y Capadocia, del Ponto y Asia,",
+        "de Frigia y Panfilia, de Egipto y la parte de Libia próxima a Cirene, forasteros romanos,",
+        "así como judíos y prosélitos, cretenses y árabes, les oímos hablar en nuestras propias lenguas las grandezas de Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 104:1, 24, 31, 34",
+      "texto": [
+        "Bendice, alma mía, al Señor. ¡Señor, Dios mío, qué grande eres! Te vistes de majestad y esplendor.",
+        "¡Qué numerosas son tus obras, Señor! Todas las hiciste con sabiduría. Llena está la tierra de tus criaturas.",
+        "Pero escondes tu rostro, y se turban; les retiras su aliento, y fenecen, vuelven al polvo.",
+        "Pero envías tu espíritu, y son creados y renuevas la faz de la tierra.",
+        "¡Sea por siempre la gloria del Señor! ¡Se alegre el Señor en sus obras!",
+        "Que le sea agradable mi poema. Yo me alegraré en el Señor."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 12:3-7, 13",
+      "texto": [
+        "Por eso os declaro que nadie que hable en el Espíritu de Dios dice: «¡Anatema Jesús!, y nadie puede decir: «¡Señor Jesús!, sino por el Espíritu Santo.",
+        "Hay, sí, diversidad de dones, pero el Espíritu es el mismo;",
+        "y diversidad de ministerios, pero el Señor es el mismo;",
+        "y diversidad de acciones, pero Dios es el mismo, que obra todo en todos.",
+        "A cada uno se le concede la manifestación del Espíritu para provecho común:",
+        "Porque así como el cuerpo es uno y tiene muchos miembros, y todos los miembros del cuerpo, aun siendo muchos, son un solo cuerpo, así también Cristo.",
+        "Porque todos nosotros, tanto judíos como griegos, tanto siervos como libres, fuimos bautizados en un mismo Espíritu para formar un solo cuerpo. Y todos hemos bebido de un solo Espíritu."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:19-23",
+      "texto": [
+        "Al atardecer de aquel día, el siguiente al sábado, con las puertas del lugar donde se habían reunido los discípulos cerradas por miedo a los judíos, vino Jesús, se presentó en medio de ellos y les dijo: —La paz esté con vosotros.",
+        "Y dicho esto les mostró las manos y el costado. Al ver al Señor, los discípulos se alegraron.",
+        "Les repitió: —La paz esté con vosotros. Como el Padre me envió, así os envío yo.",
+        "Dicho esto sopló sobre ellos y les dijo: —Recibid el Espíritu Santo;",
+        "a quienes les perdonéis los pecados, les son perdonados; a quienes se los retengáis, les son retenidos."
+      ]
+    }
+  }
+}

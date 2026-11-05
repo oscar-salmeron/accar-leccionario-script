@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-05-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 18:23-28",
+      "texto": [
+        "Pasó allí algún tiempo y marchó recorriendo una tras otra las regiones de Galacia y Frigia, confortando a todos los discípulos.",
+        "Un judío que se llamaba Apolo, de origen alejandrino, hombre elocuente y muy versado en las Escrituras, llegó a Éfeso.",
+        "Había sido instruido en el Camino del Señor. Hablaba con fervor de espíritu y enseñaba con esmero lo referente a Jesús, aunque sólo conocía el bautismo de Juan.",
+        "Comenzó a hablar con libertad en la sinagoga. Al oírle Priscila y Aquila le tomaron consigo y le expusieron con más exactitud el camino de Dios.",
+        "Como deseaba pasar a Acaya, los hermanos le animaron y escribieron a los discípulos para que le recibieran. Cuando llegó fue de gran provecho, con la gracia divina, para los que habían creído,",
+        "pues refutaba vigorosamente en público a los judíos, demostrando por las Escrituras que Jesús es el Cristo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 47:2-3, 10",
+      "texto": [
+        "Pueblos todos, batid palmas, aclamad a Dios con voces de júbilo.",
+        "Porque el Señor es el Altísimo, temible, el gran Rey en toda la tierra.",
+        "Que Dios es el rey de toda la tierra, cantadle el himno más bello.",
+        "Dios reina sobre las naciones; Dios está sentado en su santo trono.",
+        "Los príncipes de las naciones se unen al pueblo del Dios de Abrahán, pues a Dios pertenecen los poderosos de la tierra. ¡Él es el más sublime!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 16:23-28",
+      "texto": [
+        "Ese día no me preguntaréis nada. En verdad, en verdad os digo: si le pedís al Padre algo en mi nombre, os lo concederá.",
+        "Hasta ahora no habéis pedido nada en mi nombre; pedid y recibiréis, para que vuestra alegría sea completa.",
+        "Os he dicho todo esto con comparaciones. Llega la hora en que ya no hablaré con comparaciones, sino que claramente os anunciaré las cosas acerca del Padre.",
+        "Ese día pediréis en mi nombre, y no os digo que yo rogaré al Padre por vosotros,",
+        "ya que el Padre mismo os ama, porque vosotros me habéis amado y habéis creído que yo salí de Dios.",
+        "Salí del Padre y vine al mundo; de nuevo dejo el mundo y voy al Padre."
+      ]
+    }
+  }
+}

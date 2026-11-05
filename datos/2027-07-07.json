@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-07-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 41:55-57; 42:5-7, 24",
+      "texto": [
+        "Llegó también el hambre a todo el país de Egipto, y el pueblo clamó al faraón pidiendo pan. El faraón dijo a todos los egipcios: —Id a José, y haced lo que él os diga.",
+        "Reinaba el hambre sobre toda la faz de la tierra, y entonces José abrió todos los graneros y vendió grano a los egipcios mientras arreciaba el hambre en el país de Egipto.",
+        "De todos los países venían a Egipto a comprar grano a José, porque el hambre arreciaba en toda la tierra.",
+        "Los hijos de Israel llegaron junto con otros que iban también a comprar, porque reinaba el hambre en el país de Canaán.",
+        "José era el gobernador del país y el que vendía a toda la gente del país. Llegaron sus hermanos y se postraron ante él rostro en tierra.",
+        "Al ver José a sus hermanos los reconoció; pero, fingiéndose extraño, les habló duramente. Les preguntó: —¿De dónde venís? Ellos respondieron: —Del país de Canaán a comprar alimentos.",
+        "Y los puso bajo custodia tres días.",
+        "Al tercer día les dijo José: —Haced esto y viviréis, pues yo temo a Dios.",
+        "Si sois gente honrada, ¡uno de vuestros hermanos quede preso en la cárcel! Los demás id a llevar el grano comprado para remediar el hambre de vuestras casas.",
+        "Después me traeréis a vuestro hermano pequeño para poder comprobar la verdad de vuestras palabras, y no moriréis. Así lo hicieron,",
+        "diciéndose los hermanos entre sí: —En verdad somos culpables respecto a nuestro hermano, pues vimos su angustia cuando nos pedía piedad y no le escuchamos; por eso nos sobreviene esta desgracia.",
+        "Les replicó Rubén: —¿No os dije que no pecaseis contra el muchacho, y no me hicisteis caso? Ahora nos piden cuenta de su sangre.",
+        "Ellos ignoraban que José entendía, pues entre ellos había habido un intérprete.",
+        "José se retiró de su lado y rompió a llorar; luego volvió a donde estaban y les habló de nuevo. Eligió de entre ellos a Simeón y le hizo prender delante de todos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:2-3, 11, 19",
+      "texto": [
+        "Alabad al Señor con la cítara, entonadle salmos con el arpa de diez cuerdas.",
+        "Cantadle un cántico nuevo, acompasadlo con sonidos de trompeta.",
+        "El Señor anula los planes de las naciones, vuelve vanos los proyectos de los pueblos.",
+        "Pero el designio del Señor se mantiene eternamente, los proyectos de su corazón, de generación en generación.",
+        "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,",
+        "para librar sus almas de la muerte, y hacerlos subsistir en la penuria."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 10:1-7",
+      "texto": [
+        "Habiendo llamado a sus doce discípulos, les dio potestad para expulsar a los espíritus impuros y para curar todas las enfermedades y dolencias.",
+        "Los nombres de los doce apóstoles son éstos: primero Simón, llamado Pedro, y su hermano Andrés; Santiago el de Zebedeo y su hermano Juan;",
+        "Felipe y Bartolomé; Tomás y Mateo, el publicano; Santiago el de Alfeo, y Tadeo;",
+        "Simón el Cananeo y Judas Iscariote, el que le entregó.",
+        "A estos doce los envió Jesús, después de darles estas instrucciones: —No vayáis a tierra de gentiles ni entréis en ciudad de samaritanos;",
+        "sino id primero a las ovejas perdidas de la casa de Israel.",
+        "Id y predicad: «El Reino de los Cielos está al llegar."
+      ]
+    }
+  }
+}

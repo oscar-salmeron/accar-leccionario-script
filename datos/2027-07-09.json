@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-07-09",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 46:1-7, 30",
+      "texto": [
+        "Israel emprendió el viaje con todo lo que tenía; llegó a Berseba y ofreció sacrificios al Dios de su padre Isaac.",
+        "Dios llamó a Israel en una aparición aquella noche: —¡Jacob, Jacob! Éste contestó: —¡Aquí estoy!",
+        "Y le dijo: —Yo soy Dios, el Dios de tu padre. No temas bajar a Egipto, porque te constituiré allí en un gran pueblo.",
+        "Yo bajaré contigo a Egipto, y yo te haré también subir; y José te cerrará los ojos.",
+        "Jacob se puso en camino desde Berseba, y los hijos de Israel subieron a su padre Jacob, a los niños y a las mujeres en los carros que había enviado el faraón para transportarle.",
+        "Llevaron su ganado y las riquezas que habían hecho en el país de Canaán, y llegaron a Egipto, Jacob y toda su descendencia con él:",
+        "sus hijos y nietos, y sus hijas y nietas; a toda su descendencia la llevó consigo a Egipto.",
+        "Jacob envió a Judá por delante a donde estaba José, para que éste diese instrucciones antes de su llegada a Gosen. Luego entraron en la región de Gosen.",
+        "José enganchó su carroza y subió a Gosen al encuentro de su padre Israel. Al verlo se le echó al cuello y lloró abrazado a él.",
+        "Israel dijo a José: —Ahora puedo morir después de haber visto tu rostro y saber que todavía vives."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 37:3-4, 19, 28, 40",
+      "texto": [
+        "(Bet) Confía en el Señor y haz el bien; habita tu tierra y guarda la fidelidad.",
+        "Pon tu delicia en el Señor, y te concederá los deseos de tu corazón.",
+        "(Yod) El Señor conoce los días de los íntegros, su heredad durará por siempre;",
+        "no serán avergonzados en tiempo de desgracia, y en días de hambre serán saciados.",
+        "(Sámek) Aléjate del mal y obra el bien, y tendrás una morada para siempre;",
+        "porque el Señor ama la justicia y no abandona a sus fieles; (Áin) Los malvados serán exterminados para siempre, la descendencia de los impíos será aniquilada.",
+        "(Tav) El Señor salva a los justos, Él es su refugio en tiempo de angustia.",
+        "El Señor los socorre y los libra, los libra de los impíos y los salva, porque en Él buscan refugio."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 10:16-23",
+      "texto": [
+        "Mirad que yo os envío como ovejas en medio de lobos. Por eso, sed sagaces como las serpientes y sencillos como las palomas.",
+        "Guardaos de los hombres, porque os entregarán a los tribunales, os azotarán en sus sinagogas,",
+        "y seréis llevados ante los gobernadores y reyes por causa mía, para que deis testimonio ante ellos y los gentiles.",
+        "Pero cuando os entreguen, no os preocupéis de cómo o qué debéis decir; porque en aquel momento se os comunicará lo que vais a decir.",
+        "Pues no sois vosotros los que vais a hablar, sino que será el Espíritu de vuestro Padre quien hable en vosotros.",
+        "Entonces el hermano entregará a la muerte al hermano, y el padre al hijo; y se levantarán los hijos contra los padres para hacerles morir.",
+        "Y seréis odiados por causa de mi nombre; pero quien persevere hasta el fin, ése será salvado.",
+        "Cuando os persigan en una ciudad, huid a otra; en verdad os digo que no acabaréis las ciudades de Israel antes que venga el Hijo del Hombre."
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-08-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 4:13-18",
+      "texto": [
+        "No queremos, hermanos, que ignoréis lo que se refiere a los que han muerto, para que no os entristezcáis como esos otros que no tienen esperanza.",
+        "Porque si creemos que Jesús murió y resucitó, de igual manera también Dios, por medio de Jesús, reunirá con Él a los que murieron.",
+        "Así pues, como palabra del Señor, os transmitimos lo siguiente: nosotros, los que vivamos, los que quedemos hasta la venida del Señor, no nos anticiparemos a los que hayan muerto;",
+        "porque, cuando la voz del arcángel y la trompeta de Dios den la señal, el Señor mismo descenderá del cielo, y resucitarán en primer lugar los que murieron en Cristo;",
+        "después, nosotros, los que vivamos, los que quedemos, seremos arrebatados a las nubes junto con ellos al encuentro del Señor en los aires, de modo que, en adelante estemos siempre con el Señor.",
+        "Por tanto, animaos mutuamente con estas palabras."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:1, 5, 13",
+      "texto": [
+        "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera.",
+        "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos.",
+        "Porque el Señor es grande y digno de alabanza. Temible más que todos los dioses.",
+        "Porque los dioses de los pueblos son ídolos vanos, en cambio, el Señor hizo los cielos.",
+        "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;",
+        "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque",
+        "ante el Señor, que ya viene, que viene a juzgar la tierra: juzgará al mundo con justicia y a los pueblos con rectitud."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 4:16-30",
+      "texto": [
+        "Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el sábado y se levantó para leer.",
+        "Entonces le entregaron el libro del profeta Isaías y, abriendo el libro, encontró el lugar donde estaba escrito:",
+        "El Espíritu del Señor está sobre mí, por lo cual me ha ungido para evangelizar a los pobres, me ha enviado para anunciar la redención a los cautivos y devolver la vista a los ciegos, para poner en libertad a los oprimidos",
+        "y para promulgar el año de gracia del Señor.",
+        "Y enrollando el libro se lo devolvió al ministro y se sentó. Todos en la sinagoga tenían los ojos fijos en él.",
+        "Y comenzó a decirles: —Hoy se ha cumplido esta Escritura que acabáis de oír.",
+        "Todos daban testimonio en favor de él y se maravillaban de las palabras de gracia que procedían de su boca, y decían: —¿No es éste el hijo de José?",
+        "Entonces les dijo: —Sin duda me aplicaréis aquel proverbio: «“Médico, cúrate a ti mismo”. Cuanto hemos oído que has hecho en Cafarnaún, hazlo también aquí en tu tierra.",
+        "Y añadió: —En verdad os digo que ningún profeta es bien recibido en su tierra.",
+        "Os digo de verdad que muchas viudas había en Israel en tiempos de Elías, cuando durante tres años y seis meses se cerró el cielo y hubo gran hambre por toda la tierra;",
+        "y a ninguna de ellas fue enviado Elías, sino a una mujer viuda en Sarepta de Sidón.",
+        "Muchos leprosos había también en Israel en tiempo del profeta Eliseo, y ninguno de ellos fue curado, más que Naamán el Sirio.",
+        "Al oír estas cosas, todos en la sinagoga se llenaron de ira",
+        "y se levantaron, le echaron fuera de la ciudad y lo llevaron hasta la cima del monte sobre el que estaba edificada su ciudad para despeñarle.",
+        "Pero él, pasando por medio de ellos, se marchó."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-10-30",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 11:1-2, 12, 29",
+      "texto": [
+        "Entonces digo yo: ¿es que Dios rechazó a su pueblo? ¡De ninguna manera! Porque también yo soy israelita, del linaje de Abrahán, de la tribu de Benjamín.",
+        "No ha rechazado Dios a su pueblo, al cual eligió de antemano. ¿Es que no sabéis lo que dice la Escritura en el episodio de Elías, cómo dirige a Dios sus quejas contra Israel:",
+        "Digo, pues: ¿es que tropezaron hasta caer definitivamente? ¡De ninguna manera! Al contrario, por su caída vino la salvación a los gentiles, para provocar su celo.",
+        "Pues si su caída es riqueza del mundo, y su fracaso riqueza de los gentiles, ¡cuánto más lo será su plenitud!",
+        "Porque no quiero que ignoréis, hermanos, este misterio, para que no os consideréis sabios a vuestros ojos: que la ceguera de Israel fue parcial, hasta que entrara la plenitud de los gentiles,",
+        "y así todo Israel se salve, como está escrito: De Sión vendrá el libertador, apartará de Jacob las impiedades;",
+        "y ésta será mi alianza con ellos, cuando haya borrado yo sus pecados."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 14:1, 11",
+      "texto": [
+        "Porque los dones y la vocación de Dios son irrevocables.",
+        "Un sábado, entró él a comer en casa de uno de los principales fariseos y ellos le estaban observando.",
+        "Les proponía a los invitados una parábola, al notar cómo iban eligiendo los primeros puestos:",
+        "—Cuando alguien te invite a una boda, no vayas a ponerte en el primer puesto, no sea que otro más distinguido que tú haya sido invitado por él",
+        "y, al llegar el que os invitó a ti y al otro, te diga: «Cédele el sitio a éste, y entonces empieces a buscar, lleno de vergüenza, el último lugar.",
+        "Al contrario, cuando te inviten, ve a ocupar el último lugar, para que cuando llegue el que te invitó te diga: «Amigo, sube más arriba. Entonces quedarás muy honrado ante todos los comensales.",
+        "Porque todo el que se ensalza será humillado, y el que se humilla será ensalzado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 94:12-13, 15, 18",
+      "texto": [
+        "Dichoso el hombre a quien Tú enseñas, Señor, al que le instruyes en tu Ley,",
+        "dándole descanso de los días aciagos, mientras para el impío se cava la fosa.",
+        "Pues el Señor no rechaza a su pueblo, ni abandona su heredad;",
+        "hasta que la sentencia vuelva a ser justa, tras ella vayan todos los rectos de corazón.",
+        "Si el Señor no fuese mi auxilio pronto en el silencio reposaría mi alma.",
+        "Cuando pienso: «Mi pie vacila, tu misericordia, Señor, me sostiene."
+      ]
+    }
+  }
+}

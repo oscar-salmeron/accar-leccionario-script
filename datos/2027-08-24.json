@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-08-24",
+  "fiesta": "San Bartholomew, Apóstol (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 21:9-14",
+      "texto": [
+        "Entonces vino uno de los siete ángeles que tenían las siete copas llenas de las siete plagas finales y habló conmigo: —Ven, te mostraré a la novia, la esposa del Cordero.",
+        "Me llevó en espíritu a un monte de gran altura y me mostró la ciudad santa, Jerusalén, que bajaba del cielo de parte de Dios,",
+        "reflejando la gloria de Dios: su luz era semejante a una piedra preciosísima, como la piedra de jaspe, transparente como el cristal.",
+        "Tenía una muralla de gran altura con doce puertas, y sobre las puertas doce ángeles y unos nombres escritos que son los de las doce tribus de los hijos de Israel.",
+        "Tres puertas al oriente, tres puertas al norte, tres puertas al sur y tres puertas al occidente.",
+        "La muralla de la ciudad tenía doce pilares y en ellos los doce nombres de los doce apóstoles del Cordero."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:10-13, 18",
+      "texto": [
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder.",
+        "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino.",
+        "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones. (Nun) El Señor es fiel en todas sus palabras y piadoso en todas sus obras.",
+        "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones.",
+        "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:45-51",
+      "texto": [
+        "Felipe encontró a Natanael y le dijo: —Hemos encontrado a aquel de quien escribieron Moisés en la Ley y los Profetas: Jesús de Nazaret, el hijo de José.",
+        "Entonces le dijo Natanael: —¿De Nazaret puede salir algo bueno? —Ven y verás —le respondió Felipe.",
+        "Vio Jesús a Natanael acercarse y dijo de él: —Aquí tenéis a un verdadero israelita en quien no hay doblez.",
+        "Le contestó Natanael: —¿De qué me conoces? Respondió Jesús y le dijo: —Antes de que Felipe te llamara, cuando estabas debajo de la higuera, te vi.",
+        "Respondió Natanael: —Rabbí, tú eres el Hijo de Dios, tú eres el Rey de Israel.",
+        "Contestó Jesús: —¿Porque te he dicho que te vi debajo de la higuera crees? Cosas mayores verás.",
+        "Y añadió: —En verdad, en verdad os digo que veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del Hombre."
+      ]
+    }
+  }
+}

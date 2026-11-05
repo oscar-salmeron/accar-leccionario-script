@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-01-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Deuteronomio 18:15-20",
+      "texto": [
+        "Pues el Señor, tu Dios, suscitará de ti, entre tus hermanos, un profeta como yo; a él habéis de escuchar.",
+        "Así lo pediste al Señor, tu Dios, en el Horeb, el día de la asamblea, cuando dijiste: «No quiero seguir oyendo la voz del Señor, mi Dios, ni ver más este gran fuego, no vaya a morir.",
+        "Y el Señor me dijo: «Está bien lo que han dicho.",
+        "Les suscitaré un profeta como tú de entre sus hermanos; y pondré mis palabras en su boca; él les hablará cuanto yo le ordene.",
+        "Si alguno no escucha las palabras que hablará en mi nombre, yo le pediré cuentas.",
+        "Pero el profeta que ose pronunciar en mi nombre una palabra que no le haya mandado decir, y el que hable en nombre de otros dioses, ese profeta morirá."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:1-2, 9",
+      "texto": [
+        "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación.",
+        "Vayamos a su presencia con acción de gracias, aclamémosle con salmos.",
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!",
+        "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,",
+        "donde me tentaron vuestros padres, me pusieron a prueba, aunque habían visto mis obras."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 7:32-35",
+      "texto": [
+        "Os quiero libres de preocupaciones. El que no está casado se preocupa de las cosas del Señor, de cómo agradar al Señor;",
+        "el casado se preocupa de las cosas del mundo, de cómo agradar a su mujer,",
+        "y está dividido. La mujer no casada y la virgen se preocupan de las cosas del Señor, para ser santas en el cuerpo y en el espíritu; la casada, sin embargo, se preocupa de las cosas del mundo, de cómo agradar a su marido.",
+        "Os digo esto sólo para vuestro provecho, no para tenderos un lazo, sino en atención a lo que es más noble y al trato con el Señor, sin otras distracciones."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:21-28",
+      "texto": [
+        "Entraron en Cafarnaún y, en cuanto llegó el sábado, fue a la sinagoga y se puso a enseñar.",
+        "Y se quedaron admirados de su enseñanza, porque les enseñaba como quien tiene potestad y no como los escribas.",
+        "Se encontraba entonces en la sinagoga un hombre poseído por un espíritu impuro,",
+        "que comenzó a gritar: —¿Qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios!",
+        "Y Jesús le conminó: —¡Cállate, y sal de él!",
+        "Entonces, el espíritu impuro, zarandeándolo y dando una gran voz, salió de él.",
+        "Y se quedaron todos estupefactos, de modo que se preguntaban entre ellos: —¿Qué es esto? Una enseñanza nueva con potestad. Manda incluso a los espíritus impuros y le obedecen.",
+        "Y su fama corrió pronto por todas partes, en toda la región de Galilea."
+      ]
+    }
+  }
+}

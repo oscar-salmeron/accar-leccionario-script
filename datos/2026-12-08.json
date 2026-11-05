@@ -1,0 +1,62 @@
+{
+  "fecha": "2026-12-08",
+  "fiesta": "Concepción Inmaculada de la Santísima Virgen María (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 3:9-15, 20",
+      "texto": [
+        "El Señor Dios llamó al hombre y le dijo: —¿Dónde estás?",
+        "Éste contestó: —Oí tu voz en el jardín y tuve miedo porque estaba desnudo; por eso me oculté.",
+        "Dios le preguntó: —¿Quién te ha indicado que estabas desnudo? ¿Acaso has comido del árbol del que te prohibí comer?",
+        "El hombre contestó: —La mujer que me diste por compañera me dio del árbol y comí.",
+        "Entonces el Señor Dios dijo a la mujer: —¿Qué es lo que has hecho? La mujer respondió: —La serpiente me engañó y comí.",
+        "El Señor Dios dijo a la serpiente: —Por haber hecho eso, maldita seas entre todos los animales y todas las bestias del campo. Te arrastrarás sobre el vientre, y polvo comerás todos los días de tu vida.",
+        "Pondré enemistad entre ti y la mujer, entre tu linaje y el suyo; él te herirá en la cabeza, mientras tú le herirás en el talón.",
+        "El hombre llamó a su mujer Eva, porque ella habría de ser la madre de todos los vivientes."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-4",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 1:3-6, 12",
+      "texto": [
+        "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido en Cristo con toda bendición espiritual en los cielos,",
+        "ya que en él nos eligió antes de la creación del mundo para que fuéramos santos y sin mancha en su presencia, por el amor;",
+        "nos predestinó a ser sus hijos adoptivos por Jesucristo conforme al beneplácito de su voluntad,",
+        "para alabanza y gloria de su gracia, con la cual nos hizo gratos en el Amado;",
+        "por quien también fuimos constituidos herederos, predestinados según el designio de quien realiza todo con arreglo al consejo de su voluntad,",
+        "para que nosotros, los que antes habíamos esperado en el Mesías, sirvamos para alabanza de su gloria."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:26-38",
+      "texto": [
+        "En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret,",
+        "a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María.",
+        "Y entró donde ella estaba y le dijo: —Dios te salve, llena de gracia, el Señor es contigo.",
+        "Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo.",
+        "Y el ángel le dijo: —No temas, María, porque has hallado gracia delante de Dios:",
+        "concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús.",
+        "Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre,",
+        "reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin.",
+        "María le dijo al ángel: —¿De qué modo se hará esto, pues no conozco varón?",
+        "Respondió el ángel y le dijo: —El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios.",
+        "Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes,",
+        "porque para Dios no hay nada imposible.",
+        "Dijo entonces María: —He aquí la esclava del Señor, hágase en mí según tu palabra. Y el ángel se retiró de su presencia."
+      ]
+    }
+  }
+}

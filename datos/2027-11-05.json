@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-11-05",
+  "fiesta": "Conmemoración de Todos los Difuntos de la Orden Seráfica (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 3:1-9",
+      "texto": [
+        "Pero las almas de los justos están en manos de Dios y no les tocará tormento.",
+        "A los ojos de los necios parecía que morían, su partida era considerada una desdicha",
+        "y la separación de nosotros, exterminio; pero ellos están en la paz.",
+        "Porque, si a la vista de los hombres sufrían castigo, ellos esperaban plenamente la inmortalidad:",
+        "a cambio de una leve pena recibirán grandes bienes, porque Dios los puso a prueba y los encontró dignos de Él.",
+        "Los probó como oro en el crisol, los aceptó como sacrificio de holocausto.",
+        "A la hora de su prueba resplandecerán y se propagarán como chispas en cañaveral.",
+        "Juzgarán a naciones y dominarán a pueblos, y el Señor reinará sobre ellos para siempre.",
+        "Los que confían en Él comprenderán la verdad, los que son fieles en el amor permanecerán junto a Él, porque la gracia y la misericordia son para sus santos y Él mira por sus elegidos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo; tu vara y tu cayado me sosiegan.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:37-40",
+      "texto": [
+        "Todo lo que me da el Padre vendrá a mí, y al que viene a mí no lo echaré fuera,",
+        "porque he bajado del cielo no para hacer mi voluntad sino la voluntad de Aquel que me ha enviado.",
+        "Ésta es la voluntad de Aquel que me ha enviado: que no pierda nada de lo que Él me ha dado, sino que lo resucite en el último día.",
+        "Porque ésta es la voluntad de mi Padre: que todo el que ve al Hijo y cree en él tenga vida eterna, y yo le resucitaré en el último día."
+      ]
+    }
+  }
+}

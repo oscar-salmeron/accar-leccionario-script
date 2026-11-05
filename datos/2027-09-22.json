@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-09-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Esdras 9:5-9",
+      "texto": [
+        "En la ofrenda de la tarde me alcé de mi postración y, rasgadas mis vestiduras y mi manto, doblé mis rodillas, extendí las palmas de mis manos hacia el Señor, mi Dios,",
+        "y dije: —Dios mío, me avergüenzo y me sonrojo de levantar mi rostro hacia ti, Dios mío, porque nuestras iniquidades se han multiplicado encima de nuestras cabezas y nuestra culpa es tal que llega hasta el cielo",
+        "desde la época de nuestros padres. Nosotros mismos, hasta el día de hoy, por tan gran culpa y por nuestras iniquidades, nosotros, nuestros reyes y nuestros sacerdotes, hemos sido entregados en manos de los reyes de estos países, a la espada, el cautiverio, el pillaje y la vergüenza, como sucede hoy mismo.",
+        "Y ahora, en un instante, tenemos la gracia del Señor, nuestro Dios, que nos ha permitido librarnos y nos ha dado un apoyo en su lugar santo. Nuestro Dios ha iluminado nuestros ojos y nos ha permitido revivir un poco en nuestra servidumbre.",
+        "Pues nosotros somos siervos, y en nuestra servidumbre no hemos abandonado a nuestro Dios, y nos ha dispensado su misericordia delante de los reyes persas, permitiéndonos revivir para levantar el Templo de nuestro Dios y poner en pie sus ruinas, y nos ha dado un lugar de refugio en Judá y en Jerusalén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Tobías 13:2-4, 8",
+      "texto": [
+        "—Bendito sea Dios, que vive eternamente, y su reino; porque Él castiga y se compadece, hace descender hasta el hades en lo más profundo de la tierra, y levanta desde la gran perdición, sin que nada escape de su mano.",
+        "Proclamadle, hijos de Israel, ante las naciones, porque Él os dispersó entre ellas",
+        "y os mostró allí su gran poder. Ensalzadle también ante todo viviente, porque es nuestro Señor y nuestro Dios, y también nuestro Padre, Él es Dios por todos los siglos.",
+        "Mi alma y yo ensalzamos al Dios del cielo, mi alma se alegrará todos los días de su vida. Bendecid al Señor de la justicia y cantad himnos al rey de los siglos.",
+        "Bendecid al Señor, todos los elegidos, y cantad, todos, su majestad. Celebrad días de alegría, y proclamadlo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:1-6",
+      "texto": [
+        "Convocó a los doce y les dio poder y potestad sobre todos los demonios, y para curar enfermedades.",
+        "Los envió a predicar el Reino de Dios y a sanar a los enfermos.",
+        "Y les dijo: —No llevéis nada para el camino, ni bastón, ni alforja, ni pan, ni dinero, ni tengáis dos túnicas.",
+        "En cualquier casa que entréis, quedaos allí hasta que de allí os vayáis.",
+        "Y si nadie os acoge, al salir de aquella ciudad, sacudíos el polvo de los pies en testimonio contra ellos.",
+        "Se marcharon y pasaban por las aldeas evangelizando y curando por todas partes."
+      ]
+    }
+  }
+}

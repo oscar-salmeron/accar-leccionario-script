@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-06-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 21:5, 20",
+      "texto": [
+        "Abrahán tenía cien años cuando le nació su hijo Isaac.",
+        "El niño creció y dejaron de darle de mamar. Abrahán dio un gran banquete el día que dejaron de dar de mamar a Isaac.",
+        "Pero Sara vio al hijo que Agar la egipcia había dado a Abrahán jugando con Isaac.",
+        "Y dijo a Abrahán: —Expulsa a esa esclava y a su hijo, pues no va a heredar el hijo de esa esclava con mi hijo Isaac.",
+        "A Abrahán le desagradó mucho la petición respecto a su hijo.",
+        "Pero Dios dijo a Abrahán: —No te desagrade lo del muchacho y su madre. Haz caso a Sara en todo lo que te dice, pues, por Isaac, una estirpe llevará tu nombre;",
+        "también al hijo de la esclava lo constituiré en un gran pueblo, por ser descendencia tuya.",
+        "Muy de mañana, Abrahán se levantó, tomó pan y un odre de agua, y se lo dio a Agar; se lo puso a la espalda con el niño y la despidió. Ella se marchó y anduvo errante por el desierto de Berseba.",
+        "Cuando se le terminó el agua del odre, recostó al niño debajo de una mata,",
+        "se apartó y se sentó lejos frente a él, como a un tiro de arco, pues se decía: «No quiero ver morir al niño. Se quedó sentada enfrente, y el niño rompió a llorar a gritos.",
+        "Dios oyó el llanto del niño y un ángel de Dios llamó a Agar desde el cielo y le dijo: —¿Qué te pasa, Agar? No temas, pues Dios ha oído el llanto del niño desde donde está.",
+        "Levántate, toma al niño y tenle fuerte de la mano, porque lo constituiré en un gran pueblo.",
+        "Entonces Dios le abrió a ella los ojos y vio un pozo de agua; fue, llenó de agua el odre, y dio de beber al niño.",
+        "Dios estaba con el niño, que creció, habitó en el desierto y se convirtió en un buen arquero."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:7-13",
+      "texto": [
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Het) El ángel del Señor se sitúa alrededor de los que le temen para librarlos.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él.",
+        "(Yod) Temed al Señor sus santos, que nada falta a los que le temen.",
+        "(Kaf) Los ricos se empobrecen y pasan hambre, pero los que buscan al Señor de nada carecen.",
+        "(Lámed) Venid, hijos, escuchadme, os enseñaré el temor del Señor.",
+        "(Mem) ¿Quién hay que no quiera la vida, que no apetezca los días para disfrutar del bien?"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 8:28-34",
+      "texto": [
+        "Al llegar a la orilla opuesta, a la región de los gadarenos, vinieron a su encuentro dos endemoniados, que salían de los sepulcros, tan furiosos que nadie podía transitar por aquel camino.",
+        "Y en esto, se pusieron a gritar diciendo: —¿Qué tenemos que ver contigo, Hijo de Dios? ¿Has venido aquí antes de tiempo para atormentarnos?",
+        "Había no lejos de ellos una gran piara de cerdos paciendo.",
+        "Los demonios le suplicaban: —Si nos expulsas, envíanos a la piara de cerdos.",
+        "Les respondió: —Id. Y ellos salieron y entraron en los cerdos. Entonces toda la piara se lanzó corriendo por la pendiente hacia el mar y pereció en el agua.",
+        "Los porqueros huyeron y, al llegar a la ciudad, contaron todas estas cosas, y lo sucedido a los endemoniados.",
+        "Así que toda la ciudad vino al encuentro de Jesús y, cuando le vieron, le rogaron que se alejara de su región."
+      ]
+    }
+  }
+}

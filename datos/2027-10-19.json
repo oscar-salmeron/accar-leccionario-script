@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-10-19",
+  "fiesta": "San Juan de Brébeuf, San Isaac Jogues, Presbíteros y Mártires, y Compañeros (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 5:12, 15, 19, 21",
+      "texto": [
+        "Por tanto, así como por medio de un solo hombre entró el pecado en el mundo, y a través del pecado la muerte, y de esta forma la muerte llegó a todos los hombres, porque todos pecaron…",
+        "Pero el don no es como la caída; porque si por la caída de uno solo murieron todos, cuánto más la gracia de Dios y el don que se da en la gracia de un solo hombre, Jesucristo, sobreabundó para todos.",
+        "Pues si por la caída de uno solo la muerte reinó por medio de uno solo, mucho más los que reciben la abundancia de la gracia y del don de la justicia reinarán en la vida por medio de uno solo, Jesucristo.",
+        "Por consiguiente, como por la caída de uno solo la condenación afectó a todos los hombres, así también por la justicia de uno solo la justificación, que da la vida, alcanza a todos los hombres.",
+        "Pues como por la desobediencia de un solo hombre todos fueron constituidos pecadores, así también por la obediencia de uno solo todos serán constituidos justos.",
+        "La Ley se introdujo para que se multiplicara la caída; pero una vez que se multiplicó el pecado, sobreabundó la gracia,",
+        "para que, así como reinó el pecado por la muerte, así también reinase la gracia por medio de la justicia para vida eterna por nuestro Señor Jesucristo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 40:7-10, 17",
+      "texto": [
+        "No quisiste sacrificio ni ofrenda, pero me abriste el oído. No pediste holocausto ni sacrificio de expiación;",
+        "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—",
+        "para hacer tu voluntad, Dios mío. Ése es mi querer, pues llevo tu Ley dentro de mí.",
+        "He anunciado la justicia en la gran asamblea; no he cerrado mis labios, Señor, Tú lo sabes bien.",
+        "Que se gocen y se alegren en Ti todos los que te buscan. Digan sin cesar: «¡Grande es el Señor!, los que aman tu salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:35-38",
+      "texto": [
+        "Tened ceñidas vuestras cinturas y encendidas las lámparas,",
+        "y estad como quienes aguardan a su amo cuando vuelve de las nupcias, para abrirle al instante en cuanto venga y llame.",
+        "Dichosos aquellos siervos a los que al volver su amo los encuentre vigilando. En verdad os digo que se ceñirá la cintura, les hará sentar a la mesa y acercándose les servirá.",
+        "Y si viniese en la segunda vigilia o en la tercera, y los encontrase así, dichosos ellos."
+      ]
+    }
+  }
+}

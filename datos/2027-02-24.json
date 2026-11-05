@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-02-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jeremías 18:18-20",
+      "texto": [
+        "Sin embargo, dijeron: «Andad a tramar asechanzas contra Jeremías, que no nos faltará el dictamen del sacerdote, ni el consejo del sabio, ni la palabra del profeta. Andad, hirámosle con la lengua y no atendamos a ninguna de sus palabras.",
+        "¡Atiéndeme, Señor! Oye la voz de mis adversarios.",
+        "¿Hay que devolver mal por bien? Pues ellos me han cavado una fosa. Acuérdate de cuando me presentaba ante Ti para hablar bien de ellos, para apartar de ellos tu ira."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 31:5-6, 16",
+      "texto": [
+        "sácame de la red que me han tendido, que Tú eres mi refugio.",
+        "En tus manos encomiendo mi espíritu: Tú, Señor, Dios fiel, me has rescatado.",
+        "Oigo las calumnias de la gente, espanto por doquier: se confabulan contra mí, traman quitarme la vida.",
+        "Pero yo confío en Ti, Señor. Digo: «Tú eres mi Dios.",
+        "Mi suerte está en tu mano; líbrame de la garra de mis enemigos y de mis perseguidores."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 20:17-28",
+      "texto": [
+        "Cuando subía Jesús camino de Jerusalén tomó aparte a sus doce discípulos y les dijo:",
+        "—Mirad, subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas, le condenarán a muerte,",
+        "y le entregarán a los gentiles para burlarse de él y azotarlo y crucificarlo, pero al tercer día resucitará.",
+        "Entonces se le acercó la madre de los hijos de Zebedeo con sus hijos, y se postró ante él para hacerle una petición.",
+        "Él le preguntó: —¿Qué quieres? Ella le dijo: —Di que estos dos hijos míos se sienten en tu Reino, uno a tu derecha y otro a tu izquierda.",
+        "Jesús respondió: —No sabéis lo que pedís. ¿Podéis beber el cáliz que yo he de beber? —Podemos —le dijeron.",
+        "Él añadió: —Beberéis mi cáliz; pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto por mi Padre.",
+        "Al oír esto, los diez se indignaron contra los dos hermanos.",
+        "Pero Jesús les llamó y les dijo: —Sabéis que los que gobiernan las naciones las oprimen y los poderosos las avasallan.",
+        "No tiene que ser así entre vosotros; al contrario: quien entre vosotros quiera llegar a ser grande, que sea vuestro servidor;",
+        "y quien entre vosotros quiera ser el primero, que sea vuestro esclavo.",
+        "De la misma manera que el Hijo del Hombre no ha venido a ser servido, sino a servir y dar su vida en redención de muchos."
+      ]
+    }
+  }
+}

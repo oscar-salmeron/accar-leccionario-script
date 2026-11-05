@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-05-19",
+  "fiesta": "San Crispín de Viterbo, Religioso (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 4:11-19",
+      "texto": [
+        "La sabiduría exalta a sus hijos, y cuida de los que la buscan.",
+        "Quien la ama, ama la vida, y cuantos madrugan por encontrarla se colmarán de gozo.",
+        "El que la posee heredará la gloria, y, en cualquier empresa, el Señor le bendecirá.",
+        "Los que la veneran darán culto al Santo, y el Señor ama a los que la aman.",
+        "El que la escucha juzga con equidad al pueblo, y el que le presta atención vivirá seguro.",
+        "El que confíe en ella la obtendrá en herencia, y sus descendientes mantendrán su posesión.",
+        "Porque al principio lo conduce por sendas tortuosas:",
+        "le traerá temor y miedo, le hará sufrir con su disciplina, —hasta que tenga él confianza en sí mismo— y le pondrá a prueba con sus prescripciones.",
+        "Luego le conducirá a Él por el camino recto, le llenará de alegría,",
+        "y le revelará sus misterios.",
+        "Pero si se aleja del recto camino, le abandonará y le dejará a merced de su propia ruina."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:165, 168, 172, 175",
+      "texto": [
+        "Completa es la paz de los que aman tu Ley, no hay tropiezo para ellos.",
+        "Observo tus mandatos y tus preceptos: todos mis caminos te están presentes.",
+        "Proclamen mis labios tu alabanza, porque me has enseñado tus decretos.",
+        "Cante mi lengua tu palabra, porque justos son todos tus mandatos.",
+        "Anhelo tu salvación, Señor; tu Ley es mi gozo.",
+        "Viva mi alma para alabarte, que me socorran tus juicios."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 9:38-40",
+      "texto": [
+        "Juan le dijo: —Maestro, hemos visto a uno que expulsaba demonios en tu nombre y se lo hemos prohibido, porque no viene con nosotros.",
+        "Jesús contestó: —No se lo prohibáis, pues no hay nadie que haga un milagro en mi nombre y pueda a continuación hablar mal de mí:",
+        "el que no está contra nosotros, con nosotros está."
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-04-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 8:1-8",
+      "texto": [
+        "Se desató aquel día una gran persecución contra la iglesia de Jerusalén, y todos, excepto los apóstoles, se dispersaron por las regiones de Judea y Samaría.",
+        "Unos varones piadosos enterraron a Esteban e hicieron un gran duelo por él.",
+        "Por su parte, Saulo hacía estragos en la Iglesia, iba de casa en casa, apresaba a hombres y mujeres y los metía en la cárcel."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:35-40",
+      "texto": [
+        "Felipe bajó a la ciudad de Samaría y les predicaba a Cristo.",
+        "La muchedumbre atendía unánime a lo que decía Felipe, al oír y ver los signos milagrosos que realizaba,",
+        "pues los espíritus impuros salían, con grandes voces, de muchos que estaban poseídos por ellos, y muchos paralíticos y cojos eran curados.",
+        "Hubo gran alegría en aquella ciudad.",
+        "Jesús les respondió: —Yo soy el pan de vida; el que viene a mí no tendrá hambre, y el que cree en mí no tendrá nunca sed.",
+        "Pero os lo he dicho: me habéis visto y no creéis.",
+        "Todo lo que me da el Padre vendrá a mí, y al que viene a mí no lo echaré fuera,",
+        "porque he bajado del cielo no para hacer mi voluntad sino la voluntad de Aquel que me ha enviado.",
+        "Ésta es la voluntad de Aquel que me ha enviado: que no pierda nada de lo que Él me ha dado, sino que lo resucite en el último día.",
+        "Porque ésta es la voluntad de mi Padre: que todo el que ve al Hijo y cree en él tenga vida eterna, y yo le resucitaré en el último día."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 66:1-7",
+      "texto": [
+        "Al maestro de coro. Cántico. Salmo. Aclamad a Dios, toda la tierra.",
+        "Entonad salmos en honor de su Nombre, rendidle el honor de su alabanza.",
+        "Decid a Dios: «¡Qué terribles son tus obras!. Tus enemigos te halagan por la grandeza de tu poder.",
+        "Que la tierra entera se prosterne ante Ti y te entonen salmos, que entonen salmos a tu Nombre.",
+        "Venid a ver las obras de Dios, temible en sus proezas por los hijos de Adán.",
+        "Cambió el mar en tierra seca, hizo que pasaran a pie el río —allí mismo lo festejamos—.",
+        "Con su poder, Él domina eternamente, sus ojos vigilan las naciones para que no se enaltezcan los rebeldes."
+      ]
+    }
+  }
+}

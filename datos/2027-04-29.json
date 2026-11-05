@@ -1,0 +1,39 @@
+{
+  "fecha": "2027-04-29",
+  "fiesta": "Santa Catalina de Siena, Virgen, Doctora de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Con esto concuerdan las palabras de los Profetas, según está escrito",
+      "texto": [
+        "Y Dios, que conoce los corazones, dio testimonio a favor de ellos, dándoles el Espíritu Santo igual que a nosotros;",
+        "y no hizo distinción alguna entre ellos y nosotros, purificando sus corazones con la fe.",
+        "¿Por qué tentáis ahora a Dios imponiendo sobre los hombros de los discípulos un yugo que ni nuestros padres ni nosotros pudimos llevar?",
+        "Nosotros, por el contrario, creemos que somos salvados por la gracia del Señor Jesús, de la misma manera que ellos.",
+        "Toda la multitud calló y escucharon a Bernabé y a Pablo contar los milagros y prodigios que había obrado Dios por medio de ellos entre los gentiles.",
+        "Cuando terminaron de hablar, Santiago contestó: —Hermanos, oídme:",
+        "Simón ha contado cómo desde el principio Dios se dignó elegir entre los gentiles un pueblo para su Nombre.",
+        "Después de esto volveré y reedificaré la tienda caída de David, reconstruiré sus ruinas y la levantaré de nuevo,",
+        "para que busquen al Señor los demás hombres y todas las naciones sobre las que ha sido invocado mi Nombre. Así dice el Señor, que hace estas cosas",
+        "conocidas desde la eternidad.",
+        "Por lo cual estimo que no se debe inquietar más a los gentiles que se convierten a Dios,",
+        "sino que se les escriba para que se abstengan de lo contaminado por los ídolos, de la fornicación, de los animales estrangulados y de la sangre;",
+        "porque desde generaciones antiguas Moisés tiene en cada ciudad quienes le predican en las sinagogas cuando le leen todos los sábados.",
+        "Como el Padre me amó, así os he amado yo. Permaneced en mi amor.",
+        "Si guardáis mis mandamientos, permaneceréis en mi amor, como yo he guardado los mandamientos de mi Padre y permanezco en su amor.",
+        "Os he dicho esto para que mi alegría esté en vosotros y vuestra alegría sea completa."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 96:1-3, 10",
+      "texto": [
+        "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera.",
+        "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación.",
+        "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos.",
+        "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará. Él juzga a los pueblos con rectitud."
+      ]
+    }
+  }
+}

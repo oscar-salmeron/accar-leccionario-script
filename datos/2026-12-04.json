@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-12-04",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 29:17-24",
+      "texto": [
+        "¿Es que en poco tiempo el Líbano no se convertirá en vergel, y el vergel parecerá un bosque?",
+        "Aquel día los sordos oirán las palabras del libro, y, desde la oscuridad y las tinieblas, los ojos de los ciegos verán.",
+        "Los humildes aumentarán su alegría en el Señor, y los más pobres exultarán en el Santo de Israel.",
+        "Porque habrá desaparecido el agresor, se habrá acabado el desvergonzado, y serán exterminados cuantos buscan la iniquidad,",
+        "los que condenan de palabra a los hombres, los que tienden lazos al juez en el tribunal, y oprimen al justo sin razón.",
+        "Por eso, así dice el Señor, que rescató a Abrahán, a la casa de Jacob: «Ya no se avergonzará Jacob, ni su rostro palidecerá.",
+        "Porque, cuando sus hijos vean lo que han hecho mis manos con él, santificarán mi Nombre, santificarán al Santo de Jacob, temerán al Dios de Israel.",
+        "Entonces, los de espíritu errado alcanzarán discernimiento, y los murmuradores aprenderán la lección."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:27-31",
+      "texto": [
+        "Al marcharse Jesús de allí, le siguieron dos ciegos diciendo a gritos: —¡Ten piedad de nosotros, Hijo de David!",
+        "Cuando llegó a la casa se le acercaron los ciegos y Jesús les dijo: —¿Creéis que puedo hacer eso? —Sí, Señor —le respondieron.",
+        "Entonces les tocó los ojos diciendo: —Que se haga en vosotros conforme a vuestra fe.",
+        "Y se les abrieron los ojos. Pero Jesús les ordenó severamente: —Mirad que nadie lo sepa.",
+        "Ellos, en cambio, en cuanto salieron divulgaron la noticia por toda aquella comarca."
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-11-02",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 3:1-9",
+      "texto": [
+        "Pero las almas de los justos están en manos de Dios y no les tocará tormento.",
+        "A los ojos de los necios parecía que morían, su partida era considerada una desdicha",
+        "y la separación de nosotros, exterminio; pero ellos están en la paz.",
+        "Porque, si a la vista de los hombres sufrían castigo, ellos esperaban plenamente la inmortalidad:",
+        "a cambio de una leve pena recibirán grandes bienes, porque Dios los puso a prueba y los encontró dignos de Él.",
+        "Los probó como oro en el crisol, los aceptó como sacrificio de holocausto.",
+        "A la hora de su prueba resplandecerán y se propagarán como chispas en cañaveral.",
+        "Juzgarán a naciones y dominarán a pueblos, y el Señor reinará sobre ellos para siempre.",
+        "Los que confían en Él comprenderán la verdad, los que son fieles en el amor permanecerán junto a Él, porque la gracia y la misericordia son para sus santos y Él mira por sus elegidos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 9, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Escucha mi voz, Señor: yo te invoco; ten piedad de mí, respóndeme.",
+        "De ti piensa mi corazón: «Busca su rostro. Tu rostro, Señor, buscaré.",
+        "No me escondas tu rostro. No rechaces con ira a tu siervo. Tú eres mi auxilio: no me rechaces, no me abandones, Dios de mi salvación.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Romanos 5:5-11",
+      "texto": [
+        "Una esperanza que no defrauda, porque el amor de Dios ha sido derramado en nuestros corazones por medio del Espíritu Santo que se nos ha dado.",
+        "Porque Cristo, cuando todavía nosotros éramos débiles, murió por los impíos en el tiempo establecido.",
+        "En realidad, es difícil encontrar alguien que muera por un hombre justo. Quizá alguien se atreva a morir por una persona buena.",
+        "Pero Dios demuestra su amor hacia nosotros porque, siendo todavía pecadores, Cristo murió por nosotros.",
+        "¡Cuánto más, si hemos sido justificados ahora en su sangre, seremos salvados por él de la ira!",
+        "Porque, si cuando éramos enemigos, fuimos reconciliados con Dios por medio de la muerte de su Hijo, mucho más, una vez reconciliados, seremos salvados por su vida.",
+        "Pero no sólo esto: también nos gloriamos en Dios por medio de nuestro Señor Jesucristo, por quien ahora hemos recibido la reconciliación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 11:17-27",
+      "texto": [
+        "Al llegar Jesús, encontró que ya llevaba sepultado cuatro días.",
+        "Betania distaba de Jerusalén como quince estadios.",
+        "Muchos judíos habían ido a visitar a Marta y María para consolarlas por lo de su hermano.",
+        "En cuanto Marta oyó que Jesús venía, salió a recibirle; María, en cambio, se quedó sentada en casa.",
+        "Le dijo Marta a Jesús: —Señor, si hubieras estado aquí, no habría muerto mi hermano,",
+        "pero incluso ahora sé que todo cuanto pidas a Dios, Dios te lo concederá.",
+        "—Tu hermano resucitará —le dijo Jesús.",
+        "Marta le respondió: —Ya sé que resucitará en la resurrección, en el último día.",
+        "—Yo soy la Resurrección y la Vida —le dijo Jesús—; el que cree en mí, aunque hubiera muerto, vivirá,",
+        "y todo el que vive y cree en mí no morirá para siempre. ¿Crees esto?",
+        "—Sí, Señor —le contestó—. Yo creo que tú eres el Cristo, el Hijo de Dios, que has venido a este mundo."
+      ]
+    }
+  }
+}

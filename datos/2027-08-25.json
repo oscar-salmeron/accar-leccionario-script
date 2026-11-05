@@ -1,0 +1,35 @@
+{
+  "fecha": "2027-08-25",
+  "fiesta": "San Luis IX de Francia, Rey, Patrón de la Tercera Orden (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 23:27-32",
+      "texto": [
+        "Testigos sois, y Dios también, de que nuestra conducta entre vosotros, los creyentes, fue santa, justa e irreprochable.",
+        "Como un padre a sus hijos —lo sabéis bien—, a cada uno",
+        "os alentábamos y os consolábamos, exhortándoos a que vivierais de una manera digna de Dios, que os llama a su Reino y a su gloria.",
+        "Y por eso también nosotros damos gracias a Dios sin cesar, porque, cuando recibisteis la palabra que os predicamos, la acogisteis no como palabra humana, sino como lo que es en verdad: palabra divina, que actúa eficazmente en vosotros, los creyentes.",
+        "¡Ay de vosotros, escribas y fariseos hipócritas, que os parecéis a sepulcros blanqueados, que por fuera aparecen hermosos, pero por dentro están llenos de huesos de muertos y de toda podredumbre!",
+        "Así también vosotros por fuera os mostráis justos ante los hombres, pero por dentro estáis llenos de hipocresía y de iniquidad.",
+        "¡Ay de vosotros, escribas y fariseos hipócritas, que edificáis las tumbas de los profetas y adornáis los sepulcros de los justos,",
+        "y decís: «Si hubiéramos vivido en tiempos de nuestros padres, no habríamos sido sus cómplices en la sangre de los profetas!.",
+        "Así pues, atestiguáis contra vosotros mismos que sois hijos de los que mataron a los profetas.",
+        "Y vosotros, colmad la medida de vuestros padres."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 139:7-12",
+      "texto": [
+        "¿Adónde alejarme de tu espíritu? ¿Adónde huir de tu presencia?",
+        "Si subo al cielo, allí estás Tú; si bajo hasta el sheol, allí te encuentras.",
+        "Si monto en las alas de la aurora y habito en los confines del mar,",
+        "también allí me guiará tu mano, me sujetará tu diestra.",
+        "Si digo: «¡Que al menos me cubran las tinieblas y la luz se haga noche en torno a mí!.",
+        "Tampoco las tinieblas son para ti oscuras, pues la noche brilla como el día, las tinieblas, como la luz."
+      ]
+    }
+  }
+}

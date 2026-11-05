@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-08-20",
+  "fiesta": "San Bernardo, Abad, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Rut 1:1, 6, 16, 22",
+      "texto": [
+        "En los días de los jueces hubo una gran hambre en el país, y un hombre de Belén de Judá se marchó a vivir a los campos de Moab junto con su mujer y sus dos hijos.",
+        "Cuando murió Elimélec, el marido de Noemí, ella se quedó con sus dos hijos;",
+        "éstos tomaron mujeres moabitas, una se llamaba Orpá y la otra Rut, y permanecieron allí unos diez años",
+        "al cabo de los cuales murieron los dos, Majlón y Quilyón. La mujer se quedó sin su marido y sin sus dos hijos.",
+        "Entonces, como Noemí había oído en los campos de Moab que el Señor había visitado a su pueblo para darles pan, se dispuso a volver desde los campos de Moab con sus dos nueras.",
+        "Entonces ellas de nuevo prorrumpieron en llanto. Orpá besó a su suegra y después se marchó; sin embargo Rut se quedó con ella.",
+        "Noemí le insistió: —Mira que tu cuñada regresa a su pueblo y a sus dioses, ¡vete con ella!",
+        "Pero Rut le respondió: —No me obligues a marcharme y a alejarme de ti, pues adonde vayas iré y donde pases las noches las pasaré yo; tu pueblo será mi pueblo y tu Dios será mi Dios;",
+        "De este modo regresó Noemí desde los campos de Moab acompañada de su nuera Rut, la moabita; llegaron a Belén al comienzo de la siega de la cebada."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 146:5-10",
+      "texto": [
+        "Dichoso el que tiene su auxilio en el Dios de Jacob, su esperanza en el Señor, su Dios,",
+        "que hizo los cielos y la tierra, el mar y cuanto hay en él; que guarda fidelidad eternamente;",
+        "que hace justicia a los oprimidos, da pan a los hambrientos. El Señor libera a los cautivos;",
+        "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan; el Señor ama a los justos.",
+        "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda, pero tuerce el camino de los impíos.",
+        "El Señor reina eternamente, tu Dios, Sión, de generación en generación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 22:34-40",
+      "texto": [
+        "Los fariseos, al oír que había hecho callar a los saduceos, se pusieron de acuerdo,",
+        "y uno de ellos, doctor de la ley, le preguntó para tentarle:",
+        "—Maestro, ¿cuál es el mandamiento principal de la Ley?",
+        "Él le respondió: —Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente.",
+        "Éste es el mayor y el primer mandamiento.",
+        "El segundo es como éste: Amarás a tu prójimo como a ti mismo.",
+        "De estos dos mandamientos dependen toda la Ley y los Profetas."
+      ]
+    }
+  }
+}

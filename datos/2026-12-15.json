@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-15",
+  "fiesta": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sofonías 3:1-2, 13",
+      "texto": [
+        "¡Ay de la rebelde e impura, la ciudad prepotente!",
+        "No escuchó la voz, ni aceptó la instrucción; no confió en el Señor, ni se acercó a su Dios.",
+        "Entonces volveré puros los labios de los pueblos, para que invoquen, todos ellos, el Nombre del Señor, para que le sirvan todos juntos.",
+        "Desde más allá de los ríos de Etiopía, los que me veneran, la hija de mis dispersos, me traerán ofrendas.",
+        "«Aquel día no serás avergonzada por ninguna de las fechorías con que te rebelaste contra Mí; porque entonces apartaré de ti a quienes se jactan en tu altivez, para que no vuelvas a engreírte en mi monte santo.",
+        "Dejaré en medio de ti un pueblo humilde y pobre. Y pondrán su esperanza en el Nombre del Señor.",
+        "Los restos de Israel no cometerán iniquidad, ni hablarán mentira, ni se encontrará en su boca lengua dolosa. Ellos podrán apacentarse y reposar sin que nadie los espante."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-3, 7, 19, 23",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+        "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias.",
+        "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido.",
+        "El Señor rescata el alma de sus siervos; cuantos en Él se refugian no serán condenados."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 21:28-32",
+      "texto": [
+        "¿Qué os parece? Un hombre tenía dos hijos; dirigiéndose al primero, le mandó: «Hijo, vete hoy a trabajar en la viña.",
+        "Pero él le contestó: «No quiero. Sin embargo se arrepintió después y fue.",
+        "Se dirigió entonces al segundo y le dijo lo mismo. Éste le respondió: «Voy, señor; pero no fue.",
+        "¿Cuál de los dos hizo la voluntad del padre? —El primero —dijeron ellos. Jesús prosiguió: —En verdad os digo que los publicanos y las meretrices van a estar por delante de vosotros en el Reino de Dios.",
+        "Porque vino Juan a vosotros con un camino de justicia y no le creísteis; en cambio, los publicanos y las meretrices le creyeron. Pero vosotros, ni siquiera viendo esto os arrepentisteis después para poder creerle."
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-10-23",
+  "fiesta": "San Juan de Capistrano, OFM, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 8:1-11",
+      "texto": [
+        "Así pues, no hay ya ninguna condenación para los que están en Cristo Jesús.",
+        "Porque la ley del Espíritu de la vida que está en Cristo Jesús te ha liberado de la ley del pecado y de la muerte.",
+        "Pues lo que era imposible para la Ley, al estar debilitada a causa de la carne, lo hizo Dios enviando a su propio Hijo en una carne semejante a la carne pecadora; y por causa del pecado, condenó al pecado en la carne,",
+        "para que la justicia de la Ley se cumpliese en nosotros, que no caminamos según la carne sino según el Espíritu.",
+        "Los que viven según la carne sienten las cosas de la carne, en cambio los que viven según el Espíritu sienten las cosas del Espíritu.",
+        "Porque la tendencia de la carne es la muerte; mientras que la tendencia del Espíritu, la vida y la paz.",
+        "Puesto que la tendencia de la carne es enemiga de Dios, ya que no se somete —y ni siquiera puede— a la Ley de Dios.",
+        "Los que viven según la carne no pueden agradar a Dios.",
+        "Ahora bien, vosotros no vivís según la carne, sino según el Espíritu, si es que el Espíritu de Dios habita en vosotros. Si alguien no tiene el Espíritu de Cristo, ése no es de él.",
+        "Pero si Cristo está en vosotros, ciertamente el cuerpo está muerto a causa del pecado, pero el Espíritu tiene vida a causa de la justicia.",
+        "Y si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en vosotros, el mismo que resucitó a Cristo de entre los muertos dará vida también a vuestros cuerpos mortales por medio de su Espíritu, que habita en vosotros."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 24:1-6",
+      "texto": [
+        "De David. Salmo. Del Señor es la tierra y cuanto hay en ella, el orbe y los que lo habitan.",
+        "Él la cimentó sobre los mares y la asentó sobre los ríos.",
+        "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?",
+        "El de manos inocentes y de corazón puro, el que no dirige su alma a la vanidad, ni jura en falso.",
+        "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador.",
+        "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 13:1-9",
+      "texto": [
+        "Estaban presentes en aquel momento unos que le contaban lo de los galileos, cuya sangre mezcló Pilato con la de sus sacrificios.",
+        "Y en respuesta les dijo: —¿Pensáis que estos galileos eran más pecadores que todos los galileos, porque padecieron tales cosas?",
+        "No, os lo aseguro; pero si no os convertís, todos pereceréis igualmente.",
+        "O aquellos dieciocho sobre los que cayó la torre de Siloé y los mató, ¿pensáis que eran más culpables que todos los hombres que vivían en Jerusalén?",
+        "No, os lo aseguro; pero si no os convertís, todos pereceréis igualmente.",
+        "Les decía esta parábola: —Un hombre tenía una higuera plantada en su viña y fue a buscar en ella fruto y no lo encontró.",
+        "Entonces le dijo al viñador: «Mira, hace tres años que vengo a buscar fruto en esta higuera sin encontrarlo; córtala, ¿para qué va a ocupar terreno en balde?",
+        "Pero él le respondió: «Señor, déjala también este año hasta que cave a su alrededor y eche estiércol,",
+        "por si produce fruto; si no, ya la cortarás."
+      ]
+    }
+  }
+}

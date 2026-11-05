@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-10-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 6:19-23",
+      "texto": [
+        "Hablo a lo humano en atención a la flaqueza de vuestra carne. Igual que ofrecisteis vuestros miembros al servicio de la impureza y de la iniquidad para cometer iniquidades, ofreced ahora vuestros miembros al servicio de la justicia para la santidad.",
+        "Cuando erais esclavos del pecado, estabais libres respecto de la justicia.",
+        "¿Qué fruto obteníais entonces de esas cosas que ahora os avergüenzan? Pues su final es la muerte.",
+        "Ahora, en cambio, liberados del pecado y hechos siervos de Dios, dais vuestro fruto para la santidad; y tenéis como fin la vida eterna.",
+        "Pues el salario del pecado es la muerte; en cambio el don de Dios es la vida eterna en Cristo Jesús, Señor nuestro."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 1:1-4, 6",
+      "texto": [
+        "Dichoso el hombre que no sigue el consejo de impíos, ni se detiene en el camino de pecadores, ni toma asiento con farsantes,",
+        "sino que se complace en la Ley del Señor, y noche y día medita en su Ley.",
+        "Será como un árbol plantado al borde de la acequia, que da fruto a su tiempo, y no se marchitan sus hojas: cuanto hace prospera.",
+        "No así los impíos, no así. Son como polvo que dispersa el viento.",
+        "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 12:49-53",
+      "texto": [
+        "Fuego he venido a traer a la tierra, y ¿qué quiero sino que ya arda?",
+        "Tengo que ser bautizado con un bautismo, y ¡qué ansias tengo hasta que se lleve a cabo!",
+        "¿Pensáis que he venido a traer paz a la tierra? No, os digo, sino división.",
+        "Pues desde ahora, habrá cinco en una casa divididos: tres contra dos y dos contra tres;",
+        "se dividirán el padre contra el hijo y el hijo contra el padre, la madre contra la hija y la hija contra la madre, la suegra contra la nuera y la nuera contra la suegra."
+      ]
+    }
+  }
+}

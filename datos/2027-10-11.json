@@ -1,0 +1,32 @@
+{
+  "fecha": "2027-10-11",
+  "fiesta": "San Juan XXIII, Papa (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "acerca de su Hijo Jesucristo, Señor nuestro, nacido del linaje de David según la carne,",
+      "texto": [
+        "que Él de antemano prometió por sus profetas en las Santas Escrituras",
+        "constituido Hijo de Dios con poder según el Espíritu de santificación por la resurrección de entre los muertos,",
+        "por quien hemos recibido la gracia y el apostolado para la obediencia de la fe entre todas las gentes para gloria de su nombre,",
+        "entre las que estáis también vosotros, elegidos de Jesucristo,",
+        "a todos los que estáis en Roma, amados de Dios, llamados a ser santos: gracia y paz a vosotros de parte de Dios nuestro Padre y del Señor Jesucristo.",
+        "Habiéndose reunido una gran muchedumbre, comenzó a decir: —Esta generación es una generación perversa; busca una señal y no se le dará otra señal que la de Jonás.",
+        "Porque, así como Jonás fue señal para los habitantes de Nínive, del mismo modo lo será también el Hijo del Hombre para esta generación.",
+        "La reina del Sur se levantará en el Juicio contra los hombres de esta generación y los condenará: porque vino de los confines de la tierra para oír la sabiduría de Salomón, y daos cuenta de que aquí hay algo más que Salomón.",
+        "Los hombres de Nínive se levantarán en el Juicio contra esta generación y la condenarán: porque ellos se convirtieron ante la predicación de Jonás, y daos cuenta de que aquí hay algo más que Jonás."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-4",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+      ]
+    }
+  }
+}

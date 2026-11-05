@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-11-04",
+  "fiesta": "San Carlos Borromeo, Obispo (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 14:7-12",
+      "texto": [
+        "Pues ninguno de nosotros vive para sí mismo, ni ninguno muere para sí mismo;",
+        "pues si vivimos, vivimos para el Señor; y si morimos, morimos para el Señor; porque vivamos o muramos, somos del Señor.",
+        "Para esto Cristo murió y volvió a la vida, para dominar sobre muertos y vivos.",
+        "Tú, ¿por qué juzgas a tu hermano? ¿O por qué desprecias a tu hermano? Todos compareceremos ante el tribunal de Dios.",
+        "Porque está escrito: Vivo yo, dice el Señor, ante mí se doblará toda rodilla, y toda lengua confesará a Dios.",
+        "Así pues, cada uno de nosotros dará cuenta de sí mismo a Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 15:1-10",
+      "texto": [
+        "Se le acercaban todos los publicanos y pecadores para oírle.",
+        "Pero los fariseos y los escribas murmuraban diciendo: —Éste recibe a los pecadores y come con ellos.",
+        "Entonces les propuso esta parábola:",
+        "—¿Quién de vosotros, si tiene cien ovejas y pierde una, no deja las noventa y nueve en el campo y sale en busca de la que se perdió hasta encontrarla?",
+        "Y, cuando la encuentra, la pone sobre sus hombros gozoso,",
+        "y, al llegar a casa, reúne a los amigos y vecinos y les dice: «Alegraos conmigo, porque he encontrado la oveja que se me perdió.",
+        "Os digo que, del mismo modo, habrá en el cielo mayor alegría por un pecador que se convierta que por noventa y nueve justos que no tienen necesidad de conversión.",
+        "¿O qué mujer, si tiene diez dracmas y pierde una, no enciende una luz y barre la casa y busca cuidadosamente hasta encontrarla?",
+        "Y cuando la encuentra, reúne a las amigas y vecinas y les dice: «Alegraos conmigo, porque he encontrado la dracma que se me perdió.",
+        "Así, os digo, hay alegría entre los ángeles de Dios por un pecador que se arrepiente."
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-07-24",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 24:3-8",
+      "texto": [
+        "Vino, pues, Moisés y contó al pueblo todas las palabras del Señor y todas las normas. Y el pueblo entero respondió a una sola voz: —Haremos todo lo que ha dicho el Señor.",
+        "Luego Moisés escribió todas las palabras del Señor y, levantándose temprano por la mañana, construyó al pie de la montaña un altar y doce estelas por las doce tribus de Israel.",
+        "Mandó a algunos jóvenes de los hijos de Israel que ofrecieran holocaustos y que inmolaran novillos como sacrificio de comunión en honor del Señor.",
+        "Entonces Moisés tomó la mitad de la sangre y la echó en unos recipientes; la otra mitad la vertió sobre el altar.",
+        "Tomó después el libro de la alianza y lo leyó a oídos del pueblo, que respondió: —Haremos y obedeceremos todo lo que ha dicho el Señor.",
+        "A continuación tomó Moisés la sangre y roció con ella al pueblo, diciendo: —Ésta es la sangre de la alianza que ha hecho el Señor con vosotros de acuerdo con todas estas palabras."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 50:1-2, 6, 15",
+      "texto": [
+        "Salmo. De Asaf. El Dios de los dioses, el Señor, habla y convoca a la tierra desde la salida del sol hasta su ocaso.",
+        "Desde Sión, dechado de hermosura, Dios resplandece.",
+        "«Reunid ante mí a mis fieles, los que han sellado mi alianza con el sacrificio.",
+        "Que los cielos pregonen su justicia, porque Dios mismo es el juez.",
+        "Ofrece a Dios un sacrificio de alabanza, cumple tus votos al Altísimo,",
+        "e invócame en el día de angustia: Yo te libraré y tú me glorificarás."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 13:24-30",
+      "texto": [
+        "Les propuso otra parábola: —El Reino de los Cielos es como un hombre que sembró buena semilla en su campo.",
+        "Pero, mientras dormían los hombres, vino su enemigo, sembró cizaña en medio del trigo y se fue.",
+        "Cuando brotó la hierba y echó espiga, entonces apareció también la cizaña.",
+        "Los siervos del amo de la casa fueron a decirle: «Señor, ¿no sembraste buena semilla en tu campo? ¿Cómo es que tiene cizaña?",
+        "Él les dijo: «Algún enemigo lo habrá hecho. Le respondieron los siervos: «¿Quieres que vayamos a arrancarla?",
+        "Pero él les respondió: «No, no vaya a ser que, al arrancar la cizaña, arranquéis también con ella el trigo.",
+        "Dejad que crezcan juntos hasta la siega. Y al tiempo de la siega les diré a los segadores: “Arrancad primero la cizaña y atadla en gavillas para quemarla; el trigo, en cambio, almacenadlo en mi granero”."
+      ]
+    }
+  }
+}

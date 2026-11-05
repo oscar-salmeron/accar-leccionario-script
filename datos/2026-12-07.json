@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-12-07",
+  "fiesta": "San Ambrosio, Obispo, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 35:1-10",
+      "texto": [
+        "¡Que el desierto y la tierra árida se alegren, que se goce la estepa y florezca como las azucenas!",
+        "Florezca pujante y alégrese con gozo y cánticos de júbilo. Se le ha dado la gloria del Líbano, la gala del Carmelo y del Sarón; ellos verán la gloria del Señor, la majestad de nuestro Dios.",
+        "Fortaleced las manos débiles, y consolidad las rodillas que flaquean.",
+        "Decid a los pusilánimes: «¡Cobrad ánimo, no temáis! Aquí está vuestro Dios, llega la venganza, la retribución de Dios. Él vendrá y os salvará.",
+        "Entonces se abrirán los ojos de los ciegos y se destaparán los oídos de los sordos.",
+        "Entonces el cojo saltará como un ciervo, y la lengua del mudo gritará de júbilo, porque manarán aguas en el desierto y torrentes en la estepa;",
+        "el páramo se trocará en estanque, y el secarral en manantiales de aguas; en las guaridas donde se refugiaban los chacales habrá cañaverales y juncales.",
+        "Allí habrá calzada y camino, y será llamado Camino Santo. Nada inmundo pasará por él, y les resultará camino andadero, ni los más simples se extraviarán.",
+        "Allí no habrá leones, ni subirán fieras, nada de eso se encontrará allí, y caminarán los repatriados.",
+        "Regresarán los redimidos del Señor, llegarán a Sión con gritos de júbilo e infinita alegría en sus rostros, traerán regocijo y alegría, y desaparecerán la pena y los lamentos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 85:9-14",
+      "texto": [
+        "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles, con tal de que no retornen a la necedad.",
+        "En verdad, ya está cerca la salvación para los que le temen, para que en nuestra tierra habite la Gloria.",
+        "Misericordia y fidelidad se encontrarán, justicia y paz se besarán.",
+        "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia.",
+        "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos.",
+        "Ante Él marchará la justicia, y sus pasos abrirán camino."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 5:17-26",
+      "texto": [
+        "Estaba Jesús un día enseñando. Y estaban sentados algunos fariseos y doctores de la Ley, que habían venido de todas las aldeas de Galilea, de Judea y de Jerusalén. Y la fuerza del Señor le impulsaba a curar.",
+        "Entonces, unos hombres, que traían en una camilla a un paralítico, intentaban meterlo dentro y colocarlo delante de él.",
+        "Y como no encontraban por dónde introducirlo a causa del gentío, subieron al terrado, y por entre las tejas lo descolgaron en la camilla hasta ponerlo en medio, delante de Jesús.",
+        "Al ver Jesús la fe de ellos, dijo: —Hombre, tus pecados te son perdonados.",
+        "Entonces los escribas y fariseos empezaron a pensar: «¿Quién es éste que dice blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?",
+        "Pero conociendo Jesús sus pensamientos, les dijo: —¿Qué estáis pensando en vuestros corazones?",
+        "¿Qué es más fácil, decir: «Tus pecados te son perdonados, o decir: «Levántate, y anda?",
+        "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar los pecados —se dirigió al paralítico—, a ti te digo: levántate, toma tu camilla y marcha a tu casa.",
+        "Y al instante se levantó en presencia de ellos, tomó la camilla en que yacía y se fue a su casa glorificando a Dios.",
+        "El asombro se apoderó de todos y glorificaban a Dios. Y llenos de temor decían: —Hoy hemos visto cosas maravillosas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-09-08",
+  "fiesta": "Natividad de la Santísima Virgen María (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Miqueas 5:1-4",
+      "texto": [
+        "Pero tú, Belén Efrata, aunque tan pequeña entre los clanes de Judá, de ti me saldrá el que ha de ser dominador en Israel; sus orígenes son muy antiguos, de días remotos.",
+        "Por eso él los entregará hasta el tiempo en que dé a luz la que ha de dar a luz. Entonces, el resto de sus hermanos volverá junto a los hijos de Israel.",
+        "Él estará firme, y apacentará con la fuerza del Señor, con la majestad del Nombre del Señor, su Dios; y ellos podrán reposar, porque entonces él será grande hasta los confines de la tierra.",
+        "Él mismo será la paz. Asiria, si viniere a nuestra tierra, y hollare nuestros palacios, nosotros le suscitaremos siete pastores y ocho príncipes de estirpe."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 13:6",
+      "texto": [
+        "Yo confío en tu misericordia; mi corazón se goza en tu salvación. Cantaré al Señor por el bien que me hace."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 1:1-16, 23",
+      "texto": [
+        "Genealogía de Jesucristo, hijo de David, hijo de Abrahán.",
+        "Abrahán engendró a Isaac, Isaac engendró a Jacob, Jacob engendró a Judá y a sus hermanos,",
+        "Judá engendró a Farés y a Zara de Tamar, Farés engendró a Esrón, Esrón engendró a Aram,",
+        "Aram engendró a Aminadab, Aminadab engendró a Naasón, Naasón engendró a Salmón,",
+        "Salmón engendró a Booz de Rahab, Booz engendró a Obed de Rut, Obed engendró a Jesé,",
+        "Jesé engendró al rey David. David engendró a Salomón de la que fue mujer de Urías,",
+        "Salomón engendró a Roboán, Roboán engendró a Abías, Abías engendró a Asá,",
+        "Asá engendró a Josafat, Josafat engendró a Jorán, Jorán engendró a Ozías,",
+        "Ozías engendró a Joatán, Joatán engendró a Acaz, Acaz engendró a Ezequías,",
+        "Ezequías engendró a Manasés, Manasés engendró a Amón, Amón engendró a Josías,",
+        "Josías engendró a Jeconías y a sus hermanos cuando la deportación a Babilonia.",
+        "Después de la deportación a Babilonia, Jeconías engendró a Salatiel, Salatiel engendró a Zorobabel,",
+        "Zorobabel engendró a Abiud, Abiud engendró a Eliacim, Eliacim engendró a Azor,",
+        "Azor engendró a Sadoc, Sadoc engendró a Aquim, Aquim engendró a Eliud,",
+        "Eliud engendró a Eleazar, Eleazar engendró a Matán, Matán engendró a Jacob,",
+        "Jacob engendró a José, el esposo de María, de la cual nació Jesús llamado Cristo.",
+        "La generación de Jesucristo fue así: María, su madre, estaba desposada con José, y antes de que conviviesen se encontró con que había concebido en su seno por obra del Espíritu Santo.",
+        "José, su esposo, como era justo y no quería exponerla a infamia, pensó repudiarla en secreto.",
+        "Consideraba él estas cosas, cuando un ángel del Señor se le apareció en sueños y le dijo: —José, hijo de David, no temas recibir a María, tu esposa, porque lo que en ella ha sido concebido es obra del Espíritu Santo.",
+        "Dará a luz un hijo y le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados.",
+        "Todo esto sucedió para que se cumpliera lo que dijo el Señor por medio del Profeta:",
+        "Mirad, la virgen concebirá y dará a luz un hijo, a quien pondrán por nombre Emmanuel, que significa Dios–con–nosotros."
+      ]
+    }
+  }
+}

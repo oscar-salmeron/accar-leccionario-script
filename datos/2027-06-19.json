@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-06-19",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 12:1-10",
+      "texto": [
+        "¿Hay que gloriarse? Aunque no conviene, hablaré de las visiones y revelaciones del Señor.",
+        "Conozco a un hombre en Cristo, que hace catorce años —si en el cuerpo, no lo sé, si fuera del cuerpo, tampoco lo sé: Dios lo sabe— fue arrebatado hasta el tercer cielo.",
+        "Y sé que este hombre —si en el cuerpo o fuera del cuerpo, no lo sé: Dios lo sabe—",
+        "fue arrebatado al paraíso y oyó palabras inefables que al hombre no es lícito pronunciar.",
+        "De ese hombre me gloriaré, pero de mí mismo no me gloriaré, si no es de mis flaquezas.",
+        "Pero aunque quisiera gloriarme, no sería un necio, pues diría la verdad. Sin embargo me abstengo, para que nadie me atribuya algo por encima de lo que ve en mí o de mí oye,",
+        "o a causa de la grandeza de las revelaciones. Por eso, para que no me engría, me fue clavado un aguijón en la carne, un ángel de Satanás, para que me abofetee, y no me envanezca.",
+        "Por esto, rogué tres veces al Señor que lo apartase de mí;",
+        "pero Él me dijo: «Te basta mi gracia, porque la fuerza se perfecciona en la flaqueza. Por eso, con sumo gusto me gloriaré más todavía en mis flaquezas, para que habite en mí la fuerza de Cristo.",
+        "Por lo cual me complazco en las flaquezas, en los oprobios, en las necesidades, en las persecuciones y angustias, por Cristo; pues cuando soy débil, entonces soy fuerte."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:8-13",
+      "texto": [
+        "(Het) El ángel del Señor se sitúa alrededor de los que le temen para librarlos.",
+        "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él.",
+        "(Yod) Temed al Señor sus santos, que nada falta a los que le temen.",
+        "(Kaf) Los ricos se empobrecen y pasan hambre, pero los que buscan al Señor de nada carecen.",
+        "(Lámed) Venid, hijos, escuchadme, os enseñaré el temor del Señor.",
+        "(Mem) ¿Quién hay que no quiera la vida, que no apetezca los días para disfrutar del bien?"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 6:24-34",
+      "texto": [
+        "Nadie puede servir a dos señores, porque o tendrá odio a uno y amor al otro, o prestará su adhesión al primero y menospreciará al segundo: no podéis servir a Dios y a las riquezas.",
+        "Por eso os digo: no estéis preocupados por vuestra vida: qué vais a comer; o por vuestro cuerpo: con qué os vais a vestir. ¿Es que no vale más la vida que el alimento, y el cuerpo más que el vestido?",
+        "Mirad las aves del cielo: no siembran, ni siegan, ni almacenan en graneros, y vuestro Padre celestial las alimenta. ¿Es que no valéis vosotros mucho más que ellas?",
+        "¿Quién de vosotros, por mucho que cavile, puede añadir un solo codo a su estatura?",
+        "Y sobre el vestir, ¿por qué os preocupáis? Fijaos en los lirios del campo, cómo crecen; no se fatigan ni hilan,",
+        "y yo os digo que ni Salomón en toda su gloria pudo vestirse como uno de ellos.",
+        "Y si a la hierba del campo, que hoy es y mañana se echa al horno, Dios la viste así, ¿cuánto más a vosotros, hombres de poca fe?",
+        "Así pues, no andéis preocupados diciendo: ¿qué vamos a comer, qué vamos a beber, con qué nos vamos a vestir?",
+        "Por todas esas cosas se afanan los paganos. Bien sabe vuestro Padre celestial que de todo eso estáis necesitados.",
+        "Buscad primero el Reino de Dios y su justicia, y todas estas cosas se os añadirán.",
+        "Por tanto, no os preocupéis por el mañana, porque el mañana traerá su propia preocupación. A cada día le basta su contrariedad."
+      ]
+    }
+  }
+}

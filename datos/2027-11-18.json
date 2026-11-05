@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-11-18",
+  "fiesta": "Dedicación de la Basílica de los Santos Pedro y Pablo (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 28:11-16, 31",
+      "texto": [
+        "Pasados tres meses nos hicimos a la mar en una nave alejandrina que había invernado en la isla y llevaba los Dioscuros como enseña.",
+        "Llegamos a Siracusa y permanecimos tres días.",
+        "Desde allí, costeando, arribamos a Regio. Al día siguiente se levantó viento del sur y a los dos días llegamos a Putéoli.",
+        "Encontramos allí algunos hermanos, que nos rogaron que permaneciéramos con ellos siete días. Y así nos dirigimos a Roma.",
+        "Los hermanos, al enterarse de nuestra llegada, vinieron desde allí a nuestro encuentro hasta el Foro Apio y Tres Tabernas. Al verles, Pablo dio gracias a Dios y cobró ánimos.",
+        "Cuando llegamos a Roma, le fue permitido a Pablo vivir por cuenta propia con un soldado que le custodiara.",
+        "Pablo permaneció dos años completos en el lugar que había alquilado, y recibía a todos los que acudían a él.",
+        "Predicaba el Reino de Dios y enseñaba lo referente al Señor Jesucristo con toda libertad y sin ningún estorbo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-6",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos.",
+        "Entonad salmos al Señor con la cítara, con la cítara al son de la música;",
+        "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 14:22-33",
+      "texto": [
+        "Y enseguida Jesús mandó a los discípulos que subieran a la barca y que se adelantaran a la otra orilla, mientras él despedía a la gente.",
+        "Y, después de despedirla, subió al monte a orar a solas. Cuando se hizo de noche seguía él solo allí.",
+        "Mientras tanto, la barca ya se había alejado de tierra muchos estadios, sacudida por las olas, porque el viento le era contrario.",
+        "En la cuarta vigilia de la noche vino hacia ellos caminando sobre el mar.",
+        "Cuando le vieron los discípulos andando sobre el mar, se asustaron y dijeron: —¡Es un fantasma! —y llenos de miedo empezaron a gritar.",
+        "Pero al instante Jesús les habló: —Tened confianza, soy yo, no temáis.",
+        "Entonces Pedro le respondió: —Señor, si eres tú, manda que yo vaya a ti sobre las aguas.",
+        "—Ven —le dijo él. Y Pedro se bajó de la barca y comenzó a andar sobre las aguas en dirección a Jesús.",
+        "Pero al ver que el viento era muy fuerte se atemorizó y, al empezar a hundirse, se puso a gritar: —¡Señor, sálvame!",
+        "Al instante Jesús alargó la mano, lo sujetó y le dijo: —Hombre de poca fe, ¿por qué has dudado?",
+        "Y cuando subieron a la barca se calmó el viento.",
+        "Los que estaban en la barca le adoraron diciendo: —Verdaderamente eres Hijo de Dios."
+      ]
+    }
+  }
+}

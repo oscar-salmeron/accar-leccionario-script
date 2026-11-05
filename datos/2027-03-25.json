@@ -1,0 +1,68 @@
+{
+  "fecha": "2027-03-25",
+  "fiesta": "Este día será para vosotros memorable y lo celebraréis como fiesta del Señor; lo celebraréis como institución perpetua de generación en generación.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 12:1-8, 14",
+      "texto": [
+        "El Señor habló a Moisés y a Aarón en el país de Egipto, diciendo:",
+        "—Este mes será para vosotros el comienzo de los meses; será el primero de los meses del año.",
+        "Hablad a toda la comunidad de Israel diciendo: «El día diez de este mes tomará cada uno un cordero por familia, uno por casa.",
+        "Si la familia es demasiado pequeña para consumirlo, se unirá con su vecino más próximo hasta completar el número de personas suficiente para comer la res entera.",
+        "Ha de ser un animal sin defecto, macho, de un año, escogido de entre los corderos o cabritos.",
+        "Lo guardaréis hasta el día catorce de este mes y toda la asamblea de la comunidad de Israel lo inmolará entre dos luces.",
+        "Luego tomarán la sangre y untarán las dos jambas y el dintel de las casas donde se va a comer.",
+        "Comerán la carne esa misma noche; la comerán asada al fuego, con panes ácimos y hierbas amargas.",
+        "Lo habéis de comer así: ceñidas vuestras cinturas, las sandalias en los pies, y el bastón en vuestras manos; lo comeréis deprisa: pues es la Pascua del Señor.",
+        "Esta noche pasaré por el país de Egipto y heriré a todo primogénito del país de Egipto, tanto de hombres como de animales; y haré justicia sobre los dioses de Egipto. Yo, el Señor.",
+        "La sangre será vuestra señal sobre las casas donde estéis; cuando yo vea la sangre pasaré de largo sobre vosotros, y no habrá entre vosotros plaga exterminadora cuando yo hiera el país de Egipto.",
+        "Este día será para vosotros memorable y lo celebraréis como fiesta del Señor; lo celebraréis como institución perpetua de generación en generación."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 116:12-13, 18",
+      "texto": [
+        "¿Cómo pagaré al Señor todo el bien que me ha dado?",
+        "Alzaré la copa de la salvación e invocaré el Nombre del Señor.",
+        "Preciosa es a los ojos del Señor la muerte de sus fieles.",
+        "¡Ah, Señor, yo soy tu siervo, tu siervo soy, el hijo de tu esclava! Tú has soltado mis cadenas.",
+        "Te ofreceré un sacrificio de acción de gracias, e invocaré el Nombre del Señor.",
+        "Cumpliré al Señor mis votos en presencia de todo su pueblo,"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 11:23-26",
+      "texto": [
+        "Porque yo recibí del Señor lo que también os transmití: que el Señor Jesús, la noche en que fue entregado, tomó pan,",
+        "y dando gracias, lo partió y dijo: «Esto es mi cuerpo, que se da por vosotros; haced esto en memoria mía.",
+        "Y de la misma manera, después de cenar, tomó el cáliz, diciendo: «Este cáliz es la nueva alianza en mi sangre; cuantas veces lo bebáis, hacedlo en memoria mía.",
+        "Porque cada vez que coméis este pan y bebéis este cáliz, anunciáis la muerte del Señor, hasta que venga."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 13:1-15",
+      "texto": [
+        "La víspera de la fiesta de Pascua, como Jesús sabía que había llegado su hora de pasar de este mundo al Padre, habiendo amado a los suyos que estaban en el mundo, los amó hasta el fin.",
+        "Y mientras celebraban la cena, cuando el diablo ya había sugerido en el corazón de Judas, hijo de Simón Iscariote, que lo entregara,",
+        "como Jesús sabía que todo lo había puesto el Padre en sus manos y que había salido de Dios y a Dios volvía,",
+        "se levantó de la cena, se quitó el manto, tomó una toalla y se la puso a la cintura.",
+        "Después echó agua en una jofaina, y empezó a lavarles los pies a los discípulos y a secárselos con la toalla que se había puesto a la cintura.",
+        "Llegó a Simón Pedro y éste le dijo: —Señor, ¿tú me vas a lavar a mí los pies?",
+        "—Lo que yo hago no lo entiendes ahora —respondió Jesús—. Lo comprenderás después.",
+        "Le dijo Pedro: —No me lavarás los pies jamás. —Si no te lavo, no tendrás parte conmigo —le respondió Jesús.",
+        "Simón Pedro le replicó: —Entonces, Señor, no sólo los pies, sino también las manos y la cabeza.",
+        "Jesús le dijo: —El que se ha bañado no tiene necesidad de lavarse más que los pies, porque todo él está limpio. Y vosotros estáis limpios, aunque no todos",
+        "—como sabía quién le iba a entregar, por eso dijo: «No todos estáis limpios.",
+        "Después de lavarles los pies se puso el manto, se recostó a la mesa de nuevo y les dijo: —¿Comprendéis lo que he hecho con vosotros?",
+        "Vosotros me llamáis el Maestro y el Señor, y tenéis razón, porque lo soy.",
+        "Pues si yo, que soy el Señor y el Maestro, os he lavado los pies, vosotros también debéis lavaros los pies unos a otros.",
+        "Os he dado ejemplo para que, como yo he hecho con vosotros, también lo hagáis vosotros."
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-09-16",
+  "fiesta": "San Cornelio, Papa, Mártir y San Cipriano, Obispo, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 4:12-16",
+      "texto": [
+        "Que nadie te menosprecie por tu juventud. Debes ser, más bien, un modelo para los fieles en el hablar, en el trato, en la caridad, en la fe y en la pureza.",
+        "Hasta que yo llegue, pon cuidado en la lectura, la exhortación y la enseñanza.",
+        "No descuides la gracia que hay en ti, que te fue conferida mediante la profecía junto con la imposición de manos del presbiterio.",
+        "Medita estas cosas y pon atención en ellas, para que tu progreso sea patente a todos.",
+        "Cuida de ti mismo y de la enseñanza. Persevera en esta disposición, pues actuando así te salvarás a ti mismo y a los que te escuchen."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 111:7-10",
+      "texto": [
+        "(Mem) Las obras de sus manos son verdad y justicia. (Nun) Dignos de confianza, todos sus mandatos;",
+        "(Sámek) promulgados para siempre, (Áin) se han de cumplir con fidelidad y rectitud.",
+        "(Pe) Envió la redención a su pueblo; (Sade) ordenó para siempre su alianza. (Qof) Su Nombre es santo y temible.",
+        "(Resh) Principio de la sabiduría es el temor del Señor. (Shin) Sensatos son cuantos lo practican. (Tav) Su alabanza permanece para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 7:36-50",
+      "texto": [
+        "Uno de los fariseos le rogaba que comiera con él; y entrando en casa del fariseo se recostó a la mesa.",
+        "Y entonces una mujer pecadora que había en la ciudad, al enterarse de que estaba recostado a la mesa en casa del fariseo, llevó un frasco de alabastro con perfume,",
+        "y por detrás se puso a sus pies llorando; y comenzó a bañarle los pies con sus lágrimas, y los enjugaba con sus cabellos, los besaba y los ungía con el perfume.",
+        "Al ver esto el fariseo que le había invitado, se decía: «Si éste fuera profeta, sabría con certeza quién y qué clase de mujer es la que le toca: que es una pecadora.",
+        "Jesús tomó la palabra y le dijo: —Simón, tengo que decirte una cosa. Y él contestó: —Maestro, di.",
+        "—Un prestamista tenía dos deudores: uno le debía quinientos denarios y otro cincuenta.",
+        "Como ellos no tenían con qué pagar, se lo perdonó a los dos. ¿Cuál de ellos le amará más?",
+        "—Supongo que aquel a quien perdonó más —contestó Simón. Entonces Jesús le dijo: —Has juzgado con rectitud.",
+        "Y vuelto hacia la mujer, le dijo a Simón: —¿Ves a esta mujer? Entré en tu casa y no me diste agua para los pies. Ella en cambio me ha bañado los pies con sus lágrimas y me los ha enjugado con sus cabellos.",
+        "No me diste el beso. Pero ella, desde que entré no ha dejado de besar mis pies.",
+        "No has ungido mi cabeza con aceite. Ella en cambio ha ungido mis pies con perfume.",
+        "Por eso te digo: le son perdonados sus muchos pecados, porque ha amado mucho. Aquel a quien poco se le perdona, poco ama.",
+        "Entonces le dijo a ella: —Tus pecados quedan perdonados.",
+        "Y los convidados comenzaron a decir entre sí: —¿Quién es éste que hasta perdona los pecados?",
+        "Él le dijo a la mujer: —Tu fe te ha salvado; vete en paz."
+      ]
+    }
+  }
+}

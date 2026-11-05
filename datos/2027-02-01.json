@@ -1,0 +1,59 @@
+{
+  "fecha": "2027-02-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 11:32-40",
+      "texto": [
+        "¿Qué más diré? Me faltaría tiempo si tuviera que hablar de Gedeón, Barac, Sansón, Jefté, David, Samuel y los Profetas,",
+        "que por la fe sometieron reinos, ejercieron la justicia, alcanzaron las promesas, cerraron bocas de leones,",
+        "apagaron la violencia del fuego, escaparon del filo de la espada, se curaron de sus enfermedades, fueron valientes en la guerra y abatieron ejércitos extranjeros.",
+        "Hubo mujeres que recuperaron resucitados a sus muertos. Algunos fueron torturados, porque rehusaron la liberación para lograr una resurrección mejor.",
+        "Otros soportaron escarnios y azotes, e incluso cadenas y cárcel.",
+        "Fueron apedreados, aserrados, muertos a espada, anduvieron errantes cubiertos con pieles de oveja y de cabra, necesitados, atribulados y maltratados",
+        "—¡el mundo no era digno de ellos!—, perdidos por desiertos y montes, por cuevas y cavernas de la tierra.",
+        "Y aunque todos recibieron alabanza por su fe, no obtuvieron sin embargo la promesa.",
+        "Dios había previsto algo mejor para nosotros, de forma que ellos no llegaran a la perfección sin nosotros."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 31:20-24",
+      "texto": [
+        "Qué grande es tu bondad, la que has reservado para los que te temen, preparado para los que se refugian en Ti, a la vista de los hijos de los hombres.",
+        "En lo secreto de tu presencia los ocultas de las intrigas humanas; en tu tienda los escondes de las lenguas pendencieras.",
+        "Bendito el Señor que hizo por mí maravillas de misericordia en la ciudad fortificada.",
+        "Pensaba yo en mi turbación: «He sido expulsado de tu presencia. Pero Tú escuchaste mi voz suplicante cuando clamé a Ti.",
+        "Amad al Señor todos sus fieles, que el Señor protege a los leales, pero castiga con dureza al que obra con orgullo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 5:1-20",
+      "texto": [
+        "Y llegaron a la orilla opuesta del mar, a la región de los gerasenos.",
+        "Apenas salir de la barca, vino a su encuentro desde los sepulcros un hombre poseído por un espíritu impuro,",
+        "que vivía en los sepulcros y nadie podía tenerlo sujeto ni siquiera con cadenas;",
+        "porque había estado muchas veces atado con grilletes y cadenas, y había roto las cadenas y deshecho los grilletes, y nadie podía dominarlo.",
+        "Y se pasaba las noches enteras y los días por los sepulcros y por los montes, gritando e hiriéndose con piedras.",
+        "Al ver a Jesús desde lejos, corrió y se postró ante él;",
+        "y, gritando con gran voz, dijo: —¿Qué tengo yo que ver contigo, Jesús, Hijo del Dios Altísimo? ¡Te conjuro por Dios que no me atormentes!",
+        "—porque le decía: «¡Sal, espíritu impuro, de este hombre!",
+        "Y le preguntó: —¿Cuál es tu nombre? Le contestó: —Mi nombre es Legión, porque somos muchos.",
+        "Y le suplicaba con insistencia que no lo expulsara fuera de la región.",
+        "Había por allí junto al monte una gran piara de cerdos paciendo.",
+        "Y le suplicaron: —Envíanos a los cerdos, para que entremos en ellos.",
+        "Y se lo permitió. Salieron los espíritus impuros y entraron en los cerdos; y la piara, alrededor de dos mil, se lanzó corriendo por la pendiente hacia el mar, donde se iban ahogando.",
+        "Los porqueros huyeron y lo contaron por la ciudad y por los campos. Y acudieron a ver qué había pasado.",
+        "Llegaron junto a Jesús, y vieron al que había estado endemoniado —al que había tenido a la legión— sentado, vestido y en su sano juicio; y se atemorizaron.",
+        "Los que lo habían presenciado les explicaron lo que había sucedido con el que había estado poseído por el demonio y con los cerdos.",
+        "Y comenzaron a rogarle que se alejase de su región.",
+        "En cuanto él subió a la barca, el que había estado endemoniado le suplicaba quedarse con él;",
+        "pero no lo admitió, sino que le dijo: —Vete a tu casa con los tuyos y anúnciales las grandes cosas que el Señor ha hecho contigo, y cómo ha tenido misericordia de ti.",
+        "Se fue y comenzó a proclamar en la Decápolis lo que Jesús había hecho con él. Y todos se admiraban."
+      ]
+    }
+  }
+}

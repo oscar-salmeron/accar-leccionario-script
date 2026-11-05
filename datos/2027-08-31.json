@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-08-31",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 5:1-6, 11",
+      "texto": [
+        "Sobre el tiempo y el momento, hermanos, no necesitáis que os escriba,",
+        "porque vosotros mismos sabéis muy bien que el día del Señor vendrá como un ladrón en la noche.",
+        "Así pues, cuando clamen: «Paz y seguridad, entonces, de repente, se precipitará sobre ellos la ruina —como los dolores de parto de la que está encinta—, sin que puedan escapar.",
+        "Pero vosotros, hermanos, no estáis en tinieblas, de modo que ese día os sorprenda como un ladrón;",
+        "pues todos vosotros sois hijos de la luz e hijos del día. Nosotros no somos de la noche ni de las tinieblas.",
+        "Por tanto, no durmamos como los demás, sino estemos en vela y mantengámonos sobrios.",
+        "Porque Dios no nos ha destinado a la ira, sino a alcanzar la salvación por medio de nuestro Señor Jesucristo,",
+        "que murió por nosotros, para que, tanto si velamos como si dormimos, vivamos juntos con él.",
+        "Por eso, animaos mutuamente y edificaos unos a otros, como ya lo hacéis."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1, 4, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Una cosa pido al Señor, ésta sólo busco: habitar en la Casa del Señor todos los días de mi vida, para gozar de las delicias del Señor y contemplar su Templo.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 4:31-37",
+      "texto": [
+        "Bajó a Cafarnaún, ciudad de Galilea, y el sábado se puso a enseñarles.",
+        "Y se quedaron admirados de su enseñanza, porque su palabra iba acompañada de potestad.",
+        "Se encontraba en la sinagoga un hombre que tenía el espíritu de un demonio impuro, que gritó con gran voz:",
+        "—¡Déjanos!, ¿qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios!",
+        "Y Jesús le conminó: —¡Cállate, y sal de él! Entonces el demonio, arrojándolo al suelo, allí en medio, salió de él, sin hacerle daño alguno.",
+        "Y todos se llenaron de estupor y se decían unos a otros: —¿Qué palabra es ésta, que con potestad y fuerza manda a los espíritus impuros y salen?",
+        "Y se divulgaba su fama por todos los lugares de la región."
+      ]
+    }
+  }
+}

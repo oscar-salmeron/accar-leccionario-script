@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-04-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 15:22-31",
+      "texto": [
+        "Entonces les pareció bien a los apóstoles y a los presbíteros, y a toda la Iglesia, enviar a Antioquía con Pablo y Bernabé a algunos varones elegidos de entre ellos: a Judas, llamado Barsabás, y a Silas, destacados entre los hermanos.",
+        "Con ellos les enviaron este escrito: «Los apóstoles y los presbíteros hermanos, a los hermanos de la gentilidad que viven en Antioquía, Siria y Cilicia: saludos.",
+        "Puesto que hemos oído que algunos salidos de entre nosotros —pero que nosotros no hemos enviado— os han desconcertado con sus palabras y os han llenado de inquietud,",
+        "unánimemente nos ha parecido oportuno elegir a unos hombres y enviarlos donde vosotros en compañía de nuestros queridísimos Bernabé y Pablo,",
+        "hombres que han entregado su vida por el nombre de nuestro Señor Jesucristo.",
+        "Enviamos por lo tanto a Judas y Silas, que os comunicarán de palabra estas mismas cosas;",
+        "porque hemos decidido el Espíritu Santo y nosotros no imponeros más cargas que las necesarias:",
+        "abstenerse de lo sacrificado a los ídolos, de la sangre, de los animales estrangulados y de la fornicación. Obraréis bien al guardaros de estas cosas. Que tengáis salud.",
+        "Ellos, después de despedirse, bajaron a Antioquía, reunieron a la muchedumbre y entregaron la carta;",
+        "y al leerla se llenaron de alegría por estas palabras de consuelo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 57:8-12",
+      "texto": [
+        "Mi corazón está firme, Dios mío, mi corazón está firme: cantaré y entonaré salmos.",
+        "¡Despierta, gloria mía! ¡Despertad, arpa y cítara! Despertaré a la aurora.",
+        "Te alabaré ante los pueblos, Señor, te entonaré salmos ante las naciones.",
+        "Porque tu misericordia es más grande que los cielos, tu fidelidad, más alta que las nubes.",
+        "¡Álzate sobre los cielos, oh Dios, sobre toda la tierra sea tu gloria!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 15:12-17",
+      "texto": [
+        "Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado.",
+        "Nadie tiene amor más grande que el de dar uno la vida por sus amigos.",
+        "Vosotros sois mis amigos si hacéis lo que os mando.",
+        "Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer.",
+        "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda.",
+        "Esto os mando: que os améis los unos a los otros."
+      ]
+    }
+  }
+}

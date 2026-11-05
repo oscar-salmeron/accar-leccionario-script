@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-01-30",
+  "fiesta": "San Jacinto Marescotti, Virgen (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 11:1-2, 19",
+      "texto": [
+        "La fe es fundamento de las cosas que se esperan, prueba de las que no se ven.",
+        "Por ella los antepasados han recibido un testimonio.",
+        "Por la fe, Abrahán obedeció al ser llamado para ir al lugar que iba a recibir en herencia, y salió sin saber adónde marchaba.",
+        "Por la fe, peregrinó por la tierra prometida como en tierra extraña, y habitó en tiendas, igual que harían Isaac y Jacob, coherederos de las mismas promesas;",
+        "porque esperaba la ciudad fundada sobre cimientos, cuyo arquitecto y constructor es Dios.",
+        "Por la fe, también Sara, que era estéril, recibió vigor para concebir, aun superada ya la edad oportuna, porque creyó que era digno de fe el que se lo había prometido.",
+        "De modo que de uno solo, y ya decrépito, nacieron hijos tan numerosos como las estrellas del cielo e incontables como las arenas de las playas del mar.",
+        "En la fe, murieron todos ellos, sin haber conseguido las promesas, sino viéndolas y saludándolas desde lejos, y reconociendo que eran peregrinos y forasteros en la tierra.",
+        "Los que hablaban así manifestaban que iban en busca de una patria.",
+        "Pues si hubieran añorado la tierra de la que habían salido, habrían tenido ocasión de volver a ella.",
+        "Pero aspiraban a una patria mejor, es decir, a la celestial. Por eso, Dios no se avergüenza de ser llamado Dios suyo, porque les ha preparado una ciudad.",
+        "Por la fe, Abrahán, puesto a prueba, ofreció a Isaac, y el que había recibido las promesas se dispuso a ofrecer a su único hijo",
+        "de quien se le había dicho: En Isaac tendrás descendencia.",
+        "Pensaba, en efecto, que Dios es poderoso incluso para resucitar de entre los muertos. Por eso lo recobró y fue como un símbolo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Lucas 1:69-75",
+      "texto": [
+        "y ha suscitado para nosotros el poder salvador en la casa de David su siervo,",
+        "como lo había anunciado desde antiguo por boca de sus santos profetas;",
+        "para salvarnos de nuestros enemigos y de la mano de cuantos nos odian:",
+        "ejerciendo su misericordia con nuestros padres, y acordándose de su santa alianza,",
+        "y del juramento que hizo a Abrahán, nuestro padre,",
+        "para concedernos que, libres de la mano de los enemigos, le sirvamos sin temor,",
+        "con santidad y justicia en su presencia todos los días de nuestra vida."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:35-41",
+      "texto": [
+        "Aquel día, llegada la tarde, les dice: —Crucemos a la otra orilla.",
+        "Y, despidiendo a la muchedumbre, le llevaron en la barca tal como estaba. Y le acompañaban otras barcas.",
+        "Y se levantó una gran tempestad de viento, y las olas se echaban encima de la barca, hasta el punto de que la barca ya se inundaba.",
+        "Él estaba en la popa durmiendo sobre un cabezal. Entonces le despiertan, y le dicen: —Maestro, ¿no te importa que perezcamos?",
+        "Y, puesto en pie, increpó al viento y dijo al mar: —¡Calla, enmudece! Y se calmó el viento y sobrevino una gran calma.",
+        "Entonces les dijo: —¿Por qué os asustáis? ¿Todavía no tenéis fe?",
+        "Y se llenaron de gran temor y se decían unos a otros: —¿Quién es éste, que hasta el viento y el mar le obedecen?"
+      ]
+    }
+  }
+}

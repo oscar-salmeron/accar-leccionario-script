@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-04-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 8:26-40",
+      "texto": [
+        "Un ángel del Señor le habló a Felipe: —Levántate y vete hacia el sur, a la ruta que baja de Jerusalén a Gaza y que está desierta.",
+        "Se levantó y se puso en camino. En esto, un hombre de Etiopía, eunuco, dignatario de Candace —la reina de Etiopía— y superintendente de su tesoro, que había venido a Jerusalén para adorar a Dios,",
+        "volvía sentado en su carro leyendo al profeta Isaías.",
+        "Le dijo entonces el Espíritu a Felipe: —Acércate y ponte al lado de ese carro.",
+        "Corrió Felipe a su lado y oyó que leía al profeta Isaías. Entonces le dijo: —¿Entiendes lo que lees?",
+        "Él respondió: —¿Cómo lo voy a entender si no me lo explica alguien? Rogó entonces a Felipe que subiera y se sentase junto a él.",
+        "El pasaje de la Escritura que iba leyendo era el siguiente: Como oveja fue llevado al matadero, y como mudo cordero ante el esquilador, así no abrió la boca.",
+        "En su humillación se le negó la justicia. ¿Quién hablará de su posteridad?, ya que su vida es arrebatada de la tierra.",
+        "El eunuco le dijo a Felipe: —Te ruego que me digas de quién dice esto el profeta: ¿de sí mismo o de algún otro?"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:44-51",
+      "texto": [
+        "Mientras iban por el camino llegaron a un lugar donde había agua, y le dijo el eunuco: —Aquí hay agua, ¿qué impide que yo sea bautizado?",
+        "Mandó detener el carro y bajaron los dos, Felipe y el eunuco, hasta el agua. Y le bautizó.",
+        "Cuando salieron del agua, el Espíritu del Señor arrebató a Felipe y no le vio más el eunuco, que siguió alegre su camino.",
+        "Nadie puede venir a mí si no le atrae el Padre que me ha enviado, y yo le resucitaré en el último día.",
+        "Está escrito en los Profetas: Y serán todos enseñados por Dios. Todo el que ha escuchado al que viene del Padre, y ha aprendido, viene a mí.",
+        "No es que alguien haya visto al Padre, sino que aquel que procede de Dios, ése ha visto al Padre.",
+        "En verdad, en verdad os digo que el que cree tiene vida eterna.",
+        "Yo soy el pan de vida.",
+        "Vuestros padres comieron en el desierto el maná y murieron.",
+        "Éste es el pan que baja del cielo, para que si alguien lo come no muera.",
+        "Yo soy el pan vivo que ha bajado del cielo. Si alguno come este pan vivirá eternamente; y el pan que yo daré es mi carne para la vida del mundo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 66:8-9, 17, 20",
+      "texto": [
+        "Pueblos, bendecid a nuestro Dios, haced que se oiga la voz de su alabanza.",
+        "Él ha devuelto la vida a nuestras almas y no ha dejado que vacilara nuestro pie.",
+        "Los que teméis a Dios, venid, escuchad, os contaré lo que ha hecho por mi alma.",
+        "Le invoqué con mi boca y lo ensalcé con mi lengua.",
+        "Bendito sea Dios, que no ha rechazado mi plegaria ni me ha retirado su misericordia."
+      ]
+    }
+  }
+}

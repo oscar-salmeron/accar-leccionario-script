@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-02-22",
+  "fiesta": "Cátedra de San Pedro, Apóstol (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Pedro 5:1-4",
+      "texto": [
+        "A los presbíteros que hay entre vosotros, yo —presbítero como ellos y, además, testigo de los padecimientos de Cristo y partícipe de la gloria que va a manifestarse— os exhorto:",
+        "apacentad la grey de Dios que se os ha confiado, gobernando no a la fuerza, sino de buena gana según Dios; no por mezquino afán de lucro, sino de corazón;",
+        "no como tiranos sobre la heredad del Señor, sino haciéndoos modelo de la grey.",
+        "Así, cuando se manifieste el Pastor Supremo, recibiréis la corona de gloria que no se marchita."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 23:1-6",
+      "texto": [
+        "Salmo. De David. El Señor es mi pastor, nada me falta.",
+        "En verdes prados me hace reposar; hacia aguas tranquilas me guía;",
+        "reconforta mi alma, me conduce por sendas rectas por honor de su Nombre.",
+        "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo; tu vara y tu cayado me sosiegan.",
+        "Preparas una mesa para mí frente a mis adversarios. Unges con óleo mi cabeza, mi copa rebosa.",
+        "Tu bondad y misericordia me acompañan todos los días de mi vida; y habitaré en la Casa del Señor por dilatados días."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 16:13-19",
+      "texto": [
+        "Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos: —¿Quién dicen los hombres que es el Hijo del Hombre?",
+        "Ellos respondieron: —Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas.",
+        "Él les dijo: —Y vosotros, ¿quién decís que soy yo?",
+        "Respondió Simón Pedro: —Tú eres el Cristo, el Hijo de Dios vivo.",
+        "Jesús le respondió: —Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos.",
+        "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella.",
+        "Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+      ]
+    }
+  }
+}

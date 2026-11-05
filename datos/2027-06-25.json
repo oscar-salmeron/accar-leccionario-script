@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-06-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 17:1, 10, 22",
+      "texto": [
+        "Tenía Abrán noventa y nueve años cuando el Señor se le manifestó y le dijo: —Yo soy El–Saday, camina en mi presencia y sé perfecto.",
+        "Dios dijo a Abrahán: —Guardarás mi alianza, tú y tu descendencia futura, de generación en generación.",
+        "Ésta es mi alianza con vosotros y con tu descendencia futura que habéis de guardar: Circuncidaréis a todos vuestros varones;",
+        "También dijo Dios a Abrahán: —Saray, tu mujer, no se llamará más Saray, sino que su nombre será Sara.",
+        "La bendeciré y también de ella te daré un hijo; la bendeciré, haré de ella pueblos, y de ella saldrán reyes de naciones.",
+        "Abrahán cayó rostro en tierra y se sonrió diciendo para sí: «¿Acaso un hombre centenario puede tener un hijo, y Sara, con noventa años, puede dar a luz?.",
+        "Y Abrahán respondió a Dios: —Me bastaría con que Ismael viviera en tu presencia.",
+        "Dios replicó: —Sin embargo, es Sara, tu mujer, la que va a darte un hijo; le pondrás por nombre Isaac y estableceré mi alianza perpetua con él, y con su descendencia futura.",
+        "En cuanto a Ismael, te he escuchado. Mira, le bendeciré, le haré crecer y le multiplicaré en gran manera; engendrará doce príncipes y haré de él un gran pueblo.",
+        "Pero mi alianza la estableceré con Isaac, el hijo que te dará Sara el año próximo por este tiempo.",
+        "Cuando Dios terminó de hablar con Abrahán, se elevó de su lado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 128:1-5",
+      "texto": [
+        "Canto de las subidas. Dichoso el que teme al Señor y anda por sus caminos.",
+        "Del trabajo de tus manos comerás; serás dichoso, y te irá bien.",
+        "Tu mujer será como viña fecunda paredes adentro de tu casa. Tus hijos, como brotes de olivos, en torno a tu mesa.",
+        "Pues así es bendecido el hombre que teme al Señor.",
+        "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén todos los días de tu vida."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 8:1-4",
+      "texto": [
+        "Al bajar del monte le seguía una gran multitud.",
+        "En esto, se le acercó un leproso, se postró ante él y dijo: —Señor, si quieres, puedes limpiarme.",
+        "Y extendiendo Jesús la mano, le tocó diciendo: —Quiero, queda limpio. Y al instante quedó limpio de la lepra.",
+        "Entonces le dijo Jesús: —Mira, no lo digas a nadie; pero anda, preséntate al sacerdote y lleva la ofrenda que ordenó Moisés, para que les sirva de testimonio."
+      ]
+    }
+  }
+}

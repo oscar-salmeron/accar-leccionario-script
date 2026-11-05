@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-10-02",
+  "fiesta": "Ángeles Guardianes (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 23:20-23",
+      "texto": [
+        "He aquí que yo enviaré un ángel delante de ti, para que te guarde en el camino y te conduzca al lugar que he preparado.",
+        "Compórtate en su presencia y escucha su voz. No te rebeles contra él, porque no perdonará vuestro delito ya que mi nombre está en él.",
+        "Pero si escuchas su voz y haces todo lo que yo diga, seré enemigo de tus enemigos y adversario de tus adversarios;",
+        "pues mi ángel caminará delante de ti y te conducirá a la tierra de los amorreos, hititas, perezeos, cananeos, jeveos y jebuseos; yo los exterminaré."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 91:1-6, 11",
+      "texto": [
+        "El que habita al amparo del Altísimo morará a la sombra del Omnipotente.",
+        "Dice al Señor: «Refugio mío, fortaleza mía, Dios mío en quien confío.",
+        "Él te librará de la red del cazador, de la peste destructora.",
+        "Te cubrirá con sus plumas, bajo sus alas encontrarás refugio: su fidelidad es escudo y coraza.",
+        "No tendrás miedo del terror en la noche, ni de la flecha que vuela de día;",
+        "ni de la peste que se propaga en tinieblas, ni del azote que devasta a pleno día.",
+        "A ti no te alcanzará ningún mal, ni la plaga se acercará a tu tienda,",
+        "porque ha dado órdenes a sus ángeles que te guarden en todos tus caminos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 18:1-5, 10",
+      "texto": [
+        "En aquella ocasión se acercaron los discípulos a Jesús y le preguntaron: —¿Quién es pues el mayor en el Reino de los Cielos?",
+        "Entonces llamó a un niño, lo puso en medio de ellos",
+        "y dijo: —En verdad os digo: si no os convertís y os hacéis como los niños, no entraréis en el Reino de los Cielos.",
+        "Pues todo el que se humille como este niño, ése es el mayor en el Reino de los Cielos;",
+        "y el que reciba a un niño como éste en mi nombre, a mí me recibe.",
+        "Guardaos de despreciar a uno de estos pequeños, porque os digo que sus ángeles en los cielos están viendo siempre el rostro de mi Padre que está en los cielos."
+      ]
+    }
+  }
+}

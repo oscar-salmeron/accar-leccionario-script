@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-03-19",
+  "fiesta": "San José, Esposo de la Santísima Virgen María (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Samuel 7:4-5, 14, 16",
+      "texto": [
+        "Pero esa misma noche la palabra del Señor llegó sobre Natán en estos términos:",
+        "—Vete y dile a mi siervo David: «Así dice el Señor: “¿Eres tú el que va a edificar una casa para que Yo habite en ella?",
+        "Cuando hayas completado los días de tu vida y descanses con tus padres, suscitaré después de ti un linaje salido de tus entrañas y consolidaré su reino.",
+        "Él edificará una casa en honor de mi nombre y yo mantendré el trono de su realeza para siempre.",
+        "Yo seré para él un padre y él será para mí un hijo; si algo hace mal le castigaré con vara de hombres y con golpes humanos.",
+        "tu casa y tu reino permanecerán para siempre en mi presencia y tu trono será firme también para siempre”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 89:2-5, 27, 29",
+      "texto": [
+        "Las misericordias del Señor cantaré eternamente; de generación en generación anunciaré con mi boca tu fidelidad.",
+        "Pues he dicho: «La misericordia está edificada para siempre; tu fidelidad está firme en los cielos.",
+        "«Una alianza sellé con mi elegido, juré a David, mi siervo:",
+        "“Afirmaré tu descendencia para siempre, construiré tu trono por todas las generaciones”. (Pausa)",
+        "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”.",
+        "Le guardaré por siempre mi misericordia, mi alianza con él será firme."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Romanos 4:13, 18, 22",
+      "texto": [
+        "En efecto, la promesa de ser heredero del mundo no se hizo a Abrahán o a su descendencia por medio de la Ley, sino por medio de la justicia de la fe.",
+        "Y por tanto, la promesa viene de la fe, para que, en virtud de la gracia, sea firme la promesa para toda la descendencia: no sólo para los que proceden de la Ley, sino también para los que proceden de la fe de Abrahán, que es padre de todos nosotros",
+        "—conforme está escrito: Te he constituido padre de muchos pueblos—, delante de Aquel a quien creyó, Dios, que da la vida a los muertos y llama a las cosas que no existen como si ya existieran.",
+        "Él, esperando contra toda esperanza, creyó que llegaría a ser padre de muchos pueblos conforme está dicho: Así será tu descendencia.",
+        "Por esto también se le contó como justicia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 1:16, 21, 24",
+      "texto": [
+        "Jacob engendró a José, el esposo de María, de la cual nació Jesús llamado Cristo.",
+        "La generación de Jesucristo fue así: María, su madre, estaba desposada con José, y antes de que conviviesen se encontró con que había concebido en su seno por obra del Espíritu Santo.",
+        "José, su esposo, como era justo y no quería exponerla a infamia, pensó repudiarla en secreto.",
+        "Consideraba él estas cosas, cuando un ángel del Señor se le apareció en sueños y le dijo: —José, hijo de David, no temas recibir a María, tu esposa, porque lo que en ella ha sido concebido es obra del Espíritu Santo.",
+        "Dará a luz un hijo y le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados.",
+        "Al despertarse, José hizo lo que el ángel del Señor le había ordenado, y recibió a su esposa."
+      ]
+    }
+  }
+}

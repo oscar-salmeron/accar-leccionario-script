@@ -1,0 +1,40 @@
+{
+  "fecha": "2027-06-08",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 1:18-22",
+      "texto": [
+        "Por la fidelidad de Dios, que la palabra que os dirigimos no es sí y no.",
+        "Porque Jesucristo, el Hijo de Dios —que os predicamos Silvano, Timoteo y yo— no fue sí y no, sino que en él se ha hecho realidad el sí.",
+        "Porque cuantas promesas hay de Dios, en él tienen su sí; por eso también decimos por su mediación el Amén a Dios para su gloria.",
+        "Y es Dios quien nos confirma con vosotros en Cristo, y quien nos ungió,",
+        "y quien nos marcó con su sello, y nos dio como arras el Espíritu en nuestros corazones."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 119:129-133, 135",
+      "texto": [
+        "(Pe) Admirables son tus preceptos, por eso los guarda mi alma.",
+        "La revelación de tus palabras ilumina, da inteligencia a los sencillos.",
+        "Abro la boca y aspiro el aliento, pues ansío tus mandatos.",
+        "Vuélvete a mí y ten piedad, como acostumbras con los que aman tu Nombre.",
+        "Guía mis pasos según tu promesa, para que no me domine ninguna maldad.",
+        "Haz brillar tu rostro sobre tu siervo y enséñame tus decretos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:13-16",
+      "texto": [
+        "Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente.",
+        "Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte;",
+        "ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa.",
+        "Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos."
+      ]
+    }
+  }
+}

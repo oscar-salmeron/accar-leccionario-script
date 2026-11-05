@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-05-17",
+  "fiesta": "Santísima Virgen María, Madre de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 3:9-15, 20",
+      "texto": [
+        "El Señor Dios llamó al hombre y le dijo: —¿Dónde estás?",
+        "Éste contestó: —Oí tu voz en el jardín y tuve miedo porque estaba desnudo; por eso me oculté.",
+        "Dios le preguntó: —¿Quién te ha indicado que estabas desnudo? ¿Acaso has comido del árbol del que te prohibí comer?",
+        "El hombre contestó: —La mujer que me diste por compañera me dio del árbol y comí.",
+        "Entonces el Señor Dios dijo a la mujer: —¿Qué es lo que has hecho? La mujer respondió: —La serpiente me engañó y comí.",
+        "El Señor Dios dijo a la serpiente: —Por haber hecho eso, maldita seas entre todos los animales y todas las bestias del campo. Te arrastrarás sobre el vientre, y polvo comerás todos los días de tu vida.",
+        "Pondré enemistad entre ti y la mujer, entre tu linaje y el suyo; él te herirá en la cabeza, mientras tú le herirás en el talón.",
+        "El hombre llamó a su mujer Eva, porque ella habría de ser la madre de todos los vivientes."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 87:1-3, 7",
+      "texto": [
+        "De los hijos de Coré. Salmo. Cántico. En los montes santos están sus cimientos.",
+        "El Señor ama las puertas de Sión más que todas las moradas de Jacob.",
+        "¡Grandezas se dicen de ti, ciudad de Dios!",
+        "Y de Sión se dirá: «Éste hombre y aquél han nacido en ella. El propio Altísimo la erigió.",
+        "El Señor escribirá en el registro de los pueblos: «Éste ha nacido allí.",
+        "Cantores y músicos entonarán: «En ti están todas mis fuentes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 19:25-34",
+      "texto": [
+        "Estaban junto a la cruz de Jesús su madre y la hermana de su madre, María de Cleofás, y María Magdalena.",
+        "Jesús, viendo a su madre y al discípulo a quien amaba, que estaba allí, le dijo a su madre: —Mujer, aquí tienes a tu hijo.",
+        "Después le dice al discípulo: —Aquí tienes a tu madre. Y desde aquel momento el discípulo la recibió en su casa.",
+        "Después de esto, como Jesús sabía que todo estaba ya consumado, para que se cumpliera la Escritura, dijo: —Tengo sed.",
+        "Había por allí un vaso lleno de vinagre. Sujetaron una esponja empapada en el vinagre a una caña de hisopo y se la acercaron a la boca.",
+        "Jesús, cuando probó el vinagre, dijo: —Todo está consumado. E inclinando la cabeza, entregó el espíritu.",
+        "Como era la Parasceve, para que no se quedaran los cuerpos en la cruz el sábado, porque aquel sábado era un día grande, los judíos rogaron a Pilato que les rompieran las piernas y los retirasen.",
+        "Vinieron los soldados y rompieron las piernas al primero y al otro que había sido crucificado con él.",
+        "Pero cuando llegaron a Jesús, al verle ya muerto, no le quebraron las piernas,",
+        "sino que uno de los soldados le abrió el costado con la lanza. Y al instante brotó sangre y agua."
+      ]
+    }
+  }
+}

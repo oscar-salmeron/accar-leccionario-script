@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-06-10",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 3:15--4:1, 6",
+      "texto": [
+        "verdaderamente, hasta hoy, siempre que se lee a Moisés, está puesto un velo sobre sus corazones;",
+        "pero cuando se conviertan al Señor, será quitado el velo.",
+        "El Señor es Espíritu, y donde está el Espíritu del Señor hay libertad.",
+        "Todos nosotros, que con el rostro descubierto reflejamos como en un espejo la gloria del Señor, vamos siendo transformados en su misma imagen, cada vez más gloriosos, conforme obra en nosotros el Espíritu del Señor.",
+        "Por eso, teniendo este ministerio por la misericordia que se nos hizo, no desfallecemos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:20-26",
+      "texto": [
+        "Pues no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como siervos vuestros por Jesús.",
+        "Porque el mismo Dios que mandó: «Del seno de las tinieblas brille la luz, hizo brillar la luz en nuestros corazones, para que irradien el conocimiento de la gloria de Dios que está en el rostro de Cristo.",
+        "Os digo, pues, que si vuestra justicia no es mayor que la de los escribas y fariseos, no entraréis en el Reino de los Cielos.",
+        "Habéis oído que se dijo a los antiguos: No matarás, y el que mate será reo de juicio.",
+        "Pero yo os digo: todo el que se llene de ira contra su hermano será reo de juicio; y el que insulte a su hermano será reo ante el Sanedrín; y el que le maldiga será reo del fuego del infierno.",
+        "Por lo tanto, si al llevar tu ofrenda al altar recuerdas que tu hermano tiene algo contra ti,",
+        "deja allí tu ofrenda delante del altar, vete primero a reconciliarte con tu hermano, y vuelve después para presentar tu ofrenda.",
+        "Ponte de acuerdo cuanto antes con tu adversario mientras vas de camino con él; no sea que tu adversario te entregue al juez y el juez al alguacil y te metan en la cárcel.",
+        "Te aseguro que no saldrás de allí hasta que restituyas la última moneda."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 85:9-14",
+      "texto": [
+        "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles, con tal de que no retornen a la necedad.",
+        "En verdad, ya está cerca la salvación para los que le temen, para que en nuestra tierra habite la Gloria.",
+        "Misericordia y fidelidad se encontrarán, justicia y paz se besarán.",
+        "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia.",
+        "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos.",
+        "Ante Él marchará la justicia, y sus pasos abrirán camino."
+      ]
+    }
+  }
+}

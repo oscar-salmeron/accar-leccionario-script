@@ -1,0 +1,67 @@
+{
+  "fecha": "2027-08-22",
+  "fiesta": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Josué 24:1-2, 18",
+      "texto": [
+        "Josué reunió a todas las tribus de Israel en Siquem y llamó a los ancianos de Israel, a los jefes, a los jueces y a los capataces, y se presentaron delante de Dios.",
+        "Josué dijo a todo el pueblo: —Así dice el Señor, Dios de Israel: «Vuestros antepasados, Téraj, el padre de Abrahán y de Najor, habitaron desde siempre en el otro lado del río y sirvieron a otros dioses.",
+        "Si os parece mal servir al Señor, escoged hoy a quién vais a servir: a los dioses a los que sirvieron vuestros padres cuando estaban al otro lado del río o a los dioses de los amorreos en cuya tierra habitáis. Yo y mi casa serviremos al Señor.",
+        "El pueblo respondió diciendo: —¡Lejos de nosotros abandonar al Señor para servir a otros dioses!",
+        "Porque el Señor, nuestro Dios, es quien nos ha subido a nosotros y a nuestros padres de la tierra de Egipto, de la casa de la servidumbre, y quien ha hecho ante nuestros ojos estos grandes signos; es el que nos ha guardado en todos los caminos por donde hemos marchado y en todos los pueblos por los que hemos pasado.",
+        "El Señor ha expulsado de nuestra presencia a todos estos pueblos y al amorreo que habitaba en esta tierra. También nosotros serviremos al Señor, porque Él es nuestro Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-3, 21",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(Áin) Los ojos del Señor están pendientes de los justos, sus oídos, atentos a su clamor.",
+        "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+        "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias.",
+        "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido.",
+        "(Resh) Muchas son las aflicciones del justo, pero el Señor le libra de todas;",
+        "(Shin) Él guarda todos sus huesos, ni uno solo será quebrantado."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 5:21-32",
+      "texto": [
+        "Estad sujetos unos a otros en el temor de Cristo.",
+        "Las mujeres a sus maridos como al Señor,",
+        "porque el marido es cabeza de la mujer, así como Cristo es cabeza de la Iglesia, que es su cuerpo, del cual él es el salvador.",
+        "Pues como la Iglesia está sujeta a Cristo, así también las mujeres a sus maridos en todo.",
+        "Maridos: amad a vuestras mujeres como Cristo amó a la Iglesia y se entregó a sí mismo por ella",
+        "para santificarla, purificándola mediante el baño del agua por la palabra,",
+        "para mostrar ante sí mismo a la Iglesia resplandeciente, sin mancha, arruga o cosa parecida, sino para que sea santa e inmaculada.",
+        "Así deben los maridos amar a sus mujeres, como a su propio cuerpo. El que ama a su mujer, a sí mismo se ama,",
+        "pues nadie aborrece nunca su propia carne, sino que la alimenta y la cuida, como Cristo a la Iglesia,",
+        "porque somos miembros de su cuerpo.",
+        "Por esto dejará el hombre a su padre y a su madre y se unirá a su mujer, y serán los dos una sola carne.",
+        "Gran misterio es éste, pero yo lo digo en relación a Cristo y a la Iglesia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:60-69",
+      "texto": [
+        "Al oír esto, muchos de sus discípulos dijeron: —Es dura esta enseñanza, ¿quién puede escucharla?",
+        "Jesús, conociendo en su interior que sus discípulos estaban murmurando de esto, les dijo: —¿Esto os escandaliza?",
+        "Pues, ¿si vierais al Hijo del Hombre subir adonde estaba antes?",
+        "El espíritu es el que da vida, la carne no sirve de nada: las palabras que os he hablado son espíritu y son vida.",
+        "Sin embargo, hay algunos de vosotros que no creen. En efecto, Jesús sabía desde el principio quiénes eran los que no creían y quién era el que le iba a entregar.",
+        "Y añadía: —Por eso os he dicho que ninguno puede venir a mí si no se lo ha concedido el Padre.",
+        "Desde ese momento muchos discípulos se echaron atrás y ya no andaban con él.",
+        "Entonces Jesús les dijo a los doce: —¿También vosotros queréis marcharos?",
+        "Le respondió Simón Pedro: —Señor, ¿a quién iremos? Tú tienes palabras de vida eterna;",
+        "nosotros hemos creído y conocido que tú eres el Santo de Dios."
+      ]
+    }
+  }
+}

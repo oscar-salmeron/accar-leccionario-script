@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-09-18",
+  "fiesta": "San José de Cupertino, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 6:13-16",
+      "texto": [
+        "Te ordeno en la presencia de Dios, que da vida a todo, y de Cristo Jesús, que dio el solemne testimonio ante Poncio Pilato,",
+        "que conserves lo mandado, sin tacha ni culpa, hasta la manifestación de nuestro Señor Jesucristo;",
+        "manifestación que hará patente en el momento oportuno el bienaventurado y único Soberano, el Rey de los reyes y el Señor de los señores;",
+        "el único que es inmortal, el que habita en una luz inaccesible, a quien ningún hombre ha visto ni puede ver. A Él, el honor y el imperio eterno. Amén."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 100:1-5",
+      "texto": [
+        "Salmo. De alabanza. Aclamad al Señor, la tierra entera;",
+        "servid al Señor con alegría, entrad a su presencia con júbilo.",
+        "Sabed que el Señor es Dios: Él nos hizo y somos suyos, somos su pueblo y ovejas que Él apacienta.",
+        "Entrad por sus puertas con acción de gracias, en sus atrios con cantos de alabanza, dadle gracias, bendecid su Nombre.",
+        "Porque el Señor es bueno: su misericordia es eterna, y su fidelidad, por todas las generaciones."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 8:4-15",
+      "texto": [
+        "Reuniéndose una gran muchedumbre que de todas las ciudades acudía a él, dijo esta parábola:",
+        "—Salió el sembrador a sembrar su semilla; y al echar la semilla, parte cayó junto al camino, y fue pisoteada y se la comieron las aves del cielo.",
+        "Parte cayó sobre piedras, y cuando nació se secó por falta de humedad.",
+        "Otra parte cayó en medio de las espinas, y habiendo crecido con ella las espinas la ahogaron.",
+        "Y otra cayó en la tierra buena, y cuando nació dio fruto al ciento por uno. Dicho esto, exclamó: —El que tenga oídos para oír, que oiga.",
+        "Entonces sus discípulos le preguntaron qué significaba esta parábola.",
+        "Él les dijo: —A vosotros se os ha concedido el conocer los misterios del Reino de Dios, pero a los demás, sólo a través de parábolas, de modo que viendo no vean y oyendo no entiendan.",
+        "El sentido de la parábola es éste: la semilla es la palabra de Dios.",
+        "Los que están junto al camino son aquellos que han oído; pero viene luego el diablo y se lleva la palabra de su corazón, no sea que creyendo se salven.",
+        "Los que están sobre piedras son aquellos que, cuando oyen, reciben la palabra con alegría, pero no tienen raíz; éstos creen durante algún tiempo, pero a la hora de la tentación se vuelven atrás.",
+        "Lo que cayó entre espinos son los que oyeron, pero en su caminar se ahogan a causa de las preocupaciones, riquezas y placeres de la vida y no llegan a dar fruto.",
+        "Y lo que cayó en tierra buena son los que oyen la palabra con un corazón bueno y generoso, la conservan y dan fruto mediante la perseverancia."
+      ]
+    }
+  }
+}

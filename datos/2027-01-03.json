@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-01-03",
+  "fiesta": "Epifanía del Señor (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 60:1-6",
+      "texto": [
+        "¡Levántate, resplandece, que llega tu luz, y la gloria del Señor amanece sobre ti!",
+        "Mira que las tinieblas cubren la tierra, y la oscuridad, los pueblos, pero sobre ti amanece el Señor, sobre ti aparece su gloria.",
+        "Las naciones caminarán a tu luz, los reyes, al resplandor de tu aurora.",
+        "Alza tus ojos y mira alrededor: todos ellos se congregan, vienen a ti. Tus hijos vienen de lejos, tus hijas abrazadas a su costado.",
+        "Entonces, mirarás y te pondrás radiante, palpitará y se ensanchará tu corazón, pues la abundancia del mar se volcará sobre ti, llegará a ti la riqueza de las naciones.",
+        "Te cubrirá una multitud de camellos, dromedarios de Madián y Efá, todos vendrán de Sabá cargados de oro e incienso, y pregonando alabanzas al Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:1-2, 8, 13",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna.",
+        "Domine de mar a mar, desde el Río hasta los confines de la tierra.",
+        "Que le traigan presentes los reyes de Tarsis y de las Islas, le ofrezcan dones los reyes de Sebá y de Sabá.",
+        "Que se prosternen ante él todos los reyes y le sirvan todas las naciones.",
+        "Porque él librará al desvalido que clama y al pobre que no tiene amparo.",
+        "Tendrá piedad del débil y del desvalido y salvará la vida de los indigentes."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 3:2-3, 6",
+      "texto": [
+        "Ya habréis oído que Dios me concedió el encargo de administrar su gracia en favor vuestro,",
+        "pues mediante una revelación se me dio a conocer el misterio, como brevemente lo he descrito antes.",
+        "que no se dio a conocer a los hijos de los hombres en otras generaciones, como ahora ha sido revelado a sus santos apóstoles y profetas por el Espíritu:"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 2:1-12",
+      "texto": [
+        "Después de nacer Jesús en Belén de Judá en tiempos del rey Herodes, unos Magos llegaron de Oriente a Jerusalén",
+        "preguntando: —¿Dónde está el Rey de los Judíos que ha nacido? Porque vimos su estrella en el Oriente y hemos venido a adorarle.",
+        "Al oír esto, el rey Herodes se inquietó, y con él toda Jerusalén.",
+        "Y, reuniendo a todos los príncipes de los sacerdotes y a los escribas del pueblo, les interrogaba dónde había de nacer el Mesías.",
+        "—En Belén de Judá —le dijeron—, pues así está escrito por medio del Profeta:",
+        "Y tú, Belén, tierra de Judá, ciertamente no eres la menor entre las principales ciudades de Judá; pues de ti saldrá un jefe que apacentará a mi pueblo, Israel.",
+        "Entonces, Herodes, llamando en secreto a los Magos, se informó cuidadosamente por ellos del tiempo en que había aparecido la estrella;",
+        "y les envió a Belén, diciéndoles: —Id e informaos bien acerca del niño; y cuando lo encontréis, avisadme para que también yo vaya a adorarle.",
+        "Ellos, después de oír al rey, se pusieron en marcha. Y entonces, la estrella que habían visto en el Oriente se colocó delante de ellos, hasta pararse sobre el sitio donde estaba el niño.",
+        "Al ver la estrella se llenaron de inmensa alegría.",
+        "Y entrando en la casa, vieron al niño con María, su madre, y postrándose le adoraron; luego, abrieron sus cofres y le ofrecieron presentes: oro, incienso y mirra.",
+        "Y, después de recibir en sueños aviso de no volver a Herodes, regresaron a su país por otro camino."
+      ]
+    }
+  }
+}

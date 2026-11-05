@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-08-28",
+  "fiesta": "San Augustine, Obispo, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 4:9-11",
+      "texto": [
+        "En cuanto al amor fraterno, no tenéis necesidad de que os escriba, pues vosotros mismos habéis sido instruidos por Dios para que os améis los unos a los otros,",
+        "y, en efecto, así lo estáis poniendo por obra con todos los hermanos en toda Macedonia. Pero os encarecemos, hermanos, a que progreséis más",
+        "y a que os esmeréis en vivir con serenidad, ocupándoos de vuestros asuntos y trabajando con vuestras manos, como os lo ordenamos,"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1, 9",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "Brame el mar y cuanto lo llena, el orbe y sus habitantes.",
+        "Aplaudan los ríos, festejen a una las montañas",
+        "ante el Señor, que ya viene a juzgar la tierra: juzgará al orbe con justicia, y a los pueblos con rectitud."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:14-30",
+      "texto": [
+        "Porque es como un hombre que al marcharse de su tierra llamó a sus servidores y les entregó sus bienes.",
+        "A uno le dio cinco talentos, a otro dos y a otro uno sólo: a cada uno según su capacidad; y se marchó.",
+        "El que había recibido cinco talentos fue, trabajó con ellos y ganó otros cinco.",
+        "Del mismo modo, el que había recibido dos ganó otros dos.",
+        "Pero el que había recibido uno fue, hizo un hoyo en la tierra y escondió el dinero de su señor.",
+        "Después de mucho tiempo, regresó el amo de dichos servidores e hizo cuentas con ellos.",
+        "Cuando se presentó el que había recibido los cinco talentos, entregó otros cinco diciendo: «Señor, cinco talentos me entregaste; mira, he ganado otros cinco talentos.",
+        "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor.",
+        "Se presentó también el que había recibido los dos talentos y dijo: «Señor, dos talentos me entregaste; mira, he ganado otros dos talentos.",
+        "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor.",
+        "Cuando llegó por fin el que había recibido un talento, dijo: «Señor, sé que eres hombre duro, que cosechas donde no sembraste y recoges donde no esparciste;",
+        "por eso tuve miedo, fui y escondí tu talento en tierra: aquí tienes lo tuyo.",
+        "Su amo le respondió: «Siervo malo y perezoso, sabías que cosecho donde no he sembrado y que recojo donde no he esparcido;",
+        "por eso mismo debías haber dado tu dinero a los banqueros, y así, al venir yo, hubiera recibido lo mío con los intereses.",
+        "Por lo tanto, quitadle el talento y dádselo al que tiene los diez.",
+        "Porque a todo el que tiene se le dará y tendrá en abundancia; pero al que no tiene incluso lo que tiene se le quitará.",
+        "En cuanto al siervo inútil, arrojadlo a las tinieblas de afuera: allí habrá llanto y rechinar de dientes."
+      ]
+    }
+  }
+}

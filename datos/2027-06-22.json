@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-06-22",
+  "fiesta": "San Juan Fisher, Obispo, Mártir y Santo Tomás More, Mártir (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 13:2, 18",
+      "texto": [
+        "Abrán era muy rico en ganado, plata y oro.",
+        "También Lot que iba con Abrán tenía ovejas, vacas, y tiendas;",
+        "pero la región no les permitía habitar juntos, porque tenían mucha hacienda y no había lugar para ambos.",
+        "Por eso surgieron disputas entre los pastores del ganado de Abrán y los pastores del ganado de Lot. Además, los cananeos y los perezeos habitaban entonces en el país.",
+        "Entonces Abrán dijo a Lot: —Por favor, no haya discordias entre tú y yo, entre mis pastores y los tuyos, ya que somos hermanos.",
+        "¿No tienes todo el país ante ti? Sepárate de mí, te lo ruego; si vas a la izquierda, yo iré a la derecha; y si a la derecha, yo iré a la izquierda.",
+        "Lot alzó la vista y vio la vega entera del Jordán; toda ella hasta Soar era de regadío antes de que el Señor destruyera Sodoma y Gomorra, como el jardín del Señor, como el país de Egipto.",
+        "Lot eligió para sí toda la vega del Jordán, y se dirigió al Oriente. Así se separaron el uno del otro.",
+        "Abrán se estableció en tierra de Canaán, y Lot en las ciudades de la vega, ocupando las tierras hasta Sodoma.",
+        "Pero los habitantes de Sodoma eran perversos y pecadores empedernidos contra el Señor.",
+        "El Señor dijo a Abrán después de que Lot se separara de su lado: —Alza la vista desde el lugar en que estás y mira al norte, al sur, al este y al oeste.",
+        "Toda la tierra que ves te la daré a ti y a tu descendencia para siempre.",
+        "Haré a tu descendencia como el polvo de la tierra; si alguien puede contar el polvo de la tierra, también podrá contar tu descendencia.",
+        "Levántate y recorre el país a lo largo y a lo ancho, porque a ti te lo voy a dar.",
+        "Entonces Abrán levantó la tienda y fue a establecerse junto a la encina de Mambré que está en Hebrón, y allí construyó un altar al Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 15:2-5",
+      "texto": [
+        "El que camina con integridad, el que practica la justicia, el que habla con corazón sincero,",
+        "no calumnia con su lengua, no hace mal a su hermano, ni levanta infamia contra su prójimo;",
+        "el que tiene por vil al réprobo y honra a los que temen al Señor; el que no se desdice aunque jure en propio daño,",
+        "el que no presta a usura su dinero, ni acepta soborno contra el inocente. El que obra así no vacilará jamás."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 7:6, 14",
+      "texto": [
+        "No deis las cosas santas a los perros, ni echéis vuestras perlas a los cerdos, no sea que las pisoteen con sus patas y al revolverse os despedacen.",
+        "Todo lo que queráis que hagan los hombres con vosotros, hacedlo también vosotros con ellos: ésta es la Ley y los Profetas.",
+        "Entrad por la puerta angosta, porque amplia es la puerta y ancho el camino que conduce a la perdición, y son muchos los que entran por ella.",
+        "¡Qué angosta es la puerta y estrecho el camino que conduce a la Vida, y qué pocos son los que la encuentran!"
+      ]
+    }
+  }
+}

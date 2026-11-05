@@ -1,0 +1,58 @@
+{
+  "fecha": "2027-08-29",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Deuteronomio 4:1-2, 8",
+      "texto": [
+        "Ahora, Israel, escucha las leyes y normas que yo os enseño a poner en práctica para que viváis y para que entrando en la tierra que el Señor, Dios de vuestros padres, os da, toméis posesión de ella.",
+        "No añadáis nada a los mandamientos que os ordeno, ni tampoco omitáis nada de ellos, sino guardad los preceptos del Señor, vuestro Dios, que yo os prescribo.",
+        "Observadlas y llevadlas a la práctica, pues serán vuestra sabiduría y vuestro discernimiento a los ojos de los pueblos que, al conocer todos estos mandatos, dirán: «En verdad esa gran nación es un pueblo sabio y juicioso.",
+        "Porque ¿qué nación hay tan grande que tenga dioses tan cercanos, como lo está el Señor, nuestro Dios, cuantas veces le invocamos?",
+        "Y ¿qué nación hay tan grande que tenga unas leyes y normas tan justas, como toda esta ley que hoy os entrego?"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 15:2-5",
+      "texto": [
+        "El que camina con integridad, el que practica la justicia, el que habla con corazón sincero,",
+        "no calumnia con su lengua, no hace mal a su hermano, ni levanta infamia contra su prójimo;",
+        "el que tiene por vil al réprobo y honra a los que temen al Señor; el que no se desdice aunque jure en propio daño,",
+        "el que no presta a usura su dinero, ni acepta soborno contra el inocente. El que obra así no vacilará jamás."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Santiago 1:17-18, 22, 27",
+      "texto": [
+        "Toda dádiva generosa y todo don perfecto vienen de lo alto y descienden del Padre de las luces, en quien no hay cambio ni sombra de mudanza.",
+        "Por libre decisión nos engendró con la palabra de la verdad, para que fuésemos como primicias de sus criaturas.",
+        "Por eso, apartad toda inmundicia y todo resto de maldad, y recibid con mansedumbre la palabra sembrada en vosotros, capaz de salvar vuestras almas.",
+        "Pero tenéis que ponerla en práctica y no sólo escucharla engañándoos a vosotros mismos.",
+        "La religiosidad pura e intachable ante Dios Padre es ésta: visitar a los huérfanos y a las viudas en su tribulación y guardarse incontaminado de este mundo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 7:1-8, 15, 23",
+      "texto": [
+        "Se reunieron junto a él los fariseos y algunos escribas que habían llegado de Jerusalén,",
+        "y vieron a algunos de sus discípulos que comían los panes con manos impuras, es decir, sin lavar.",
+        "Pues los fariseos y todos los judíos nunca comen si no se lavan las manos muchas veces, observando la tradición de los mayores;",
+        "y cuando llegan de la plaza no comen, si no se purifican; y hay otras muchas cosas que guardan por tradición: purificaciones de las copas y de las jarras, de las vasijas de cobre y de los lechos.",
+        "Y le preguntaban los fariseos y los escribas: —¿Por qué tus discípulos no se comportan conforme a la tradición de los mayores, sino que comen el pan con manos impuras?",
+        "Él les respondió: —Bien profetizó Isaías de vosotros, los hipócritas, como está escrito: Este pueblo me honra con los labios, pero su corazón está muy lejos de mí.",
+        "Inútilmente me dan culto, mientras enseñan doctrinas que son preceptos humanos.",
+        "Abandonando el mandamiento de Dios, retenéis la tradición de los hombres.",
+        "Y después de llamar de nuevo a la muchedumbre, les decía: —Escuchadme todos y entendedlo bien:",
+        "nada hay fuera del hombre que, al entrar en él, pueda hacerlo impuro; las cosas que salen del hombre, ésas son las que hacen impuro al hombre.",
+        "Porque del interior del corazón de los hombres proceden los malos pensamientos, las fornicaciones, los robos, los homicidios,",
+        "los adulterios, los deseos avariciosos, las maldades, el fraude, la deshonestidad, la envidia, la blasfemia, la soberbia y la insensatez.",
+        "Todas estas cosas malas proceden del interior y hacen impuro al hombre."
+      ]
+    }
+  }
+}

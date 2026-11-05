@@ -1,0 +1,43 @@
+{
+  "fecha": "2027-10-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 8:18-25",
+      "texto": [
+        "Porque estoy convencido de que los padecimientos del tiempo presente no son comparables con la gloria futura que se va a manifestar en nosotros.",
+        "En efecto, la espera ansiosa de la creación anhela la manifestación de los hijos de Dios.",
+        "Porque la creación se ve sujeta a la vanidad, no por su voluntad, sino por quien la sometió, con la esperanza",
+        "de que también la misma creación será liberada de la esclavitud de la corrupción para participar de la libertad gloriosa de los hijos de Dios.",
+        "Pues sabemos que la creación entera gime y sufre con dolores de parto hasta el momento presente.",
+        "Y no sólo ella, sino que nosotros, que poseemos ya los primeros frutos del Espíritu, también gemimos en nuestro interior aguardando la adopción de hijos, la redención de nuestro cuerpo.",
+        "Porque hemos sido salvados por la esperanza. Ahora bien, una esperanza que se ve no es esperanza; pues ¿acaso uno espera lo que ve?",
+        "Por eso, si esperamos lo que no vemos, lo aguardamos mediante la paciencia."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 126:1-6",
+      "texto": [
+        "Canto de las subidas. Cuando el Señor hizo volver a los cautivos de Sión, nos parecía soñar.",
+        "Se nos llenaba de risas la boca, la lengua, de cantares de alegría. Entonces se decía entre las naciones: «El Señor ha hecho con ellos cosas grandes.",
+        "El Señor ha hecho con nosotros cosas grandes: estamos llenos de alegría.",
+        "Haz volver, Señor, a nuestros cautivos como los torrentes del Négueb.",
+        "Los que siembran con lágrimas cosechan entre cantares de alegría.",
+        "Al marchar iban llorando, llevando las semillas. Al volver vienen cantando, trayendo sus gavillas."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 13:18-21",
+      "texto": [
+        "Y decía: —¿A qué se parece el Reino de Dios y con qué lo compararé?",
+        "Es como un grano de mostaza, que tomó un hombre y lo echó en su huerto, y creció y llegó a hacerse un árbol, y las aves del cielo anidaron en sus ramas.",
+        "Y dijo también: —¿Con qué compararé el Reino de Dios?",
+        "Es como la levadura que tomó una mujer y la mezcló con tres medidas de harina hasta que fermentó todo."
+      ]
+    }
+  }
+}

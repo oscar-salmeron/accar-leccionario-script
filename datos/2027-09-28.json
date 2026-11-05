@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-09-28",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Zacarías 8:20-23",
+      "texto": [
+        "Esto dice el Señor de los ejércitos: «Aún han de llegar pueblos y habitantes de grandes ciudades.",
+        "Los que habitan en una irán a otra diciendo: “¡Venga, vayamos a aplacar el rostro del Señor, a buscar al Señor de los ejércitos! ¡Yo también voy!”.",
+        "Y vendrán pueblos numerosos y naciones poderosas a buscar al Señor de los ejércitos en Jerusalén para aplacar el rostro del Señor.",
+        "Esto dice el Señor de los ejércitos: «En esos días, cada diez hombres de todas las lenguas de las naciones agarrarán a un judío por una punta del manto diciéndole: “Queremos ir con vosotros, porque hemos oído que Dios está con vosotros”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 87:1-7",
+      "texto": [
+        "De los hijos de Coré. Salmo. Cántico. En los montes santos están sus cimientos.",
+        "El Señor ama las puertas de Sión más que todas las moradas de Jacob.",
+        "¡Grandezas se dicen de ti, ciudad de Dios!",
+        "Contaré a Rahab y Babilonia entre los que me reconocen. Filistea, Tiro y Etiopía han nacido allí.",
+        "Y de Sión se dirá: «Éste hombre y aquél han nacido en ella. El propio Altísimo la erigió.",
+        "El Señor escribirá en el registro de los pueblos: «Éste ha nacido allí.",
+        "Cantores y músicos entonarán: «En ti están todas mis fuentes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 9:51-56",
+      "texto": [
+        "Y cuando iba a cumplirse el tiempo de su ascensión, decidió firmemente marchar hacia Jerusalén.",
+        "Y envió por delante a unos mensajeros, que entraron en una aldea de samaritanos para prepararle hospedaje,",
+        "pero no le acogieron porque llevaba la intención de ir a Jerusalén.",
+        "Al ver esto, sus discípulos Santiago y Juan le dijeron: —Señor, ¿quieres que digamos que baje fuego del cielo y los consuma?",
+        "Pero él se volvió hacia ellos y les reprendió.",
+        "Y se fueron a otra aldea."
+      ]
+    }
+  }
+}

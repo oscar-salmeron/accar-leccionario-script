@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-07-14",
+  "fiesta": "Santa Kateri Tekakwitha, Virgen (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Éxodo 3:1-6, 12",
+      "texto": [
+        "Moisés apacentaba el rebaño de su suegro Jetró, sacerdote de Madián; solía conducirlo al interior del desierto, llegando hasta el Horeb, el monte de Dios.",
+        "El ángel del Señor se le manifestó en forma de llama de fuego en medio de una zarza. Moisés miró: la zarza ardía pero no se consumía.",
+        "Y se dijo Moisés: «Voy a acercarme y comprobar esta visión prodigiosa: por qué no se consume la zarza.",
+        "Vio el Señor que Moisés se acercaba a mirar y lo llamó de entre la zarza: —¡Moisés, Moisés! Y respondió él: —Heme aquí.",
+        "Y dijo Dios: —No te acerques aquí; quítate las sandalias de los pies, porque el lugar que pisas es tierra sagrada.",
+        "Y añadió: —Yo soy el Dios de tu padre, el Dios de Abrahán, el Dios de Isaac y el Dios de Jacob. Moisés se cubrió el rostro por temor a contemplar a Dios.",
+        "Así es, el clamor de los hijos de Israel ha llegado hasta mí y he visto además la opresión a que los egipcios los someten.",
+        "Ahora, pues, ve: yo te envío al Faraón para que saques a mi pueblo, a los hijos de Israel, de Egipto.",
+        "Moisés respondió a Dios: —¿Quién soy yo para ir al Faraón y para sacar a los hijos de Israel de Egipto?",
+        "Y le dijo Dios: —Yo estaré contigo, y ésta será la señal de que yo te envío: cuando saques al pueblo de Egipto, daréis culto a Dios en este mismo monte."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:1-4, 7",
+      "texto": [
+        "De David. Bendice, alma mía, al Señor, y todo mi ser a su Nombre santo.",
+        "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios.",
+        "Él es quien perdona tus culpas, quien sana tus enfermedades.",
+        "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión.",
+        "El Señor hace obras justas y justicia a todos los oprimidos.",
+        "Él mostró sus caminos a Moisés, sus hazañas, a los hijos de Israel."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 11:25-27",
+      "texto": [
+        "En aquella ocasión Jesús declaró: —Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños.",
+        "Sí, Padre, porque así te ha parecido bien.",
+        "Todo me ha sido entregado por mi Padre, y nadie conoce al Hijo sino el Padre, ni nadie conoce al Padre sino el Hijo y aquel a quien el Hijo quiera revelarlo."
+      ]
+    }
+  }
+}

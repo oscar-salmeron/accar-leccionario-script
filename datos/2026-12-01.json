@@ -1,0 +1,46 @@
+{
+  "fecha": "2026-12-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 11:1-10",
+      "texto": [
+        "Saldrá un vástago de la cepa de Jesé, y de sus raíces florecerá un retoño.",
+        "Sobre él reposará el Espíritu del Señor, espíritu de sabiduría y de entendimiento, espíritu de consejo y de fortaleza, espíritu de ciencia y de temor del Señor.",
+        "Y lo inspirará con el temor del Señor. No juzgará según las apariencias, ni decidirá según los rumores;",
+        "sino que juzgará con justicia a los desvalidos, y decidirá con rectitud a favor de los pobres de la tierra. Golpeará al país con la vara de su boca, y matará al impío con el soplo de sus labios.",
+        "La justicia será el ceñidor de su cintura, y la fe, el cinturón de sus caderas.",
+        "Entonces el lobo convivirá con el cordero, el leopardo se tumbará con el cabrito, ternero y león joven engordarán juntos, y un niño pequeño los guiará.",
+        "La vaca pacerá con la osa, sus crías se recostarán juntas, y el león, como el buey, comerá paja.",
+        "El niño de pecho jugará junto al agujero del áspid y el destetado meterá su mano en la madriguera de la víbora.",
+        "Nadie hará mal ni causará daño en todo mi monte santo, porque la tierra estará llena del conocimiento del Señor, como las aguas que cubren el mar.",
+        "Aquel día, la raíz de Jesé se alzará como bandera para los pueblos, la buscarán las naciones, y su morada será gloriosa."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:1-2, 8, 13, 17",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna.",
+        "Domine de mar a mar, desde el Río hasta los confines de la tierra.",
+        "Porque él librará al desvalido que clama y al pobre que no tiene amparo.",
+        "Tendrá piedad del débil y del desvalido y salvará la vida de los indigentes.",
+        "Su nombre subsistirá por siempre, su nombre se perpetuará mientras dure el sol. En él serán benditas todas las tribus de la tierra; todas las naciones lo proclamarán dichoso."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 10:21-24",
+      "texto": [
+        "En aquel mismo momento se llenó de gozo en el Espíritu Santo y dijo: —Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños. Sí, Padre, porque así te ha parecido bien.",
+        "Todo me ha sido entregado por mi Padre, y nadie conoce quién es el Hijo sino el Padre, ni quién es el Padre sino el Hijo, y aquel a quien el Hijo quiera revelarlo.",
+        "Y volviéndose hacia los discípulos les dijo aparte: —Bienaventurados los ojos que ven lo que estáis viendo.",
+        "Pues os aseguro que muchos profetas y reyes quisieron ver lo que vosotros estáis viendo y no lo vieron; y oír lo que estáis oyendo y no lo oyeron."
+      ]
+    }
+  }
+}

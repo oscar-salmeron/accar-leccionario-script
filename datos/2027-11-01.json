@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-11-01",
+  "fiesta": "Todos los Santos (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 7:2-4, 14",
+      "texto": [
+        "Y vi a otro ángel que subía del oriente, y llevaba el sello de Dios vivo. Con voz fuerte gritó a los cuatro ángeles a los que se les había encargado hacer daño a la tierra y al mar,",
+        "diciéndoles: —¡No hagáis daño a la tierra, ni al mar, ni a los árboles, hasta que hayamos sellado en la frente a los siervos de nuestro Dios!",
+        "Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de todas las tribus de los hijos de Israel.",
+        "Después de esto, en la visión, apareció una gran multitud que nadie podía contar, de todas las naciones, tribus, pueblos y lenguas, de pie ante el trono y ante el Cordero, vestidos con túnicas blancas, y con palmas en las manos,",
+        "que gritaban con fuerte voz: —¡La salvación viene de nuestro Dios, que se sienta sobre el trono, y del Cordero!",
+        "Y todos los ángeles estaban de pie alrededor del trono, de los ancianos y de los cuatro seres vivos, y cayeron sobre sus rostros ante el trono y adoraron a Dios,",
+        "diciendo: —Amén. La bendición, la gloria, la sabiduría, la acción de gracias, el honor, el poder y la fortaleza pertenecen a nuestro Dios por los siglos de los siglos. Amén.",
+        "Entonces uno de los ancianos intervino y me dijo: —Éstos que están vestidos con túnicas blancas, ¿quiénes son y de dónde han venido?",
+        "—Señor mío, tú lo sabes —le respondí yo. Y me dijo: —Éstos son los que vienen de la gran tribulación, los que han lavado sus túnicas y las han blanqueado con la sangre del Cordero."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 24:1-6",
+      "texto": [
+        "De David. Salmo. Del Señor es la tierra y cuanto hay en ella, el orbe y los que lo habitan.",
+        "Él la cimentó sobre los mares y la asentó sobre los ríos.",
+        "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?",
+        "El de manos inocentes y de corazón puro, el que no dirige su alma a la vanidad, ni jura en falso.",
+        "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador.",
+        "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Juan 3:1-3",
+      "texto": [
+        "Mirad qué amor tan grande nos ha mostrado el Padre: que nos llamemos hijos de Dios, ¡y lo somos! Por eso el mundo no nos conoce, porque no le conoció a Él.",
+        "Queridísimos: ahora somos hijos de Dios, y aún no se ha manifestado lo que seremos. Sabemos que, cuando él se manifieste, seremos semejantes a él, porque le veremos tal como es.",
+        "Todo aquel que tiene esta esperanza en él, se purifica para ser como él, que es puro."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:1-12",
+      "texto": [
+        "Al ver Jesús a las multitudes, subió al monte; se sentó y se le acercaron sus discípulos;",
+        "y abriendo su boca les enseñaba diciendo:",
+        "—Bienaventurados los pobres de espíritu, porque suyo es el Reino de los Cielos.",
+        "Bienaventurados los que lloran, porque serán consolados.",
+        "Bienaventurados los mansos, porque heredarán la tierra.",
+        "Bienaventurados los que tienen hambre y sed de justicia, porque quedarán saciados.",
+        "Bienaventurados los misericordiosos, porque alcanzarán misericordia.",
+        "Bienaventurados los limpios de corazón, porque verán a Dios.",
+        "Bienaventurados los pacíficos, porque serán llamados hijos de Dios.",
+        "Bienaventurados los que padecen persecución por causa de la justicia, porque suyo es el Reino de los Cielos.",
+        "Bienaventurados cuando os injurien, os persigan y, mintiendo, digan contra vosotros todo tipo de maldad por mi causa.",
+        "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo: de la misma manera persiguieron a los profetas de antes de vosotros."
+      ]
+    }
+  }
+}

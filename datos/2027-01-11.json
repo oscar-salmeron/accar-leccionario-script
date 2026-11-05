@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-01-11",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 1:1-6",
+      "texto": [
+        "En diversos momentos y de muchos modos habló Dios en el pasado a nuestros padres por medio de los profetas.",
+        "En estos últimos días nos ha hablado por medio de su Hijo, a quien instituyó heredero de todas las cosas y por quien hizo también el universo.",
+        "Él, que es resplandor de su gloria e impronta de su sustancia y que sustenta todas las cosas con su palabra poderosa, después de llevar a cabo la purificación de los pecados, se sentó en los cielos a la diestra de la Majestad,",
+        "y ha sido hecho tanto más excelente que los ángeles cuanto más les aventaja por el nombre que ha heredado.",
+        "Pues ¿a qué ángel le dijo alguna vez: Tú eres mi hijo; yo te he engendrado hoy? ¿O también: Yo seré para él Padre y para mí él será Hijo?",
+        "Y de nuevo al introducir a su Primogénito en el mundo dice: Que le adoren todos los ángeles de Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 97:1-2, 7, 9",
+      "texto": [
+        "El Señor reina: exulte la tierra, alégrense las islas incontables.",
+        "Nubes y tinieblas lo rodean, justicia y derecho son el fundamento de su trono.",
+        "Los cielos anuncian su justicia, y todos los pueblos contemplan su gloria.",
+        "Queden avergonzados los que adoran efigies, los que se glorían en sus vanos ídolos: ante Él se postran todos los dioses.",
+        "Porque Tú eres el Señor, el Altísimo sobre toda la tierra, ensalzado sobre todos los dioses."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 1:14-20",
+      "texto": [
+        "Y, mientras pasaba junto al mar de Galilea, vio a Simón y a Andrés, el hermano de Simón, que echaban las redes en el mar, pues eran pescadores.",
+        "Y les dijo Jesús: —Seguidme y haré que seáis pescadores de hombres.",
+        "Y, al momento, dejaron las redes y le siguieron.",
+        "Y pasando un poco más adelante, vio a Santiago el de Zebedeo y a Juan, su hermano, que estaban en la barca remendando las redes;",
+        "y enseguida los llamó. Y dejaron a su padre Zebedeo en la barca con los jornaleros y se fueron tras él."
+      ]
+    }
+  }
+}

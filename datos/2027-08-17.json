@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-08-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jueces 6:11-24",
+      "texto": [
+        "Vino un ángel del Señor y se sentó bajo la encina que había en Ofrá y que pertenecía a Joás, de los de Abiézer. Mientras Gedeón, su hijo, desgranaba el trigo en el lagar para esconderlo de Madián",
+        "el ángel del Señor se le apareció y le dijo: —El Señor está contigo, valiente.",
+        "Gedeón le respondió: —Señor mío, si el Señor está con nosotros, ¿por qué nos ha sucedido todo esto? ¿Dónde están los prodigios que nuestros padres nos cuentan cuando dicen que el Señor nos hizo subir desde Egipto? Ahora, sin embargo, el Señor nos ha abandonado y nos ha puesto en manos de Madián.",
+        "El Señor se dirigió a él y le dijo: —Ve, que con la fuerza que tienes salvarás a Israel de la mano de Madián. Yo te envío.",
+        "Él respondió: —Señor mío, ¿cómo voy a liberar a Israel? Mi clan es el más insignificante de Manasés y yo soy el más joven de mi familia.",
+        "El Señor le dijo: —Yo estaré contigo y tú derrotarás a Madián como a un solo hombre.",
+        "Y de nuevo respondió: —Por favor, si he encontrado gracia a tus ojos, dame una señal de que eres tú quien ha hablado conmigo.",
+        "No te muevas de aquí hasta que regrese trayendo mi oblación y te la presente. A lo que él contestó: —Me quedaré hasta que vuelvas.",
+        "Gedeón fue a preparar un cabrito y unos panes ácimos con un efah de harina. Luego, colocando la carne en un canasto y la salsa en una cazuela, se lo llevó hasta debajo de la encina y allí se lo ofreció.",
+        "El ángel de Dios le dijo: —Toma la carne y los panes ácimos; déjalos sobre esa roca y derrama la salsa por encima. Él así lo hizo.",
+        "El ángel del Señor alargó el extremo del cayado que tenía en su mano, tocó la carne y los panes ácimos, y salió de la roca un fuego que consumió la carne y los panes. Luego el ángel del Señor se retiró de su presencia.",
+        "Al ver Gedeón que era un ángel del Señor dijo: —¡Ay de mí, Señor, Dios mío, que he visto al ángel del Señor cara a cara!",
+        "Y el Señor le respondió: —Ten paz. No temas, no morirás.",
+        "Gedeón edificó allí un altar al Señor y le puso el nombre de «El Señor es Paz. Éste permanece hasta el día de hoy en Ofrá de Abiézer."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 85:9, 14",
+      "texto": [
+        "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles, con tal de que no retornen a la necedad.",
+        "Misericordia y fidelidad se encontrarán, justicia y paz se besarán.",
+        "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia.",
+        "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos.",
+        "Ante Él marchará la justicia, y sus pasos abrirán camino."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 19:23-30",
+      "texto": [
+        "Jesús les dijo entonces a sus discípulos: —En verdad os digo: difícilmente entrará un rico en el Reino de los Cielos.",
+        "Es más, os digo que es más fácil a un camello pasar por el ojo de una aguja, que a un rico entrar en el Reino de Dios.",
+        "Cuando oyeron esto sus discípulos, se quedaron muy asombrados y decían: —Entonces, ¿quién puede salvarse?",
+        "Jesús, con la mirada fija en ellos, les dijo: —Para el hombre esto es imposible; para Dios, sin embargo, todo es posible.",
+        "Entonces Pedro tomó la palabra y le dijo: —Ya ves que nosotros lo hemos dejado todo y te hemos seguido, ¿qué recompensa tendremos?",
+        "Jesús les respondió: —En verdad os digo que en la regeneración, cuando el Hijo del Hombre se siente en su trono de gloria, vosotros, los que me habéis seguido, también os sentaréis sobre doce tronos para juzgar a las doce tribus de Israel.",
+        "Y todo el que haya dejado casa, hermanos o hermanas, padre o madre, o hijos, o campos, por causa de mi nombre, recibirá el ciento por uno y heredará la vida eterna.",
+        "Porque muchos primeros serán últimos y muchos últimos serán primeros."
+      ]
+    }
+  }
+}

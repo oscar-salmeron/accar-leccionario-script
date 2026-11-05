@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-07-31",
+  "fiesta": "San Ignacio de Loyola, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Levítico 25:1, 17",
+      "texto": [
+        "Habló el Señor a Moisés en el monte Sinaí y dijo:",
+        "Contarás siete semanas de años, es decir, siete veces siete años, de modo que resulte un periodo de cuarenta y nueve años.",
+        "El día diez del mes séptimo, el Día de la Expiación, harás sonar la trompeta: resonará la trompeta por toda vuestra tierra.",
+        "Declararéis santo el año quincuagésimo, promulgando en la tierra un decreto de liberación para todos sus habitantes. Será un año jubilar: cada uno volverá a su propiedad y regresará a su familia de origen.",
+        "El año quincuagésimo será para vosotros jubilar: no sembraréis ni recogeréis lo que renazca en el barbecho, ni vendimiaréis la viña no podada,",
+        "porque será año jubilar y será santo para vosotros. Os alimentaréis de lo que el campo produzca de por sí.",
+        "El año jubilar cada uno recobrará su propiedad.",
+        "Cuando compréis o vendáis algo a un compatriota, que nadie perjudique a su hermano.",
+        "Habrás de comprar teniendo presente el número de años transcurridos desde el año jubilar, y tu compatriota ha de venderte atendiendo al número de años de cosecha restantes.",
+        "Cuantos más años queden mayor será el precio, cuantos menos queden, menor será el precio: lo que se vende es el número de cosechas.",
+        "Que nadie perjudique a su compatriota. Teme a tu Dios, pues yo soy el Señor, vuestro Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 67:2-3, 5, 8",
+      "texto": [
+        "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros.",
+        "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones.",
+        "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud y diriges las naciones de la tierra.",
+        "La tierra ha dado su fruto: Dios, nuestro Dios, nos bendice.",
+        "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 14:1-12",
+      "texto": [
+        "En aquel entonces oyó el tetrarca Herodes la fama de Jesús,",
+        "y les dijo a sus cortesanos: —Éste es Juan el Bautista, que ha resucitado de entre los muertos, y por eso actúan en él esos poderes.",
+        "Herodes, en efecto, había apresado a Juan, lo había encadenado y lo había metido en la cárcel a causa de Herodías, la mujer de su hermano Filipo,",
+        "porque Juan le decía: «No te es lícito tenerla.",
+        "Y aunque quería matarlo, tenía miedo del pueblo porque lo consideraban un profeta.",
+        "El día del cumpleaños de Herodes salió a bailar la hija de Herodías y le gustó tanto a Herodes,",
+        "que juró darle cualquier cosa que pidiese.",
+        "Ella, instigada por su madre, dijo: —Dame aquí, en una bandeja, la cabeza de Juan el Bautista.",
+        "El rey se entristeció, pero por el juramento y por los comensales ordenó dársela.",
+        "Y mandó decapitar a Juan en la cárcel.",
+        "Trajeron su cabeza en una bandeja y se la dieron a la muchacha, que la entregó a su madre.",
+        "Acudieron luego sus discípulos, tomaron el cuerpo muerto, lo enterraron y fueron a dar la noticia a Jesús."
+      ]
+    }
+  }
+}

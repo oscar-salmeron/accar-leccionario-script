@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-06",
+  "fiesta": "San Andrés Bessette, Religioso (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 4:11-18",
+      "texto": [
+        "Queridísimos: si Dios nos ha amado así, también nosotros debemos amarnos unos a otros.",
+        "A Dios nadie le ha visto jamás. Si nos amamos unos a otros, Dios permanece en nosotros, y su amor alcanza en nosotros su perfección.",
+        "En esto conocemos que permanecemos en Él, y Él en nosotros: en que nos ha hecho participar de su Espíritu.",
+        "Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo como salvador del mundo.",
+        "Si alguien confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios.",
+        "Y nosotros hemos conocido y creído en el amor que Dios nos tiene. Dios es amor, y el que permanece en el amor permanece en Dios y Dios en él.",
+        "En esto alcanza el amor su perfección en nosotros: en que tengamos confianza en el día del Juicio, porque tal como es él, así somos nosotros en este mundo.",
+        "En el amor no hay temor, sino que el amor perfecto echa fuera el temor, porque el temor supone castigo, y el que teme no es perfecto en el amor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:1-2, 10, 13",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Que le traigan presentes los reyes de Tarsis y de las Islas, le ofrezcan dones los reyes de Sebá y de Sabá.",
+        "Porque él librará al desvalido que clama y al pobre que no tiene amparo.",
+        "Tendrá piedad del débil y del desvalido y salvará la vida de los indigentes."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 6:45-52",
+      "texto": [
+        "Y enseguida mandó a sus discípulos que subieran a la barca y que se adelantaran a la otra orilla junto a Betsaida, mientras él despedía a la multitud.",
+        "Y después de despedirlos, se retiró al monte a orar.",
+        "Cuando se hizo de noche, la barca estaba en medio del mar, y él solo en tierra.",
+        "Y viéndoles remar con gran fatiga, porque el viento les era contrario, hacia la cuarta vigilia de la noche vino a ellos andando sobre el mar, e hizo ademán de pasar de largo.",
+        "Ellos, cuando lo vieron andando sobre el mar, pensaron que era un fantasma y empezaron a gritar.",
+        "Pues todos le habían visto y se habían asustado. Pero al instante él habló con ellos, y les dijo: —Tened confianza, soy yo, no tengáis miedo.",
+        "Y subió con ellos a la barca y se calmó el viento. Entonces se quedaron mucho más asombrados;",
+        "porque no habían entendido lo de los panes, ya que su corazón estaba endurecido."
+      ]
+    }
+  }
+}

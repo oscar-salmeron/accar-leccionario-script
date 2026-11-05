@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-03-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 42:1-7",
+      "texto": [
+        "Mira a mi siervo, a quien sostengo, mi elegido, en quien se complace mi alma. He puesto mi Espíritu sobre él: llevará el derecho a las naciones.",
+        "No gritará, ni chillará, no hará oír su voz en la calle.",
+        "No quebrará la caña cascada, ni apagará el pabilo vacilante. Dictará sentencia según la verdad.",
+        "No desfallecerá ni se doblará hasta que establezca el derecho en la tierra. Las islas esperarán su ley.",
+        "Así dice el Señor Dios, el que creó los cielos y los desplegó, el que asentó la tierra y cuanto surge en ella, el que da el aliento al pueblo que la habita y el hálito a quienes andan por ella:",
+        "«Yo, el Señor, te he llamado en justicia, te he tomado de la mano, te he guardado y te he destinado para alianza del pueblo, para luz de las naciones,",
+        "para abrir los ojos de los ciegos, para sacar de la prisión a los cautivos y del calabozo a los que yacen en tinieblas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 27:1-3, 14",
+      "texto": [
+        "De David. El Señor es mi luz y mi salvación: ¿a quién temeré? El Señor es el refugio de mi vida: ¿de quién tendré miedo?",
+        "Cuando se me acercan malhechores para devorar mi carne, mis opresores y enemigos, ellos tropiezan y caen.",
+        "Aunque acampe contra mí un ejército, mi corazón no teme. Aunque se levante contra mí la guerra, me siento seguro.",
+        "Seguro estoy de ver la bondad del Señor en la tierra de los vivos.",
+        "Espera en el Señor, sé recio, que se reanime tu corazón. ¡Espera en el Señor!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 12:1-11",
+      "texto": [
+        "Jesús, seis días antes de la Pascua, marchó a Betania, donde estaba Lázaro, al que Jesús había resucitado de entre los muertos.",
+        "Allí le prepararon una cena. Marta servía, y Lázaro era uno de los que estaban a la mesa con él.",
+        "María, tomando una libra de perfume de nardo puro, muy caro, ungió los pies de Jesús y los secó con sus cabellos. La casa se llenó de la fragancia del perfume.",
+        "Dijo Judas Iscariote, uno de los discípulos, el que le iba a entregar:",
+        "—¿Por qué no se ha vendido este perfume por trescientos denarios y se ha dado a los pobres?",
+        "Pero esto lo dijo no porque él se preocupara de los pobres, sino porque era ladrón y, como tenía la bolsa, se llevaba lo que echaban en ella.",
+        "Entonces dijo Jesús: —Dejadle que lo emplee para el día de mi sepultura,",
+        "porque a los pobres los tenéis siempre con vosotros, pero a mí no siempre me tenéis.",
+        "Una gran multitud de judíos se enteró de que estaba allí, y fueron no sólo por Jesús, sino también por ver a Lázaro, al que había resucitado de entre los muertos.",
+        "Y los príncipes de los sacerdotes decidieron dar muerte también a Lázaro,",
+        "porque muchos, por su causa, se apartaban de los judíos y creían en Jesús."
+      ]
+    }
+  }
+}

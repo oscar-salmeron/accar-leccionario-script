@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-09-12",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 50:5-9",
+      "texto": [
+        "El Señor Dios me ha abierto el oído, yo no me he rebelado, no me he echado atrás.",
+        "He ofrecido mi espalda a los que me golpeaban, y mis mejillas a quienes me arrancaban la barba. No he ocultado mi rostro a las afrentas y salivazos.",
+        "El Señor Dios me sostiene, por eso no me siento avergonzado; por eso he endurecido mi rostro como el pedernal y sé que no quedaré avergonzado.",
+        "Cerca está el que me justifica, ¿quién litigará conmigo? Comparezcamos juntos. ¿Quién es mi adversario? Que se acerque a mí.",
+        "Mirad: el Señor Dios me sostiene, ¿quién podrá condenarme? Todos ellos se gastarán como un vestido, la polilla los devorará."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 116:1-6, 9",
+      "texto": [
+        "¡Aleluya! Yo amo al Señor, porque escucha la voz de mi súplica;",
+        "porque inclinó su oído hacia mí los días que le invoqué.",
+        "Me apretaban lazos de muerte, me apretaban las angosturas del sheol, me encontraba entre angustias y dolores.",
+        "Pero invoqué el Nombre del Señor: «¡Te lo suplico, Señor, salva mi alma!.",
+        "El Señor es clemente y justo, nuestro Dios es compasivo.",
+        "El Señor guarda a los sencillos: estaba yo hundido y me salvó.",
+        "pues ha rescatado mi alma de la muerte, mis ojos, de las lágrimas, mis pies, de la caída.",
+        "Caminaré en la presencia del Señor en la tierra de los vivos."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Santiago 2:14-18",
+      "texto": [
+        "¿De qué sirve, hermanos míos, que uno diga tener fe, si no tiene obras? ¿Acaso la fe podrá salvarle?",
+        "Si un hermano o una hermana están desnudos y carecen del sustento cotidiano,",
+        "y alguno de vosotros les dice: «Id en paz, calentaos y saciaos, pero no les dais lo necesario para el cuerpo, ¿de qué sirve?",
+        "Así también la fe, si no va acompañada de obras, está realmente muerta.",
+        "Pero alguno podrá decir: «Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin obras, y yo por mis obras te mostraré la fe."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 8:27-35",
+      "texto": [
+        "Salió Jesús con sus discípulos hacia las aldeas de Cesarea de Filipo. Y en el camino se puso a preguntar a sus discípulos: —¿Quién dicen los hombres que soy yo?",
+        "Ellos le contestaron: —Juan el Bautista, y otros que Elías; pero otros que uno de los profetas.",
+        "Entonces él les pregunta: —Y vosotros, ¿quién decís que soy yo? Le responde Pedro: —Tú eres el Cristo.",
+        "Y les ordenó que no hablasen a nadie sobre esto.",
+        "Y comenzó a enseñarles que el Hijo del Hombre debía padecer mucho, ser rechazado por los ancianos, por los príncipes de los sacerdotes y por los escribas, y ser llevado a la muerte y resucitar después de tres días.",
+        "Hablaba de esto claramente. Pedro, tomándolo aparte, se puso a reprenderle.",
+        "Pero él se volvió y, mirando a sus discípulos, reprendió a Pedro y le dijo: —¡Apártate de mí, Satanás!, porque no sientes las cosas de Dios, sino las de los hombres.",
+        "Y llamando a la muchedumbre junto con sus discípulos, les dijo: —Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz y que me siga."
+      ]
+    }
+  }
+}

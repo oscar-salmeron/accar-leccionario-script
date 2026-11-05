@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-02-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 22:1-2, 13, 18",
+      "texto": [
+        "Después de estos sucesos, Dios puso a prueba a Abrahán. Y le llamó: —¡Abrahán! Éste respondió: —Aquí estoy.",
+        "Entonces le dijo: —Toma a tu hijo, a tu único hijo, al que tú amas, a Isaac, y vete a la región de Moria. Allí lo ofrecerás en sacrificio, sobre un monte que yo te indicaré.",
+        "llegaron al lugar que Dios le había dicho; construyó allí Abrahán el altar y colocó la leña; luego ató a su hijo Isaac y lo puso sobre el altar encima de la leña.",
+        "Abrahán alargó la mano y empuñó el cuchillo para inmolar a su hijo.",
+        "Pero entonces el ángel del Señor le llamó desde el cielo: —¡Abrahán, Abrahán! Él contestó: —Aquí estoy.",
+        "Y Dios le dijo: —No extiendas tu mano hacia el muchacho ni le hagas nada, pues ahora he comprobado que temes a Dios y no me has negado a tu hijo, a tu único hijo.",
+        "Abrahán levantó la vista y vio detrás un carnero enredado en la maleza por los cuernos. Fue Abrahán, tomó el carnero y lo ofreció en sacrificio en vez de su hijo.",
+        "El ángel del Señor llamó por segunda vez a Abrahán desde el cielo",
+        "y le dijo: —Juro por mí mismo, oráculo del Señor, que por haber hecho una cosa así, y no haberme negado a tu hijo, a tu único hijo,",
+        "te colmaré de bendiciones y multiplicaré tu descendencia como las estrellas del cielo y como la arena de las playas; y tu descendencia se adueñará de las ciudades de sus enemigos.",
+        "En tu descendencia serán bendecidos todos los pueblos de la tierra porque has obedecido mi voz."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 116:10, 19",
+      "texto": [
+        "Yo mantenía la fe, aun cuando dije: «Soy muy desdichado.",
+        "Preciosa es a los ojos del Señor la muerte de sus fieles.",
+        "¡Ah, Señor, yo soy tu siervo, tu siervo soy, el hijo de tu esclava! Tú has soltado mis cadenas.",
+        "Te ofreceré un sacrificio de acción de gracias, e invocaré el Nombre del Señor.",
+        "Cumpliré al Señor mis votos en presencia de todo su pueblo,",
+        "en los atrios de la Casa del Señor, en medio de ti, Jerusalén."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Romanos 8:31-34",
+      "texto": [
+        "¿Qué diremos a esto? Si Dios está con nosotros, ¿quién contra nosotros?",
+        "El que no perdonó a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará con él todas las cosas?",
+        "¿Quién presentará acusación contra los elegidos de Dios? ¿Dios, el que justifica?",
+        "¿Quién condenará? ¿Cristo Jesús, el que murió, más aún, el que fue resucitado, el que además está a la derecha de Dios, el que está intercediendo por nosotros?"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 9:2-10",
+      "texto": [
+        "Seis días después, Jesús se llevó con él a Pedro, a Santiago y a Juan, y los condujo, a ellos solos aparte, a un monte alto y se transfiguró ante ellos.",
+        "Sus vestidos se volvieron deslumbrantes y muy blancos; tanto, que ningún batanero en la tierra puede dejarlos así de blancos.",
+        "Y se les aparecieron Elías y Moisés, y conversaban con Jesús.",
+        "Pedro, tomando la palabra, le dice a Jesús: —Maestro, qué bien estamos aquí; hagamos tres tiendas: una para ti, otra para Moisés y otra para Elías.",
+        "Pues no sabía lo que decía, porque estaban llenos de temor.",
+        "Entonces se formó una nube que los cubrió y se oyó una voz desde la nube: —Éste es mi Hijo, el amado: escuchadle.",
+        "Y luego, mirando a su alrededor, ya no vieron a nadie: sólo a Jesús con ellos.",
+        "Mientras bajaban del monte les ordenó que no contasen a nadie lo que habían visto, hasta que el Hijo del Hombre resucitara de entre los muertos.",
+        "Ellos retuvieron estas palabras, discutiendo entre sí qué era lo de resucitar de entre los muertos."
+      ]
+    }
+  }
+}

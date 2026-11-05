@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-03-30",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 2:36-41",
+      "texto": [
+        "Por tanto, sepa con seguridad toda la casa de Israel que Dios ha constituido Señor y Cristo a este Jesús, a quien vosotros crucificasteis.",
+        "Al oír esto se dolieron de corazón y les dijeron a Pedro y a los demás apóstoles: —¿Qué tenemos que hacer, hermanos?",
+        "Pedro les dijo: —Convertíos, y que cada uno de vosotros se bautice en el nombre de Jesucristo para perdón de vuestros pecados, y recibiréis el don del Espíritu Santo.",
+        "Porque la promesa es para vosotros, para vuestros hijos y para todos los que están lejos, para todos los que quiera llamar el Señor Dios nuestro.",
+        "Con otras muchas palabras dio testimonio y les exhortaba diciendo: —Salvaos de esta generación perversa.",
+        "Ellos aceptaron su palabra y fueron bautizados; y aquel día se les unieron unas tres mil almas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:4-5, 20, 22",
+      "texto": [
+        "La palabra del Señor es recta, y hace con fidelidad todas sus obras.",
+        "Él ama la justicia y el derecho: la tierra está llena de su misericordia.",
+        "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,",
+        "para librar sus almas de la muerte, y hacerlos subsistir en la penuria.",
+        "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;",
+        "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 20:11-18",
+      "texto": [
+        "María estaba fuera, llorando junto al sepulcro. Mientras lloraba se inclinó hacia el sepulcro,",
+        "y vio a dos ángeles de blanco, sentados uno a la cabecera y otro a los pies, donde había sido colocado el cuerpo de Jesús.",
+        "Ellos dijeron: —Mujer, ¿por qué lloras? —Se han llevado a mi Señor y no sé dónde lo han puesto —les respondió.",
+        "Dicho esto, se volvió hacia atrás y vio a Jesús de pie, pero no sabía que era Jesús.",
+        "Le dijo Jesús: —Mujer, ¿por qué lloras? ¿A quién buscas? Ella, pensando que era el hortelano, le dijo: —Señor, si te lo has llevado tú, dime dónde lo has puesto y yo lo recogeré.",
+        "Jesús le dijo: —¡María! Ella, volviéndose, exclamó en hebreo: —¡Rabbuni! —que quiere decir: «Maestro.",
+        "Jesús le dijo: —Suéltame, que aún no he subido a mi Padre; pero vete donde están mis hermanos y diles: «Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios.",
+        "Fue María Magdalena y anunció a los discípulos: —¡He visto al Señor!, y me ha dicho estas cosas."
+      ]
+    }
+  }
+}

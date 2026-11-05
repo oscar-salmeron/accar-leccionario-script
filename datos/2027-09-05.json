@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-09-05",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 35:4-7",
+      "texto": [
+        "Decid a los pusilánimes: «¡Cobrad ánimo, no temáis! Aquí está vuestro Dios, llega la venganza, la retribución de Dios. Él vendrá y os salvará.",
+        "Entonces se abrirán los ojos de los ciegos y se destaparán los oídos de los sordos.",
+        "Entonces el cojo saltará como un ciervo, y la lengua del mudo gritará de júbilo, porque manarán aguas en el desierto y torrentes en la estepa;",
+        "el páramo se trocará en estanque, y el secarral en manantiales de aguas; en las guaridas donde se refugiaban los chacales habrá cañaverales y juncales."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 146:7-10",
+      "texto": [
+        "que hace justicia a los oprimidos, da pan a los hambrientos. El Señor libera a los cautivos;",
+        "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan; el Señor ama a los justos.",
+        "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda, pero tuerce el camino de los impíos.",
+        "El Señor reina eternamente, tu Dios, Sión, de generación en generación."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Santiago 2:1-5",
+      "texto": [
+        "Hermanos míos, no intentéis conciliar la fe en nuestro Señor Jesucristo, glorioso, con la acepción de personas.",
+        "Supongamos que entra en vuestra asamblea un hombre con anillo de oro y vestido espléndido, y entra también un pobre mal vestido.",
+        "Y os fijáis en el que lleva el vestido espléndido y le decís: «Tú, siéntate aquí, en buen sitio; y, en cambio, al pobre le decís: «Tú, quédate ahí, o «siéntate en el suelo, a mis pies.",
+        "¿No estáis haciendo entonces distinciones entre vosotros y juzgando con criterios perversos?",
+        "Escuchad, hermanos míos queridísimos: ¿acaso no escogió Dios a los pobres según el mundo, para hacerlos ricos en la fe y herederos del reino que prometió a los que le aman?"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 7:31-37",
+      "texto": [
+        "De nuevo, salió de la región de Tiro y vino a través de Sidón hacia el mar de Galilea, cruzando el territorio de la Decápolis.",
+        "Le traen a uno que era sordo y que a duras penas podía hablar y le ruegan que le imponga la mano.",
+        "Y apartándolo de la muchedumbre, le metió los dedos en las orejas y le tocó con saliva la lengua;",
+        "y mirando al cielo, suspiró, y le dijo: —Effetha —que significa: «Ábrete.",
+        "Y se le abrieron los oídos, quedó suelta la atadura de su lengua y empezó a hablar correctamente.",
+        "Y les ordenó que no se lo dijeran a nadie. Pero cuanto más se lo mandaba, más lo proclamaban;",
+        "y estaban tan maravillados que decían: —Todo lo ha hecho bien, hace oír a los sordos y hablar a los mudos."
+      ]
+    }
+  }
+}

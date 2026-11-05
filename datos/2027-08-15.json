@@ -1,0 +1,69 @@
+{
+  "fecha": "2027-08-15",
+  "fiesta": "Asunción de la Santísima Virgen María (Solemnidad)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 11:19; 12:1-6, 10",
+      "texto": [
+        "Y se abrió el templo de Dios en el cielo y en el Templo apareció el arca de su alianza; y se produjeron relámpagos, fragor de truenos, un terremoto y un fuerte granizo.",
+        "Una gran señal apareció en el cielo: una mujer vestida de sol, la luna a sus pies, y sobre su cabeza una corona de doce estrellas.",
+        "Está encinta y grita al sufrir los dolores del parto y los tormentos de dar a luz.",
+        "Apareció entonces otra señal en el cielo: un gran dragón rojo, con siete cabezas y diez cuernos, y sobre sus cabezas siete diademas.",
+        "La cola arrastró una tercera parte de las estrellas del cielo y las arrojó a la tierra. El dragón se puso delante de la mujer, que iba a dar a luz, para devorar a su hijo en cuanto naciera.",
+        "Y dio a luz un hijo varón, el que va a regir a todas las naciones con cetro de hierro. Pero su hijo fue arrebatado hasta Dios y hasta su trono.",
+        "Entonces la mujer huyó al desierto, donde tiene un lugar preparado por Dios, para que allí la alimenten durante mil doscientos sesenta días.",
+        "Entonces oí en el cielo una fuerte voz que decía: «Ahora ha llegado la salvación, la fuerza, el Reino de nuestro Dios, y el poderío de su Cristo, porque ha sido arrojado el acusador de nuestros hermanos, el que los acusaba ante nuestro Dios día y noche."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 45:10-12, 16",
+      "texto": [
+        "Hijas de reyes están entre tus damas. A tu diestra está la reina, adornada con oro de Ofir.",
+        "Escucha, hija, y mira, presta tu oído, olvida tu pueblo y la casa de tu padre:",
+        "y el rey se prendará de tu belleza; él es tu señor, inclínate ante él.",
+        "son conducidas en medio de alegría y regocijo; entran en el palacio del rey."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 15:20-27",
+      "texto": [
+        "Ahora bien, Cristo ha resucitado de entre los muertos, como primer fruto de los que mueren.",
+        "Porque como por un hombre vino la muerte, también por un hombre la resurrección de los muertos.",
+        "Y así como en Adán todos mueren, así también en Cristo todos serán vivificados.",
+        "Pero cada uno en su orden debido: como primer fruto, Cristo; luego, con su venida, los que son de Cristo.",
+        "Después llegará el fin, cuando entregue el Reino a Dios Padre, cuando haya aniquilado todo principado, toda potestad y poder.",
+        "Pues es necesario que él reine, hasta que ponga a todos los enemigos bajo sus pies.",
+        "Como último enemigo será destruida la muerte;",
+        "porque ha sometido todas las cosas bajo sus pies, si bien cuando dice que todas las cosas están sometidas, es indudable que exceptúa al que sometió todo a él."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:39-56",
+      "texto": [
+        "Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá;",
+        "y entró en casa de Zacarías y saludó a Isabel.",
+        "Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo;",
+        "y exclamando en voz alta, dijo: —Bendita tú entre las mujeres y bendito es el fruto de tu vientre.",
+        "¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme?",
+        "Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno;",
+        "y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor.",
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Manifestó el poder de su brazo, dispersó a los soberbios de corazón.",
+        "Derribó de su trono a los poderosos y ensalzó a los humildes.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,",
+        "como había prometido a nuestros padres, Abrahán y su descendencia para siempre.",
+        "María permaneció con ella unos tres meses, y se volvió a su casa."
+      ]
+    }
+  }
+}

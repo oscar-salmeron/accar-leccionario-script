@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-05-22",
+  "fiesta": "Santa Rita de Cascia, Religiosa (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 17:1-15",
+      "texto": [
+        "Así actuará el que teme al Señor; y quien se aferra a la Ley alcanzará la sabiduría.",
+        "Ella le saldrá al encuentro como una madre respetable, le recibirá como una esposa virgen.",
+        "Le alimentará con el pan de vida y de inteligencia, y le dará a beber el agua de la sabiduría. Se apoyará en ella y no vacilará,",
+        "confiará en ella y no quedará avergonzado. Ella le encumbrará por encima de sus prójimos,",
+        "y en medio de la asamblea le hará abrir su boca, le llenará de espíritu de sabiduría y de inteligencia y le cubrirá de un manto de gloria.",
+        "Le colmará de alegría y de corona de gozo, y heredará un renombre eterno.",
+        "Los insensatos nunca la alcanzarán, pero los sensatos le saldrán al encuentro; los pecadores no la contemplarán jamás. Está lejos de la soberbia y del dolo:",
+        "los mentirosos no se acuerdan de ella, pero los hombres veraces la encontrarán, y tendrán éxito cuando los visite el Señor.",
+        "La alabanza no es adecuada en boca de pecador,",
+        "porque el Señor no se la concedió: la alabanza de Dios se ha de proclamar con sabiduría, en la boca del sabio se pronuncia la alabanza, y es el Señor quien la guía.",
+        "No digas: «Me aparté por causa del Señor, porque lo que Él detesta, Él no lo hace.",
+        "No digas: «Él me extravió, pues Él no necesita de hombres pecadores.",
+        "El Señor odia toda abominación, y tampoco es querida por los que le temen."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:13-18",
+      "texto": [
+        "Como se apiada un padre de sus hijos, así el Señor tiene piedad de los que le temen.",
+        "Pues Él conoce de qué estamos hechos, recuerda que somos polvo.",
+        "¡El hombre! Como el heno son sus días: florece como flor silvestre;",
+        "sobre él pasa el viento y no subsiste, ni se reconoce más su sitio.",
+        "Pero la misericordia del Señor dura desde siempre y para siempre con los que le temen; y su justicia, con los hijos de los hijos,",
+        "con los que guardan su alianza y recuerdan sus mandatos y los cumplen."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 10:13-16",
+      "texto": [
+        "Le presentaban unos niños para que los tomara en sus brazos; pero los discípulos les reñían.",
+        "Al verlo Jesús se enfadó y les dijo: —Dejad que los niños vengan a mí, y no se lo impidáis, porque de los que son como ellos es el Reino de Dios.",
+        "En verdad os digo: quien no reciba el Reino de Dios como un niño no entrará en él.",
+        "Y abrazándolos, los bendecía imponiéndoles las manos."
+      ]
+    }
+  }
+}

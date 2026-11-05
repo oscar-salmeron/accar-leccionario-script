@@ -1,0 +1,42 @@
+{
+  "fecha": "2027-11-03",
+  "fiesta": "San Martín de Porres, Religioso (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Romanos 13:8-10",
+      "texto": [
+        "No debáis nada a nadie, a no ser el amaros unos a otros; porque el que ama al prójimo ha cumplido plenamente la Ley.",
+        "Pues no adulterarás, no matarás, no robarás, no codiciarás y cualquier otro precepto, se compendian en este mandamiento: Amarás a tu prójimo como a ti mismo.",
+        "La caridad no hace mal al prójimo. Por tanto, la caridad es la plenitud de la Ley."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 112:1-2, 5, 9",
+      "texto": [
+        "Aleluya. (Alef) Dichoso el hombre que teme al Señor, (Bet) y se complace de lleno en sus mandamientos.",
+        "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos.",
+        "(Záin) Para los rectos brilla como luz en las tinieblas, (Het) el clemente, compasivo y justo.",
+        "(Tet) Feliz el hombre compasivo y que presta, (Yod) y que administra sus asuntos con justicia;",
+        "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre; (Qof) lleva alta su frente con honor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 14:25-33",
+      "texto": [
+        "Iba con él mucha gente, y se volvió hacia ellos y les dijo:",
+        "—Si alguno viene a mí y no odia a su padre y a su madre y a su mujer y a sus hijos y a sus hermanos y a sus hermanas, hasta su propia vida, no puede ser mi discípulo.",
+        "Y el que no carga con su cruz y viene detrás de mí, no puede ser mi discípulo.",
+        "Porque, ¿quién de vosotros, al querer edificar una torre, no se sienta primero a calcular los gastos a ver si tiene para acabarla?",
+        "No sea que, después de poner los cimientos y no poder acabar, todos los que lo vean empiecen a burlarse de él,",
+        "y digan: «Este hombre comenzó a edificar y no pudo terminar.",
+        "¿O qué rey, que sale a luchar contra otro rey, no se sienta antes a deliberar si puede enfrentarse con diez mil hombres al que viene contra él con veinte mil?",
+        "Y si no, cuando todavía está lejos, envía una embajada para pedir condiciones de paz.",
+        "Así pues, cualquiera de vosotros que no renuncie a todos sus bienes no puede ser mi discípulo."
+      ]
+    }
+  }
+}

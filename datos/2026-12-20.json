@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-12-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Samuel 7:1-5, 12, 14, 16",
+      "texto": [
+        "Cuando el rey se estableció en su casa y el Señor le concedió la paz con los enemigos de alrededor,",
+        "dijo el rey al profeta Natán: —Mira, yo habito en una casa de cedro, mientras que el arca del Señor habita en una tienda de lona.",
+        "Natán respondió al rey: —Vete y haz lo que te dicta el corazón, porque el Señor está contigo.",
+        "Pero esa misma noche la palabra del Señor llegó sobre Natán en estos términos:",
+        "—Vete y dile a mi siervo David: «Así dice el Señor: “¿Eres tú el que va a edificar una casa para que Yo habite en ella?",
+        "Y ahora así dirás a mi siervo David: «Así dice el Señor de los ejércitos: “Yo te he tomado del aprisco, de detrás del rebaño para que seas príncipe sobre mi pueblo Israel;",
+        "he estado contigo en todas tus andanzas, he eliminado a todos tus enemigos ante ti y he hecho tu nombre grande entre los grandes de la tierra.",
+        "Asignaré un lugar para mi pueblo Israel y lo plantaré para que habite allí y nadie le moleste; los malvados no volverán a oprimirlo como antes,",
+        "cuando constituí jueces sobre mi pueblo Israel. Te concederé la paz con todos tus enemigos. El Señor te anuncia que Él te edificará una casa.",
+        "Cuando hayas completado los días de tu vida y descanses con tus padres, suscitaré después de ti un linaje salido de tus entrañas y consolidaré su reino.",
+        "Yo seré para él un padre y él será para mí un hijo; si algo hace mal le castigaré con vara de hombres y con golpes humanos.",
+        "tu casa y tu reino permanecerán para siempre en mi presencia y tu trono será firme también para siempre”."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 89:2-5, 27, 29",
+      "texto": [
+        "Las misericordias del Señor cantaré eternamente; de generación en generación anunciaré con mi boca tu fidelidad.",
+        "Pues he dicho: «La misericordia está edificada para siempre; tu fidelidad está firme en los cielos.",
+        "«Una alianza sellé con mi elegido, juré a David, mi siervo:",
+        "“Afirmaré tu descendencia para siempre, construiré tu trono por todas las generaciones”. (Pausa)",
+        "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”.",
+        "Le guardaré por siempre mi misericordia, mi alianza con él será firme."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:26-38",
+      "texto": [
+        "pero ahora manifestado a través de las Escrituras proféticas conforme al designio del Dios eterno, dado a conocer a todas las gentes para la obediencia de la fe,",
+        "a Dios, el único sabio, a Él la gloria por medio de Jesucristo por los siglos de los siglos. Amén.",
+        "En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret,",
+        "a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María.",
+        "Y entró donde ella estaba y le dijo: —Dios te salve, llena de gracia, el Señor es contigo.",
+        "Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo.",
+        "Y el ángel le dijo: —No temas, María, porque has hallado gracia delante de Dios:",
+        "concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús.",
+        "Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre,",
+        "reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin.",
+        "María le dijo al ángel: —¿De qué modo se hará esto, pues no conozco varón?",
+        "Respondió el ángel y le dijo: —El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios.",
+        "Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes,",
+        "porque para Dios no hay nada imposible.",
+        "Dijo entonces María: —He aquí la esclava del Señor, hágase en mí según tu palabra. Y el ángel se retiró de su presencia."
+      ]
+    }
+  }
+}

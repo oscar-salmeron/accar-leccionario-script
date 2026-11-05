@@ -1,0 +1,45 @@
+{
+  "fecha": "2027-06-21",
+  "fiesta": "San Alonso Gonzaga, Religioso (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 12:1-9",
+      "texto": [
+        "El Señor dijo a Abrán: —Vete de tu tierra y de tu patria y de casa de tu padre, a la tierra que yo te mostraré;",
+        "de ti haré un gran pueblo, te bendeciré, y engrandeceré tu nombre que servirá de bendición.",
+        "Bendeciré a quienes te bendigan, y maldeciré a quienes te maldigan; en ti serán bendecidos todos los pueblos de la tierra.",
+        "Abrán se marchó tal como le había mandado el Señor, y con él fue Lot. Tenía Abrán setenta y cinco años cuando salió de Jarán.",
+        "Abrán llevó consigo a Saray, su mujer, y a Lot, su sobrino, con todos los bienes que había obtenido y la gente que había adquirido en Jarán. Salieron para ir a la tierra de Canaán, y llegaron a la tierra de Canaán.",
+        "Abrán atravesó la tierra de Canaán hasta el lugar sagrado de Siquem, hasta la encina de Moré. Los cananeos habitaban entonces en el país.",
+        "El Señor se manifestó a Abrán y le dijo: —A tu descendencia daré esta tierra. Abrán construyó allí un altar al Señor que se le había manifestado.",
+        "Desde allí pasó a la montaña al oriente de Betel, donde plantó la tienda, entre Betel a occidente y Ay a oriente; y construyó allí un altar al Señor e invocó el nombre del Señor.",
+        "Después Abrán reemprendió el viaje yendo, por etapas, al Négueb."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:12-13, 20, 22",
+      "texto": [
+        "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad.",
+        "El Señor mira desde los cielos, ve a todos los hijos de Adán.",
+        "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,",
+        "para librar sus almas de la muerte, y hacerlos subsistir en la penuria.",
+        "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;",
+        "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 7:1-5",
+      "texto": [
+        "No juzguéis para no ser juzgados.",
+        "Porque con el juicio con que juzguéis se os juzgará, y con la medida con que midáis se os medirá.",
+        "¿Por qué te fijas en la mota del ojo de tu hermano, y no reparas en la viga que hay en el tuyo?",
+        "O ¿cómo vas a decir a tu hermano: «Deja que saque la mota de tu ojo, cuando tú tienes una viga en el tuyo?",
+        "Hipócrita: saca primero la viga de tu ojo, y entonces verás con claridad cómo sacar la mota del ojo de tu hermano."
+      ]
+    }
+  }
+}

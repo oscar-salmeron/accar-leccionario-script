@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-05-28",
+  "fiesta": "De otros no ha quedado memoria, desaparecieron como si no hubiesen vivido, nacieron como si no hubiesen nacido, igual que los hijos que les sucedieron.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 44:1, 13",
+      "texto": [
+        "Hagamos el elogio de los hombres ilustres, de nuestros padres según su generación.",
+        "De otros no ha quedado memoria, desaparecieron como si no hubiesen vivido, nacieron como si no hubiesen nacido, igual que los hijos que les sucedieron.",
+        "En cambio, hubo hombres virtuosos, cuyos méritos no se han olvidado.",
+        "En su linaje se transmite una preciosa herencia, sus descendientes.",
+        "Su estirpe permanece fiel a la alianza,",
+        "y sus hijos gracias a ellos. Su descendencia dura por siempre y su gloria no será borrada."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 149:1-6, 9",
+      "texto": [
+        "¡Aleluya! Cantad al Señor un cántico nuevo, esté su alabanza en la asamblea de los fieles.",
+        "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión.",
+        "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras.",
+        "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación.",
+        "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,",
+        "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos.",
+        "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 11:11-26",
+      "texto": [
+        "Y entró en Jerusalén en el Templo; y después de observar todo atentamente, como ya era hora tardía, salió para Betania con los doce.",
+        "Al día siguiente, cuando salían de Betania, sintió hambre.",
+        "Viendo de lejos una higuera que tenía hojas, se acercó por si encontraba algo en ella, pero cuando llegó no encontró más que hojas, porque no era tiempo de higos.",
+        "Y la increpó: —Que nunca jamás coma nadie fruto de ti. Y sus discípulos lo estaban escuchando.",
+        "Llegaron a Jerusalén. Y, entrando en el Templo, comenzó a expulsar a los que vendían y a los que compraban en el Templo, y volcó las mesas de los cambistas y los puestos de los que vendían palomas.",
+        "Y no permitía que nadie transportase cosas por el Templo.",
+        "Y les enseñaba diciendo: —¿No está escrito: Mi casa será llamada casa de oración para todas las naciones? Vosotros, en cambio, la habéis convertido en una cueva de ladrones.",
+        "Lo oyeron los príncipes de los sacerdotes y los escribas, y buscaban el modo de acabar con él; pues le temían, ya que toda la muchedumbre quedaba admirada de su enseñanza.",
+        "Y al atardecer salieron de la ciudad.",
+        "Por la mañana, al pasar, vieron que la higuera se había secado de raíz.",
+        "Y acordándose Pedro, le dijo: —Rabbí, mira, la higuera que maldijiste se ha secado.",
+        "Jesús les contestó: —Tened fe en Dios.",
+        "En verdad os digo que cualquiera que diga a este monte: «Arráncate y échate al mar, sin dudar en su corazón, sino creyendo que se hará lo que dice, le será concedido.",
+        "Por tanto os digo: todo cuanto pidáis en la oración, creed que ya lo recibisteis y se os concederá.",
+        "Y cuando os pongáis de pie para orar, perdonad si tenéis algo contra alguno, a fin de que también vuestro Padre que está en los cielos os perdone vuestros pecados."
+      ]
+    }
+  }
+}

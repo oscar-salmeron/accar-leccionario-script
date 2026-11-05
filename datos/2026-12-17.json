@@ -1,0 +1,53 @@
+{
+  "fecha": "2026-12-17",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 49:2, 10",
+      "texto": [
+        "Juntaos y escuchad, hijos de Jacob, escuchad a vuestro padre Israel.",
+        "A ti, Judá, te alabarán tus hermanos; pondrás tu mano sobre la cerviz de tus enemigos y ante ti se postrarán los hijos de tu padre.",
+        "Judá es un cachorro de león; ¡hijo mío, volviste con la presa! Se recuesta echándose como un león, y como una leona: ¿quién le hará levantarse?",
+        "No se apartará de Judá el cetro ni el bastón de mando de entre sus pies, hasta que venga aquél, a quien le pertenece, y a quien deben obediencia las naciones."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 72:1-4, 8, 17",
+      "texto": [
+        "De Salomón. Dios mío, concede tu juicio al rey y tu justicia al hijo del rey.",
+        "Que gobierne a tu pueblo con justicia y a tus pobres con equidad.",
+        "Traigan los montes paz al pueblo y las colinas la justicia.",
+        "Haga justicia a los pobres del pueblo, salve a los hijos de los desvalidos y aplaste al opresor.",
+        "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna.",
+        "Domine de mar a mar, desde el Río hasta los confines de la tierra.",
+        "Su nombre subsistirá por siempre, su nombre se perpetuará mientras dure el sol. En él serán benditas todas las tribus de la tierra; todas las naciones lo proclamarán dichoso."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 1:1-17",
+      "texto": [
+        "Genealogía de Jesucristo, hijo de David, hijo de Abrahán.",
+        "Abrahán engendró a Isaac, Isaac engendró a Jacob, Jacob engendró a Judá y a sus hermanos,",
+        "Judá engendró a Farés y a Zara de Tamar, Farés engendró a Esrón, Esrón engendró a Aram,",
+        "Aram engendró a Aminadab, Aminadab engendró a Naasón, Naasón engendró a Salmón,",
+        "Salmón engendró a Booz de Rahab, Booz engendró a Obed de Rut, Obed engendró a Jesé,",
+        "Jesé engendró al rey David. David engendró a Salomón de la que fue mujer de Urías,",
+        "Salomón engendró a Roboán, Roboán engendró a Abías, Abías engendró a Asá,",
+        "Asá engendró a Josafat, Josafat engendró a Jorán, Jorán engendró a Ozías,",
+        "Ozías engendró a Joatán, Joatán engendró a Acaz, Acaz engendró a Ezequías,",
+        "Ezequías engendró a Manasés, Manasés engendró a Amón, Amón engendró a Josías,",
+        "Josías engendró a Jeconías y a sus hermanos cuando la deportación a Babilonia.",
+        "Después de la deportación a Babilonia, Jeconías engendró a Salatiel, Salatiel engendró a Zorobabel,",
+        "Zorobabel engendró a Abiud, Abiud engendró a Eliacim, Eliacim engendró a Azor,",
+        "Azor engendró a Sadoc, Sadoc engendró a Aquim, Aquim engendró a Eliud,",
+        "Eliud engendró a Eleazar, Eleazar engendró a Matán, Matán engendró a Jacob,",
+        "Jacob engendró a José, el esposo de María, de la cual nació Jesús llamado Cristo.",
+        "Por lo tanto, son catorce todas las generaciones desde Abrahán hasta David, y catorce generaciones desde David hasta la deportación a Babilonia, y también catorce las generaciones desde la deportación a Babilonia hasta Cristo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-11-17",
+  "fiesta": "Santa Isabel de Hungría, Patrona de la Tercera Orden (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Eclesiástico 26:1-3, 18, 24",
+      "texto": [
+        "Dichoso el marido de una mujer virtuosa; el número de sus días se duplicará.",
+        "Una mujer fuerte es la alegría de su marido, que cumplirá sus años en paz.",
+        "Una mujer virtuosa es una buena fortuna, que, como suerte de los que temen al Señor, será dada al marido por las buenas obras.",
+        "Como viajero sediento que abre la boca a la fuente y bebe de cualquier agua cercana, así ella se sienta ante cualquier poste y abre su aljaba a cualquier flecha, mientras pueda.",
+        "El encanto de la mujer hacendosa deleita al marido, y su buen saber le reconforta los huesos.",
+        "Don del Señor es una mujer sensata y callada;",
+        "una mujer educada no tiene precio.",
+        "Cimientos eternos sobre roca sólida son los mandatos de Dios en corazón de mujer santa."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 31:4-5, 9, 20, 25",
+      "texto": [
+        "porque Tú eres mi peña, mi fortaleza: por honor de tu Nombre, dirígeme y guíame;",
+        "sácame de la red que me han tendido, que Tú eres mi refugio.",
+        "Me alegraré y me gozaré en tu misericordia, pues te has fijado en mi miseria, has comprendido la angustia de mi alma,",
+        "no me has entregado en manos del enemigo; has mantenido mis pies en lugar espacioso.",
+        "Qué grande es tu bondad, la que has reservado para los que te temen, preparado para los que se refugian en Ti, a la vista de los hijos de los hombres.",
+        "Amad al Señor todos sus fieles, que el Señor protege a los leales, pero castiga con dureza al que obra con orgullo.",
+        "Sed fuertes y tome aliento vuestro corazón cuantos esperáis en el Señor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:31-40",
+      "texto": [
+        "Cuando venga el Hijo del Hombre en su gloria y acompañado de todos los ángeles, se sentará entonces en el trono de su gloria,",
+        "y serán reunidas ante él todas las gentes; y separará a los unos de los otros, como el pastor separa las ovejas de los cabritos,",
+        "y pondrá las ovejas a su derecha, los cabritos en cambio a su izquierda.",
+        "Entonces dirá el Rey a los que estén a su derecha: «Venid, benditos de mi Padre, tomad posesión del Reino preparado para vosotros desde la creación del mundo:",
+        "porque tuve hambre y me disteis de comer; tuve sed y me disteis de beber; era peregrino y me acogisteis;",
+        "estaba desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme.",
+        "Entonces le responderán los justos: «Señor, ¿cuándo te vimos hambriento y te dimos de comer, o sediento y te dimos de beber?;",
+        "¿cuándo te vimos peregrino y te acogimos, o desnudo y te vestimos?,",
+        "o ¿cuándo te vimos enfermo o en la cárcel y vinimos a verte?",
+        "Y el Rey, en respuesta, les dirá: «En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis."
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-02-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 37:3-4, 13, 28",
+      "texto": [
+        "Israel amaba a José más que a sus otros hijos, porque era el hijo de su ancianidad, y le hizo una túnica con mangas.",
+        "Sus hermanos, al ver que su padre le amaba más que a ellos, le odiaban hasta el punto de no poder devolverle el saludo.",
+        "Habían ido sus hermanos a pastorear las ovejas de su padre a Siquem,",
+        "e Israel dijo a José: —Tus hermanos están pastoreando en Siquem. Ven que te voy a mandar a donde están ellos. Le contestó José: —Estoy dispuesto.",
+        "El hombre le dijo: —Se marcharon de aquí, pues oí que decían: «Vámonos a Dotán. Y José fue siguiendo a sus hermanos hasta que los encontró en Dotán.",
+        "Ellos lo vieron a lo lejos y antes de que se acercara a donde estaban, se confabularon contra él para darle muerte.",
+        "Se decían unos a otros: —Mira, ahí viene ese soñador;",
+        "vamos ahora, matémoslo y arrojémoslo a un pozo; luego diremos que lo ha devorado una fiera salvaje. Así veremos en qué paran sus sueños.",
+        "Oyó esto Rubén y, queriendo salvarlo de las manos de éstos, dijo: —No le quitemos la vida.",
+        "Entonces les propuso Rubén: —No derraméis sangre; echadlo a este pozo en medio del desierto, pero no pongáis las manos sobre él. Lo decía para salvarlo de las manos de éstos y devolverlo a su padre.",
+        "Cuando José llegó a donde estaban sus hermanos, éstos arrancaron a José la túnica que llevaba, una túnica con mangas,",
+        "lo agarraron y lo echaron al pozo. El pozo estaba vacío, sin agua.",
+        "Después se sentaron a comer y, alzando la vista, vieron una caravana de ismaelitas que venía de Galaad, cuyos camellos transportaban tragacanto, resina y láudano, y que iba bajando hacia Egipto.",
+        "Entonces dijo Judá a sus hermanos: —¿Qué sacamos con matar a nuestro hermano y ocultar su sangre?",
+        "Vamos a venderlo a los ismaelitas y no pongamos las manos sobre él, pues es nuestro hermano y nuestra carne. Y sus hermanos asintieron.",
+        "Cuando pasaban unos mercaderes madianitas, lo sacaron, subiendo a José del pozo, y lo vendieron por veinte monedas de plata a los ismaelitas, quienes se llevaron a José a Egipto."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 105:16-21",
+      "texto": [
+        "Y trajo el hambre sobre aquella tierra, y cortó todo sustento de pan.",
+        "Delante de ellos había enviado a un hombre, José, vendido antes como esclavo.",
+        "Le habían trabado sus pies con cadenas, y aplicado la argolla a su cuello,",
+        "hasta el tiempo de que se cumpliera su oráculo, y de que la palabra del Señor le acreditara.",
+        "Entonces el rey mandó soltarle, el soberano de pueblos le dejó libre;",
+        "le constituyó señor de su casa y gobernador de toda su hacienda,"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 21:33-43, 46",
+      "texto": [
+        "Escuchad otra parábola: —Había un hombre, dueño de una propiedad, que plantó una viña, la rodeó de una cerca y cavó en ella un lagar, edificó una torre, la arrendó a unos labradores y se marchó lejos de allí.",
+        "Cuando se acercó el tiempo de los frutos, envió a sus siervos a los labradores para recibir sus frutos.",
+        "Pero los labradores agarraron a los siervos y a uno lo golpearon, a otro lo mataron y a otro lo lapidaron.",
+        "De nuevo envió a otros siervos, más numerosos que los primeros, pero les hicieron lo mismo.",
+        "Por último les envió a su hijo, pensando: «A mi hijo lo respetarán.",
+        "Pero los labradores, al ver al hijo, se dijeron: «Éste es el heredero. Vamos, lo mataremos y nos quedaremos con su heredad.",
+        "Y lo agarraron, lo sacaron fuera de la viña y lo mataron.",
+        "Cuando venga el amo de la viña, ¿qué hará con aquellos labradores?",
+        "Le contestaron: —A esos malvados les dará una mala muerte, y arrendará la viña a otros labradores que le entreguen los frutos a su tiempo.",
+        "Jesús les dijo: —¿Acaso no habéis leído en las Escrituras: La piedra que rechazaron los constructores, ésta ha llegado a ser la piedra angular. Es el Señor quien ha hecho esto y es admirable a nuestros ojos?",
+        "Por esto os digo que se os quitará el Reino de Dios y se entregará a un pueblo que rinda sus frutos.",
+        "Al oír los príncipes de los sacerdotes y los fariseos sus parábolas, comprendieron que se refería a ellos.",
+        "Y aunque querían prenderlo, tuvieron miedo a la multitud, porque lo tenían como profeta."
+      ]
+    }
+  }
+}

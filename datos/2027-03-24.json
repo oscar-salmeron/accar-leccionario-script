@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-03-24",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 50:4-9",
+      "texto": [
+        "El Señor Dios me ha dado una lengua de discípulo para saber alentar al abatido con palabra que incita. Por la mañana, cada mañana, incita mi oído a escuchar como los discípulos.",
+        "El Señor Dios me ha abierto el oído, yo no me he rebelado, no me he echado atrás.",
+        "He ofrecido mi espalda a los que me golpeaban, y mis mejillas a quienes me arrancaban la barba. No he ocultado mi rostro a las afrentas y salivazos.",
+        "El Señor Dios me sostiene, por eso no me siento avergonzado; por eso he endurecido mi rostro como el pedernal y sé que no quedaré avergonzado.",
+        "Cerca está el que me justifica, ¿quién litigará conmigo? Comparezcamos juntos. ¿Quién es mi adversario? Que se acerque a mí.",
+        "Mirad: el Señor Dios me sostiene, ¿quién podrá condenarme? Todos ellos se gastarán como un vestido, la polilla los devorará."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 69:8-10, 22, 31, 34",
+      "texto": [
+        "Por Ti he soportado el oprobio, la ignominia me ha cubierto el rostro.",
+        "He llegado a ser un extraño para mis hermanos, y un extranjero para los hijos de mi madre.",
+        "Porque el celo de tu Casa me devora, las afrentas de los que te afrentan caen sobre mí.",
+        "El oprobio me ha destrozado el corazón, desfallezco. He esperado ser compadecido, pero nada, consoladores, pero no los hallé.",
+        "Me daban hiel por comida, cuando tenía sed me escanciaban vinagre.",
+        "Ensalzaré el Nombre de Dios con un cántico, y proclamaré su grandeza con la acción de gracias,",
+        "Que lo vean los pobres y se alegren. Los que buscáis a Dios, reanimad vuestro corazón.",
+        "Porque el Señor escucha a los necesitados, no desdeña a sus cautivos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 26:14-25",
+      "texto": [
+        "Entonces, uno de los doce, el que se llamaba Judas Iscariote, fue donde los príncipes de los sacerdotes",
+        "a decirles: —¿Qué me queréis dar a cambio de que os lo entregue? Ellos le ofrecieron treinta monedas de plata.",
+        "Desde entonces buscaba la ocasión propicia para entregárselo.",
+        "El primer día de los Ácimos se acercaron los discípulos a Jesús y le dijeron: —¿Dónde quieres que te preparemos la cena de Pascua?",
+        "Jesús respondió: —Id a la ciudad, a casa de tal persona, y comunicadle: «El Maestro dice: “Mi tiempo está cerca; voy a celebrar en tu casa la Pascua con mis discípulos”.",
+        "Los discípulos lo hicieron tal y como les había mandado Jesús, y prepararon la Pascua.",
+        "Al anochecer se recostó a la mesa con los doce.",
+        "Y cuando estaban cenando, dijo: —En verdad os digo que uno de vosotros me va a entregar.",
+        "Y, muy entristecidos, comenzaron a decirle cada uno: —¿Acaso soy yo, Señor?",
+        "Pero él respondió: —El que moja la mano conmigo en el plato, ése me va a entregar.",
+        "Ciertamente el Hijo del Hombre se va, según está escrito sobre él; pero ¡ay de aquel hombre por quien es entregado el Hijo del Hombre! Más le valdría a ese hombre no haber nacido.",
+        "Tomando la palabra Judas, el que iba a entregarlo, dijo: —¿Acaso soy yo, Rabbí? —Tú lo has dicho —le respondió."
+      ]
+    }
+  }
+}

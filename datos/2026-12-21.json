@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-12-21",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "El Cantar de los Cantares 2:8-14",
+      "texto": [
+        "¡La voz de mi amado! Ya está aquí, ya viene saltando por los montes, brincando por los cerros.",
+        "Mi amado parece una gacela, un cervatillo. Vedle. Está detrás de nuestra tapia. Mira por las ventanas, atisba por las celosías.",
+        "Toma la palabra mi amado y me dice: ¡Levántate, ven, amada mía, hermosa mía, vente!",
+        "Que ya pasó el invierno, las lluvias ya cesaron, se fueron.",
+        "Aparecieron los brotes en el campo, ha llegado el tiempo de la poda, y el arrullo de la tórtola se escucha en nuestros campos.",
+        "La higuera comienza a madurar sus frutos, las viñas en flor ya exhalan su fragancia. ¡Levántate, ven, amada mía, hermosa mía, vente!",
+        "Paloma mía, en los huecos de las peñas, en los escondites de los riscos, muéstrame tu cara, hazme escuchar tu voz: porque tu voz es dulce, y tu cara muy bella."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 33:2-3, 12, 21",
+      "texto": [
+        "Alabad al Señor con la cítara, entonadle salmos con el arpa de diez cuerdas.",
+        "Cantadle un cántico nuevo, acompasadlo con sonidos de trompeta.",
+        "Pero el designio del Señor se mantiene eternamente, los proyectos de su corazón, de generación en generación.",
+        "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad.",
+        "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;",
+        "en Él se alegra nuestro corazón, en su santo Nombre confiamos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:39-45",
+      "texto": [
+        "Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá;",
+        "y entró en casa de Zacarías y saludó a Isabel.",
+        "Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo;",
+        "y exclamando en voz alta, dijo: —Bendita tú entre las mujeres y bendito es el fruto de tu vientre.",
+        "¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme?",
+        "Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno;",
+        "y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor."
+      ]
+    }
+  }
+}

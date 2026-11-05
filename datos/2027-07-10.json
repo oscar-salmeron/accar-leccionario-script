@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-07-10",
+  "fiesta": "Santa Verónica Giuliani, Virgen (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 4:6-11, 16, 17",
+      "texto": [
+        "Porque el mismo Dios que mandó: «Del seno de las tinieblas brille la luz, hizo brillar la luz en nuestros corazones, para que irradien el conocimiento de la gloria de Dios que está en el rostro de Cristo.",
+        "Pero llevamos este tesoro en vasos de barro, para que se reconozca que la sobreabundancia del poder es de Dios y que no proviene de nosotros:",
+        "en todo atribulados, pero no angustiados; perplejos, pero no desesperados;",
+        "perseguidos, pero no abandonados; derribados, pero no aniquilados,",
+        "llevando siempre en nuestro cuerpo el morir de Jesús, para que también la vida de Jesús se manifieste en nuestro cuerpo.",
+        "Porque nosotros, aunque vivimos, nos vemos continuamente entregados a la muerte por causa de Jesús, para que también la vida de Jesús se manifieste en nuestra carne mortal.",
+        "Por eso no desfallecemos; al contrario, aunque nuestro hombre exterior se vaya desmoronando, nuestro hombre interior se va renovando día a día.",
+        "Porque la leve tribulación de un instante se convierte para nosotros, incomparablemente, en una gloria eterna y consistente,"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 59:2, 10, 18",
+      "texto": [
+        "Líbrame de mis enemigos, Dios mío, protégeme de los que se alzan contra mí.",
+        "a Ti, mi fortaleza, miraré, porque Dios es mi alcázar,",
+        "Pero yo cantaré tu poder, por la mañana aclamaré gozoso tu misericordia, porque has sido mi alcázar, el refugio en el día de mi angustia.",
+        "A Ti, mi fortaleza, entonaré salmos, porque Dios es mi alcázar, el Dios de la misericordia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 16:24-27",
+      "texto": [
+        "Entonces les dijo Jesús a sus discípulos: —Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz y que me siga.",
+        "Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mí, la encontrará.",
+        "Porque, ¿de qué le servirá al hombre ganar el mundo entero si pierde su vida?, o ¿qué podrá dar el hombre a cambio de su vida?",
+        "Porque el Hijo del Hombre va a venir en la gloria de su Padre acompañado de sus ángeles, y entonces retribuirá a cada uno según su conducta."
+      ]
+    }
+  }
+}

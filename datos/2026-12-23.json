@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-12-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Malaquías 3:1-4, 24",
+      "texto": [
+        "Ved que envío mi mensajero a preparar el camino delante de Mí; enseguida llegará a su Templo el Dueño, a quien buscáis, el ángel de la alianza, a quien deseáis. Ved que ya llega —dice el Señor de los ejércitos—.",
+        "¿Quién podrá resistir el día de su venida? ¿Quién se sostendrá en pie cuando aparezca? Porque es como fuego de fundidor, como lejía de lavanderos.",
+        "Se pondrá a fundir y a purificar la plata; purificará a los hijos de Leví, los acrisolará como oro y plata: así podrán ofrecer al Señor una oblación en justicia.",
+        "Entonces será grata al Señor la oblación de Judá y de Jerusalén como en los días de antaño, como en los años que pasaron.",
+        "Ved que Yo os enviaré al profeta Elías antes de que llegue el día del Señor, grande y temible.",
+        "Él reconciliará el corazón de los padres con los hijos y el corazón de los hijos con los padres, para que no venga Yo a golpear la tierra con el exterminio."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 25:4-5, 10, 14",
+      "texto": [
+        "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas.",
+        "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador, (Vav) y en Ti espero todo el día.",
+        "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,",
+        "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes.",
+        "(Kaf) Las sendas del Señor son amor y fidelidad para los que guardan su alianza y sus preceptos.",
+        "(Sámek) El Señor es amigo de quienes le temen, a ellos les da a conocer su alianza."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:57-66",
+      "texto": [
+        "Entretanto le llegó a Isabel el tiempo del parto, y dio a luz un hijo.",
+        "Y sus vecinos y parientes oyeron que el Señor había agrandado su misericordia con ella y se congratulaban con ella.",
+        "El día octavo fueron a circuncidar al niño, y querían ponerle el nombre de su padre, Zacarías.",
+        "Pero su madre dijo: —De ninguna manera, sino que se llamará Juan.",
+        "Y le dijeron: —No hay nadie en tu familia que tenga este nombre.",
+        "Al mismo tiempo preguntaban por señas a su padre cómo quería que se le llamase.",
+        "Y él, pidiendo una tablilla, escribió: «Juan es su nombre. Lo cual llenó a todos de admiración.",
+        "En aquel momento recobró el habla, se soltó su lengua y hablaba bendiciendo a Dios.",
+        "Y se apoderó de todos sus vecinos el temor y se comentaban estos acontecimientos por toda la montaña de Judea;",
+        "y cuantos los oían los grababan en su corazón, diciendo: —¿Qué va a ser, entonces, este niño? Porque la mano del Señor estaba con él."
+      ]
+    }
+  }
+}

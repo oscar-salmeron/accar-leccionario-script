@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-01-02",
+  "fiesta": "Santos Basilio Magno y Gregorio Nacianceno, Obispos y Doctores (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Juan 2:22-28",
+      "texto": [
+        "¿Quién es el mentiroso sino el que niega que Jesús es el Cristo? Ése es el Anticristo, el que niega al Padre y al Hijo.",
+        "Todo el que niega al Hijo, tampoco tiene al Padre; el que confiesa al Hijo, tiene también al Padre.",
+        "Vosotros procurad que lo que habéis oído desde el principio permanezca en vosotros. Si permanece en vosotros lo que habéis oído desde el principio, también vosotros permaneceréis en el Hijo y en el Padre.",
+        "Y ésta es la promesa que él nos hizo: la vida eterna.",
+        "Os escribo esto a propósito de los que pretenden engañaros.",
+        "En cuanto a vosotros, la unción que recibisteis de él permanece en vosotros, y no necesitáis que nadie os enseñe. Es más, tal como su unción —que es verdadera y no engaña— os enseña acerca de todas las cosas, permaneced en él, del mismo modo que os enseñó.",
+        "Y ahora, hijos, permaneced en él, para que cuando se manifieste, tengamos confianza y no quedemos avergonzados lejos de él, en su venida."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-4",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 1:19-28",
+      "texto": [
+        "Éste es el testimonio de Juan, cuando desde Jerusalén los judíos le enviaron sacerdotes y levitas para que le preguntaran: «¿Tú quién eres?.",
+        "Entonces él confesó la verdad y no la negó, y declaró: —Yo no soy el Cristo.",
+        "Y le preguntaron: —¿Entonces, qué? ¿Eres tú Elías? Y dijo: —No lo soy. —¿Eres tú el Profeta? —No —respondió.",
+        "Por último le dijeron: —¿Quién eres, para que demos una respuesta a los que nos han enviado? ¿Qué dices de ti mismo?",
+        "Contestó: —Yo soy la voz del que clama en el desierto: «Haced recto el camino del Señor, como dijo el profeta Isaías.",
+        "Los enviados eran de los fariseos.",
+        "Le preguntaron: —¿Pues por qué bautizas si tú no eres el Cristo, ni Elías, ni el Profeta?",
+        "Juan les respondió: —Yo bautizo con agua, pero en medio de vosotros está uno a quien no conocéis.",
+        "Él es el que viene después de mí, a quien yo no soy digno de desatarle la correa de la sandalia.",
+        "Esto sucedió en Betania, al otro lado del Jordán, donde Juan estaba bautizando."
+      ]
+    }
+  }
+}

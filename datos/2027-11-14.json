@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-11-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 12:1-3",
+      "texto": [
+        "En aquel tiempo se levantará Miguel, el gran príncipe que está al frente de los hijos de tu pueblo; será tiempo de angustia, como no lo ha habido desde que existe nación alguna hasta aquel tiempo. Y en aquel tiempo será salvado tu pueblo: todos los que se encuentran inscritos en el libro.",
+        "Muchos de los que duermen en el polvo de la tierra despertarán: unos para vida eterna, otros para vergüenza, para ignominia eterna.",
+        "Los sabios brillarán como el fulgor del firmamento, y los que enseñaron a muchos la justicia, como las estrellas, por toda la eternidad."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 16:5, 11",
+      "texto": [
+        "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte.",
+        "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo.",
+        "Por eso se alegra mi corazón, se goza mi alma, hasta mi carne descansa en la esperanza.",
+        "Porque no abandonarás mi alma en el sheol, ni dejarás a tu fiel ver la corrupción.",
+        "Me enseñas la senda de la vida, saciedad de gozo en tu presencia, dicha perpetua a tu derecha."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 10:11-14, 18",
+      "texto": [
+        "Mientras todo sacerdote se mantiene en pie día tras día para celebrar el culto y ofrecer muchas veces los mismos sacrificios, que nunca pueden borrar los pecados,",
+        "él, en cambio, ofreció un solo sacrificio por los pecados y se sentó para siempre a la diestra de Dios,",
+        "y sólo le queda esperar que sus enemigos le sean puestos como estrado de sus pies;",
+        "porque con una sola oblación hizo perfectos para siempre a los que son santificados.",
+        "Ahora bien, donde hay remisión de pecados ya no hay ofrenda por ellos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 13:24-32",
+      "texto": [
+        "Pero en aquellos días, después de aquella tribulación, el sol se oscurecerá y la luna no dará su resplandor,",
+        "y las estrellas caerán del cielo, y las potestades de los cielos se conmoverán.",
+        "Entonces verán al Hijo del Hombre que viene sobre las nubes con gran poder y gloria.",
+        "Y entonces enviará a los ángeles y reunirá a sus elegidos desde los cuatro vientos, desde el extremo de la tierra hasta el extremo del cielo.",
+        "Aprended de la higuera esta parábola: cuando sus ramas están ya tiernas y brotan las hojas, sabéis que está cerca el verano.",
+        "Así también vosotros, cuando veáis que suceden estas cosas, sabed que es inminente, que está a las puertas.",
+        "En verdad os digo que no pasará esta generación sin que todo esto se cumpla.",
+        "El cielo y la tierra pasarán, pero mis palabras no pasarán.",
+        "Pero acerca de ese día, y de la hora, nadie sabe: ni los ángeles en el cielo, ni el Hijo, sino solo el Padre."
+      ]
+    }
+  }
+}

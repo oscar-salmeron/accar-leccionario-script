@@ -1,0 +1,46 @@
+{
+  "fecha": "2026-11-27",
+  "fiesta": "San Francisco Antonio Fasani, Presbítero (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 20:1-4, -21:2",
+      "texto": [
+        "Vi a un ángel que bajaba del cielo, con la llave del abismo y una gran cadena de la mano.",
+        "Apresó al dragón, la serpiente antigua, que es el Diablo y Satanás, y lo encadenó durante mil años.",
+        "Lo arrojó al abismo, lo cerró y puso un sello en él, para que no seduzca más a las naciones hasta que pasen los mil años. Después debe ser soltado por poco tiempo.",
+        "Vi también unos tronos; a los que se sentaron en ellos se les dio potestad de juzgar; y vi a las almas de los degollados por dar testimonio de Jesús y de la palabra de Dios, y a los que no adoraron a la bestia ni su imagen, ni recibieron la marca en su frente ni en su mano. Revivieron y reinaron con Cristo mil años.",
+        "Vi un gran trono blanco y al que estaba sentado en él. Ante su presencia huyeron la tierra y el cielo, y no dejaron ningún rastro.",
+        "Vi a los muertos, grandes y pequeños, en pie ante el trono, y fueron abiertos los libros. También fue abierto otro libro, el de la vida. Y los muertos fueron juzgados por lo que estaba escrito en los libros, según sus obras.",
+        "El mar entregó los muertos que había en él, la muerte y el hades entregaron los muertos que había en ellos, y fue juzgado cada uno según sus obras.",
+        "Entonces la muerte y el hades fueron arrojados al estanque de fuego. Ésta es la muerte segunda, el estanque de fuego.",
+        "Todo el que no figuraba escrito en el libro de la vida era arrojado al estanque de fuego.",
+        "Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron, y el mar ya no existe.",
+        "Vi también la ciudad santa, la nueva Jerusalén, que bajaba del cielo de parte de Dios, ataviada como una novia que se engalana para su esposo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 84:3-6, 8",
+      "texto": [
+        "Mi alma añora, desfallece por los atrios del Señor; mi corazón y mi carne se alegran por el Dios vivo.",
+        "Hasta el pajarillo encuentra una casa, y la golondrina su nido, donde poner sus polluelos: ¡tus altares, Señor de los ejércitos, mi Rey y Dios mío!",
+        "Dichosos los que habitan en tu Casa te alabarán por siempre.",
+        "Dichoso el hombre que tiene su auxilio en Ti, y en su corazón decide peregrinar.",
+        "Caminan con fuerzas renovadas, hasta ver al Dios de los dioses en Sión."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:29-33",
+      "texto": [
+        "Y les dijo una parábola: —Observad la higuera y todos los árboles:",
+        "cuando ya echan brotes, al verlos, sabéis por ellos que ya está cerca el verano.",
+        "Así también vosotros, cuando veáis que suceden estas cosas, sabed que está cerca el Reino de Dios.",
+        "En verdad os digo que no pasará esta generación sin que todo se cumpla.",
+        "El cielo y la tierra pasarán, pero mis palabras no pasarán."
+      ]
+    }
+  }
+}

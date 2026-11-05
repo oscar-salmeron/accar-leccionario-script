@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-07-15",
+  "fiesta": "San Buenaventura, Obispo, Doctor de la Iglesia (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sabiduría 8:2-7, 18",
+      "texto": [
+        "Desde mi juventud la amé y la busqué, quise tomarla como esposa mía y me enamoré de su belleza.",
+        "Muestra su nobleza por estar en comunión con Dios, y el Señor de todas las cosas la amó con predilección.",
+        "Ella es iniciada en la ciencia de Dios y sabe escoger entre sus obras.",
+        "Si poseer riqueza es algo apetecible en la vida, ¿qué hay más rico que la sabiduría que lo causa todo?",
+        "Y si es la prudencia la que obra, ¿quién mayor artífice que ella entre los seres?",
+        "Si alguien ama la justicia, las virtudes son el fruto de sus fatigas. Ella es maestra de templanza y de prudencia, de justicia y fortaleza: nada hay más provechoso para los hombres en la vida.",
+        "Al volver a casa descansaré con ella, pues no hay amargura en su convivencia, ni tedio en su compañía; al contrario, da alegría y contento.",
+        "Reflexionaba en mi interior sobre estas cosas y las meditaba en mi corazón: que la inmortalidad está en emparentar con la sabiduría,",
+        "y en su amistad, un noble gozo; en las fatigas de sus manos, una riqueza inagotable, en su trato asiduo, la prudencia, y en su conversación, la fama. Así, daba vueltas buscando el modo de lograrla."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 16:5-9, 11",
+      "texto": [
+        "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte.",
+        "Me ha tocado en suerte un lote hermoso; me agrada mi heredad.",
+        "Yo bendigo al Señor, que me aconseja; hasta de noche mi corazón me instruye.",
+        "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo.",
+        "Por eso se alegra mi corazón, se goza mi alma, hasta mi carne descansa en la esperanza.",
+        "Me enseñas la senda de la vida, saciedad de gozo en tu presencia, dicha perpetua a tu derecha."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:13-19",
+      "texto": [
+        "Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente.",
+        "Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte;",
+        "ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa.",
+        "Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos.",
+        "No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud.",
+        "En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla.",
+        "Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+      ]
+    }
+  }
+}

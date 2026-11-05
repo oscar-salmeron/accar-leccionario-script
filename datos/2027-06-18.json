@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-06-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 11:18, 30",
+      "texto": [
+        "Dado que muchos se glorían según la carne, también lo haré yo.",
+        "Con vergüenza lo digo: nos hemos mostrado débiles. En cualquier cosa que alguien presuma —lo digo como un insensato— también presumo yo.",
+        "¿Son hebreos? También yo. ¿Son israelitas? También yo. ¿Son descendencia de Abrahán? También yo.",
+        "¿Son ministros de Cristo? Pues —delirando hablo— yo más: en fatigas, más; en cárceles, más; en azotes, mucho más. En peligros de muerte, muchas veces.",
+        "Cinco veces recibí de los judíos cuarenta azotes menos uno,",
+        "tres veces me azotaron con varas, una vez fui lapidado, tres veces naufragué, un día y una noche pasé náufrago en alta mar.",
+        "En mis repetidos viajes sufrí peligros de ríos, peligros de ladrones, peligros de los de mi raza, peligros de los gentiles, peligros en ciudad, peligros en despoblado, peligros en el mar, peligros entre falsos hermanos;",
+        "trabajos y fatigas, frecuentes vigilias, con hambre y sed, con frecuentes ayunos, con frío y desnudez.",
+        "Y además de otras cosas, mi responsabilidad diaria: el desvelo por todas las iglesias.",
+        "¿Quién desfallece sin que yo desfallezca? ¿Quién tiene un tropiezo sin que yo me abrase de dolor?",
+        "Si es preciso gloriarse, me gloriaré en mis flaquezas."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:2-7",
+      "texto": [
+        "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo.",
+        "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren.",
+        "(Guímel) Engrandeced conmigo al Señor; ensalcemos juntos su Nombre.",
+        "(Dálet) Busqué al Señor y me ha escuchado, me ha librado de todos mis temores.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 6:19-23",
+      "texto": [
+        "No amontonéis tesoros en la tierra, donde la polilla y la herrumbre los corroen y donde los ladrones socavan y los roban.",
+        "Amontonad en cambio tesoros en el cielo, donde ni la polilla ni la herrumbre corroen, y donde los ladrones no socavan ni roban.",
+        "Porque donde está tu tesoro allí estará tu corazón.",
+        "La lámpara del cuerpo es el ojo. Por eso, si tu ojo es sencillo, todo tu cuerpo estará iluminado.",
+        "Pero si tu ojo es malicioso, todo tu cuerpo estará en tinieblas. Y si la luz que hay en ti es tinieblas, ¡qué grande será la oscuridad!"
+      ]
+    }
+  }
+}

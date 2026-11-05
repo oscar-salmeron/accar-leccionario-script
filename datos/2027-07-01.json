@@ -1,0 +1,60 @@
+{
+  "fecha": "2027-07-01",
+  "fiesta": "San Junípero Serra, OFM, Presbítero (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Génesis 22:1-19",
+      "texto": [
+        "Después de estos sucesos, Dios puso a prueba a Abrahán. Y le llamó: —¡Abrahán! Éste respondió: —Aquí estoy.",
+        "Entonces le dijo: —Toma a tu hijo, a tu único hijo, al que tú amas, a Isaac, y vete a la región de Moria. Allí lo ofrecerás en sacrificio, sobre un monte que yo te indicaré.",
+        "Muy de mañana Abrahán se levantó, aparejó su asno, se llevó consigo a dos siervos y a su hijo Isaac, cortó la leña del sacrificio, se puso en camino y se dirigió al lugar que le había dicho Dios.",
+        "Al tercer día, Abrahán alzó la vista y divisó el lugar a lo lejos.",
+        "Entonces dijo Abrahán a sus siervos: —Quedaos aquí con el asno mientras el muchacho y yo vamos hasta allí para adorar a Dios; luego volveremos con vosotros.",
+        "Tomó Abrahán la leña del sacrificio y se la cargó a su hijo Isaac, mientras él llevaba en la mano el fuego y el cuchillo; y se pusieron en marcha los dos juntos.",
+        "Isaac dijo a su padre Abrahán: —¡Padre! Él respondió: —Sí, hijo mío. Y el muchacho preguntó: —Aquí está el fuego y la leña, pero ¿dónde está el cordero para el sacrificio?",
+        "Respondió Abrahán: —Dios proveerá el cordero para el sacrificio, hijo mío. Caminando juntos",
+        "llegaron al lugar que Dios le había dicho; construyó allí Abrahán el altar y colocó la leña; luego ató a su hijo Isaac y lo puso sobre el altar encima de la leña.",
+        "Abrahán alargó la mano y empuñó el cuchillo para inmolar a su hijo.",
+        "Pero entonces el ángel del Señor le llamó desde el cielo: —¡Abrahán, Abrahán! Él contestó: —Aquí estoy.",
+        "Y Dios le dijo: —No extiendas tu mano hacia el muchacho ni le hagas nada, pues ahora he comprobado que temes a Dios y no me has negado a tu hijo, a tu único hijo.",
+        "Abrahán levantó la vista y vio detrás un carnero enredado en la maleza por los cuernos. Fue Abrahán, tomó el carnero y lo ofreció en sacrificio en vez de su hijo.",
+        "Abrahán llamó a aquel lugar «El Señor provee, tal como se dice hoy: «en la montaña del Señor provee.",
+        "El ángel del Señor llamó por segunda vez a Abrahán desde el cielo",
+        "y le dijo: —Juro por mí mismo, oráculo del Señor, que por haber hecho una cosa así, y no haberme negado a tu hijo, a tu único hijo,",
+        "te colmaré de bendiciones y multiplicaré tu descendencia como las estrellas del cielo y como la arena de las playas; y tu descendencia se adueñará de las ciudades de sus enemigos.",
+        "En tu descendencia serán bendecidos todos los pueblos de la tierra porque has obedecido mi voz.",
+        "Abrahán volvió al lado de sus criados; emprendieron la marcha y fueron todos juntos a Berseba; y Abrahán residió en Berseba."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 115:1-6, 9",
+      "texto": [
+        "No a nosotros, Señor, no a nosotros, sino a tu Nombre da la gloria, por tu misericordia, por tu fidelidad.",
+        "¿Por qué han de decir las naciones: «Dónde está su Dios?",
+        "Nuestro Dios está en los cielos. Cuanto le agrada, lo hace.",
+        "Los ídolos de las naciones son plata y oro, hechura de manos humanas.",
+        "Tienen boca y no hablan, tienen ojos y no ven;",
+        "tienen oídos y no oyen, tienen nariz y no huelen;",
+        "Sean como ellos quienes los hacen, todos los que en ellos confían.",
+        "Casa de Israel, confía en el Señor: Él es su auxilio y su escudo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 9:1-8",
+      "texto": [
+        "Subió a una barca, cruzó de nuevo el mar y llegó a su ciudad.",
+        "Entonces, le presentaron a un paralítico tendido en una camilla. Al ver Jesús la fe de ellos, le dijo al paralítico: —Ten confianza, hijo, tus pecados te son perdonados.",
+        "Entonces algunos escribas dijeron para sus adentros: «Éste blasfema.",
+        "Conociendo Jesús sus pensamientos, dijo: —¿Por qué pensáis mal en vuestros corazones?",
+        "¿Qué es más fácil, decir: «Tus pecados te son perdonados, o decir: «Levántate, y anda?",
+        "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar los pecados —se dirigió entonces al paralítico—, levántate, toma tu camilla y vete a tu casa.",
+        "Él se levantó y se fue a su casa.",
+        "Al ver esto, la gente se atemorizó y glorificó a Dios por haber dado tal potestad a los hombres."
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fecha": "2027-09-13",
+  "fiesta": "San Juan Crisóstomo, Obispo, Doctor de la Iglesia (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Timoteo 2:1-8",
+      "texto": [
+        "Por eso, te encarezco ante todo que se hagan súplicas, oraciones, peticiones y acciones de gracias por todos los hombres,",
+        "por los emperadores y todos los que ocupan altos cargos, para que pasemos una vida tranquila y serena con toda piedad y dignidad.",
+        "Todo ello es bueno y agradable ante Dios, nuestro Salvador,",
+        "que quiere que todos los hombres se salven y lleguen al conocimiento de la verdad.",
+        "Porque uno solo es Dios y uno solo también el mediador entre Dios y los hombres: Jesucristo hombre,",
+        "que se entregó a sí mismo en redención por todos. Éste es el testimonio dado a su debido tiempo.",
+        "Yo he sido constituido mensajero y apóstol de ese testimonio —digo la verdad, no miento—, doctor de los gentiles en la fe y en la verdad.",
+        "Por tanto, quiero que los hombres hagan oración en todo lugar, alzando sus manos inocentes, sin ira ni disensiones;"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 28:2, 9",
+      "texto": [
+        "Escucha mi voz suplicante cuando clamo a Ti, cuando levanto mis manos hacia tu santo Templo.",
+        "El Señor es mi fuerza y mi escudo, en Él confió mi corazón y fui socorrido. Exulta mi corazón, con mi canto lo alabo.",
+        "El Señor es fuerza para su pueblo, refugio de salvación para su Ungido.",
+        "Salva a tu pueblo, bendice a tu heredad. Sé su pastor y su guía para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 7:1-10",
+      "texto": [
+        "Cuando terminó de decir todas estas palabras al pueblo que le escuchaba, entró en Cafarnaún.",
+        "Había allí un centurión que tenía un siervo enfermo, a punto de morir, a quien estimaba mucho.",
+        "Habiendo oído hablar de Jesús, le envió unos ancianos de los judíos para rogarle que viniera a curar a su siervo.",
+        "Ellos, al llegar donde Jesús, le rogaban encarecidamente diciendo: —Merece que hagas esto,",
+        "porque aprecia a nuestro pueblo y él mismo nos ha construido la sinagoga.",
+        "Jesús, pues, se puso en camino con ellos. Y no estaba ya lejos de la casa cuando el centurión le envió unos amigos para decirle: —Señor, no te tomes esa molestia, porque no soy digno de que entres en mi casa,",
+        "por eso ni siquiera yo mismo me he considerado digno de ir a tu encuentro. Pero dilo de palabra y mi criado quedará sano.",
+        "Pues también yo soy un hombre sometido a disciplina y tengo soldados a mis órdenes. Le digo a uno: «Vete, y va; y a otro: «Ven, y viene; y a mi siervo: «Haz esto, y lo hace.",
+        "Al oír esto, Jesús se admiró de él, y volviéndose a la multitud que le seguía, dijo: —Os digo que ni siquiera en Israel he encontrado una fe tan grande.",
+        "Y cuando volvieron a casa, los enviados encontraron sano al siervo."
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-08-05",
+  "fiesta": "Dedicación de la Basílica de Santa María Mayor en Roma (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 20:1-13",
+      "texto": [
+        "Toda la comunidad de los hijos de Israel llegó al desierto de Sin en el mes primero, y el pueblo se estableció en Cadés. Allí murió María y allí fue sepultada.",
+        "La comunidad no tenía agua, y se reunieron contra Moisés y contra Aarón;",
+        "se rebeló el pueblo contra Moisés diciendo: —¡Ojalá hubiéramos perecido cuando nuestros hermanos perecieron ante el Señor!",
+        "¿Por qué habéis traído a la asamblea del Señor a este desierto, para que en él muramos nosotros y nuestro ganado?",
+        "¿Por qué nos habéis hecho subir desde Egipto para traernos a un lugar tan malo como éste? ¡No es un sitio de siembra, ni de higueras, ni de vides ni de granados; ni siquiera hay agua para beber!",
+        "Moisés y Aarón, apartándose de la asamblea, fueron a la entrada de la Tienda de la Reunión, cayeron sobre sus rostros, y se les manifestó la gloria del Señor.",
+        "El Señor habló a Moisés diciendo:",
+        "—Toma la vara y reúne a la comunidad, junto con Aarón, tu hermano. Hablaréis a la roca a la vista de ellos, y dará su agua. Harás manar para ellos agua de la roca y darás de beber a la comunidad y a su ganado.",
+        "Y sacó Moisés la vara de delante del Señor, como él lo había mandado.",
+        "Moisés y Aarón reunieron a la asamblea delante de la roca, y les dijeron: —Escuchad, rebeldes: ¿acaso podemos hacer manar agua de esta roca para vosotros?",
+        "Moisés levantó su mano y golpeó la roca con la vara dos veces, y manó agua en abundancia; y bebió la comunidad y su ganado.",
+        "El Señor dijo a Moisés y a Aarón: —Puesto que no habéis creído en mí y no me habéis santificado a los ojos de los hijos de Israel, por eso no haréis entrar a esta asamblea en la tierra que les he dado.",
+        "Éstas son las aguas de Meribá, donde los hijos de Israel se rebelaron contra el Señor, y Él mostró su santidad ante ellos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 95:1-2, 9",
+      "texto": [
+        "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación.",
+        "Vayamos a su presencia con acción de gracias, aclamémosle con salmos.",
+        "Venid, adoremos y postrémonos, pongámonos de hinojos ante el Señor, nuestro Hacedor.",
+        "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta, las ovejas que Él cuida. ¡Ojalá escuchéis hoy su voz!",
+        "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,",
+        "donde me tentaron vuestros padres, me pusieron a prueba, aunque habían visto mis obras."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 16:13-23",
+      "texto": [
+        "Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos: —¿Quién dicen los hombres que es el Hijo del Hombre?",
+        "Ellos respondieron: —Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas.",
+        "Él les dijo: —Y vosotros, ¿quién decís que soy yo?",
+        "Respondió Simón Pedro: —Tú eres el Cristo, el Hijo de Dios vivo.",
+        "Jesús le respondió: —Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos.",
+        "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella.",
+        "Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos.",
+        "Entonces ordenó a los discípulos que no dijeran a nadie que él era el Cristo.",
+        "Desde entonces comenzó Jesús a manifestar a sus discípulos que él debía ir a Jerusalén y padecer mucho por causa de los ancianos, de los príncipes de los sacerdotes y de los escribas, y ser llevado a la muerte y resucitar al tercer día.",
+        "Pedro, tomándolo aparte, se puso a reprenderle diciendo: —¡Dios te libre, Señor! De ningún modo te ocurrirá eso.",
+        "Pero él se volvió hacia Pedro y le dijo: —¡Apártate de mí, Satanás! Eres escándalo para mí, porque no sientes las cosas de Dios sino las de los hombres."
+      ]
+    }
+  }
+}

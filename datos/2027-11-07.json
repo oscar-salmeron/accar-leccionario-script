@@ -1,0 +1,54 @@
+{
+  "fecha": "2027-11-07",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Reyes 17:10-16",
+      "texto": [
+        "Él se levantó y se marchó a Sarepta. Entraba por la puerta de la ciudad cuando una mujer viuda recogía leña. La llamó y le dijo: —Por favor, tráeme en un vaso un poco de agua para beber.",
+        "Cuando ella iba a buscar el agua, él la llamó y le dijo: —Por favor, tráeme en tus manos un trozo de pan.",
+        "Ella contestó: —Vive el Señor, tu Dios, que no tengo ni una hogaza: sólo un puñado de harina en el cuenco y un poco de aceite en la alcuza. Ahora estoy recogiendo un par de leños para ir a prepararlo para mi hijo y para mí. Lo comeremos y luego moriremos.",
+        "Le dijo Elías: —No tengas miedo. Anda, haz lo que dices; pero primero hazme a mí con eso una torta pequeña y tráemela; después vete y hazla para ti y para tu hijo.",
+        "Porque esto ha dicho el Señor, Dios de Israel: «El cuenco de harina no quedará sin nada y la alcuza de aceite no se vaciará hasta el día en que el Señor conceda la lluvia a la superficie del suelo.",
+        "Ella fue y actuó según la palabra de Elías, y comieron él y ella y su casa durante días.",
+        "La harina del cuenco no se acabó ni el aceite de la alcuza se vació, según la palabra que el Señor había pronunciado por medio de –Elías."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 146:7-10",
+      "texto": [
+        "que hace justicia a los oprimidos, da pan a los hambrientos. El Señor libera a los cautivos;",
+        "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan; el Señor ama a los justos.",
+        "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda, pero tuerce el camino de los impíos.",
+        "El Señor reina eternamente, tu Dios, Sión, de generación en generación."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Hebreos 9:24-28",
+      "texto": [
+        "Porque Cristo no entró en un santuario hecho por mano de hombre —representación del verdadero—, sino en el mismo cielo, para interceder ahora ante Dios en favor nuestro.",
+        "No para ofrecerse muchas veces a sí mismo, como el sumo sacerdote que entra en el santuario todos los años con sangre ajena:",
+        "porque entonces hubiera debido padecer muchas veces desde la creación del mundo, y, en cambio, se ha manifestado ahora de una vez para siempre, en la plenitud de los tiempos, para destruir el pecado mediante el sacrificio de sí mismo.",
+        "Y así como está establecido que los hombres mueran una sola vez, y que después haya un juicio,",
+        "así también Cristo, que se ofreció una sola vez para quitar los pecados de todos, por segunda vez, sin relación ya con el pecado, se manifestará a los que le esperan para llevarlos a la salvación."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 12:38-44",
+      "texto": [
+        "Y en su enseñanza, decía: —Cuidado con los escribas, a los que les gusta pasear vestidos con largas túnicas y que los saluden en las plazas;",
+        "los primeros asientos en las sinagogas y los primeros puestos en los banquetes.",
+        "Devoran las casas de las viudas y fingen largas oraciones. Éstos recibirán una condena más severa.",
+        "Sentado Jesús frente al gazofilacio, miraba cómo la gente echaba en él monedas de cobre, y bastantes ricos echaban mucho.",
+        "Y al llegar una viuda pobre, echó dos monedas pequeñas, que hacen la cuarta parte del as.",
+        "Llamando a sus discípulos, les dijo: —En verdad os digo que esta viuda pobre ha echado más que todos los que han echado en el gazofilacio,",
+        "pues todos han echado algo de lo que les sobra; ella, en cambio, en su necesidad, ha echado todo lo que tenía, todo su sustento."
+      ]
+    }
+  }
+}

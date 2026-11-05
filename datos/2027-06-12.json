@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-06-12",
+  "fiesta": "Sábado Memoria de la Santísima Virgen María",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 5:14-21",
+      "texto": [
+        "Porque el amor de Cristo nos urge, persuadidos de que si uno murió por todos, en consecuencia todos murieron.",
+        "Y murió por todos a fin de que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos.",
+        "De manera que desde ahora no conocemos a nadie según la carne; y si conocimos a Cristo según la carne, ahora ya no le conocemos así.",
+        "Por tanto, si alguno está en Cristo, es una nueva criatura: lo viejo pasó, ya ha llegado lo nuevo.",
+        "Y todo proviene de Dios, que nos reconcilió con él por medio de Cristo y nos confirió el ministerio de la reconciliación.",
+        "Porque en Cristo, Dios estaba reconciliando al mundo consigo, sin imputarle sus delitos, y puso en nosotros la palabra de reconciliación.",
+        "Somos, pues, embajadores en nombre de Cristo, como si Dios os exhortase por medio de nosotros. En nombre de Cristo os rogamos: reconciliaos con Dios.",
+        "A él, que no conoció pecado, lo hizo pecado por nosotros, para que llegásemos a ser en él justicia de Dios."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 103:1-4, 12",
+      "texto": [
+        "De David. Bendice, alma mía, al Señor, y todo mi ser a su Nombre santo.",
+        "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios.",
+        "Él es quien perdona tus culpas, quien sana tus enfermedades.",
+        "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión.",
+        "No dura siempre su querella, ni guarda rencor perpetuamente.",
+        "No nos trata según nuestros pecados, ni nos paga según nuestras culpas.",
+        "Pues cuanto se elevan los cielos sobre la tierra, así prevalece su misericordia con los que le temen.",
+        "Cuanto dista el oriente del occidente, así aleja de nosotros nuestras iniquidades."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:33-37",
+      "texto": [
+        "También habéis oído que se dijo a los antiguos: No jurarás en vano, sino que cumplirás los juramentos que le hayas hecho al Señor.",
+        "Pero yo os digo: no juréis de ningún modo; ni por el cielo, porque es el trono de Dios;",
+        "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del Gran Rey.",
+        "Tampoco jures por tu cabeza, porque no puedes volver blanco o negro ni un solo cabello.",
+        "Que vuestro modo de hablar sea: «Sí, sí; «no, no. Lo que exceda de esto, viene del Maligno."
+      ]
+    }
+  }
+}

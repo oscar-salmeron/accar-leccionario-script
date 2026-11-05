@@ -1,0 +1,53 @@
+{
+  "fecha": "2027-05-31",
+  "fiesta": "Visitación de la Santísima Virgen María (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Sofonías 3:14-18",
+      "texto": [
+        "Canta de gozo, hija de Sión, alborózate, Israel, alégrate y disfruta de todo corazón, hija de Jerusalén.",
+        "El Señor revocó tu sentencia, echó afuera a tus enemigos; el Señor, Rey de Israel, está en medio de ti; no temerás más la desgracia.",
+        "Aquel día se dirá a Jerusalén: «¡No temas, Sión, no desfallezcan tus manos!",
+        "El Señor, tu Dios, está en medio de ti como poderoso Salvador. Él disfrutará de ti con alegría, te renovará su amor, se regocijará en ti con canto alegre,",
+        "como en los días de fiesta. «Reuniré de ti a los que están en agobio para quitarles la deshonra."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Isaías 12:2-6",
+      "texto": [
+        "Éste es el Dios de mi salvación: confío y no temo, porque el Señor es mi fuerza y mi canción, y Él me ha salvado.",
+        "Sacaréis aguas con gozo de las fuentes de la salvación;",
+        "y aquel día diréis: «Alabad al Señor, invocad su Nombre, contad a los pueblos sus hazañas, recordad que su Nombre es excelso.",
+        "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!",
+        "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:39-56",
+      "texto": [
+        "Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá;",
+        "y entró en casa de Zacarías y saludó a Isabel.",
+        "Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo;",
+        "y exclamando en voz alta, dijo: —Bendita tú entre las mujeres y bendito es el fruto de tu vientre.",
+        "¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme?",
+        "Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno;",
+        "y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor.",
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Manifestó el poder de su brazo, dispersó a los soberbios de corazón.",
+        "Derribó de su trono a los poderosos y ensalzó a los humildes.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,",
+        "como había prometido a nuestros padres, Abrahán y su descendencia para siempre.",
+        "María permaneció con ella unos tres meses, y se volvió a su casa."
+      ]
+    }
+  }
+}

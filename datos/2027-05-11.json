@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-05-11",
+  "fiesta": "San Ignacio de Laconi, Religioso (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 20:17-27",
+      "texto": [
+        "Desde Mileto envió un mensaje a Éfeso y convocó a los presbíteros de la iglesia.",
+        "Cuando llegaron les dijo: —Vosotros sabéis cómo me he comportado en vuestra compañía desde el primer día que entré en Asia,",
+        "sirviendo al Señor con toda humildad y lágrimas en medio de las dificultades que me han venido por las insidias de los judíos;",
+        "cómo no dejé de hacer nada de cuanto podía aprovecharos —al predicaros y al enseñaros, en público y en vuestras casas—,",
+        "cuando anunciaba a judíos y griegos la conversión a Dios y la fe en nuestro Señor Jesús.",
+        "Ahora, encadenado por el Espíritu, me dirijo a Jerusalén, sin saber qué me pasará allí,",
+        "excepto que por todas las ciudades el Espíritu Santo testimonia en mi interior para decirme que me esperan cadenas y tribulaciones."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 17:1-11",
+      "texto": [
+        "Sé ahora que ninguno de vosotros, entre quienes pasé predicando el Reino, volverá a ver mi rostro.",
+        "Por eso, en este día doy testimonio de que estoy libre de culpa de la sangre de todos,",
+        "pues no dejé de anunciaros todos los designios de Dios.",
+        "Jesús, después de pronunciar estas palabras, elevó sus ojos al cielo y dijo: —Padre, ha llegado la hora. Glorifica a tu Hijo para que tu Hijo te glorifique;",
+        "ya que le diste potestad sobre toda carne, que él dé vida eterna a todos los que Tú le has dado.",
+        "Ésta es la vida eterna: que te conozcan a Ti, el único Dios verdadero, y a Jesucristo, a quien Tú has enviado.",
+        "Yo te he glorificado en la tierra: he terminado la obra que Tú me has encomendado que hiciera.",
+        "Ahora, Padre, glorifícame Tú a tu lado con la gloria que tuve junto a Ti antes de que el mundo existiera.",
+        "He manifestado tu nombre a los que me diste del mundo. Tuyos eran, Tú me los confiaste y ellos han guardado tu palabra.",
+        "Ahora han conocido que todo lo que me has dado proviene de Ti,",
+        "porque las palabras que me diste se las he dado, y ellos las han recibido y han conocido verdaderamente que yo salí de Ti, y han creído que Tú me enviaste.",
+        "Yo ruego por ellos; no ruego por el mundo sino por los que me has dado, porque son tuyos.",
+        "Todo lo mío es tuyo, y lo tuyo mío, y he sido glorificado en ellos.",
+        "Ya no estoy en el mundo, pero ellos están en el mundo y yo voy a Ti. Padre Santo, guarda en tu nombre a aquellos que me has dado, para que sean uno como nosotros."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 68:10-11, 21",
+      "texto": [
+        "Derramaste una lluvia copiosa, oh Dios, reconfortaste tu heredad extenuada.",
+        "Tu grey habitó en la heredad que, en tu bondad, oh Dios, preparaste al pobre.",
+        "¡Bendito sea el Señor, día tras día! Él lleva nuestras cargas, es el Dios de nuestra salvación.",
+        "Dios es para nosotros el Dios que salva, y al Señor, nuestro Dios, debemos el escapar de la muerte."
+      ]
+    }
+  }
+}

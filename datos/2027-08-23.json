@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-08-23",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tesalonicenses 1:1-5, 10",
+      "texto": [
+        "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses, en Dios Padre y en el Señor Jesucristo: la gracia y la paz estén con vosotros.",
+        "Damos continuamente gracias a Dios por todos vosotros, teniéndoos presentes en nuestras oraciones.",
+        "Sin cesar recordamos ante nuestro Dios y Padre vuestra fe operativa, vuestra caridad esforzada y vuestra constante esperanza en nuestro Señor Jesucristo.",
+        "Sabemos, hermanos amados por Dios, que habéis sido elegidos;"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 23:13-22",
+      "texto": [
+        "Porque a partir de vosotros se ha difundido la palabra del Señor, no sólo en Macedonia y en Acaya, sino que por todas partes se ha propagado vuestra fe en Dios, de modo que nosotros no tenemos necesidad de decir nada.",
+        "Ellos mismos cuentan qué acogida nos dispensasteis y cómo os convertisteis a Dios abandonando los ídolos, para servir al Dios vivo y verdadero",
+        "y esperar desde los cielos a su Hijo Jesús —a quien resucitó de entre los muertos— que nos libra de la ira venidera.",
+        "¡Ay de vosotros, escribas y fariseos hipócritas, que cerráis el Reino de los Cielos a los hombres! Porque ni vosotros entráis, ni dejáis entrar a los que quieren entrar.",
+        "¡Ay de vosotros, escribas y fariseos hipócritas, que vais dando vueltas por mar y tierra para hacer un solo prosélito y, en cuanto lo conseguís, le hacéis hijo del infierno dos veces más que vosotros!",
+        "¡Ay de vosotros, guías ciegos, que decís: «Jurar por el Templo no es nada; pero si uno jura por el oro del Templo, queda obligado!",
+        "¡Necios y ciegos! ¿Qué es más: el oro o el Templo que santifica al oro?",
+        "Y: «Jurar por el altar no es nada; pero si uno jura por la ofrenda que está sobre él, queda obligado.",
+        "¡Ciegos! ¿Qué es más: la ofrenda o el altar que santifica la ofrenda?",
+        "Por tanto, quien ha jurado por el altar, jura por él y por todo lo que hay sobre él.",
+        "Y quien ha jurado por el Templo, jura por él y por Aquel que en él habita.",
+        "Y quien ha jurado por el cielo, jura por el trono de Dios y por Aquel que en él está sentado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 149:1-6, 9",
+      "texto": [
+        "¡Aleluya! Cantad al Señor un cántico nuevo, esté su alabanza en la asamblea de los fieles.",
+        "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión.",
+        "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras.",
+        "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación.",
+        "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,",
+        "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos.",
+        "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles. ¡Aleluya!"
+      ]
+    }
+  }
+}

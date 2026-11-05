@@ -1,0 +1,56 @@
+{
+  "fecha": "2027-03-09",
+  "fiesta": "Después de esto se celebraba una fiesta de los judíos, y Jesús subió a Jerusalén.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Ezequiel 47:1-9, 12",
+      "texto": [
+        "Me hizo volver a la entrada del Templo y vi que brotaba agua de debajo del umbral del Templo hacia oriente; porque la fachada del Templo daba a oriente. El agua bajaba desde el lado derecho del Templo, por la parte meridional del altar.",
+        "Me hizo salir por la puerta del norte y me hizo volver por fuera, hasta la puerta exterior que da a oriente. El agua manaba desde el lado derecho.",
+        "Salió aquel hombre hacia oriente con una cuerda en la mano. Midió mil codos y me hizo vadear el agua: el agua me llegaba a los tobillos.",
+        "Midió mil más y me hizo vadear: el agua me llegaba a las rodillas. Midió mil más y me hizo vadear: el agua me llegaba a la cintura.",
+        "Midió otros mil: el torrente era imposible de vadear porque había crecido y sólo podía pasarse a nado, era un torrente que no se podía vadear.",
+        "Y me dijo: —¿Has visto, hijo de hombre? Y me hizo caminar y volver a la orilla del torrente.",
+        "Cuando volví a la orilla del torrente, había a un lado y a otro gran cantidad de árboles.",
+        "Y me dijo: —Esta agua que brota hacia la región oriental desciende hasta la Arabá y llega al mar de aguas salobres; pero las sanará.",
+        "Todo ser viviente que se mueve por donde llega el torrente vivirá. Habrá gran abundancia de peces allí donde llegue el agua porque las aguas serán sanadas y vivirá todo lo que haya en el lugar donde el torrente llegue;",
+        "Junto al torrente, a una y otra orilla, crecerá toda clase de árboles frutales. Sus hojas no se marchitarán ni se acabará su fruto. Todos los meses darán frutos nuevos porque sus aguas fluyen del santuario. Sus frutos serán comestibles y sus hojas medicinales."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 46:2-3, 6, 9",
+      "texto": [
+        "Dios es nuestro refugio y fortaleza, socorro fácil de encontrar en las angustias.",
+        "Por eso no tememos aunque se conmueva la tierra, y se derrumben los montes en lo hondo del mar;",
+        "Un río y sus canales alegran la ciudad de Dios, la morada santa del Altísimo.",
+        "Dios está en medio de ella: no podrá retemblar; al despuntar el alba, Dios la asiste.",
+        "El Señor de los ejércitos está con nosotros, nuestra fortaleza es el Dios de Jacob.",
+        "Venid a ver los prodigios del Señor, que hace maravillas en la tierra."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 5:1-16",
+      "texto": [
+        "Después de esto se celebraba una fiesta de los judíos, y Jesús subió a Jerusalén.",
+        "Hay en Jerusalén, junto a la puerta de las ovejas, una piscina, llamada en hebreo Betzata, que tiene cinco pórticos,",
+        "bajo los que yacía una muchedumbre de enfermos, ciegos, cojos y paralíticos.",
+        "Estaba allí un hombre que padecía una enfermedad desde hacía treinta y ocho años.",
+        "Jesús, al verlo tendido y sabiendo que llevaba ya mucho tiempo, le dijo: —¿Quieres curarte?",
+        "El enfermo le contestó: —Señor, no tengo a nadie que me meta en la piscina cuando se mueve el agua; mientras voy, baja otro antes que yo.",
+        "Le dijo Jesús: —Levántate, toma tu camilla y ponte a andar.",
+        "Al instante aquel hombre quedó sano, tomó su camilla y echó a andar. Aquel día era sábado.",
+        "Entonces le dijeron los judíos al que había sido curado: —Es sábado y no te es lícito llevar la camilla.",
+        "Él les respondió: —El que me ha curado es el que me dijo: «Toma tu camilla y anda.",
+        "Le interrogaron: —¿Quién es el hombre que te dijo: «Toma tu camilla y anda?",
+        "El que había sido curado no sabía quién era, pues Jesús se había apartado de la muchedumbre allí congregada.",
+        "Después de esto lo encontró Jesús en el Templo y le dijo: —Mira, estás curado; no peques más para que no te ocurra algo peor.",
+        "Se marchó aquel hombre y les dijo a los judíos que era Jesús el que le había curado.",
+        "Por eso perseguían los judíos a Jesús, porque había hecho esto un sábado."
+      ]
+    }
+  }
+}

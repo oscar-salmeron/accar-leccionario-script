@@ -1,0 +1,48 @@
+{
+  "fecha": "2027-03-13",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Jeremías 11:18-20",
+      "texto": [
+        "El Señor me lo ha hecho saber, y yo me he enterado. Me mostraste entonces sus fechorías.",
+        "Yo, como un manso cordero llevado a inmolar, ignoraba las maquinaciones que tramaban contra mí: «¡Derribemos el árbol en su vigor, cortémoslo de la tierra de los vivos, y no se mencione más su nombre.",
+        "¡Señor de los ejércitos, que juzgas con justicia, que escrutas entrañas y corazón, que vea yo cómo te vengas de ellos, pues a ti presento mi causa!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 7:2-3, 12",
+      "texto": [
+        "¡Señor, Dios mío! Me refugio en Ti. Sálvame, líbrame de los que me persiguen.",
+        "Que no me desgarren como un león y me destrocen, sin que haya quien me libre.",
+        "El Señor es el juez de los pueblos. Júzgame, Señor, según mi justicia y la inocencia que haya en mí.",
+        "Cese la maldad de los impíos y confirma al inocente, Tú que escrutas el corazón y las entrañas, Dios Justo.",
+        "Mi escudo está en Dios, que salva a los rectos de corazón.",
+        "Dios es juez justo, fuerte, detesta el delito en todo tiempo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 7:40-53",
+      "texto": [
+        "De entre la multitud que escuchaba estas palabras, unos decían: —Éste es verdaderamente el profeta.",
+        "Otros: —Éste es el Cristo. En cambio, otros replicaban: —¿Acaso el Cristo viene de Galilea?",
+        "¿No dice la Escritura que el Cristo viene de la descendencia de David y de Belén, la aldea de donde era David?",
+        "Se produjo entonces un desacuerdo entre la multitud por su causa.",
+        "Algunos de ellos querían prenderle, pero nadie puso las manos sobre él.",
+        "Volvieron los alguaciles a los príncipes de los sacerdotes y fariseos, y éstos les dijeron: —¿Por qué no lo habéis traído?",
+        "Respondieron los alguaciles: —Jamás habló así hombre alguno.",
+        "Les replicaron entonces los fariseos: —¿También vosotros habéis sido engañados?",
+        "¿Acaso alguien de las autoridades o de los fariseos ha creído en él?",
+        "Pero esta gente, que desconoce la Ley, son unos malditos.",
+        "Nicodemo, aquel que ya había ido antes adonde Jesús y que era uno de ellos, les dijo:",
+        "—¿Es que nuestra Ley juzga a un hombre sin haberle oído antes y conocer lo que ha hecho?",
+        "Le respondieron: —¿También tú eres de Galilea? Investiga y te darás cuenta de que ningún profeta surge de Galilea.",
+        "Y se volvió cada uno a su casa."
+      ]
+    }
+  }
+}

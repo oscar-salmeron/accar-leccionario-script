@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-06-20",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Job 38:1, 11",
+      "texto": [
+        "Entonces el Señor respondió a Job desde el seno del torbellino diciendo:",
+        "¿Quién encerró el mar con doble puerta, cuando salía a borbotones del seno materno,",
+        "cuando le puse las nubes por vestido y por pañales la niebla,",
+        "cuando le fijé un límite y le puse cerrojos y puertas,",
+        "y le dije: «Hasta aquí llegarás y no más, aquí se romperá la soberbia de tus olas?"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 107:23-26, 31",
+      "texto": [
+        "Los que se hacen a la mar en las naves y ejercen el comercio por inmensas aguas,",
+        "ven las obras del Señor, sus maravillas en alta mar.",
+        "Pues Él habla y se levanta un viento borrascoso, que encrespa sus olas;",
+        "suben hasta el cielo y bajan a los abismos, desfalleciendo su alma por las desgracias.",
+        "En su angustia clamaron al Señor, y los libró de sus tribulaciones.",
+        "Convierte la tormenta en bonanza, enmudece el oleaje,",
+        "y se regocijan por haberse calmado: Él los conduce al ansiado puerto.",
+        "Den gracias al Señor por su misericordia, por sus maravillas con los hijos de Adán."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Corintios 5:14-17",
+      "texto": [
+        "Porque el amor de Cristo nos urge, persuadidos de que si uno murió por todos, en consecuencia todos murieron.",
+        "Y murió por todos a fin de que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos.",
+        "De manera que desde ahora no conocemos a nadie según la carne; y si conocimos a Cristo según la carne, ahora ya no le conocemos así.",
+        "Por tanto, si alguno está en Cristo, es una nueva criatura: lo viejo pasó, ya ha llegado lo nuevo."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:35-41",
+      "texto": [
+        "Aquel día, llegada la tarde, les dice: —Crucemos a la otra orilla.",
+        "Y, despidiendo a la muchedumbre, le llevaron en la barca tal como estaba. Y le acompañaban otras barcas.",
+        "Y se levantó una gran tempestad de viento, y las olas se echaban encima de la barca, hasta el punto de que la barca ya se inundaba.",
+        "Él estaba en la popa durmiendo sobre un cabezal. Entonces le despiertan, y le dicen: —Maestro, ¿no te importa que perezcamos?",
+        "Y, puesto en pie, increpó al viento y dijo al mar: —¡Calla, enmudece! Y se calmó el viento y sobrevino una gran calma.",
+        "Entonces les dijo: —¿Por qué os asustáis? ¿Todavía no tenéis fe?",
+        "Y se llenaron de gran temor y se decían unos a otros: —¿Quién es éste, que hasta el viento y el mar le obedecen?"
+      ]
+    }
+  }
+}

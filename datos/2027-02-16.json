@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-02-16",
+  "fiesta": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Isaías 55:10-11",
+      "texto": [
+        "Como la lluvia y la nieve descienden de los cielos, y no vuelven allá, sino que riegan la tierra, la fecundan, la hacen germinar, y dan simiente al sembrador y pan a quien ha de comer,",
+        "así será la palabra que sale de mi boca: no volverá a mí de vacío, sino que hará lo que Yo quiero y realizará la misión que le haya confiado."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 34:4-7, 19",
+      "texto": [
+        "(Guímel) Engrandeced conmigo al Señor; ensalcemos juntos su Nombre.",
+        "(Dálet) Busqué al Señor y me ha escuchado, me ha librado de todos mis temores.",
+        "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán.",
+        "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias.",
+        "(Áin) Los ojos del Señor están pendientes de los justos, sus oídos, atentos a su clamor.",
+        "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria.",
+        "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias.",
+        "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 6:7-15",
+      "texto": [
+        "Y al orar no empleéis muchas palabras como los gentiles, que piensan que por su locuacidad van a ser escuchados.",
+        "Así pues, no seáis como ellos, porque bien sabe vuestro Padre de qué tenéis necesidad antes de que se lo pidáis.",
+        "Vosotros, en cambio, orad así: Padre nuestro, que estás en los cielos, santificado sea tu Nombre;",
+        "venga tu Reino; hágase tu voluntad, como en el cielo, también en la tierra;",
+        "danos hoy nuestro pan cotidiano;",
+        "y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores;",
+        "y no nos pongas en tentación, sino líbranos del mal.",
+        "Porque si les perdonáis a los hombres sus ofensas, también os perdonará vuestro Padre celestial.",
+        "Pero si no perdonáis a los hombres, tampoco vuestro Padre os perdonará vuestros pecados."
+      ]
+    }
+  }
+}

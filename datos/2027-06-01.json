@@ -1,0 +1,41 @@
+{
+  "fecha": "2027-06-01",
+  "fiesta": "San Justino, Mártir (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Tobías 2:9-14",
+      "texto": [
+        "Aquella noche, después de enterrarlo, me lavé, salí a mi patio y me quedé dormido junto a la pared del patio, con la cara descubierta por el calor.",
+        "No sabía que encima de mí, en la pared, había unos pájaros; éstos dejaron caer sus excrementos todavía calientes sobre mis ojos, y me salieron unas manchas blancas. Acudí a los médicos para que me curaran y cuantas más medicinas me aplicaron, tanto más quedaban ciegos mis ojos por las manchas, hasta que me quedé ciego por completo. Estuve privado de la vista durante cuatro años, y todos mis hermanos sufrían por mi causa. Ajicar cuidó de mí durante dos años, antes de que se marchara a Elimaida.",
+        "Durante aquel tiempo, mi esposa Ana tuvo que ponerse a trabajar a sueldo en labores femeninas, tejiendo lana.",
+        "La entregaba a sus dueños y recibía el pago a cambio. El día séptimo del mes de Distros confeccionó un tejido y se lo entregó a los dueños, quienes le dieron toda la paga y además un cabrito para comer.",
+        "Cuando el cabrito se acercó a mí, comenzó a balar. Llamé a mi esposa y le pregunté: —¿De dónde procede este cabrito? ¿No será robado? Devuélvelo a sus dueños, porque no nos está permitido comer algo robado.",
+        "Pero ella me contestó: —Me lo han regalado además del jornal. Yo no la creía, sino que insistía en que lo devolviera a sus dueños, y me enfadé con ella por este motivo. Entonces contestó diciéndome: —¿Dónde quedan tus limosnas? ¿Dónde están tus obras de misericordia? ¡Claro, tú lo sabes todo!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 112:1-2, 9",
+      "texto": [
+        "Aleluya. (Alef) Dichoso el hombre que teme al Señor, (Bet) y se complace de lleno en sus mandamientos.",
+        "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos.",
+        "(Mem) no temerá las malas noticias; (Nun) su corazón está firme, confiado en el Señor;",
+        "(Sámek) su corazón está seguro, sin temer, (Áin) hasta que mire por encima a sus enemigos.",
+        "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre; (Qof) lleva alta su frente con honor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 12:13-17",
+      "texto": [
+        "Le enviaron a algunos de los fariseos y de los herodianos para atraparle en alguna palabra.",
+        "Acercándose, le dijeron: —Maestro, sabemos que eres veraz y que no te dejas llevar por nadie, pues no haces acepción de personas, sino que enseñas el camino de Dios según la verdad. ¿Es lícito dar tributo al César, o no? ¿Pagamos o no pagamos?",
+        "Pero él, advirtiendo su hipocresía, les dijo: —¿Por qué me tentáis? Traedme un denario para que lo vea.",
+        "Ellos se lo trajeron. Y les dijo: —¿De quién es esta imagen y esta inscripción? —Del César —le contestaron ellos.",
+        "Jesús les dijo: —Dad al César lo que es del César y a Dios lo que es de Dios. Y se admiraban de él."
+      ]
+    }
+  }
+}

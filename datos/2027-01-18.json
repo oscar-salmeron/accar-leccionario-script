@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-01-18",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 5:1-10",
+      "texto": [
+        "Porque todo sumo sacerdote, escogido entre los hombres, está constituido en favor de los hombres en lo que se refiere a Dios, para ofrecer dones y sacrificios por los pecados;",
+        "y puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad,",
+        "y a causa de ella debe ofrecer expiación por los pecados, tanto por los del pueblo como por los suyos.",
+        "Y nadie se atribuye este honor, sino el que es llamado por Dios, como Aarón.",
+        "De igual modo, Cristo no se apropió la gloria de ser Sumo Sacerdote, sino que se la otorgó el que le dijo: Tú eres mi hijo, yo te he engendrado hoy.",
+        "Asimismo, en otro lugar, dice también: Tú eres sacerdote para siempre, según el orden de Melquisedec.",
+        "Él, en los días de su vida en la tierra, ofreció con gran clamor y lágrimas oraciones y súplicas al que podía salvarle de la muerte, y fue escuchado por su piedad filial,",
+        "y, aun siendo Hijo, aprendió por los padecimientos la obediencia.",
+        "Y, llegado a la perfección, se ha hecho causa de salvación eterna para todos los que le obedecen,",
+        "ya que fue proclamado por Dios Sumo Sacerdote según el orden de Melquisedec."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 110:1-4",
+      "texto": [
+        "De David. Salmo. Oráculo del Señor a mi señor: «Siéntate a mi derecha hasta que ponga a tus enemigos como estrado de tus pies.",
+        "El Señor extenderá desde Sión el poder de tu cetro: «Domina en medio de tus enemigos.",
+        "Para ti es el principado el día de tu poder, entre esplendores sagrados. Desde el seno, antes de la aurora, como el rocío, te he engendrado.",
+        "El Señor lo ha jurado y no se arrepiente: «Tú eres sacerdote para siempre según el orden de Melquisedec."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 2:18-22",
+      "texto": [
+        "Los discípulos de Juan y los fariseos estaban de ayuno; y vinieron a decirle: —¿Por qué los discípulos de Juan y los de los fariseos ayunan y, en cambio, tus discípulos no ayunan?",
+        "Jesús les respondió: —¿Acaso pueden ayunar los amigos del esposo, mientras el esposo está con ellos? Durante el tiempo en que tienen al esposo con ellos no pueden ayunar.",
+        "Ya vendrán días en que les será arrebatado el esposo; entonces, en aquel día, ya ayunarán.",
+        "Nadie cose un remiendo de paño nuevo a un vestido viejo; porque entonces lo añadido tira de él, lo nuevo de lo viejo, y se produce un desgarrón peor.",
+        "Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino hace reventar los odres, y se pierden el vino y los odres. Para vino nuevo, odres nuevos."
+      ]
+    }
+  }
+}

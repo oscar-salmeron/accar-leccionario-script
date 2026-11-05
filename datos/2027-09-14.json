@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-09-14",
+  "fiesta": "Exaltación de la Santa Cruz (Fiesta)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 21:4-9",
+      "texto": [
+        "Partieron desde el monte Hor camino del Mar Rojo rodeando la tierra de Edom, y en el camino desfalleció el ánimo del pueblo.",
+        "El pueblo habló contra Dios y contra Moisés: —¿Por qué nos habéis hecho subir de Egipto para morir en este desierto, donde no hay pan ni agua y nuestra alma no puede más con este alimento tan ligero?",
+        "El Señor les envió serpientes venenosas que mordieron al pueblo, y murió mucha gente de Israel.",
+        "Entonces el pueblo vino a Moisés y dijo: —Hemos pecado porque hemos hablado contra el Señor y contra ti. Ruega al Señor que aparte de nosotros las serpientes. Y Moisés oró por el pueblo.",
+        "El Señor dijo a Moisés: —Haz una serpiente venenosa y ponla sobre un mástil, y todo el que haya sido mordido y la mire, vivirá.",
+        "Moisés hizo una serpiente de bronce y la puso sobre un mástil, y si alguien había sido mordido por una serpiente, miraba fijamente la serpiente de bronce y vivía."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 78:1-2, 38",
+      "texto": [
+        "Masquil. De Asaf. Atiende a mi Ley, pueblo mío, inclina el oído a los dichos de mi boca.",
+        "Abriré mi boca con parábolas, proferiré los misterios de antaño.",
+        "Cuando los hacía perecer, lo buscaban, se convertían e iban a Dios de madrugada.",
+        "Se acordaban de que Dios es su Roca, el Dios Altísimo, su Redentor.",
+        "Le halagaban con la boca, pero le mentían con la lengua.",
+        "Su corazón no era sincero con Él, ni se mantenían fieles a su alianza.",
+        "En cambio, Él, que es compasivo, perdonaba su culpa y no los destruía. Una y otra vez retiraba su ira, sin encender todo su furor,"
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Filipenses 2:6-11",
+      "texto": [
+        "el cual, siendo de condición divina, no consideró como presa codiciable el ser igual a Dios,",
+        "sino que se anonadó a sí mismo tomando la forma de siervo, hecho semejante a los hombres; y, mostrándose igual que los demás hombres,",
+        "se humilló a sí mismo haciéndose obediente hasta la muerte, y muerte de cruz.",
+        "Y por eso Dios lo exaltó y le otorgó el nombre que está sobre todo nombre;",
+        "para que al nombre de Jesús toda rodilla se doble en los cielos, en la tierra y en los abismos,",
+        "y toda lengua confiese: «¡Jesucristo es el Señor!, para gloria de Dios Padre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 3:13-17",
+      "texto": [
+        "Pues nadie ha subido al cielo, sino el que bajó del cielo, el Hijo del Hombre.",
+        "Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre,",
+        "para que todo el que crea tenga vida eterna en él.",
+        "Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna.",
+        "Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él."
+      ]
+    }
+  }
+}

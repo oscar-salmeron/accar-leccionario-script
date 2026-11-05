@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-11-14",
+  "fiesta": "San Nicolás Tavelic, OFM, Presbítero, y Compañeros, Mártires (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "",
+      "texto": [
+        "Queridísimo, en tu conducta con los hermanos, incluso con los forasteros, te portas como corresponde a un fiel.",
+        "Ellos dieron testimonio de tu caridad en presencia de la Iglesia. Y harás bien en proveerles para su viaje de una manera digna de Dios;",
+        "pues por el Nombre se pusieron en camino sin aceptar nada de los gentiles.",
+        "Por eso, nosotros debemos acogerlos, para ser cooperadores de la verdad."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 112:1-6",
+      "texto": [
+        "Aleluya. (Alef) Dichoso el hombre que teme al Señor, (Bet) y se complace de lleno en sus mandamientos.",
+        "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos.",
+        "(He) En su casa habrá fortuna y riqueza; (Vav) su justicia permanecerá para siempre.",
+        "(Záin) Para los rectos brilla como luz en las tinieblas, (Het) el clemente, compasivo y justo.",
+        "(Tet) Feliz el hombre compasivo y que presta, (Yod) y que administra sus asuntos con justicia;",
+        "(Kaf) no vacilará jamás. (Lámed) El justo será siempre recordado;"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 18:1-8",
+      "texto": [
+        "Les proponía una parábola sobre la necesidad de orar siempre y no desfallecer,",
+        "diciendo: —Había en una ciudad un juez que no temía a Dios ni respetaba a los hombres.",
+        "También había en aquella ciudad una viuda, que acudía a él diciendo: «Hazme justicia ante mi adversario.",
+        "Y durante mucho tiempo no quiso. Sin embargo, al final se dijo a sí mismo: «Aunque no temo a Dios ni respeto a los hombres,",
+        "como esta viuda está molestándome, le haré justicia, para que no siga viniendo a importunarme.",
+        "Concluyó el Señor: —Prestad atención a lo que dice el juez injusto.",
+        "¿Acaso Dios no hará justicia a sus elegidos que claman a Él día y noche, y les hará esperar?",
+        "Os aseguro que les hará justicia sin tardanza. Pero cuando venga el Hijo del Hombre, ¿encontrará fe sobre la tierra?"
+      ]
+    }
+  }
+}

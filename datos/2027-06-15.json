@@ -1,0 +1,46 @@
+{
+  "fecha": "2027-06-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 8:1-9",
+      "texto": [
+        "Os hacemos saber, hermanos, la gracia de Dios concedida a las iglesias de Macedonia.",
+        "En medio de una gran tribulación con que han sido probados, su rebosante gozo y su extrema pobreza se desbordaron en tesoros de generosidad;",
+        "porque doy testimonio de que según sus posibilidades, y aun por encima de ellas, espontáneamente",
+        "nos pidieron con mucha insistencia la gracia de participar en el servicio a favor de los santos.",
+        "Y no sólo como esperábamos, sino que se dieron a sí mismos, primeramente al Señor y luego, por voluntad de Dios, a nosotros.",
+        "De manera que rogamos a Tito que, según había comenzado, así llevase a cabo esta gracia también entre vosotros.",
+        "Y así como tenéis abundancia de todo —de fe, de palabra, de ciencia, de todo desvelo y de la caridad que os hemos comunicado—, sed también abundantes en esta gracia.",
+        "No lo digo como una orden, sino que, mediante el desvelo por otros, quiero probar también la autenticidad de vuestra caridad.",
+        "Porque conocéis la gracia de nuestro Señor Jesucristo, que, siendo rico, se hizo pobre por vosotros, para que vosotros seáis ricos por su pobreza."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 146:2, 9",
+      "texto": [
+        "Alabaré al Señor mientras viva; entonaré salmos a mi Dios mientras exista.",
+        "Dichoso el que tiene su auxilio en el Dios de Jacob, su esperanza en el Señor, su Dios,",
+        "que hizo los cielos y la tierra, el mar y cuanto hay en él; que guarda fidelidad eternamente;",
+        "que hace justicia a los oprimidos, da pan a los hambrientos. El Señor libera a los cautivos;",
+        "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan; el Señor ama a los justos.",
+        "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda, pero tuerce el camino de los impíos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:43-48",
+      "texto": [
+        "Habéis oído que se dijo: Amarás a tu prójimo y odiarás a tu enemigo.",
+        "Pero yo os digo: amad a vuestros enemigos y rezad por los que os persigan,",
+        "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre buenos y malos, y hace llover sobre justos y pecadores.",
+        "Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen eso también los publicanos?",
+        "Y si saludáis solamente a vuestros hermanos, ¿qué hacéis de más? ¿No hacen eso también los paganos?",
+        "Por eso, sed vosotros perfectos como vuestro Padre celestial es perfecto."
+      ]
+    }
+  }
+}

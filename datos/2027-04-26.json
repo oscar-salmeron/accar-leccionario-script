@@ -1,0 +1,50 @@
+{
+  "fecha": "2027-04-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 14:5-18",
+      "texto": [
+        "Como se produjo un violento movimiento de gentiles y de judíos, con sus jefes, para injuriarles y apedrearles,",
+        "al enterarse, huyeron a Listra y Derbe, ciudades de Licaonia, y a la región de alrededor."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 14:21-26",
+      "texto": [
+        "En Listra se hallaba sentado un hombre inválido de los pies, cojo desde el seno materno, que jamás había caminado.",
+        "Éste escuchó hablar a Pablo, el cual le miró fijamente y, viendo que tenía fe para ser salvado,",
+        "dijo con fuerte voz: —¡Ponte de pie! ¡Derecho! Él dio un salto y empezó a caminar.",
+        "La muchedumbre, al ver lo que Pablo había hecho, levantó la voz diciendo en licaónico: —Los dioses han bajado hasta nosotros en forma humana.",
+        "Y llamaban a Bernabé Zeus y Hermes a Pablo, porque éste era el que llevaba la palabra.",
+        "Entonces el sacerdote del templo de Zeus que estaba situado a la entrada de la ciudad, acompañado de la gente, trajo toros y guirnaldas ante las puertas y pretendía ofrecerles un sacrificio.",
+        "Cuando los apóstoles Bernabé y Pablo lo oyeron, se rasgaron la ropa y corrieron hacia la multitud",
+        "diciendo a voces: —¡Hombres!, ¿qué es lo que hacéis? También nosotros somos hombres mortales como vosotros y os predicamos que os convirtáis de estas cosas falsas al Dios vivo, el que hizo el cielo y la tierra y el mar y cuanto hay en ellos;",
+        "que en las generaciones pasadas permitió que cada nación siguiera su propio camino;",
+        "aunque Él no ha dejado de dar testimonio de Sí mismo, derramando bienes al enviaros desde el cielo lluvias y estaciones repletas de fruto, y llenándoos de alimento y de alegría el corazón.",
+        "Con estas palabras, a duras penas disuadieron a la multitud de ofrecerles sacrificios.",
+        "El que acepta mis mandamientos y los guarda, ése es el que me ama. Y el que me ama será amado por mi Padre, y yo le amaré y yo mismo me manifestaré a él.",
+        "Judas, no el Iscariote, le dijo: —Señor, ¿y qué ha pasado para que tú te vayas a manifestar a nosotros y no al mundo?",
+        "Jesús le respondió: —Si alguno me ama, guardará mi palabra, y mi Padre le amará, y vendremos a él y haremos morada en él.",
+        "El que no me ama, no guarda mis palabras; y la palabra que escucháis no es mía sino del Padre que me ha enviado.",
+        "Os he hablado de todo esto estando con vosotros;",
+        "pero el Paráclito, el Espíritu Santo que el Padre enviará en mi nombre, Él os enseñará todo y os recordará todas las cosas que os he dicho."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 115:1-4, 16",
+      "texto": [
+        "No a nosotros, Señor, no a nosotros, sino a tu Nombre da la gloria, por tu misericordia, por tu fidelidad.",
+        "¿Por qué han de decir las naciones: «Dónde está su Dios?",
+        "Nuestro Dios está en los cielos. Cuanto le agrada, lo hace.",
+        "Los ídolos de las naciones son plata y oro, hechura de manos humanas.",
+        "Benditos seáis del Señor, que hizo los cielos y la tierra.",
+        "Los cielos son los cielos del Señor; la tierra se la dio a los hijos de Adán."
+      ]
+    }
+  }
+}

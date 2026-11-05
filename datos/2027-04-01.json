@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-04-01",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 3:11-26",
+      "texto": [
+        "Como él sujetaba a Pedro y a Juan, todo el pueblo lleno de sorpresa corrió hacia ellos al pórtico llamado de Salomón.",
+        "Al ver aquello, Pedro dijo al pueblo: —Israelitas, ¿por qué os admiráis de esto, o por qué nos miráis como si hubiéramos hecho andar a este hombre por nuestro poder o piedad?",
+        "El Dios de Abrahán, el Dios de Isaac y el Dios de Jacob, el Dios de nuestros padres, ha glorificado a su Hijo Jesús, a quien vosotros entregasteis y negasteis en presencia de Pilato, cuando éste había decidido soltarle.",
+        "Vosotros negasteis al Santo y al Justo, y pedisteis que os indultaran a un homicida;",
+        "matasteis al autor de la vida, a quien Dios resucitó de entre los muertos, de lo cual nosotros somos testigos.",
+        "Y por la fe en su nombre, a éste que veis y conocéis, su nombre le restableció, y la fe que viene de él le dio la completa curación ante todos vosotros.",
+        "Ahora bien, hermanos, sé que obrasteis por ignorancia, lo mismo que vuestros jefes.",
+        "Pero Dios cumplió así lo que había anunciado de antemano por boca de todos los profetas: que su Cristo padecería.",
+        "Arrepentíos, por tanto, y convertíos, para que sean borrados vuestros pecados,",
+        "de modo que vengan del Señor los tiempos de la consolación, y envíe al Cristo que ha sido predestinado para vosotros, a Jesús,",
+        "a quien es preciso que el cielo lo retenga hasta el tiempo de la restauración de todas las cosas, de las que Dios habló por boca de sus santos profetas desde antiguo.",
+        "Moisés, en efecto, dijo: El Señor Dios vuestro os suscitará de entre vuestros hermanos un profeta como yo; le escucharéis en todo lo que os diga.",
+        "Y sucederá que todo el que no escuche a aquel profeta será exterminado del pueblo.",
+        "Todos los profetas desde Samuel y los que vinieron después, cuantos hablaron, anunciaron estos días.",
+        "Vosotros sois los hijos de los profetas y de la alianza que Dios estableció con vuestros padres cuando le dijo a Abrahán: En tu descendencia serán bendecidas todas las familias de la tierra.",
+        "Al suscitar a su Hijo, Dios lo ha enviado en primer lugar a vosotros, para bendeciros cuando cada uno se convierta de sus maldades."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 8:2, 9",
+      "texto": [
+        "¡Dios y Señor nuestro, qué admirable es tu Nombre en toda la tierra! Has exaltado tu majestad sobre los cielos.",
+        "¿qué es el hombre, para que de él te acuerdes, y el hijo de Adán, para que te cuides de él?",
+        "Lo has hecho poco menor que los ángeles, le has coronado de gloria y honor.",
+        "Le das el mando sobre las obras de tus manos. Todo lo has puesto bajo sus pies:",
+        "ovejas y bueyes, bestias del campo,",
+        "aves del cielo, peces del mar, cuanto cruza las rutas del piélago."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 24:35-48",
+      "texto": [
+        "Y ellos se pusieron a contar lo que había pasado en el camino, y cómo le habían reconocido en la fracción del pan.",
+        "Mientras ellos estaban hablando de estas cosas, Jesús se puso en medio y les dijo: —La paz esté con vosotros.",
+        "Se llenaron de espanto y de miedo, pensando que veían un espíritu.",
+        "Y les dijo: —¿Por qué os asustáis, y por qué admitís esos pensamientos en vuestros corazones?",
+        "Mirad mis manos y mis pies: soy yo mismo. Palpadme y comprended que un espíritu no tiene carne ni huesos como veis que yo tengo.",
+        "Y dicho esto, les mostró las manos y los pies.",
+        "Como no acababan de creer por la alegría y estaban llenos de admiración, les dijo: —¿Tenéis aquí algo que comer?",
+        "Entonces ellos le ofrecieron un trozo de pez asado.",
+        "Y lo tomó y se lo comió delante de ellos.",
+        "Y les dijo: —Esto es lo que os decía cuando aún estaba con vosotros: es necesario que se cumpla todo lo que está escrito en la Ley de Moisés, en los Profetas y en los Salmos acerca de mí.",
+        "Entonces les abrió el entendimiento para que comprendiesen las Escrituras.",
+        "Y les dijo: —Así está escrito: que el Cristo tiene que padecer y resucitar de entre los muertos al tercer día,",
+        "y que se predique en su nombre la conversión para perdón de los pecados a todas las gentes, comenzando desde Jerusalén.",
+        "Vosotros sois testigos de estas cosas."
+      ]
+    }
+  }
+}

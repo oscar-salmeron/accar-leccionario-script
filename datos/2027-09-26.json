@@ -1,0 +1,56 @@
+{
+  "fecha": "2027-09-26",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Números 11:25-29",
+      "texto": [
+        "Descendió el Señor en la nube y habló con él. Tomó del espíritu que había sobre Moisés y lo infundió sobre cada uno de los setenta ancianos. Y cuando el espíritu reposó sobre ellos se pusieron a profetizar. Pero no volvieron a hacerlo.",
+        "Dos hombres se habían quedado en el campamento, uno se llamaba Eldad y el otro Medad. El espíritu reposó sobre ellos, pues eran de los señalados aunque no habían ido a la tienda, y se pusieron a profetizar en el campamento.",
+        "Un muchacho corrió a referírselo a Moisés, y le dijo: —Eldad y Medad están profetizando en el campamento.",
+        "Josué, hijo de Nun, ayudante de Moisés desde su juventud, replicó: —Señor mío, Moisés, prohíbeselo.",
+        "Moisés le dijo: —¿Estás celoso por mí? ¡Ojalá todos los del pueblo del Señor fueran profetas porque el Señor les hubiera infundido su espíritu!"
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:8, 10, 14",
+      "texto": [
+        "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme, instruye al sencillo.",
+        "El temor del Señor es limpio, dura por siempre. Los juicios del Señor son veraces, son enteramente justos,",
+        "Aunque tu siervo se instruya en ellos, y encuentre provecho en observarlos,",
+        "las inadvertencias, ¿quién las puede discernir? De las faltas ocultas, absuélveme.",
+        "Preserva a tu siervo de las arrogancias, que no me dominen. Así podré ser íntegro y libre de grave delito."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Santiago 5:1-6",
+      "texto": [
+        "Atended ahora los ricos: llorad a gritos por las desgracias que os van a sobrevenir.",
+        "Vuestra riqueza está podrida, y vuestros vestidos consumidos por la polilla;",
+        "vuestro oro y vuestra plata están enmohecidos, y su moho servirá de testimonio contra vosotros y devorará vuestras carnes como si fuera fuego. Habéis atesorado para los últimos días.",
+        "Mirad: el salario que habéis defraudado a los obreros que segaron vuestros campos, está clamando; y los gritos de los segadores han llegado a los oídos del Señor de los ejércitos.",
+        "Habéis vivido lujosamente en la tierra, entregados a los placeres, y habéis cebado vuestros corazones para el día de la matanza.",
+        "Habéis condenado y habéis dado muerte al justo, sin que él os ofreciera resistencia."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 9:38-43, 45, 48",
+      "texto": [
+        "Juan le dijo: —Maestro, hemos visto a uno que expulsaba demonios en tu nombre y se lo hemos prohibido, porque no viene con nosotros.",
+        "Jesús contestó: —No se lo prohibáis, pues no hay nadie que haga un milagro en mi nombre y pueda a continuación hablar mal de mí:",
+        "el que no está contra nosotros, con nosotros está.",
+        "Y cualquiera que os dé de beber un vaso de agua en mi nombre, porque sois de Cristo, en verdad os digo que no perderá su recompensa.",
+        "Y al que escandalice a uno de estos pequeños que creen en mí, más le valdría que le ajustaran al cuello una piedra de molino, de las que mueve un asno, y fuera arrojado al mar.",
+        "Y si tu mano te escandaliza, córtatela. Más te vale entrar manco en la Vida que con las dos manos acabar en el infierno, en el fuego inextinguible.",
+        "Y si tu pie te escandaliza, córtatelo. Más te vale entrar cojo en la Vida que con los dos pies ser arrojado al infierno.",
+        "Y si tu ojo te escandaliza, sácatelo. Más te vale entrar tuerto en el Reino de Dios que con los dos ojos ser arrojado al infierno,",
+        "donde su gusano no muere y el fuego no se apaga."
+      ]
+    }
+  }
+}

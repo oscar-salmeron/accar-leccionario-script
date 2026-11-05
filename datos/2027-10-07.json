@@ -1,0 +1,51 @@
+{
+  "fecha": "2027-10-07",
+  "fiesta": "Nuestra Señora del Rosario (Memoria)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 1:12-14",
+      "texto": [
+        "Entonces regresaron a Jerusalén desde el monte llamado de los Olivos, que está cerca de Jerusalén a la distancia de un camino permitido el sábado.",
+        "Y cuando llegaron subieron al Cenáculo donde vivían Pedro, Juan, Santiago y Andrés, Felipe y Tomás, Bartolomé y Mateo, Santiago de Alfeo y Simón el Zelotes, y Judas el de Santiago.",
+        "Todos ellos perseveraban unánimes en la oración, junto con algunas mujeres y con María, la madre de Jesús, y sus hermanos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Lucas 1:46-55",
+      "texto": [
+        "María exclamó: —Engrandece mi alma al Señor,",
+        "y se alegra mi espíritu en Dios mi Salvador:",
+        "porque ha puesto los ojos en la humildad de su esclava; por eso desde ahora me llamarán bienaventurada todas las generaciones.",
+        "Porque ha hecho en mí cosas grandes el Todopoderoso, cuyo nombre es Santo;",
+        "su misericordia se derrama de generación en generación sobre los que le temen.",
+        "Manifestó el poder de su brazo, dispersó a los soberbios de corazón.",
+        "Derribó de su trono a los poderosos y ensalzó a los humildes.",
+        "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos.",
+        "Auxilió a Israel su siervo, recordando su misericordia,",
+        "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 1:26-38",
+      "texto": [
+        "En el sexto mes fue enviado el ángel Gabriel de parte de Dios a una ciudad de Galilea llamada Nazaret,",
+        "a una virgen desposada con un varón de nombre José, de la casa de David. El nombre de la virgen era María.",
+        "Y entró donde ella estaba y le dijo: —Dios te salve, llena de gracia, el Señor es contigo.",
+        "Ella se turbó al oír estas palabras, y consideraba qué podía significar este saludo.",
+        "Y el ángel le dijo: —No temas, María, porque has hallado gracia delante de Dios:",
+        "concebirás en tu seno y darás a luz un hijo, y le pondrás por nombre Jesús.",
+        "Será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre,",
+        "reinará eternamente sobre la casa de Jacob y su Reino no tendrá fin.",
+        "María le dijo al ángel: —¿De qué modo se hará esto, pues no conozco varón?",
+        "Respondió el ángel y le dijo: —El Espíritu Santo descenderá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por eso, el que nacerá Santo será llamado Hijo de Dios.",
+        "Y ahí tienes a Isabel, tu pariente, que en su ancianidad ha concebido también un hijo, y la que llamaban estéril está ya en el sexto mes,",
+        "porque para Dios no hay nada imposible.",
+        "Dijo entonces María: —He aquí la esclava del Señor, hágase en mí según tu palabra. Y el ángel se retiró de su presencia."
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "fecha": "2027-11-23",
+  "fiesta": "Beato Miguel Agustin Pro, Presbítero, Mártir (Memoria Libre)",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Daniel 2:31-45",
+      "texto": [
+        "Tú, oh rey, estabas mirando y apareció una gran estatua. Era una estatua enorme; su brillo extraordinario resplandecía ante ti, y su aspecto era terrible.",
+        "Aquella estatua tenía la cabeza de oro fino, el pecho y los brazos de plata, el vientre y los muslos de bronce,",
+        "las piernas de hierro, y los pies parte de hierro y parte de barro.",
+        "Seguías mirando hasta que una piedra se desprendió sin intervención de mano alguna, golpeó la estatua sobre los pies de hierro y de barro, y los hizo pedazos.",
+        "Entonces se hicieron pedazos a la vez el hierro, el barro, el bronce, la plata y el oro, y fueron como el tamo de una era en verano; el viento se los llevó y desaparecieron sin dejar rastro. Y la piedra que golpeó la estatua se convirtió en una montaña y llenó toda la tierra.",
+        "Éste es el sueño: su interpretación la vamos a exponer al rey.",
+        "Tú, majestad, eres el rey de reyes, a quien el Dios del cielo ha entregado el reino, el poder, la fuerza y la gloria,",
+        "y en cuyas manos ha puesto todo lugar donde habitan los hombres, las bestias del campo y las aves del cielo; tu dominio se extiende sobre todos ellos. Tú eres la cabeza de oro.",
+        "En tu lugar se establecerá después otro reino inferior a ti; y luego otro tercer reino de bronce, que dominará toda la tierra.",
+        "Habrá después un cuarto reino, fuerte como el hierro; y lo mismo que el hierro rompe y machaca todo, como hierro demoledor él romperá y triturará a todos ellos.",
+        "Los pies y los dedos que viste, parte de barro de alfarero y parte de hierro, será un reino dividido, pero que tendrá la fuerza del hierro, porque viste hierro mezclado con barro de arcilla.",
+        "Como los dedos de los pies, parte de hierro y parte de barro, parte del reino será fuerte y parte será débil.",
+        "Como viste el hierro mezclado con barro de arcilla, así se mezclarán ellos mediante descendencia humana, pero no llegarán a unirse el uno con el otro, lo mismo que el hierro no se fusiona con el barro.",
+        "En los días de esos reyes el Dios del cielo suscitará un reino que nunca será destruido, y ese reino no pasará a otro pueblo; destruirá y acabará con todos los demás reinos, y él permanecerá por siempre.",
+        "Tal como viste que de la montaña se desprendió una piedra sin intervención humana, y que destrozó el hierro, el bronce, el barro, la plata y el oro, así el Gran Dios da a conocer al rey lo que sucederá después de esto. El sueño es verdadero y la interpretación cierta."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Daniel 3:57-61",
+      "texto": [
+        "Obras todas del Señor, bendecid al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, cielos, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, ángeles del Señor, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, aguas del espacio, al Señor, alabadlo y ensalzadlo por los siglos.",
+        "Bendecid, ejércitos del Señor, al Señor, alabadlo y ensalzadlo por los siglos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 21:5-11",
+      "texto": [
+        "Como algunos le hablaban del Templo, que estaba adornado con bellas piedras y ofrendas votivas, dijo:",
+        "—Vendrán días en los que de esto que veis no quedará piedra sobre piedra que no sea destruida.",
+        "Le preguntaron: —Maestro, ¿cuándo ocurrirán estas cosas y cuál será la señal de que están a punto de suceder?",
+        "Él dijo: —Mirad, no os dejéis engañar; porque vendrán en mi nombre muchos diciendo: «Yo soy, y «el momento está próximo. No les sigáis.",
+        "Cuando oigáis hablar de guerras y de revoluciones, no os aterréis, porque es necesario que sucedan primero estas cosas. Pero el fin no es inmediato.",
+        "Entonces les decía: —Se alzará pueblo contra pueblo y reino contra reino;",
+        "habrá grandes terremotos y hambre y peste en diversos lugares; habrá cosas aterradoras y grandes señales en el cielo."
+      ]
+    }
+  }
+}

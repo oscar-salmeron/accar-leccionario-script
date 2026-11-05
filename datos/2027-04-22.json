@@ -1,0 +1,49 @@
+{
+  "fecha": "2027-04-22",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hechos 13:13-25",
+      "texto": [
+        "Pablo y sus compañeros navegaron desde Pafos hasta llegar a Perge de Panfilia; pero Juan se separó de ellos y volvió a Jerusalén.",
+        "Ellos siguieron desde Perge y llegaron a Antioquía de Pisidia. El sábado entraron en la sinagoga y tomaron asiento.",
+        "Después de la lectura de la Ley y los Profetas, los jefes de la sinagoga se dirigieron a ellos: —Hermanos, si tenéis alguna palabra de exhortación para el pueblo, decidla.",
+        "Pablo se levantó, pidió con la mano silencio y dijo: —Varones israelitas y los temerosos de Dios, escuchad:",
+        "el Dios de este pueblo de Israel eligió a nuestros padres, enalteció al pueblo durante su permanencia en el país de Egipto, y con brazo fuerte los sacó de allí.",
+        "Durante unos cuarenta años los cuidó en el desierto;",
+        "destruyó siete naciones en el país de Canaán y distribuyó su tierra entre ellos",
+        "a lo largo de unos cuatrocientos cincuenta años. Después de esto, les dio jueces hasta el profeta Samuel.",
+        "Pidieron entonces un rey y Dios les dio durante cuarenta años a Saúl, hijo de Cis, varón de la tribu de Benjamín.",
+        "Cuando lo depuso, les suscitó como rey a David, a quien acreditó diciendo: Encontré a David, hijo de Jesé, hombre según mi corazón, que hará en todo mi voluntad.",
+        "De su descendencia, Dios, según la promesa, hizo surgir para Israel un Salvador, Jesús.",
+        "Juan había predicado, ante la proximidad de su venida, un bautismo de penitencia a todo el pueblo de Israel.",
+        "Cuando estaba Juan para terminar su carrera decía: «¿Quién pensáis que soy? No soy yo, sino mirad que detrás de mí viene uno a quien no soy digno de desatar el calzado de los pies."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 89:2-3, 22, 25, 27",
+      "texto": [
+        "Las misericordias del Señor cantaré eternamente; de generación en generación anunciaré con mi boca tu fidelidad.",
+        "Pues he dicho: «La misericordia está edificada para siempre; tu fidelidad está firme en los cielos.",
+        "He hallado a David, mi siervo, lo he ungido con mi óleo santo.",
+        "Mi mano estará firme con él, mi brazo le hará fuerte.",
+        "Con él estarán mi fidelidad y misericordia, y en mi Nombre será exaltado su poder.",
+        "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 13:16-20",
+      "texto": [
+        "En verdad, en verdad os digo: no es el siervo más que su señor, ni el enviado más que quien le envió.",
+        "Si comprendéis esto y lo hacéis, seréis bienaventurados.",
+        "No lo digo por todos vosotros: yo sé a quiénes elegí; sino para que se cumpla la Escritura: El que come mi pan levantó contra mí su talón.",
+        "Os lo digo desde ahora, antes de que suceda, para que cuando ocurra creáis que yo soy.",
+        "En verdad, en verdad os digo: quien recibe al que yo envíe, a mí me recibe; y quien a mí me recibe, recibe al que me ha enviado."
+      ]
+    }
+  }
+}

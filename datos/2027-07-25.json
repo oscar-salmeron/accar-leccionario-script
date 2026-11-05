@@ -1,0 +1,61 @@
+{
+  "fecha": "2027-07-25",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Reyes 4:42-44",
+      "texto": [
+        "Vino un hombre de Baal–Salisá y trajo al hombre de Dios pan de las primicias, veinte panes de cebada y trigo nuevo en su alforja. Y dijo Eliseo: —Dadlo a la gente para que coma.",
+        "Pero su administrador replicó: —¿Qué voy a dar con esto a cien hombres? Le respondió: —Dáselo a la gente y que coman, porque así dice el Señor: «Comed, que sobrará.",
+        "Él les sirvió; comieron y sobró conforme a la palabra del Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 145:10-11, 18",
+      "texto": [
+        "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan.",
+        "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder.",
+        "(Áin) Los ojos de todos se dirigen a Ti esperando: Tú les das el alimento a su tiempo.",
+        "(Pe) Tú abres tu mano y sacias de buen grado a todo viviente.",
+        "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones.",
+        "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+      ]
+    },
+    "segunda": {
+      "titulo": "Segunda Lectura",
+      "referencia": "Efesios 4:1-6",
+      "texto": [
+        "Así pues, os ruego yo, el prisionero por el Señor, que viváis una vida digna de la vocación a la que habéis sido llamados,",
+        "con toda humildad y mansedumbre, con longanimidad, sobrellevándoos unos a otros con caridad,",
+        "continuamente dispuestos a conservar la unidad del Espíritu con el vínculo de la paz.",
+        "Un solo Cuerpo y un solo Espíritu, como habéis sido llamados a una sola esperanza: la de vuestra vocación.",
+        "Un solo Señor, una sola fe, un solo bautismo,",
+        "un solo Dios y Padre de todos: el que está sobre todos, por todos y en todos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Juan 6:1-15",
+      "texto": [
+        "Después de esto partió Jesús a la otra orilla del mar de Galilea, el de Tiberíades.",
+        "Le seguía una gran muchedumbre porque veían los signos que hacía con los enfermos.",
+        "Jesús subió al monte y se sentó allí con sus discípulos.",
+        "Pronto iba a ser la Pascua, la fiesta de los judíos.",
+        "Jesús, al levantar la mirada y ver que venía hacia él una gran muchedumbre, le dijo a Felipe: —¿Dónde vamos a comprar pan para que coman éstos?",
+        "—lo decía para probarle, pues él sabía lo que iba a hacer.",
+        "Felipe le respondió: —Doscientos denarios de pan no bastan ni para que cada uno coma un poco.",
+        "Uno de sus discípulos, Andrés, el hermano de Simón Pedro, le dijo:",
+        "—Aquí hay un muchacho que tiene cinco panes de cebada y dos peces; pero, ¿qué es esto para tantos?",
+        "Jesús dijo: —Mandad a la gente que se siente —había en aquel lugar hierba abundante. Y se sentaron un total de unos cinco mil hombres.",
+        "Jesús tomó los panes y, después de dar gracias, los repartió a los que estaban sentados, e igualmente les dio cuantos peces quisieron.",
+        "Cuando quedaron saciados, les dijo a sus discípulos: —Recoged los trozos que han sobrado para que no se pierda nada.",
+        "Y los recogieron, y llenaron doce cestos con los trozos de los cinco panes de cebada que sobraron a los que habían comido.",
+        "Aquellos hombres, viendo el signo que Jesús había hecho, decían: —Éste es verdaderamente el Profeta que viene al mundo.",
+        "Jesús, conociendo que estaban dispuestos a llevárselo para hacerle rey, se retiró otra vez al monte él solo."
+      ]
+    }
+  }
+}

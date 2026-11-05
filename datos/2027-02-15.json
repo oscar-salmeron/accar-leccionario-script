@@ -1,0 +1,55 @@
+{
+  "fecha": "2027-02-15",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Levítico 19:1-2, 18",
+      "texto": [
+        "Habló el Señor a Moisés y dijo:",
+        "—Habla a toda la comunidad de los hijos de Israel y diles: «Sed santos, porque Yo, el Señor, vuestro Dios, soy santo.",
+        "No robaréis, ni mentiréis, ni os engañaréis unos a otros.",
+        "No juréis en falso por mi nombre, pues profanarías el nombre de tu Dios. Yo, el Señor.",
+        "No explotarás a tu prójimo ni le despojarás. No retendrás el salario del jornalero hasta la mañana siguiente.",
+        "No maldecirás al sordo ni pondrás tropiezos ante el ciego. Has de temer a tu Dios. Yo, el Señor.",
+        "No juzgarás injustamente, ni por favorecer al pobre ni por honrar al poderoso. Juzgarás con justicia a tu prójimo.",
+        "No andarás difamando a los de tu pueblo; no darás falso testimonio en causa capital contra tu prójimo. Yo, el Señor.",
+        "No guardarás en tu corazón rencor contra tu hermano, sino que corregirás a tu prójimo para no hacerte culpable por su causa.",
+        "No te vengarás ni guardarás rencor a los hijos de tu pueblo. Amarás a tu prójimo como a ti mismo. Yo, el Señor."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 19:8-10, 15",
+      "texto": [
+        "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme, instruye al sencillo.",
+        "Los preceptos del Señor son rectos, alegran el corazón. Los mandamientos del Señor son puros, dan luz a los ojos.",
+        "El temor del Señor es limpio, dura por siempre. Los juicios del Señor son veraces, son enteramente justos,",
+        "Sean de tu agrado las palabras de mi boca y las meditaciones de mi corazón en tu presencia. ¡Señor, Roca mía y Redentor mío!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 25:31-46",
+      "texto": [
+        "Cuando venga el Hijo del Hombre en su gloria y acompañado de todos los ángeles, se sentará entonces en el trono de su gloria,",
+        "y serán reunidas ante él todas las gentes; y separará a los unos de los otros, como el pastor separa las ovejas de los cabritos,",
+        "y pondrá las ovejas a su derecha, los cabritos en cambio a su izquierda.",
+        "Entonces dirá el Rey a los que estén a su derecha: «Venid, benditos de mi Padre, tomad posesión del Reino preparado para vosotros desde la creación del mundo:",
+        "porque tuve hambre y me disteis de comer; tuve sed y me disteis de beber; era peregrino y me acogisteis;",
+        "estaba desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme.",
+        "Entonces le responderán los justos: «Señor, ¿cuándo te vimos hambriento y te dimos de comer, o sediento y te dimos de beber?;",
+        "¿cuándo te vimos peregrino y te acogimos, o desnudo y te vestimos?,",
+        "o ¿cuándo te vimos enfermo o en la cárcel y vinimos a verte?",
+        "Y el Rey, en respuesta, les dirá: «En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis.",
+        "Entonces dirá a los que estén a la izquierda: «Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles:",
+        "porque tuve hambre y no me disteis de comer; tuve sed y no me disteis de beber;",
+        "era peregrino y no me acogisteis; estaba desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis.",
+        "Entonces le replicarán también ellos: «Señor, ¿cuándo te vimos hambriento o sediento, peregrino o desnudo, enfermo o en la cárcel y no te asistimos?",
+        "Entonces les responderá: «En verdad os digo que cuanto dejasteis de hacer con uno de estos más pequeños, también dejasteis de hacerlo conmigo.",
+        "Y éstos irán al suplicio eterno; los justos, en cambio, a la vida eterna."
+      ]
+    }
+  }
+}

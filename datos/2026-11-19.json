@@ -1,0 +1,46 @@
+{
+  "fecha": "2026-11-19",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Apocalipsis 5:1-10",
+      "texto": [
+        "También vi en la mano derecha del que estaba sentado en el trono un libro escrito por dentro y por fuera, sellado con siete sellos.",
+        "Y vi a un ángel poderoso proclamar con gran voz: —¿Quién es digno de abrir el libro y romper sus sellos?",
+        "Y nadie, ni en el cielo ni en la tierra, ni debajo de la tierra, podía abrir el libro ni mirarlo.",
+        "Yo lloraba mucho, porque no se encontró a nadie digno de abrir el libro ni de mirarlo.",
+        "Pero uno de los ancianos me dice: —No llores, porque el león de la tribu de Judá, la raíz de David, ha vencido y puede abrir el libro y sus siete sellos.",
+        "Entonces vi en medio del trono y de los cuatro seres vivos y en medio de los ancianos un Cordero erguido, como sacrificado, con siete cuernos y siete ojos, que son los siete espíritus de Dios enviados a toda la tierra.",
+        "Se acercó y tomó el libro de la mano derecha del que estaba sentado en el trono.",
+        "Cuando recibió el libro, los cuatro seres vivos y los veinticuatro ancianos se postraron ante el Cordero, con una cítara cada uno y con copas de oro llenas de perfumes, que son las oraciones de los santos.",
+        "Cantan un cántico nuevo: «Eres digno de recibir el libro y de abrir sus sellos, porque fuiste inmolado y con tu sangre compraste para Dios gente de toda tribu, lengua, pueblo y nación.",
+        "Y los hiciste un reino de sacerdotes para nuestro Dios, y reinarán sobre la tierra."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 149:1-6, 9",
+      "texto": [
+        "¡Aleluya! Cantad al Señor un cántico nuevo, esté su alabanza en la asamblea de los fieles.",
+        "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión.",
+        "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras.",
+        "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación.",
+        "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,",
+        "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos.",
+        "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles. ¡Aleluya!"
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Lucas 19:41-44",
+      "texto": [
+        "Y cuando se acercó, al ver la ciudad, lloró por ella,",
+        "diciendo: —¡Si conocieras también tú en este día lo que te lleva a la paz! Sin embargo, ahora está oculto a tus ojos.",
+        "Porque vendrán días sobre ti en que no sólo te rodearán tus enemigos con vallas, y te cercarán y te estrecharán por todas partes,",
+        "sino que te aplastarán contra el suelo a ti y a tus hijos que están dentro de ti, y no dejarán en ti piedra sobre piedra, porque no has conocido el tiempo de la visita que se te ha hecho."
+      ]
+    }
+  }
+}

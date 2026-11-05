@@ -1,0 +1,44 @@
+{
+  "fecha": "2027-06-14",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Corintios 6:1-10",
+      "texto": [
+        "Como colaboradores suyos os exhortamos también a que no recibáis en vano la gracia de Dios.",
+        "Porque dice: En el tiempo favorable te escuché. Y en el día de la salvación te ayudé. Mirad, ahora es el tiempo favorable, ahora es el día de la salvación.",
+        "A nadie damos motivo alguno de escándalo, para que no sea desacreditado nuestro ministerio,",
+        "sino que en todo nos acreditamos como ministros de Dios: con mucha paciencia, en tribulaciones, necesidades y angustias;",
+        "en azotes, prisiones y tumultos; en fatigas, desvelos y ayunos;",
+        "con pureza, con ciencia, con longanimidad, con bondad, en el Espíritu Santo, con caridad sincera,",
+        "con la palabra de la verdad, con el poder de Dios; mediante las armas de la justicia, en la derecha y en la izquierda;",
+        "en honra y deshonra, en calumnia y en buena fama; como impostores, siendo veraces;",
+        "como desconocidos, siendo bien conocidos; como moribundos, y ya veis que vivimos; como castigados, pero no muertos;",
+        "como tristes, pero siempre alegres; como pobres, pero enriqueciendo a muchos; como quienes nada tienen, aunque poseyéndolo todo."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 98:1-4",
+      "texto": [
+        "Salmo. Cantad al Señor un cántico nuevo porque ha hecho maravillas. Su diestra le ha salvado, su santo brazo.",
+        "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones.",
+        "Se acordó de su misericordia y fidelidad con la casa de Israel. Todos los confines de la tierra han visto la salvación de nuestro Dios.",
+        "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Mateo 5:38-42",
+      "texto": [
+        "Habéis oído que se dijo: Ojo por ojo y diente por diente.",
+        "Pero yo os digo: no repliquéis al malvado; por el contrario, si alguien te golpea en la mejilla derecha, preséntale también la otra.",
+        "Al que quiera entrar en pleito contigo para quitarte la túnica, déjale también el manto.",
+        "A quien te fuerce a andar una milla, vete con él dos.",
+        "A quien te pida, dale; y no rehúyas al que quiera de ti algo prestado."
+      ]
+    }
+  }
+}

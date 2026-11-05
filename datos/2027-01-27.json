@@ -1,0 +1,57 @@
+{
+  "fecha": "2027-01-27",
+  "fiesta": "",
+  "color": "VERDE",
+  "lecturas": {
+    "primera": {
+      "titulo": "Primera Lectura",
+      "referencia": "Hebreos 10:11-18",
+      "texto": [
+        "Mientras todo sacerdote se mantiene en pie día tras día para celebrar el culto y ofrecer muchas veces los mismos sacrificios, que nunca pueden borrar los pecados,",
+        "él, en cambio, ofreció un solo sacrificio por los pecados y se sentó para siempre a la diestra de Dios,",
+        "y sólo le queda esperar que sus enemigos le sean puestos como estrado de sus pies;",
+        "porque con una sola oblación hizo perfectos para siempre a los que son santificados.",
+        "Nos lo atestigua también el Espíritu Santo, porque después de haber dicho:",
+        "Ésta es la alianza que estableceré con ellos después de aquellos días, dice el Señor. Pondré mis leyes en sus corazones y las grabaré en sus inteligencias,",
+        "añade: Y de sus pecados y de sus iniquidades ya no me acordaré.",
+        "Ahora bien, donde hay remisión de pecados ya no hay ofrenda por ellos."
+      ]
+    },
+    "salmo": {
+      "titulo": "Salmo",
+      "referencia": "Salmo 110:1-4",
+      "texto": [
+        "De David. Salmo. Oráculo del Señor a mi señor: «Siéntate a mi derecha hasta que ponga a tus enemigos como estrado de tus pies.",
+        "El Señor extenderá desde Sión el poder de tu cetro: «Domina en medio de tus enemigos.",
+        "Para ti es el principado el día de tu poder, entre esplendores sagrados. Desde el seno, antes de la aurora, como el rocío, te he engendrado.",
+        "El Señor lo ha jurado y no se arrepiente: «Tú eres sacerdote para siempre según el orden de Melquisedec."
+      ]
+    },
+    "evangelio": {
+      "titulo": "Evangelio",
+      "referencia": "Marcos 4:1-20",
+      "texto": [
+        "De nuevo comenzó a enseñar al lado del mar. Y se reunió en torno a él una muchedumbre tan grande, que tuvo que subir a sentarse en una barca, en el mar, mientras toda la muchedumbre permanecía en tierra, en la orilla.",
+        "Les explicaba con parábolas muchas cosas, y les decía en su enseñanza:",
+        "—Escuchad: salió el sembrador a sembrar.",
+        "Y ocurrió que, al echar la semilla, parte cayó junto al camino, y vinieron los pájaros y se la comieron.",
+        "Parte cayó en terreno pedregoso, donde no había mucha tierra, y brotó pronto, por no ser hondo el suelo;",
+        "pero cuando salió el sol se agostó, y se secó porque no tenía raíz.",
+        "Otra parte cayó entre espinos; crecieron los espinos y la ahogaron, y no dio fruto.",
+        "Y otra cayó en tierra buena, y comenzó a dar fruto: crecía y se desarrollaba; y producía el treinta por uno, el sesenta por uno y el ciento por uno.",
+        "Y decía: —El que tenga oídos para oír, que oiga.",
+        "Y cuando se quedó solo, los que le acompañaban junto con los doce le preguntaron por el significado de las parábolas.",
+        "Y les decía: —A vosotros se os ha concedido el misterio del Reino de Dios; en cambio, a los de fuera todo les llega con parábolas,",
+        "de modo que los que miran miren y no vean, y los que oyen oigan pero no entiendan, no sea que se conviertan y se les perdone.",
+        "Y les dice: —¿No entendéis esta parábola? ¿Y cómo podréis entender las demás parábolas?",
+        "El que siembra, siembra la palabra.",
+        "Los que están junto al camino donde se siembra la palabra son aquellos que, en cuanto la oyen, al instante viene Satanás y se lleva la palabra sembrada en ellos.",
+        "Los que reciben la semilla sobre terreno pedregoso son aquellos que, cuando oyen la palabra, al momento la reciben con alegría,",
+        "pero no tienen en sí raíz, sino que son inconstantes; y después, al venir una tribulación o persecución por causa de la palabra, enseguida tropiezan y caen.",
+        "Hay otros que reciben la semilla entre espinos: son aquellos que han oído la palabra,",
+        "pero las preocupaciones de este mundo, la seducción de las riquezas y los apetitos de las demás cosas les asedian, ahogan la palabra y queda estéril.",
+        "Y los que han recibido la semilla sobre la tierra buena son aquellos que oyen la palabra, la reciben y dan fruto: el treinta por uno, el sesenta por uno y el ciento por uno."
+      ]
+    }
+  }
+}
