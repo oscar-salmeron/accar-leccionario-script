@@ -19,7 +19,7 @@ const formatearFecha = (fecha) => {
 
 // Limpieza para extraer referencias y textos puros
 const limpiarTexto = (texto) => {
-    const basura = ["ACI Prensa", "ChurchPOP", "EnglishEspaña", "PolskaMagyar", "Svenska", "Deutsch", "@", "VerEscuchar", "BibliaTienda", "© EWTN", "Madre Angelica", "Sitios de noticias", "Más información", "Catolicismo", "Comparte estas lecturas diarias"];
+    const basura = ["ACI Prensa", "ChurchPOP", "EnglishEspaña", "PolskaMagyar", "Svenska", "Deutsch", "Українська", "@", "VerEscuchar", "BibliaTienda", "© EWTN", "Madre Angelica", "Sitios de noticias", "Más información", "Catolicismo", "Comparte estas lecturas diarias"];
     for (const b of basura) {
         if (texto.toLowerCase().includes(b.toLowerCase())) return null; 
     }
@@ -40,7 +40,7 @@ async function extraerLecturasDelDia(fechaStr) {
     try {
         console.log(`Analizando lecturas del: ${fechaStr}...`);
         const response = await axios.get(url, {
-            headers: { 'User-Agent': 'Mozilla/5.0' }
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
         });
         
         const $ = cheerio.load(response.data);
@@ -51,13 +51,13 @@ async function extraerLecturasDelDia(fechaStr) {
 
         // 1. Extraer TODAS las líneas con contenido útil
         $('*').each((i, el) => {
-            if ($(el).children().length === 0) { // Solo nodos de texto hoja
+            if ($(el).children().length === 0) { 
                 let txt = $(el).text().trim().replace(/\s+/g, ' ');
                 if (txt.length > 2) cuerpoTexto.push(txt);
             }
         });
 
-        // 2. Extraer Fiesta y Color (Busca en las primeras 30 líneas)
+        // 2. Extraer Fiesta y Color 
         for (let i = 0; i < Math.min(30, cuerpoTexto.length); i++) {
             let linea = cuerpoTexto[i];
             let upper = linea.toUpperCase();
@@ -72,52 +72,61 @@ async function extraerLecturasDelDia(fechaStr) {
             }
         }
 
-        // 3. Variables de análisis
         let tipoActual = null;
         let lecturas = {};
         
-        // 4. Analizar línea por línea (El motor de lectura)
+        // 3. Analizar línea por línea (El motor de lectura)
         for (let i = 0; i < cuerpoTexto.length; i++) {
             let linea = cuerpoTexto[i];
             let upper = linea.toUpperCase();
 
-            // Evitar basura al inicio o final
             const textoLimpio = limpiarTexto(linea);
             if (!textoLimpio) continue;
 
-            // Detección de Sección
-            if (upper.includes("PRIMERA LECTURA") || upper === "LECTURA I") { 
+            // Detectar los títulos aunque EWTN les cambie el nombre
+            let isSectionHeader = false;
+            if (/PRIMERA LECTURA|LECTURA I$|LECTURA 1|1RA LECTURA|1A LECTURA/.test(upper)) { 
                 tipoActual = "primera"; 
-                lecturas[tipoActual] = { titulo: "Primera Lectura", referencia: "", texto: [] };
-                continue; 
+                if (!lecturas[tipoActual]) lecturas[tipoActual] = { titulo: "Primera Lectura", referencia: "", texto: [] };
+                isSectionHeader = true; 
             }
-            if (upper.includes("SALMO RESPONSORIAL") || (upper.includes("SALMO") && upper.length < 25)) { 
+            else if (/SALMO RESPONSORIAL|^SALMO$/.test(upper)) { 
                 tipoActual = "salmo"; 
-                lecturas[tipoActual] = { titulo: "Salmo", referencia: "", texto: [] };
-                continue; 
+                if (!lecturas[tipoActual]) lecturas[tipoActual] = { titulo: "Salmo", referencia: "", texto: [] };
+                isSectionHeader = true; 
             }
-            if (upper.includes("SEGUNDA LECTURA") || upper === "LECTURA II") { 
+            else if (/SEGUNDA LECTURA|LECTURA II$|LECTURA 2|2DA LECTURA|2A LECTURA/.test(upper)) { 
                 tipoActual = "segunda"; 
-                lecturas[tipoActual] = { titulo: "Segunda Lectura", referencia: "", texto: [] };
-                continue; 
+                if (!lecturas[tipoActual]) lecturas[tipoActual] = { titulo: "Segunda Lectura", referencia: "", texto: [] };
+                isSectionHeader = true; 
             }
-            if (upper.includes("EVANGELIO") || upper === "SANTO EVANGELIO") { 
+            else if (/EVANGELIO/.test(upper) && !upper.includes("ALELUYA")) { 
                 tipoActual = "evangelio"; 
-                lecturas[tipoActual] = { titulo: "Evangelio", referencia: "", texto: [] };
-                continue; 
+                if (!lecturas[tipoActual]) lecturas[tipoActual] = { titulo: "Evangelio", referencia: "", texto: [] };
+                isSectionHeader = true; 
+            }
+
+            if (isSectionHeader) continue;
+
+            // Escudo: Si EWTN omitió por completo el título "Primera Lectura" y empezó con la cita bíblica
+            if (!tipoActual && /^(\d\s)?[A-ZÁÉÍÓÚÑa-záéíóúñ\s]+\s\d+\s*[:,]\d+/.test(textoLimpio)) {
+                tipoActual = "primera";
+                lecturas[tipoActual] = { titulo: "Primera Lectura", referencia: textoLimpio.replace(/:\s*$/, "").replace(/, -/g, ", "), texto: [] };
+                continue;
             }
 
             if (tipoActual) {
-                // Detección de Referencia Bíblica (Busca un formato como "Mateo 25:1-13" o "Romanos 8, 1-4")
-                if (!lecturas[tipoActual].referencia && textoLimpio.length < 100 && (textoLimpio.match(/[a-zA-ZáéíóúÁÉÍÓÚ]+\s\d+[:,]\d+/) || textoLimpio.toLowerCase().includes("según") || textoLimpio.includes("Corintios") || textoLimpio.includes("Tesalonicenses") || textoLimpio.includes("Salmo "))) {
+                // Atrapa la referencia bíblica
+                const regexReferencia = /^(\d\s)?[A-ZÁÉÍÓÚÑa-záéíóúñ\s]+\s\d+\s*[:,]\d+/; 
+                const regexSalmo = /^(\d\s)?[A-ZÁÉÍÓÚÑa-záéíóúñ\s]+\s\d+\s*$/; 
+                
+                if (!lecturas[tipoActual].referencia && textoLimpio.length < 100 && (regexReferencia.test(textoLimpio) || regexSalmo.test(textoLimpio) || textoLimpio.toLowerCase().includes("según "))) {
                     lecturas[tipoActual].referencia = textoLimpio.replace(/:\s*$/, "").replace(/, -/g, ", ");
                     continue;
                 }
 
-                // Detección de Texto (Si no es una sección ni referencia, es contenido)
-                // Ignorar líneas muy cortas (como "Aleluya" solitarios) a menos que sea el Salmo
+                // Extrae los párrafos sin repetir
                 if (textoLimpio.length > 15 || (tipoActual === "salmo" && textoLimpio.length > 5)) {
-                    // Evitar repetir párrafos adyacentes (error común en el scraping de EWTN)
                     let currentArray = lecturas[tipoActual].texto;
                     if (currentArray.length === 0 || currentArray[currentArray.length - 1] !== textoLimpio) {
                         currentArray.push(textoLimpio);
@@ -146,7 +155,7 @@ async function iniciarRobot() {
     let fechaActual = new Date('2026-11-04T12:00:00Z'); 
     const fechaFin = new Date('2026-11-10T12:00:00Z');  
 
-    console.log("🚀 Iniciando extracción ROBUSTA (4 al 10 de noviembre)...");
+    console.log("🚀 Iniciando extracción ULTRA-ROBUSTA (4 al 10 de noviembre)...");
 
     while (fechaActual <= fechaFin) {
         const fechaStr = formatearFecha(fechaActual);
