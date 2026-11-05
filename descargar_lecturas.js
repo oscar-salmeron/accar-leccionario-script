@@ -62,10 +62,14 @@ async function extraerLecturasDelDia(fechaStr) {
             let linea = cuerpoTexto[i];
             let upper = linea.toUpperCase();
             
-            if (upper.includes("COLOR: MORADO") || upper.includes("COLOR MORADO")) datosDia.color = "MORADO";
-            else if (upper.includes("COLOR: ROJO") || upper.includes("COLOR ROJO")) datosDia.color = "ROJO";
-            else if (upper.includes("COLOR: BLANCO") || upper.includes("COLOR BLANCO")) datosDia.color = "BLANCO";
-            else if (upper.includes("COLOR: ROSADO") || upper.includes("COLOR ROSADO")) datosDia.color = "ROSADO";
+            // Detección quirúrgica: atrapa el color incluso si la palabra está sola (ej. "Blanco")
+            if (linea.length < 40) {
+                if (/\bMORADO\b/.test(upper)) datosDia.color = "MORADO";
+                else if (/\bROJO\b/.test(upper)) datosDia.color = "ROJO";
+                else if (/\bBLANCO\b/.test(upper)) datosDia.color = "BLANCO";
+                else if (/\bROSADO\b/.test(upper)) datosDia.color = "ROSADO";
+                else if (/\bVERDE\b/.test(upper)) datosDia.color = "VERDE";
+            }
 
             if (!datosDia.fiesta && (upper.includes("FIESTA") || upper.includes("MEMORIA") || upper.includes("SOLEMNIDAD"))) {
                  datosDia.fiesta = linea.replace(/Comparte estas lecturas diarias/gi, '').trim();
@@ -152,10 +156,10 @@ async function extraerLecturasDelDia(fechaStr) {
 }
 
 async function iniciarRobot() {
-    let fechaActual = new Date('2026-11-04T12:00:00Z'); 
-    const fechaFin = new Date('2026-11-10T12:00:00Z');  
+    let fechaActual = new Date('2026-11-02T12:00:00Z'); 
+    const fechaFin = new Date('2027-11-27T12:00:00Z');  // HASTA EL FIN DEL AÑO LITÚRGICO
 
-    console.log("🚀 Iniciando extracción ULTRA-ROBUSTA (4 al 10 de noviembre)...");
+    console.log("🚀 Iniciando extracción ULTRA-ROBUSTA DEL AÑO COMPLETO...");
 
     while (fechaActual <= fechaFin) {
         const fechaStr = formatearFecha(fechaActual);
@@ -163,7 +167,7 @@ async function iniciarRobot() {
         await sleep(1500); 
         fechaActual.setDate(fechaActual.getDate() + 1); 
     }
-    console.log("🎉 Extracción finalizada.");
+    console.log("🎉 ¡EXTRACCIÓN DEL AÑO COMPLETO FINALIZADA CON ÉXITO!");
 }
 
 iniciarRobot();
